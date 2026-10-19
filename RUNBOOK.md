@@ -19,6 +19,10 @@ Ver las últimas ejecuciones: `gh run list --limit 20` · ver el error de una: `
    en `web/src/main.ts` (ver DECISIONS.md › Mapa base).
 5. GitHub Pages desactivado: `gh api repos/{owner}/{repo}/pages` debe responder con `"build_type": "workflow"`.
 
+## El sitio muestra la versión anterior después de publicar
+GitHub Pages deja la página en caché ~10 minutos. Esperar o abrir el enlace con `?v=2` al final. Los datos de
+noticias se piden con revalidación (`cache: "no-cache"`), así que se actualizan solos.
+
 ## El ETL de una fuente falló
 1. Leer el mensaje: los ETL fallan a propósito con `EtlError` cuando la fuente cambió
    ("la estructura cambió, faltan columnas …", "Llegaron solo N distritos …").
