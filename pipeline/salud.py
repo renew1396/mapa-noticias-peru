@@ -52,6 +52,25 @@ def revisar() -> tuple[list[str], list[str]]:
         elif not m.get("ok"):
             avisos.append(f"{m['nombre']}: falló en la última ejecución ({m.get('error')}).")
 
+    # Capas: concesiones (archivo de la release) publicado y capas que se actualizan solas no muy viejas.
+    try:
+        r = requests.head(SITIO + "data/layers/concesiones.pmtiles", timeout=30, allow_redirects=True)
+        if r.status_code != 200:
+            problemas.append("La capa de concesiones mineras no está publicada (data/layers/concesiones.pmtiles → "
+                             f"HTTP {r.status_code}). Ver RUNBOOK.md › 'Falta la capa de concesiones'.")
+    except requests.RequestException as e:
+        problemas.append(f"No se pudo comprobar la capa de concesiones ({type(e).__name__}).")
+    from etl.common import LAYERS_DIR
+    for capa, dias in (("conflictos", 70), ("concesiones", 21), ("salud", 120)):
+        try:
+            meta = json.loads((LAYERS_DIR / f"{capa}.meta.json").read_text(encoding="utf-8"))
+            carga = _fecha(meta["fecha_carga"])
+            if ahora - carga > timedelta(days=dias):
+                avisos.append(f"La capa {capa} no se actualiza desde {meta['fecha_carga'][:10]} "
+                              f"(ver RUNBOOK.md › 'Actualizar capas').")
+        except (FileNotFoundError, KeyError, ValueError):
+            avisos.append(f"No encuentro la meta de la capa {capa}.")
+
     for ruta in ("", "data/news/index.json", "data/status/estado.json"):
         try:
             r = requests.get(SITIO + ruta, timeout=30)

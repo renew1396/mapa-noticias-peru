@@ -1,18 +1,19 @@
-# Actualiza las capas de datos públicos. Corre el día 3 de cada mes y a mano.
-# Si una fuente cambió de estructura, el script falla con un mensaje claro y
-# NO se guarda nada (ver RUNBOOK.md › "El ETL de una fuente falló").
+# Actualiza las capas de datos públicos. Corre los lunes (06:17 hora de Lima) y a mano.
+# Si una fuente cambió de estructura, su script falla con un mensaje claro y NO se guarda nada de esa fuente
+# (ver RUNBOOK.md › "El ETL de una fuente falló"). Las demás fuentes se actualizan igual.
+# La capa de salud (RENIPRESS) NO está aquí: el portal bloquea descargas automáticas (ver RUNBOOK.md).
 name: Actualizar capas (ETL)
 
 on:
   schedule:
-    - cron: "17 11 3 * *" # día 3 de cada mes, 06:17 hora de Lima
+    - cron: "17 11 * * 1"
   workflow_dispatch:
     inputs:
       fuente:
         description: "Fuente a actualizar"
         type: choice
         default: todas
-        options: [todas, limites, ccpp]
+        options: [todas, limites, ccpp, pobreza, conflictos, concesiones]
 
 permissions:
   contents: write
@@ -23,9 +24,13 @@ concurrency:
 
 jobs:
   etl:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # fijo: trae tippecanoe en sus paquetes
+    timeout-minutes: 45
     outputs:
       cambio: ${{ steps.guardar.outputs.cambio }}
+    env:
+      FUENTE: ${{ inputs.fuente || 'todas' }}
+      GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7
@@ -33,33 +38,60 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+
       - name: Límites administrativos
-        if: inputs.fuente == 'todas' || inputs.fuente == 'limites' || github.event_name == 'schedule'
+        if: env.FUENTE == 'limites' || (env.FUENTE == 'todas' && github.event_name != 'schedule')
         run: python -m etl.limites.run
       - name: Centros poblados (gazetteer)
-        if: inputs.fuente == 'todas' || inputs.fuente == 'ccpp' || github.event_name == 'schedule'
+        if: env.FUENTE == 'ccpp' || (env.FUENTE == 'todas' && github.event_name != 'schedule')
         run: python -m etl.ccpp.run
+      - name: Pobreza INEI 2018
+        if: env.FUENTE == 'pobreza' || (env.FUENTE == 'todas' && github.event_name != 'schedule')
+        run: python -m etl.pobreza.run
+      - name: Conflictos sociales (Defensoría)
+        id: conflictos
+        if: env.FUENTE == 'conflictos' || env.FUENTE == 'todas'
+        continue-on-error: true
+        run: python -m etl.conflictos.run
+      - name: Concesiones mineras (INGEMMET)
+        id: concesiones
+        if: env.FUENTE == 'concesiones' || env.FUENTE == 'todas'
+        continue-on-error: true
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq tippecanoe
+          python -m etl.concesiones.run
+          gh release view capas >/dev/null 2>&1 || gh release create capas --title "Capas pesadas del mapa" \
+            --notes "Archivos grandes que se publican con el sitio (no van en git). Los actualiza la tarea 'Actualizar capas (ETL)'."
+          gh release upload capas data/layers/concesiones.pmtiles --clobber
+
       - name: Validar antes de guardar
         run: python -m pytest
+
       - name: Guardar cambios
         id: guardar
         run: |
           git config user.name "robot-mapa"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          git add -A data
           if git diff --cached --quiet; then
             echo "Sin cambios en las capas."
             echo "cambio=no" >> "$GITHUB_OUTPUT"
           else
-            git commit -m "Datos: actualizar capas (${{ inputs.fuente || 'todas' }})"
-            git pull --rebase
-            git push
+            git commit -q -m "Datos: actualizar capas (${FUENTE})"
+            git pull --rebase -q
+            git push -q
             echo "cambio=si" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: Avisar si alguna fuente falló
+        if: steps.conflictos.outcome == 'failure' || steps.concesiones.outcome == 'failure'
+        run: |
+          echo "::error::Falló alguna fuente (conflictos: ${{ steps.conflictos.outcome }}, concesiones: ${{ steps.concesiones.outcome }}). Ver RUNBOOK.md."
+          exit 1
+
   publicar:
     needs: etl
-    if: needs.etl.outputs.cambio == 'si'
+    if: always() && needs.etl.outputs.cambio == 'si'
     permissions:
       contents: read
       pages: write

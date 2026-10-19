@@ -109,3 +109,57 @@ button, select { font: inherit; color: inherit; }
   background: #fff4e5; color: #7a3b00; border: 1px solid #f3c27b; border-radius: 10px;
   padding: 12px 14px; font-size: 14px;
 }
+
+/* ---------- Fase 3: capas, leyenda, dibujo, indicadores ---------- */
+.titulo-panel { font-size: 13px; color: var(--tinta-suave); font-weight: 600; margin: 4px 0 -4px; }
+.capas { display: grid; gap: 2px; }
+.interruptor { display: flex !important; align-items: center; gap: 10px; min-height: 40px; color: var(--tinta) !important; font-size: 14px !important; cursor: pointer; }
+.interruptor input { width: 20px; height: 20px; accent-color: var(--azul); flex: none; }
+.interruptor small { color: var(--tinta-suave); font-size: 11px; margin-left: 4px; }
+.sim { display: inline-block; width: 14px; height: 14px; border-radius: 3px; margin-right: 6px; vertical-align: -2px; }
+.sim.pobreza { background: linear-gradient(90deg, #fff7bc, #fe9929, #993404); }
+.sim.conflicto { background: #fde68a; border: 3px solid #111827; border-radius: 50%; width: 14px; height: 14px; box-sizing: border-box; }
+.sim.concesion { background: #7c3aed; opacity: 0.55; }
+.sim.salud { background: #be185d; border-radius: 50%; }
+.sim.calor { background: radial-gradient(circle, #dc2626, #fb923c 45%, #fde68a 75%, transparent); border-radius: 50%; }
+.sim.noticias { background: #1f2a37; border-radius: 50%; }
+
+.leyenda-mapa {
+  position: absolute; top: 10px; left: 10px; z-index: 2; max-width: min(280px, calc(100% - 70px));
+  background: rgba(255, 255, 255, 0.95); border-radius: 10px; box-shadow: 0 2px 10px rgba(31, 42, 55, 0.2);
+  padding: 6px 10px; font-size: 12px; max-height: 45vh; overflow: auto;
+}
+.leyenda-mapa summary { cursor: pointer; font-weight: 600; min-height: 32px; display: flex; align-items: center; }
+.cuerpo-leyenda { display: grid; gap: 8px; padding-bottom: 4px; }
+.ley strong { font-size: 12px; }
+.ley .fuente { display: block; margin-top: 2px; }
+.escala { display: flex; flex-wrap: wrap; gap: 2px 8px; margin-top: 4px; }
+.escala span { display: inline-flex; align-items: center; gap: 4px; }
+.escala i { width: 12px; height: 12px; border-radius: 2px; display: inline-block; border: 1px solid rgba(0, 0, 0, 0.12); }
+
+.acciones-mapa { position: absolute; left: 10px; bottom: 52px; z-index: 2; }
+.boton-mapa {
+  min-height: 44px; padding: 0 14px; border-radius: 22px; border: 0; cursor: pointer; font-size: 14px; font-weight: 600;
+  background: #fff; color: var(--tinta); box-shadow: 0 2px 10px rgba(31, 42, 55, 0.25);
+}
+.boton-mapa[aria-pressed="true"] { background: var(--azul); color: #fff; }
+.aviso-dibujo {
+  position: absolute; left: 10px; right: 60px; top: 10px; z-index: 3; background: var(--tinta); color: #fff;
+  border-radius: 10px; padding: 10px 12px; font-size: 13px; line-height: 1.4;
+}
+.boton-texto { background: none; border: 0; color: #93c5fd; font-weight: 600; cursor: pointer; padding: 4px 0 0; display: block; min-height: 32px; }
+
+.fuente { font-size: 11px; color: var(--tinta-suave); }
+.fuente a { color: inherit; }
+.ficha .tocado { background: var(--fondo); border-radius: 10px; padding: 8px 12px; margin-top: 12px; font-size: 13px; }
+.ficha .tocado p { margin: 0; }
+.ficha .tocado ul { margin: 6px 0 0; padding-left: 18px; }
+.indicadores { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; font-size: 14px; }
+.indicadores > li { border-left: 3px solid var(--borde); padding-left: 10px; }
+.indicadores .ind { display: block; font-size: 12px; color: var(--tinta-suave); }
+.indicadores .fuente { display: block; margin-top: 2px; }
+.nota-ind { font-size: 12px; color: var(--tinta-suave); }
+.cargando { color: var(--tinta-suave); font-style: italic; }
+.conflictos { margin: 6px 0 0; padding-left: 18px; font-size: 13px; display: grid; gap: 4px; }
+.ficha .subt { font-size: 13px; color: var(--tinta-suave); margin: 4px 0 0; }
+.ficha .detalle { font-size: 13px; color: var(--tinta-suave); }

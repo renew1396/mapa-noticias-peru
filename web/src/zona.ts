@@ -1,8 +1,10 @@
-// Cálculos de la zona seleccionada (radio alrededor de un punto). Funciones puras: se prueban en zona.test.ts.
+// Cálculos de la zona seleccionada (círculo alrededor de un punto o polígono dibujado).
+// Funciones puras: se prueban en zona.test.ts.
 import circle from "@turf/circle";
 import booleanIntersects from "@turf/boolean-intersects";
+import booleanPointInPolygon from "@turf/boolean-point-in-polygon";
 import bbox from "@turf/bbox";
-import type { Feature, FeatureCollection, MultiPolygon, Polygon } from "geojson";
+import type { Feature, FeatureCollection, MultiPolygon, Point, Polygon } from "geojson";
 import type { Lugar, Noticia } from "./tipos";
 
 export type Distrito = Feature<Polygon | MultiPolygon, { ubigeo: string; distrito: string; provincia: string; departamento: string }>;
@@ -31,32 +33,60 @@ export function circuloZona(centro: [number, number], radioKm: number) {
   return circle(centro, radioKm, { steps: 64, units: "kilometers" });
 }
 
-/** Distritos que toca el círculo (primero filtra por caja envolvente para ir rápido en el celular). */
-export function distritosEnZona(distritos: FeatureCollection, centro: [number, number], radioKm: number): Distrito[] {
-  const c = circuloZona(centro, radioKm);
-  const [o, s, e, n] = bbox(c);
+/** Una zona: su forma (para dibujar e intersectar) y una prueba rápida de "¿este punto está adentro?". */
+export interface Zona {
+  forma: Feature<Polygon>;
+  caja: [number, number, number, number];
+  contiene: (p: [number, number]) => boolean;
+}
+
+export function zonaCirculo(centro: [number, number], radioKm: number): Zona {
+  const forma = circuloZona(centro, radioKm);
+  return { forma, caja: bbox(forma) as [number, number, number, number], contiene: (p) => distanciaKm(centro, p) <= radioKm };
+}
+
+export function zonaPoligono(forma: Feature<Polygon>): Zona {
+  const caja = bbox(forma) as [number, number, number, number];
+  return {
+    forma,
+    caja,
+    contiene: (p) => p[0] >= caja[0] && p[0] <= caja[2] && p[1] >= caja[1] && p[1] <= caja[3] && booleanPointInPolygon(p, forma),
+  };
+}
+
+/** Superficie aproximada de la zona en km² (para mostrarla en la ficha). */
+export function areaKm2(forma: Feature<Polygon>): number {
+  const anillo = forma.geometry.coordinates[0];
+  const lat0 = (anillo.reduce((s, c) => s + c[1], 0) / anillo.length) * (Math.PI / 180);
+  const kx = 111.32 * Math.cos(lat0);
+  const ky = 110.57;
+  let a = 0;
+  for (let i = 0; i < anillo.length - 1; i++) {
+    a += anillo[i][0] * kx * (anillo[i + 1][1] * ky) - anillo[i + 1][0] * kx * (anillo[i][1] * ky);
+  }
+  return Math.abs(a / 2);
+}
+
+/** Distritos que toca la zona (primero filtra por caja envolvente para ir rápido en el celular). */
+export function distritosEnZona(distritos: FeatureCollection, zona: Zona): Distrito[] {
+  const [o, s, e, n] = zona.caja;
   const out: Distrito[] = [];
   for (const f of distritos.features as Distrito[]) {
-    const [fo, fs, fe, fn] = (f.bbox as number[] | undefined) ?? bbox(f);
+    const [fo, fs, fe, fn] = (f.bbox as number[] | undefined) ?? (f.bbox = bbox(f));
     if (fe < o || fo > e || fn < s || fs > n) continue;
-    if (booleanIntersects(c, f)) out.push(f);
+    if (booleanIntersects(zona.forma, f)) out.push(f);
   }
   return out;
 }
 
 export interface ResultadoZona {
   distritos: Distrito[];
-  puntuales: Noticia[]; // pin dentro del círculo
+  puntuales: Noticia[]; // pin dentro de la zona
   amplias: Noticia[]; // a nivel provincia o región que contiene parte de la zona
 }
 
-export function noticiasEnZona(
-  noticias: Noticia[],
-  distritos: FeatureCollection,
-  centro: [number, number],
-  radioKm: number,
-): ResultadoZona {
-  const tocados = distritosEnZona(distritos, centro, radioKm);
+export function noticiasEnZona(noticias: Noticia[], distritos: FeatureCollection, zona: Zona): ResultadoZona {
+  const tocados = distritosEnZona(distritos, zona);
   const provincias = new Set(tocados.map((d) => d.properties.ubigeo.slice(0, 4)));
   const deptos = new Set(tocados.map((d) => d.properties.ubigeo.slice(0, 2)));
   const puntuales: Noticia[] = [];
@@ -65,13 +95,18 @@ export function noticiasEnZona(
     const l = lugarPrincipal(n);
     if (!l) continue;
     if (esPuntual(l)) {
-      if (distanciaKm(centro, [l.lon, l.lat]) <= radioKm) puntuales.push(n);
+      if (zona.contiene([l.lon, l.lat])) puntuales.push(n);
     } else if (l.precision === "provincia" ? provincias.has(l.ubigeo.slice(0, 4)) : deptos.has(l.ubigeo.slice(0, 2))) {
       amplias.push(n);
     }
   }
   const porFecha = (a: Noticia, b: Noticia) => b.fecha.localeCompare(a.fecha);
   return { distritos: tocados, puntuales: puntuales.sort(porFecha), amplias: amplias.sort(porFecha) };
+}
+
+/** Puntos de una capa (establecimientos, conflictos) dentro de la zona. */
+export function puntosEnZona<P>(fc: FeatureCollection<Point, P>, zona: Zona): Feature<Point, P>[] {
+  return fc.features.filter((f) => zona.contiene(f.geometry.coordinates as [number, number]));
 }
 
 export interface Filtros {
@@ -86,4 +121,19 @@ export function filtrar(noticias: Noticia[], f: Filtros, ahora = Date.now()): No
     (n) =>
       Date.parse(n.fecha) >= desde && (!f.tema || n.temas[0] === f.tema || n.temas.includes(f.tema)) && (!f.medio || n.medio === f.medio),
   );
+}
+
+/** Resumen de pobreza (punto medio del intervalo INEI) de los distritos de la zona. */
+export function resumenPobreza(ubigeos: string[], pobreza: Record<string, number[]>) {
+  const valores = ubigeos.map((u) => pobreza[u]).filter(Boolean);
+  if (!valores.length) return null;
+  const medios = valores.map((v) => v[2]);
+  return {
+    conDato: valores.length,
+    sinDato: ubigeos.length - valores.length,
+    minimo: Math.min(...medios),
+    maximo: Math.max(...medios),
+    inferior: Math.min(...valores.map((v) => v[0])),
+    superior: Math.max(...valores.map((v) => v[1])),
+  };
 }

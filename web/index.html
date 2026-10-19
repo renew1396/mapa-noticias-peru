@@ -14,11 +14,21 @@
         <span id="estado" class="estado" aria-live="polite">Cargando…</span>
       </div>
       <button id="abrir-filtros" class="boton-barra" aria-expanded="false" aria-controls="filtros">
-        Filtros <span id="resumen-filtros" class="chip-mini">7 días</span>
+        Capas <span id="resumen-filtros" class="chip-mini">7 días</span>
       </button>
     </header>
 
-    <section id="filtros" class="panel-filtros" hidden aria-label="Filtros de noticias">
+    <section id="filtros" class="panel-filtros" hidden aria-label="Capas y filtros">
+      <fieldset class="capas">
+        <legend>Capas de datos públicos</legend>
+        <label class="interruptor"><input type="checkbox" data-capa="pobreza" /> <span><i class="sim pobreza"></i>Pobreza monetaria por distrito <small>INEI 2018</small></span></label>
+        <label class="interruptor"><input type="checkbox" data-capa="conflictos" /> <span><i class="sim conflicto"></i>Conflictos sociales <small>Defensoría</small></span></label>
+        <label class="interruptor"><input type="checkbox" data-capa="concesiones" /> <span><i class="sim concesion"></i>Concesiones mineras vigentes <small>INGEMMET</small></span></label>
+        <label class="interruptor"><input type="checkbox" data-capa="salud" /> <span><i class="sim salud"></i>Establecimientos de salud <small>SUSALUD</small></span></label>
+        <label class="interruptor"><input type="checkbox" data-capa="calor" /> <span><i class="sim calor"></i>Mapa de calor de noticias</span></label>
+        <label class="interruptor"><input type="checkbox" data-capa="noticias" checked /> <span><i class="sim noticias"></i>Pines de noticias</span></label>
+      </fieldset>
+      <h2 class="titulo-panel">Filtros de noticias</h2>
       <fieldset>
         <legend>Período</legend>
         <div class="segmentado" role="radiogroup" id="filtro-dias">
@@ -30,11 +40,20 @@
       <label>Tema <select id="filtro-tema"><option value="">Todos los temas</option></select></label>
       <label>Medio <select id="filtro-medio"><option value="">Todos los medios</option></select></label>
       <div id="leyenda" class="leyenda" aria-label="Colores por tema"></div>
-      <p class="nota">Toca el mapa para ver las noticias de una zona. Los pines son noticias ubicadas en un distrito o
-        centro poblado; las que solo mencionan una provincia o región aparecen en la lista de la zona.</p>
+      <p class="nota">Toca el mapa para ver una zona de 1 a 50 km, o usa «Dibujar zona». Los pines son noticias ubicadas en
+        un distrito o centro poblado; las que solo mencionan una provincia o región aparecen en la ficha de la zona.</p>
     </section>
 
-    <main id="mapa" aria-label="Mapa del Perú"></main>
+    <main id="mapa" aria-label="Mapa del Perú">
+      <div id="leyenda-mapa" class="leyenda-mapa" hidden aria-label="Leyenda de capas"></div>
+      <div class="acciones-mapa">
+        <button id="dibujar" class="boton-mapa" aria-pressed="false">✏️ Dibujar zona</button>
+      </div>
+      <div id="aviso-dibujo" class="aviso-dibujo" hidden>
+        Toca el mapa para marcar los vértices. Toca el primer punto para cerrar la zona.
+        <button id="cancelar-dibujo" class="boton-texto">Cancelar</button>
+      </div>
+    </main>
 
     <section id="ficha" class="ficha" hidden aria-live="polite">
       <button id="cerrar-ficha" class="cerrar" aria-label="Cerrar ficha">×</button>

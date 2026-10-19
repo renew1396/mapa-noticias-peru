@@ -12,8 +12,12 @@
   "dependencies": {
     "@turf/bbox": "7.4.0",
     "@turf/boolean-intersects": "7.4.0",
+    "@turf/boolean-point-in-polygon": "7.4.0",
     "@turf/circle": "7.4.0",
-    "maplibre-gl": "6.12.0"
+    "maplibre-gl": "6.12.0",
+    "pmtiles": "4.5.0",
+    "terra-draw": "1.36.0",
+    "terra-draw-maplibre-gl-adapter": "1.4.1"
   },
   "devDependencies": {
     "@types/node": "24.19.2",

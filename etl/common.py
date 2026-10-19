@@ -13,6 +13,7 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
+import certifi
 import requests
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -20,6 +21,25 @@ LAYERS_DIR = ROOT / "data" / "layers"
 RAW_DIR = ROOT / "data" / "raw"
 
 USER_AGENT = "mapa-noticias-peru/1.0 (+https://github.com/; datos publicos, uso no comercial)"
+
+
+# Algunos servidores del Estado (p. ej. INGEMMET) a veces no envían el certificado intermedio. Se sigue
+# verificando HTTPS, pero con los certificados de certifi + los intermedios oficiales guardados en etl/certs/.
+_CERTS_EXTRA = sorted((Path(__file__).resolve().parent / "certs").glob("*.pem"))
+_BUNDLE: str | None = None
+
+
+def certificados() -> str:
+    global _BUNDLE
+    if _BUNDLE is None:
+        import tempfile
+        f = tempfile.NamedTemporaryFile("w", suffix=".pem", delete=False)
+        f.write(Path(certifi.where()).read_text())
+        for c in _CERTS_EXTRA:
+            f.write("\n" + c.read_text())
+        f.close()
+        _BUNDLE = f.name
+    return _BUNDLE
 
 
 class EtlError(RuntimeError):
@@ -31,7 +51,8 @@ def http_get(url: str, *, params: dict | None = None, timeout: int = 120, tries:
     last: Exception | None = None
     for i in range(tries):
         try:
-            r = requests.get(url, params=params, timeout=timeout, headers={"User-Agent": USER_AGENT})
+            r = requests.get(url, params=params, timeout=timeout, headers={"User-Agent": USER_AGENT},
+                             verify=certificados())
             r.raise_for_status()
             return r
         except requests.RequestException as e:  # red, timeout, 5xx

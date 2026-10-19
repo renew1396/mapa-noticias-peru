@@ -101,7 +101,9 @@ def cargar() -> Gazetteer:
     excl = _yaml("exclusiones.yaml")
     g.nunca = set(_tuplas(excl.get("nunca")))
     # Las frases excluidas y los nombres "nunca" (países, ciudades extranjeras) se tapan en el texto.
-    g.frases_excluidas = sorted(set(_tuplas(excl.get("frases_excluidas"))) | g.nunca, key=len, reverse=True)
+    # ("peru" no se tapa: es parte de nombres como "Cáceres del Perú"; igual nunca se acepta como lugar.)
+    g.frases_excluidas = sorted(set(_tuplas(excl.get("frases_excluidas"))) | (g.nunca - {("peru",)}),
+                                key=len, reverse=True)
     g.vecinos_permitidos = {norm(x) for x in excl.get("vecinos_permitidos") or []}
     g.prefijos_calle = set(_tuplas(excl.get("prefijos_calle")))
     g.solo_con_contexto = set(_tuplas(excl.get("solo_con_contexto")))

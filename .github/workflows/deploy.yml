@@ -11,7 +11,7 @@ on:
   workflow_call:
 
 permissions:
-  contents: read
+  contents: read   # también alcanza para bajar archivos de releases
   pages: write
   id-token: write
 
@@ -35,6 +35,13 @@ jobs:
         working-directory: web
       - run: npm run build
         working-directory: web
+      - name: Agregar capas pesadas (archivos de la release "capas")
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download capas --repo "$GITHUB_REPOSITORY" --pattern "*.pmtiles" --dir web/dist/data/layers --clobber \
+            || echo "::warning::No se pudo bajar la release 'capas': el mapa saldrá sin concesiones mineras."
+          ls -la web/dist/data/layers
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
         with:

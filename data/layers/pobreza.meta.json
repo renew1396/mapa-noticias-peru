@@ -1,0 +1,26 @@
+{
+  "capa": "pobreza",
+  "fuente": "INEI – Mapa de Pobreza Monetaria Provincial y Distrital 2018",
+  "url": "https://www.gob.pe/institucion/inei/informes-publicaciones/3204872-mapa-de-pobreza-provincial-y-distrital-2018",
+  "fecha_corte": "2018",
+  "fecha_carga": "2026-10-19T22:56:16Z",
+  "visualizacion": "coropletico",
+  "registros": 1874,
+  "estilo": {
+    "cortes": [
+      18.3,
+      29.1,
+      39.2,
+      49.5
+    ],
+    "colores": [
+      "#fff7bc",
+      "#fec44f",
+      "#fe9929",
+      "#d95f0e",
+      "#993404"
+    ],
+    "sin_dato": "#e5e7eb"
+  },
+  "notas": "Intervalo de confianza al 95 % de la pobreza monetaria total (% de la población). El color usa el punto medio del intervalo. 17 distritos actuales no tienen dato porque se crearon después del mapa: 030612, 050413, 050512, 050513, 050514, 050515, 080915, 080916, 080917, 080918, 090724, 090725, 130112, 180107, 221006, 250306, 250307. Campos: [inferior, superior, punto_medio, grupo_robusto, puesto_nacional (1 = más pobre), poblacion_2020]."
+}

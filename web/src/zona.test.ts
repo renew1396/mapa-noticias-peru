@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import type { FeatureCollection } from "geojson";
-import { distanciaKm, filtrar, noticiasEnZona } from "./zona";
+import { areaKm2, distanciaKm, filtrar, noticiasEnZona, resumenPobreza, zonaCirculo, zonaPoligono } from "./zona";
+import type { Feature, Polygon } from "geojson";
 import type { Noticia, Precision } from "./tipos";
 
 // Dos "distritos" cuadrados de ~11 km de lado, uno al lado del otro, cerca de Lima.
@@ -41,15 +42,41 @@ describe("noticiasEnZona", () => {
     noticia("otra-region", "departamento", "040000", -71.5, -16.4),
   ];
   it("separa noticias con pin dentro del radio de las de provincia o región", () => {
-    const r = noticiasEnZona(ns, distritos, [-77.05, -12.05], 3);
+    const r = noticiasEnZona(ns, distritos, zonaCirculo([-77.05, -12.05], 3));
     expect(r.distritos.map((d) => d.properties.ubigeo)).toEqual(["150101"]);
     expect(r.puntuales.map((n) => n.id)).toEqual(["cerca"]);
     expect(r.amplias.map((n) => n.id)).toEqual(["provincia"]);
   });
   it("un radio mayor toca ambos distritos", () => {
-    const r = noticiasEnZona(ns, distritos, [-77.0, -12.05], 15);
+    const r = noticiasEnZona(ns, distritos, zonaCirculo([-77.0, -12.05], 15));
     expect(r.distritos).toHaveLength(2);
     expect(r.puntuales.map((n) => n.id).sort()).toEqual(["cerca", "lejos"]);
+  });
+});
+
+describe("zona dibujada (polígono)", () => {
+  const triangulo: Feature<Polygon> = {
+    type: "Feature", properties: {},
+    geometry: { type: "Polygon", coordinates: [[[-77.09, -12.09], [-77.01, -12.09], [-77.05, -12.01], [-77.09, -12.09]]] },
+  };
+  it("cuenta solo lo que cae dentro del polígono", () => {
+    const ns = [noticia("adentro", "distrito", "150101", -77.05, -12.06), noticia("afuera", "distrito", "150102", -76.95, -12.05)];
+    const r = noticiasEnZona(ns, distritos, zonaPoligono(triangulo));
+    expect(r.puntuales.map((n) => n.id)).toEqual(["adentro"]);
+    expect(r.distritos.map((d) => d.properties.ubigeo)).toEqual(["150101"]);
+  });
+  it("calcula el área aproximada", () => {
+    // triángulo de base ~8.7 km y altura ~8.8 km → ~38 km²
+    expect(areaKm2(triangulo)).toBeGreaterThan(34);
+    expect(areaKm2(triangulo)).toBeLessThan(42);
+  });
+});
+
+describe("resumenPobreza", () => {
+  it("da el rango de los distritos con dato y cuenta los sin dato", () => {
+    const r = resumenPobreza(["a", "b", "c"], { a: [10, 20, 15], b: [30, 50, 40] });
+    expect(r).toEqual({ conDato: 2, sinDato: 1, minimo: 15, maximo: 40, inferior: 10, superior: 50 });
+    expect(resumenPobreza(["x"], {})).toBeNull();
   });
 });
 

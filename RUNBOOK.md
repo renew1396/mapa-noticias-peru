@@ -74,3 +74,25 @@ El chequeo de salud avisa cuando un medio lleva ≥ 12 ejecuciones (24 h) fallan
 
 ## Probar que llega el correo de aviso
 `gh workflow run salud.yml -f probar_aviso=true` → la tarea falla a propósito y GitHub manda el correo.
+
+## Actualizar capas
+- Automático: `etl.yml` corre los lunes (conflictos y concesiones). A mano: `gh workflow run etl.yml -f fuente=conflictos`
+  (opciones: todas, limites, ccpp, pobreza, conflictos, concesiones).
+- **Salud (RENIPRESS) es manual** porque datosabiertos.gob.pe bloquea descargas automáticas (HTTP 418):
+  1. En un navegador abrir https://www.datosabiertos.gob.pe/dataset/registro-nacional-de-entidades-prestadoras-de-servicios-de-salud-renipress
+  2. Bajar el CSV más reciente (`RENIPRESS_DD-MM-AAAA.csv`, sin cambiarle el nombre).
+  3. `.venv/bin/python -m etl.salud.run --archivo ~/Downloads/RENIPRESS_DD-MM-AAAA.csv` → pruebas → commit y push.
+  Cada 3–4 meses es suficiente (el chequeo de salud avisa a los 120 días).
+- Pobreza (INEI 2018) no cambia hasta que el INEI publique un mapa nuevo: entonces actualizar `URL` en `etl/pobreza/run.py`.
+
+## Falta la capa de concesiones
+El sitio baja `concesiones.pmtiles` de la release `capas` al publicar. Revisar: `gh release view capas`.
+Si no existe o está vacía: `gh workflow run etl.yml -f fuente=concesiones` (la crea y sube el archivo) y luego
+`gh workflow run deploy.yml`. Si INGEMMET da error de certificado ("unable to get local issuer certificate"),
+revisar que `etl/certs/sectigo-ov-r36.pem` siga siendo el intermedio que indica el certificado del servidor
+(`openssl s_client -connect geocatmin.ingemmet.gob.pe:443` → "CA Issuers - URI"): bajarlo de esa URL oficial.
+
+## La capa de conflictos ubica mal un caso
+La ubicación se lee del texto del PDF con el geoparser. Revisar el caso en el PDF (código en la ficha) y, si el
+nombre es ambiguo, agregar contexto en `config/exclusiones.yaml` o un alias. Los casos sin ubicar se cuentan en
+`data/layers/conflictos.meta.json`. Si el formato del PDF cambia mucho, `etl/conflictos/run.py` falla (mínimo 40 casos).

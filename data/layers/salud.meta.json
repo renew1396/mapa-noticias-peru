@@ -1,0 +1,14 @@
+{
+  "capa": "salud",
+  "fuente": "SUSALUD – Registro Nacional de IPRESS (RENIPRESS), datosabiertos.gob.pe",
+  "url": "https://www.datosabiertos.gob.pe/dataset/registro-nacional-de-entidades-prestadoras-de-servicios-de-salud-renipress (archivo RENIPRESS_30-09-2026.csv)",
+  "fecha_corte": "2026-09-30",
+  "fecha_carga": "2026-10-19T22:55:49Z",
+  "visualizacion": "puntos_agrupados",
+  "registros": 19970,
+  "estilo": {
+    "publico": "#be185d",
+    "privado": "#9ca3af"
+  },
+  "notas": "Solo establecimientos ACTIVOS con coordenadas: 9706 públicos y 10264 privados. Propiedades: n nombre, c categoría, t clasificación, i institución, u ubigeo, p público."
+}

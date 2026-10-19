@@ -237,6 +237,9 @@ def _bono_pista(lg: Lugar, pistas: set[str]) -> float:
             bono = max(bono, 1.5 + (0.3 if lg.tipo == "provincia" else 0))
         elif p == "ciudad" and lg.tipo in ("distrito", "centro_poblado"):
             bono = max(bono, 2.0)
+    # "Distrito de Huarmey, provincia de Huarmey": se refiere al distrito (lo más específico).
+    if {"distrito", "provincia"} <= pistas and lg.tipo == "distrito":
+        bono += 0.5
     return bono
 
 

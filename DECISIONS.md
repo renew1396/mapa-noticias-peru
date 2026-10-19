@@ -75,3 +75,32 @@ región aparecen en la ficha de la zona, en una sección aparte. Los distritos c
 `pipeline/salud.py` corre a diario y falla (→ correo de GitHub) si la tarea de noticias no corre hace 6 h, no
 entran noticias hace 48 h, un medio falla 24 h seguidas o el sitio no responde. Tiene opción para fallar a
 propósito y comprobar el correo.
+
+## 2026-10-19 · Concesiones mineras como PMTiles en una release de GitHub
+61 247 polígonos vigentes (titulados + en trámite) → PMTiles de ~22 MB con tippecanoe. Guardarlo en git cada
+semana inflaría el repositorio; se publica como archivo de la release `capas` y `deploy.yml` lo baja al armar el
+sitio. GitHub Pages sirve descargas parciales (necesarias para PMTiles). Conteos por zona: punto interior de cada
+concesión (`concesiones_centros.json`); por distrito: intersección real con shapely (`concesiones_distritos.json`).
+
+## 2026-10-19 · Titulares mineros: solo empresas
+El catastro es público, pero hay titulares que son personas naturales. Por prudencia (Ley 29733) se muestran como
+"Persona natural"; las empresas se muestran con su razón social.
+
+## 2026-10-19 · Salud (RENIPRESS) se actualiza a mano
+datosabiertos.gob.pe tiene un firewall que bloquea cualquier descarga que no sea de un navegador (HTTP 418), incluso
+robots.txt. No se disfraza el script de navegador: el CSV se baja a mano cada pocos meses y se procesa con
+`--archivo`. Alternativa futura: pedir al portal una API o buscar el mismo dato en otra fuente oficial.
+
+## 2026-10-19 · Pobreza: intervalo, no un número
+El INEI publica un intervalo de confianza al 95 %. La web colorea por el punto medio (quintiles, paleta YlOrBr
+apta para daltónicos) pero siempre muestra el intervalo en la ficha. Los 17 distritos creados después del mapa
+quedan "sin dato" (no se inventa un valor heredado).
+
+## 2026-10-19 · Conflictos: extracción automática del PDF
+El reporte mensual se parte por "Código:" y cada caso se ubica con el geoparser (107 de 111 en el reporte 270).
+Se corre semanalmente para tomar el reporte nuevo apenas sale. La ficha enlaza al PDF oficial.
+
+## 2026-10-19 · INGEMMET con cadena de certificados incompleta
+Algunos nodos de geocatmin.ingemmet.gob.pe no envían el certificado intermedio. Se sigue verificando HTTPS, sumando
+a los certificados de certifi el intermedio oficial de Sectigo (`etl/certs/`), bajado de la URL que indica el propio
+certificado del servidor.

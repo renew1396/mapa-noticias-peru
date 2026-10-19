@@ -12,3 +12,6 @@ data/raw/
 # Sistema
 .DS_Store
 *.tmp
+
+# Capas pesadas: se publican como archivos de la release "capas" de GitHub (ver deploy.yml)
+data/layers/*.pmtiles
