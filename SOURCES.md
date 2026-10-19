@@ -37,7 +37,7 @@ Sin RSS utilizable hoy: Perú21 (403), Exitosa, Ojo Público, Servindi (congelad
 novedades desde enero 2026), El Peruano, Primicia, La Industria, Diario del Cusco, Radio Universal, Voces.
 Huecos regionales: Cusco, Junín, Ucayali, San Martín.
 
-Observado el 2026-10-19: Inforegión responde HTTP 403 a los servidores de GitHub (desde una conexión doméstica funciona). Si el chequeo de salud lo marca 24 h seguidas, desactivarlo en `config/sources.yaml`.
+Observado el 2026-10-19: Inforegión responde HTTP 403 a los servidores de GitHub (desde una conexión doméstica funciona). Se desactivó en `config/sources.yaml` (`activo: false`) el mismo día; reactivar si deja de bloquear.
 
 ## Descartadas
 - **GDELT**: límite de uso inmediato en su API (ver DECISIONS.md).

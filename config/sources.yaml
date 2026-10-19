@@ -113,7 +113,8 @@ medios:
 
   # --- Temáticos (conflictos, ambiente, minería) ---
   - {id: ser, nombre: Noticias SER, url: "https://noticiasser.pe/feed", tipo: tematico}
-  - {id: inforegion, nombre: Inforegión, url: "https://www.inforegion.pe/feed/", tipo: tematico}
+  # Inforegión bloquea a los servidores de GitHub (HTTP 403 desde el 2026-10-19); desde el Perú sí responde.
+  - {id: inforegion, nombre: Inforegión, url: "https://www.inforegion.pe/feed/", tipo: tematico, activo: false}
   - {id: actualidadambiental, nombre: Actualidad Ambiental, url: "https://www.actualidadambiental.pe/feed/", tipo: tematico}
   - {id: mongabay, nombre: Mongabay Latam, url: "https://es.mongabay.com/feed/", tipo: tematico}
   - {id: rumbominero, nombre: Rumbo Minero, url: "https://www.rumbominero.com/feed/", tipo: tematico}
