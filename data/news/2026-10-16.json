@@ -422,6 +422,31 @@
    ]
   },
   {
+   "id": "fb1ee4e68e01",
+   "titulo": "Halloween y Día de la Canción Criolla: celebraciones aumentarían hasta en 12% ventas de las pymes",
+   "resumen": "La Cámara de Comercio de Lima (CCL) proyectó un incremento de ventas de entre 8% y 12% para la campaña del Día de la Canción Criolla y Halloween, respecto a un periodo normal.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/halloween-y-dia-de-la-cancion-criolla-celebraciones-aumentarian-hasta-en-12-ventas-de-las-pymes-l-ultimas-noticia/",
+   "fecha": "2026-10-16T18:41:38Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "9fec0c157858",
    "titulo": "Vladimir Chong vs. Fernando Meléndez: los perfiles y propuestas que disputan el liderazgo en Loreto",
    "resumen": "El escenario electoral en la región amazónica mantiene en expectativa a la ciudadanía debido a los reducidos márgenes de diferencia registrados en el conteo oficial de actas. Con más del noventa por ciento de la votación contabilizada por los organismos correspondientes, los resultados…",
@@ -746,6 +771,31 @@
      "lat": -6.22955,
      "confianza": 0.85,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8b3db4eda306",
+   "titulo": "MTC plantea reducir la TUUA de transferencia internacional en “no menos del 50%” en el aeropuerto Jorge Chávez",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/mtc-plantea-reducir-no-menos-del-50-la-tuua-de-transferencia-internacional-del-aeropuerto-jorge-chavez-noticia/",
+   "fecha": "2026-10-16T13:30:02Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jorge Chávez",
+     "ubigeo": "060305",
+     "precision": "distrito",
+     "provincia": "Celendín",
+     "departamento": "Cajamarca",
+     "lon": -78.0918,
+     "lat": -6.94107,
+     "confianza": 0.7,
+     "principal": true
     }
    ]
   },
