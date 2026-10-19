@@ -2,6 +2,8 @@
 # Si una fuente cambió de estructura, su script falla con un mensaje claro y NO se guarda nada de esa fuente
 # (ver RUNBOOK.md › "El ETL de una fuente falló"). Las demás fuentes se actualizan igual.
 # La capa de salud (RENIPRESS) NO está aquí: el portal bloquea descargas automáticas (ver RUNBOOK.md).
+# Límites y centros poblados (servidor de la ANA) no responden a los servidores de GitHub: se actualizan desde
+# una computadora en el Perú (casi nunca cambian). Por eso el lunes solo corren conflictos y concesiones.
 name: Actualizar capas (ETL)
 
 on:
@@ -40,12 +42,18 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Límites administrativos
+        id: limites
+        continue-on-error: true
         if: env.FUENTE == 'limites' || (env.FUENTE == 'todas' && github.event_name != 'schedule')
         run: python -m etl.limites.run
       - name: Centros poblados (gazetteer)
+        id: ccpp
+        continue-on-error: true
         if: env.FUENTE == 'ccpp' || (env.FUENTE == 'todas' && github.event_name != 'schedule')
         run: python -m etl.ccpp.run
       - name: Pobreza INEI 2018
+        id: pobreza
+        continue-on-error: true
         if: env.FUENTE == 'pobreza' || (env.FUENTE == 'todas' && github.event_name != 'schedule')
         run: python -m etl.pobreza.run
       - name: Conflictos sociales (Defensoría)
@@ -84,9 +92,9 @@ jobs:
           fi
 
       - name: Avisar si alguna fuente falló
-        if: steps.conflictos.outcome == 'failure' || steps.concesiones.outcome == 'failure'
+        if: contains(join(steps.*.outcome, ','), 'failure')
         run: |
-          echo "::error::Falló alguna fuente (conflictos: ${{ steps.conflictos.outcome }}, concesiones: ${{ steps.concesiones.outcome }}). Ver RUNBOOK.md."
+          echo "::error::Falló alguna fuente: límites=${{ steps.limites.outcome }}, ccpp=${{ steps.ccpp.outcome }}, pobreza=${{ steps.pobreza.outcome }}, conflictos=${{ steps.conflictos.outcome }}, concesiones=${{ steps.concesiones.outcome }}. Las demás se guardaron. Ver RUNBOOK.md."
           exit 1
 
   publicar:

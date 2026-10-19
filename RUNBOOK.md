@@ -83,6 +83,8 @@ El chequeo de salud avisa cuando un medio lleva ≥ 12 ejecuciones (24 h) fallan
   2. Bajar el CSV más reciente (`RENIPRESS_DD-MM-AAAA.csv`, sin cambiarle el nombre).
   3. `.venv/bin/python -m etl.salud.run --archivo ~/Downloads/RENIPRESS_DD-MM-AAAA.csv` → pruebas → commit y push.
   Cada 3–4 meses es suficiente (el chequeo de salud avisa a los 120 días).
+- Límites y centros poblados vienen del servidor de la ANA, que **no responde a GitHub** (sí desde el Perú):
+  correr en la Mac `.venv/bin/python -m etl.limites.run` / `etl.ccpp.run`, pruebas, commit y push. Casi nunca cambian.
 - Pobreza (INEI 2018) no cambia hasta que el INEI publique un mapa nuevo: entonces actualizar `URL` en `etl/pobreza/run.py`.
 
 ## Falta la capa de concesiones
