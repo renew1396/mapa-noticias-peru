@@ -11,9 +11,15 @@ archivos de datos y GitHub Pages publica la web, que hace todos los cálculos en
 **El dueño no programa.** Habla con él en español claro, sin jerga, y pídele permiso antes de:
 cualquier costo, borrar datos, cambiar la arquitectura o hacer scraping de un sitio sin RSS/API.
 
+## Enlaces
+- Sitio: https://renew1396.github.io/mapa-noticias-peru/
+- Repositorio (público): https://github.com/renew1396/mapa-noticias-peru · cuenta GitHub del dueño: `renew1396`
+- `gh` está instalado en `~/.local/bin/gh` (no hay Homebrew en esta Mac).
+
 ## Estado por fases
 - [x] Fase 0: verificación de fuentes y plan (ver SOURCES.md)
-- [x] Fase 1: base — límites distritales, mapa con distritos tocables, workflows, docs
+- [x] Fase 1: base — límites distritales, mapa con distritos tocables, workflows, docs (publicada 2026-10-19)
+  - Pendiente para Fase 4: la primera carga tarda ~6–8 s (JS de MapLibre ~290 KB + distritos ~1 MB comprimidos).
 - [ ] Fase 2: noticias (RSS → geoparsing Nivel 1 → mapa, radio, filtros, evaluación, chequeo de salud)
 - [ ] Fase 3: capas (pobreza 2018, conflictos Defensoría, concesiones INGEMMET, salud RENIPRESS) y ficha de zona
 - [ ] Fase 4: pulido, PWA, página de fuentes
