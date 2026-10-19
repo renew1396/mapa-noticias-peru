@@ -1,0 +1,619 @@
+{
+ "fecha": "2026-10-15",
+ "noticias": [
+  {
+   "id": "d44a53fd6d38",
+   "titulo": "Capturan en Quillabamba a “Quilacho”, investigado por su presunta participación en el asesinato de un minero formal en Lago Inambarillo",
+   "resumen": "Widhert Suárez Yapo, alias “Quilacho”, fue capturado este 15 de octubre en la ci...",
+   "medio": "Inforegión",
+   "medio_id": "inforegion",
+   "url": "https://inforegion.pe/capturan-en-quillabamba-a-quilacho-investigado-por-su-presunta-participacion-en-el-asesinato-de-un-minero-formal-en-lago-inambarillo/",
+   "fecha": "2026-10-16T02:22:38Z",
+   "temas": [
+    "seguridad",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Quillabamba",
+     "ubigeo": "080901",
+     "ccpp": "0809010001",
+     "precision": "centro_poblado",
+     "provincia": "La Convención",
+     "departamento": "Cusco",
+     "lon": -72.69333,
+     "lat": -12.86283,
+     "confianza": 0.35,
+     "principal": true
+    },
+    {
+     "nombre": "Lago Inambarillo",
+     "ubigeo": "170104",
+     "ccpp": "1701040007",
+     "precision": "centro_poblado",
+     "provincia": "Tambopata",
+     "departamento": "Madre de Dios",
+     "lon": -69.7993,
+     "lat": -12.72135,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "8a82becfe566",
+   "titulo": "NOVELA DE JORGE NÁJAR SE PRESENTARÁ EN PUCALLPA",
+   "resumen": "*Jorge Nájar llegó de Paris con un nuevo libro editado por Tierra Nueva. Se trata de “El horizonte en llamas” que se presentó ya en Lima y el 13 de noviembre se hará la presentación central en la Municipalidad Provincial de Coronel Portillo.",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://proycontra.com.pe/noticias/novela-de-jorge-najar-se-presentara-en-pucallpa",
+   "fecha": "2026-10-16T01:32:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Coronel Portillo",
+     "ubigeo": "250100",
+     "precision": "provincia",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d2df3e216742",
+   "titulo": "Niñas de cuatro regiones del Perú exigen medidas ante El Niño y el cambio climático que afectan sus hogares y educación",
+   "resumen": "En el marco del Día Internacional de la Niña, lideresas comunitarias de Piura, L...",
+   "medio": "Inforegión",
+   "medio_id": "inforegion",
+   "url": "https://inforegion.pe/ninas-de-cuatro-regiones-del-peru-exigen-medidas-ante-el-nino-y-el-cambio-climatico-que-afectan-sus-hogares-y-educacion/",
+   "fecha": "2026-10-15T22:53:26Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "de885bc041a9",
+   "titulo": "Parque Nacional del Manu: registran por primera vez en foto a un cotomono rojo con pelaje claro",
+   "resumen": "Un cotomono rojo (Alouatta seniculus) con un pelaje inusualmente claro quedó reg...",
+   "medio": "Inforegión",
+   "medio_id": "inforegion",
+   "url": "https://inforegion.pe/parque-nacional-del-manu-registran-por-primera-vez-en-foto-a-un-cotomono-rojo-con-pelaje-claro/",
+   "fecha": "2026-10-15T21:47:14Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Manu",
+     "ubigeo": "170201",
+     "precision": "distrito",
+     "provincia": "Manu",
+     "departamento": "Madre de Dios",
+     "lon": -71.36536,
+     "lat": -12.83717,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8c4fe3f86212",
+   "titulo": "Huamalíes coloca primera piedra de la carretera Culquish–Carpa con S/90 millones de inversión y dirigentes exigen vigilar su ejecución",
+   "resumen": "El proyecto mejorará la conectividad de Llata, Jacas Grande, Chavín de Pariarca ...",
+   "medio": "Inforegión",
+   "medio_id": "inforegion",
+   "url": "https://inforegion.pe/huamalies-coloca-primera-piedra-de-la-carretera-culquish-carpa-con-s-90-millones-de-inversion-y-dirigentes-exigen-vigilar-su-ejecucion/",
+   "fecha": "2026-10-15T20:49:44Z",
+   "temas": [
+    "conflicto_social",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Llata",
+     "ubigeo": "100501",
+     "precision": "distrito",
+     "provincia": "Huamalíes",
+     "departamento": "Huánuco",
+     "lon": -76.81872,
+     "lat": -9.54973,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Huamalíes",
+     "ubigeo": "100500",
+     "precision": "provincia",
+     "provincia": "Huamalíes",
+     "departamento": "Huánuco",
+     "lon": -76.81872,
+     "lat": -9.54973,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Jacas Grande",
+     "ubigeo": "100504",
+     "precision": "distrito",
+     "provincia": "Huamalíes",
+     "departamento": "Huánuco",
+     "lon": -76.73678,
+     "lat": -9.54007,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Chavín de Pariarca",
+     "ubigeo": "100503",
+     "precision": "distrito",
+     "provincia": "Huamalíes",
+     "departamento": "Huánuco",
+     "lon": -76.77137,
+     "lat": -9.42305,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a534c5f2a8e1",
+   "titulo": "Arequipa: Medina cuestiona influencia de ONG en la educación",
+   "resumen": "El excongresista y expresidente de la Comisión de Educación del Congreso, Esdras Medina, cuestionó el papel de algunas organizaciones no gubernamentales (ONG) en las políticas educativas del país, al considerar que han influido en decisiones que afectan la disciplina y la formación de los…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-medina-cuestiona-influencia-de-ong-en-la-educacion-noticia/",
+   "fecha": "2026-10-15T19:01:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "58973302157e",
+   "titulo": "Aeropuerto de Tingo María: a más de un año de retraso, asfaltado de pista culminaría fines de noviembre (vídeo)",
+   "resumen": "",
+   "medio": "Inforegión",
+   "medio_id": "inforegion",
+   "url": "https://inforegion.pe/aeropuerto-de-tingo-maria-a-mas-de-un-ano-de-retraso-asfaltado-de-pista-culminaria-fines-de-noviembre-video/",
+   "fecha": "2026-10-15T16:31:31Z",
+   "temas": [
+    "infraestructura",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rupa-Rupa",
+     "ubigeo": "100601",
+     "precision": "distrito",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.00056,
+     "lat": -9.29799,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "890c6ca3d7eb",
+   "titulo": "¿EN RECUENTO DE ACTAS OBSERVADAS VLADIMIR GANARÍA EN PRIMERA VUELTA?",
+   "resumen": "El Jurado Electoral Especial (JEE) de Maynas recibió 303 actas observadas de las Elecciones Regionales y Municipales 2026. De ellas, 76 deberán pasar por recuento de votos, cuyas audiencias públicas comenzarán este viernes 16 de octubre.Las 227 actas restantes podrán continuar su trámite una vez…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://proycontra.com.pe/noticias/en-recuento-de-actas-observadas-vladimir-ganaria-en-primera-vuelta",
+   "fecha": "2026-10-15T15:00:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Maynas",
+     "ubigeo": "160100",
+     "precision": "provincia",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b86a1e752fdd",
+   "titulo": "USUARIOS DE LA BIBLIOTECA MUNICIPAL PIDEN SEGURIDAD Y MANTENIMIENTO",
+   "resumen": "* Solicitan cámaras de vigilancia, reparación de aires acondicionados y acceso a agua potable para mejorar las condiciones de estudio.Usuarios de la Biblioteca Virtual Municipal de Maynas presentaron una solicitud dirigida a la alcaldesa provincial, Paola Estefanía Bances Chávez, para exigir…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://proycontra.com.pe/noticias/usuarios-de-la-biblioteca-municipal-piden-seguridad-y-mantenimiento",
+   "fecha": "2026-10-15T14:45:00Z",
+   "temas": [
+    "agua",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Maynas",
+     "ubigeo": "160100",
+     "precision": "provincia",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4a4bc838bf68",
+   "titulo": "AVISO DE MATRIMONIO: OMAR OSWALDO DELGADO VARGAS",
+   "resumen": "COORDINACION DE REGISTROS CIVILEL FUNCIONARIO EDIL QUE SUSCRIBE, HACE SABER QUE:Pretenden contraer matrimonio civil en esta Municipalidad Provincial de Maynas los señoresMUNICIPALIDAD PROVINCIAL DE MAYNASEDICTO(CODIGO CIVIL Art. 250 y 251)Se hace saber que Don: OMAR OSWALDO DELGADO VARGAS…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://proycontra.com.pe/noticias/aviso-de-matrimonio-omar-oswaldo-delgado-vargas",
+   "fecha": "2026-10-15T14:32:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Maynas",
+     "ubigeo": "160100",
+     "precision": "provincia",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "987ebb8c7b58",
+   "titulo": "EDICTO MATRIMONIAL ENRIQUE ROJAS LOPEZ",
+   "resumen": "COORDINACION DE REGISTROS CIVILEL FUNCIONARIO EDIL QUE SUSCRIBE, HACE SABER QUE:Pretenden contraer matrimonio civil en esta Municipalidad Provincial de Maynas los señoresMUNICIPALIDAD PROVINCIAL DE MAYNASEDICTO(CODIGO CIVIL Art. 250 y 251)Se hace saber que Don: ENRIQUE ROJAS LOPEZ Identificado con…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://proycontra.com.pe/noticias/edicto-matrimonial-enrique-rojas-lopez",
+   "fecha": "2026-10-15T14:30:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Maynas",
+     "ubigeo": "160100",
+     "precision": "provincia",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1478389bffb0",
+   "titulo": "EDICTO MATRIMONIAL ANGELO LUIS TORRES IPANAMA",
+   "resumen": "COORDINACION DE REGISTROS CIVILEL FUNCIONARIO EDIL QUE SUSCRIBE, HACE SABER QUE:Pretenden contraer matrimonio civil en esta Municipalidad Provincial de Maynas los señoresMUNICIPALIDAD PROVINCIAL DE MAYNASEDICTO(CODIGO CIVIL Art. 250 y 251)Se hace saber que Don: ANGELO LUIS TORRES IPANAMA…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://proycontra.com.pe/noticias/edicto-matrimonial-angelo-luis-torres-ipanama",
+   "fecha": "2026-10-15T14:28:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Maynas",
+     "ubigeo": "160100",
+     "precision": "provincia",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ac9ef2290001",
+   "titulo": "Rostros de la primera línea: Miriam Ríos, la joven brigadista asháninka que desafía las llamas en Cutivireni",
+   "resumen": "La selva de la cuenca del río Ene arde bajo el avance de un incendio forestal ca...",
+   "medio": "Inforegión",
+   "medio_id": "inforegion",
+   "url": "https://inforegion.pe/rostros-de-la-primera-linea-miriam-rios-la-joven-brigadista-ashaninka-que-desafia-las-llamas-en-cutivireni/",
+   "fecha": "2026-10-15T14:26:50Z",
+   "temas": [
+    "medio_ambiente",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cutivireni",
+     "ubigeo": "120608",
+     "ccpp": "1206080073",
+     "precision": "centro_poblado",
+     "provincia": "Satipo",
+     "departamento": "Junín",
+     "lon": -73.91885,
+     "lat": -11.88134,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9c8cc7ab4f64",
+   "titulo": "¿SOMOS UNA COLONIA? EMBAJADOR DE EE. UU. ADVIERTE A CRIMINALES TRAS SOBREVOLAR IQUITOS: “¡TENGAN CUIDADO!”",
+   "resumen": "* Bernard Navarro recorrió la zona junto a representantes del Comando Sur y autoridades peruanas, y reafirmó la disposición de Estados Unidos de apoyar al Perú en la lucha contra el narcotráfico.El embajador de Estados Unidos en el Perú, Bernard Navarro, informó que sobrevoló Iquitos junto al…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://proycontra.com.pe/noticias/somos-una-colonia-embajador-de-ee-uu-advierte-a-criminales-tras-sobrevolar-iquitos-tengan-cuidado",
+   "fecha": "2026-10-15T14:23:00Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Colonia",
+     "ubigeo": "151011",
+     "precision": "distrito",
+     "provincia": "Yauyos",
+     "departamento": "Lima",
+     "lon": -75.89017,
+     "lat": -12.63385,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "9294d894ea4a",
+   "titulo": "RENÉ CHÁVEZ Y FREDESAA LOGRAN ACUERDOS A FAVOR DE ALTO AMAZONAS",
+   "resumen": "El gobernador regional de Loreto, René Chávez, sostuvo una nueva reunión con los representantes del Frente de Defensa y Desarrollo de Alto Amazonas (FREDESAA), en la que se evaluaron los compromisos asumidos para atender las principales demandas de la provincia de Alto Amazonas. Los acuerdos…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://proycontra.com.pe/noticias/rene-chavez-y-fredesaa-logran-acuerdos-a-favor-de-alto-amazonas",
+   "fecha": "2026-10-15T13:54:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alto Amazonas",
+     "ubigeo": "160200",
+     "precision": "provincia",
+     "provincia": "Alto Amazonas",
+     "departamento": "Loreto",
+     "lon": -76.12805,
+     "lat": -5.88426,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b0c5b5054369",
+   "titulo": "MELÉNDEZ RETA A CHONG A UN DEBATE PÚBLICO EN LORETO",
+   "resumen": "* El candidato sostiene que habrá segunda vuelta y pide discutir propuestas sobre seguridad, salud, agua potable y la crisis económica de las familias.Fernando Meléndez afirmó que Loreto tendrá una segunda vuelta electoral y retó públicamente a Vladimir Chong a participar en un debate para…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://proycontra.com.pe/noticias/melendez-reta-a-chong-a-un-debate-publico-en-loreto",
+   "fecha": "2026-10-15T13:50:00Z",
+   "temas": [
+    "agua",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0d1029c64f8f",
+   "titulo": "“EL PRÓXIMO GOBERNADOR DEBE PRIORIZAR LA ENERGÍA, SALUD Y EDUCACIÓN”",
+   "resumen": "* El abogado Warren Gonzáles pidió que la segunda vuelta regional se centre en propuestas concretas y planteó realizar debates en Iquitos, Requena y Yurimaguas.El abogado Warren Gonzáles sostuvo que los candidatos a la segunda vuelta por el Gobierno Regional de Loreto deben dejar de lado los…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://proycontra.com.pe/noticias/el-proximo-gobernador-debe-priorizar-la-energia-salud-y-educacion",
+   "fecha": "2026-10-15T13:40:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Requena",
+     "ubigeo": "160500",
+     "precision": "provincia",
+     "provincia": "Requena",
+     "departamento": "Loreto",
+     "lon": -73.85678,
+     "lat": -5.0638,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Yurimaguas",
+     "ubigeo": "160201",
+     "precision": "distrito",
+     "provincia": "Alto Amazonas",
+     "departamento": "Loreto",
+     "lon": -76.12805,
+     "lat": -5.88426,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3475224b7938",
+   "titulo": "DE IQUITOS A LIMA: LUIZ REÁTEGUI LLEVARÁ SU EXPERIENCIA A JESÚS MARÍA",
+   "resumen": "* El iquiteño, elegido por los vecinos del distrito limeño, propone reforzar la seguridad, impulsar la salud y la educación, y no descarta volver algún día a su tierra natal para servir a Maynas.DE IQUITOS A LIMA: LUIZ REÁTEGUI LLEVARÁ SU EXPERIENCIA A JESÚS MARÍA* El iquiteño, elegido por los…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://proycontra.com.pe/noticias/de-iquitos-a-lima-luiz-reategui-llevara-su-experiencia-a-jesus-maria",
+   "fecha": "2026-10-15T13:22:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Jesús María",
+     "ubigeo": "150113",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04327,
+     "lat": -12.07561,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Maynas",
+     "ubigeo": "160100",
+     "precision": "provincia",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  }
+ ]
+}

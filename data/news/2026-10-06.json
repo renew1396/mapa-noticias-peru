@@ -1,0 +1,66 @@
+{
+ "fecha": "2026-10-06",
+ "noticias": [
+  {
+   "id": "4e65e0d19a45",
+   "titulo": "En el Congreso se debatió el agua como bien público y las amenazas a las fuentes hídricas de Lima",
+   "resumen": "SUTESAL junto con el despacho de la senadora Mirtha Vásquez, organizó el foro «Gestión del agua ¿pública o privada? Pedido de facultades sobre recursos hídricos y su gestión – SEDAPAL», un espacio de discusión sobre el futuro de la gestión del agua en Lima y Callao, el papel de SEDAPAL y las…",
+   "medio": "CooperAcción",
+   "medio_id": "cooperaccion",
+   "url": "https://cooperaccion.org.pe/en-el-congreso-se-debatio-el-agua-como-bien-publico-y-las-amenazas-a-las-fuentes-hidricas-de-lima/?utm_source=rss&utm_medium=rss&utm_campaign=en-el-congreso-se-debatio-el-agua-como-bien-publico-y-las-amenazas-a-las-fuentes-hidricas-de-lima",
+   "fecha": "2026-10-06T17:07:06Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "53178ea2b9ff",
+   "titulo": "Confederación Nacional Agraria (CNA) construye criterios propios para visibilizar su aporte a la conservación de la biodiversidad",
+   "resumen": "Lima, octubre de 2026. Representantes de las federaciones y organizaciones de base de la Confederación Nacional Agraria (CNA), provenientes de diferentes regiones del país, participaron en la asamblea por el aniversario 52, donde analizaron, discutieron y validaron una propuesta de 3 criterios…",
+   "medio": "DAR",
+   "medio_id": "dar",
+   "url": "https://dar.org.pe/cna-aprueba-tres-criterios-indigenas-para-visibilizar-sus-aportes-a-la-conservacion-de-la-biodiversidad/",
+   "fecha": "2026-10-06T15:17:35Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  }
+ ]
+}

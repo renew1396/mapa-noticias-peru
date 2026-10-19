@@ -42,5 +42,31 @@ datos no pasa, pero si ocurre: Actions › elegir la tarea › "Enable workflow"
   Si se acerca: reducir días de noticias publicados o mover PMTiles grandes (ver DECISIONS.md).
 - Archivo > 100 MB: GitHub rechaza el `push`. Dividir el archivo o filtrarlo (p. ej. concesiones vigentes).
 
-## No se actualizan las noticias / Un RSS dejó de funcionar
-(Se completa en la Fase 2.)
+## No se actualizan las noticias
+1. Mirar la tarea: `gh run list --workflow noticias.yml --limit 5`. Si no aparece nada reciente, puede estar
+   apagada (ver "Las tareas programadas dejaron de correr") o GitHub la está retrasando (normal hasta ~30 min).
+2. Si falló: `gh run view <id> --log-failed`. Errores típicos:
+   - `git push` rechazado: otra tarea escribió al mismo tiempo. Se corrige sola en la siguiente ejecución.
+   - Error de Python en `pipeline/ingest.py`: reproducir con `.venv/bin/python -m pipeline.ingest` y arreglar.
+3. Si corre pero no entran noticias: revisar `data/status/estado.json` (`nuevas`, y `medios.*.error`).
+4. Forzar una ejecución: `gh workflow run noticias.yml`.
+
+## Un RSS dejó de funcionar
+El chequeo de salud avisa cuando un medio lleva ≥ 12 ejecuciones (24 h) fallando. En `data/status/estado.json`
+→ `medios.<id>.error` dice por qué (HTTP 403/404, sin respuesta, feed vacío, robots.txt).
+1. Probarlo: `.venv/bin/python -m pipeline.ingest --solo <id>` y `curl -sI <url del feed>`.
+2. Si cambió de URL: buscar la nueva (suele ser `/feed/`, `/rss`, `/arcio/rss/`), verificar que traiga ítems
+   recientes y actualizar `config/sources.yaml`.
+3. Si ya no tiene RSS: poner `activo: false` en `config/sources.yaml` y anotarlo en SOURCES.md.
+   **No** hacer scraping de la página sin preguntar al dueño.
+
+## El geoparsing ubica mal una noticia
+1. Reproducir: `.venv/bin/python -c "from pipeline.geoparse import geoparse; print(geoparse('titular', 'resumen'))"`.
+2. Arreglo preferido (sin código): `config/exclusiones.yaml` (frases que no son lugares, nombres que piden
+   contexto, países) o `config/gazetteer_alias.yaml` (nombres de ciudades que no son distritos).
+3. Medir antes y después: `.venv/bin/python -m pipeline.evaluar --detalle`. No bajar de 80 % a nivel distrito.
+4. Las noticias ya guardadas no se recalculan solas: si hace falta, reprocesar es borrar `data/state/vistos.json`
+   y los días afectados (pedir permiso al dueño antes de borrar).
+
+## Probar que llega el correo de aviso
+`gh workflow run salud.yml -f probar_aviso=true` → la tarea falla a propósito y GitHub manda el correo.

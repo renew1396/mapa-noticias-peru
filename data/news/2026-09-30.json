@@ -1,0 +1,42 @@
+{
+ "fecha": "2026-09-30",
+ "noticias": [
+  {
+   "id": "b4acc56ad23d",
+   "titulo": "Cotabambas apuesta por la agroecología, el agua y la defensa de su territorio",
+   "resumen": "El Foro Provincial de Agroecología y Defensa del Territorio reunió en Tambobamba a comunidades, productores, organizaciones e instituciones para impulsar la agroecología, proteger el agua y fortalecer la agricultura familiar como alternativas para un desarrollo sostenible en Cotabambas.",
+   "medio": "CooperAcción",
+   "medio_id": "cooperaccion",
+   "url": "https://cooperaccion.org.pe/cotabambas-apuesta-por-la-agroecologia-el-agua-y-la-defensa-de-su-territorio/?utm_source=rss&utm_medium=rss&utm_campaign=cotabambas-apuesta-por-la-agroecologia-el-agua-y-la-defensa-de-su-territorio",
+   "fecha": "2026-09-30T11:25:05Z",
+   "temas": [
+    "agua",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tambobamba",
+     "ubigeo": "030501",
+     "precision": "distrito",
+     "provincia": "Cotabambas",
+     "departamento": "Apurímac",
+     "lon": -72.17478,
+     "lat": -13.94602,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cotabambas",
+     "ubigeo": "030500",
+     "precision": "provincia",
+     "provincia": "Cotabambas",
+     "departamento": "Apurímac",
+     "lon": -72.17478,
+     "lat": -13.94602,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  }
+ ]
+}

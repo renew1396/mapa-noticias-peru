@@ -1,0 +1,31 @@
+{
+ "fecha": "2026-10-07",
+ "noticias": [
+  {
+   "id": "18d47c95402c",
+   "titulo": "Cusco y los incendios forestales de cada año",
+   "resumen": "Los incendios forestales no constituyen únicamente una emergencia ambiental. También representan una amenaza para la vida, la seguridad alimentaria, los medios de vida de las familias rurales y los ecosistemas andinos.",
+   "medio": "CooperAcción",
+   "medio_id": "cooperaccion",
+   "url": "https://cooperaccion.org.pe/cusco-y-los-incendios-forestales-de-cada-ano/?utm_source=rss&utm_medium=rss&utm_campaign=cusco-y-los-incendios-forestales-de-cada-ano",
+   "fecha": "2026-10-07T19:24:27Z",
+   "temas": [
+    "medio_ambiente",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  }
+ ]
+}

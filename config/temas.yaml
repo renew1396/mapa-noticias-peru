@@ -1,0 +1,75 @@
+# Temas de las noticias (lista cerrada). Cada tema tiene palabras clave SIN tildes y en
+# minúsculas; se buscan como palabras o frases completas en título + resumen.
+# Una noticia puede tener hasta 2 temas; el primero (más coincidencias) es el principal.
+# El color se usa en el mapa (paleta apta para daltónicos).
+# "otros" se asigna cuando no coincide ninguno.
+
+temas:
+  conflicto_social:
+    nombre: Conflicto social
+    color: "#c2410c"
+    palabras: [paro, protesta, protestas, huelga, bloqueo, bloquean, bloqueo de vias, movilizacion, marcha,
+               enfrentamiento, enfrentamientos, conflicto social, conflictos sociales, dirigentes, rondas campesinas,
+               ronderos, mesa de dialogo, comuneros, toma de local, piquete, plantón, planton, defensoria]
+  medio_ambiente:
+    nombre: Medio ambiente
+    color: "#15803d"
+    palabras: [contaminacion, derrame, deforestacion, incendio forestal, incendios forestales, oefa, ambiental,
+               biodiversidad, area natural protegida, areas naturales protegidas, sernanp, residuos, relave, relaves,
+               emergencia ambiental, tala ilegal, glaciar, nevado, clima, climatico]
+  mineria:
+    nombre: Minería
+    color: "#7c3aed"
+    palabras: [mineria, minera, mineras, minero, mineros, mina, reinfo, concesion minera, concesiones mineras,
+               mineria ilegal, mineria informal, ingemmet, oro, cobre, socavon, mape, yacimiento]
+  agua:
+    nombre: Agua
+    color: "#0369a1"
+    palabras: [agua potable, desabastecimiento de agua, sedapal, eps, represa, reservorio, riego, canal de riego,
+               escasez de agua, sequia, cuenca, rio contaminado, agua, saneamiento, desague, alcantarillado]
+  seguridad:
+    nombre: Seguridad
+    color: "#b91c1c"
+    palabras: [asesinato, asesinan, homicidio, sicario, sicariato, robo, asalto, extorsion, extorsionadores,
+               delincuentes, delincuencia, policia, pnp, detenido, detenidos, capturan, banda criminal, balacera,
+               feminicidio, violacion, desaparecido, desaparecida, narcotrafico, droga]
+  salud:
+    nombre: Salud
+    color: "#be185d"
+    palabras: [hospital, posta, centro de salud, minsa, essalud, diresa, geresa, dengue, anemia, vacuna,
+               vacunacion, epidemia, brote, casos de, pacientes, medicos, enfermeras, sis, desnutricion]
+  educacion:
+    nombre: Educación
+    color: "#a16207"
+    palabras: [colegio, colegios, escolares, estudiantes, docentes, profesores, ugel, minedu, clases,
+               institucion educativa, universidad, matricula, aulas, escuela]
+  infraestructura:
+    nombre: Infraestructura
+    color: "#4d7c0f"
+    palabras: [obra, obras, construccion, puente, pistas, asfaltado, carretera, via, licitacion, expediente tecnico,
+               inauguran, inaugura, proyecto de inversion, paralizada, saneamiento fisico]
+  transporte:
+    nombre: Transporte
+    color: "#475569"
+    palabras: [accidente de transito, choque, despiste, bus, buses, mototaxi, transportistas, combi, aeropuerto,
+               vuelos, trafico, mtc, atu, linea 2, metro de lima, peaje]
+  desastres:
+    nombre: Desastres
+    color: "#9a3412"
+    palabras: [huaico, huaicos, inundacion, inundaciones, deslizamiento, sismo, terremoto, temblor, lluvias intensas,
+               friaje, heladas, nino costero, fenomeno el nino, emergencia, indeci, damnificados, desborde, erupcion]
+  politica_local:
+    nombre: Política local
+    color: "#1d4ed8"
+    palabras: [alcalde, alcaldesa, regidor, regidores, gobernador regional, gobierno regional, municipalidad,
+               municipio, concejo municipal, consejo regional, elecciones regionales, elecciones municipales,
+               vacancia, revocatoria, segunda vuelta regional, candidato, candidatos]
+  economia:
+    nombre: Economía
+    color: "#0f766e"
+    palabras: [agricultores, agricultura, exportacion, exportaciones, precios, inflacion, comercio, comerciantes,
+               turismo, turistas, empleo, inversion, mypes, cosecha, cafe, cacao, pesca, pescadores, ganaderia]
+  otros:
+    nombre: Otros
+    color: "#6b7280"
+    palabras: []

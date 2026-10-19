@@ -1,0 +1,349 @@
+{
+ "ultima_ejecucion": "2026-10-19T12:30:16Z",
+ "ultima_noticia_nueva": "2026-10-19T12:30:16Z",
+ "nuevas": 728,
+ "ubicadas": 369,
+ "pendientes": 359,
+ "medios": {
+  "rpp": {
+   "nombre": "RPP",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 60,
+   "nuevas": 31,
+   "ubicadas": 17,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "elcomercio": {
+   "nombre": "El Comercio",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 100,
+   "nuevas": 19,
+   "ubicadas": 3,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "larepublica-sociedad": {
+   "nombre": "La República",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 47,
+   "nuevas": 46,
+   "ubicadas": 27,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "larepublica-politica": {
+   "nombre": "La República",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 24,
+   "nuevas": 23,
+   "ubicadas": 2,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "correo": {
+   "nombre": "Correo",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 100,
+   "nuevas": 84,
+   "ubicadas": 61,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "gestion": {
+   "nombre": "Gestión",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 100,
+   "nuevas": 56,
+   "ubicadas": 11,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "infobae": {
+   "nombre": "Infobae Perú",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 100,
+   "nuevas": 76,
+   "ubicadas": 35,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "andina": {
+   "nombre": "Andina",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 20,
+   "nuevas": 19,
+   "ubicadas": 4,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "canaln": {
+   "nombre": "Canal N",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 33,
+   "nuevas": 27,
+   "ubicadas": 5,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "rcr": {
+   "nombre": "RCR",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 10,
+   "ubicadas": 4,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "elbuho": {
+   "nombre": "El Búho",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 20,
+   "nuevas": 20,
+   "ubicadas": 12,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "elpueblo": {
+   "nombre": "Diario El Pueblo",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 4,
+   "ubicadas": 2,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "losandes": {
+   "nombre": "Los Andes",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 6,
+   "ubicadas": 4,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "pachamama": {
+   "nombre": "Pachamama Radio",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 16,
+   "nuevas": 11,
+   "ubicadas": 9,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "ondaazul": {
+   "nombre": "Radio Onda Azul",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 10,
+   "ubicadas": 9,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "radiouno": {
+   "nombre": "Radio Uno",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 20,
+   "nuevas": 20,
+   "ubicadas": 18,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "prensaregional": {
+   "nombre": "Prensa Regional",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 50,
+   "nuevas": 47,
+   "ubicadas": 38,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "sinfronteras": {
+   "nombre": "Diario Sin Fronteras",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 10,
+   "ubicadas": 6,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "jornada": {
+   "nombre": "Diario Jornada",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 5,
+   "ubicadas": 3,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "ahora": {
+   "nombre": "Diario Ahora",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 50,
+   "nuevas": 26,
+   "ubicadas": 16,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "eltiempo": {
+   "nombre": "El Tiempo",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 6,
+   "ubicadas": 4,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "cutivalu": {
+   "nombre": "Radio Cutivalú",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 1,
+   "nuevas": 1,
+   "ubicadas": 1,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "maranon": {
+   "nombre": "Radio Marañón",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 4,
+   "ubicadas": 4,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "chimbote": {
+   "nombre": "Diario de Chimbote",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 10,
+   "ubicadas": 7,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "satelite": {
+   "nombre": "Diario Satélite",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 10,
+   "ubicadas": 0,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "proycontra": {
+   "nombre": "Pro & Contra",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 50,
+   "nuevas": 50,
+   "ubicadas": 33,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "laregion": {
+   "nombre": "Diario La Región",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 5,
+   "nuevas": 5,
+   "ubicadas": 5,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "ser": {
+   "nombre": "Noticias SER",
+   "ok": false,
+   "error": "sin respuesta: ReadTimeout",
+   "items_en_feed": 0,
+   "nuevas": 0,
+   "ubicadas": 0,
+   "ultimo_ok": null,
+   "fallos_seguidos": 1
+  },
+  "inforegion": {
+   "nombre": "Inforegión",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 20,
+   "nuevas": 20,
+   "ubicadas": 15,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "actualidadambiental": {
+   "nombre": "Actualidad Ambiental",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 12,
+   "nuevas": 12,
+   "ubicadas": 5,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "mongabay": {
+   "nombre": "Mongabay Latam",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 30,
+   "nuevas": 29,
+   "ubicadas": 1,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "rumbominero": {
+   "nombre": "Rumbo Minero",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 9,
+   "ubicadas": 2,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "cooperaccion": {
+   "nombre": "CooperAcción",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 12,
+   "nuevas": 12,
+   "ubicadas": 5,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  },
+  "dar": {
+   "nombre": "DAR",
+   "ok": true,
+   "error": null,
+   "items_en_feed": 10,
+   "nuevas": 10,
+   "ubicadas": 1,
+   "ultimo_ok": "2026-10-19T12:30:16Z",
+   "fallos_seguidos": 0
+  }
+ }
+}

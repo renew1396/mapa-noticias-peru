@@ -1,0 +1,54 @@
+{
+ "fecha": "2026-09-28",
+ "noticias": [
+  {
+   "id": "fea16b5dd3fa",
+   "titulo": "Apurímac: comunidad espera sentencia en defensa del agua",
+   "resumen": "La Comunidad Campesina Quishque Choccemarca, de Apurímac, presentó una demanda de amparo que se ventiló en audiencia el miércoles 16 de setiembre en la sede del Tribunal Constitucional. A pesar que el […]",
+   "medio": "CooperAcción",
+   "medio_id": "cooperaccion",
+   "url": "https://cooperaccion.org.pe/apurimac-comunidad-espera-sentencia-en-defensa-del-agua/?utm_source=rss&utm_medium=rss&utm_campaign=apurimac-comunidad-espera-sentencia-en-defensa-del-agua",
+   "fecha": "2026-09-28T15:33:13Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Quishque",
+     "ubigeo": "030414",
+     "ccpp": "0304140018",
+     "precision": "centro_poblado",
+     "provincia": "Aymaraes",
+     "departamento": "Apurímac",
+     "lon": -73.1358,
+     "lat": -14.1609,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Choccemarca",
+     "ubigeo": "030104",
+     "ccpp": "0301040127",
+     "precision": "centro_poblado",
+     "provincia": "Abancay",
+     "departamento": "Apurímac",
+     "lon": -72.52691,
+     "lat": -13.70734,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  }
+ ]
+}

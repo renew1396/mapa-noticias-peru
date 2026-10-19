@@ -19,9 +19,10 @@ cualquier costo, borrar datos, cambiar la arquitectura o hacer scraping de un si
 ## Estado por fases
 - [x] Fase 0: verificación de fuentes y plan (ver SOURCES.md)
 - [x] Fase 1: base — límites distritales, mapa con distritos tocables, workflows, docs (publicada 2026-10-19)
-  - Pendiente para Fase 4: la primera carga tarda ~6–8 s (JS de MapLibre ~290 KB + distritos ~1 MB comprimidos).
-- [ ] Fase 2: noticias (RSS → geoparsing Nivel 1 → mapa, radio, filtros, evaluación, chequeo de salud)
-- [ ] Fase 3: capas (pobreza 2018, conflictos Defensoría, concesiones INGEMMET, salud RENIPRESS) y ficha de zona
+- [x] Fase 2: noticias (34 RSS cada 2 h → geoparsing Nivel 1 → mapa con pines, radio 1–50 km, filtros 7/30/90 días,
+      tema y medio; evaluación 94 % a nivel distrito; chequeo de salud diario con aviso por correo) — 2026-10-19
+- [ ] Fase 3: capas (pobreza 2018, conflictos Defensoría, concesiones INGEMMET, salud RENIPRESS), dibujo de
+      polígono y ficha de zona completa con indicadores
 - [ ] Fase 4: pulido, PWA, página de fuentes
 - [ ] Fase 5: botón "Revisar con IA" (Modo B gratis por defecto; Modo A con API apagado)
 
@@ -31,24 +32,53 @@ cualquier costo, borrar datos, cambiar la arquitectura o hacer scraping de un si
 | `etl/common.py` | utilidades de ETL: descargas con reintentos, ArcGIS paginado, `ubigeo6`, `require_fields`, `write_meta` |
 | `etl/<fuente>/run.py` | un ETL por fuente, idempotente. Se corre con `python -m etl.<fuente>.run` |
 | `data/layers/` | capas publicadas (GeoJSON / PMTiles) + `<capa>.meta.json` (fuente, fecha de corte, fecha de carga) |
-| `data/gazetteer/` | nombres de lugares para el geoparsing (`ubigeos.json`: 1 891 distritos con punto interior) |
-| `data/news/` | (Fase 2) un JSON por día con las noticias ubicadas |
+| `data/gazetteer/` | `ubigeos.json` (1 891 distritos) y `ccpp.json` (94 922 centros poblados, Censo 2017) |
+| `pipeline/` | noticias: `ingest.py` (RSS→archivos), `geoparse.py` (dónde ocurre), `gazetteer.py`, `temas.py`, `evaluar.py`, `salud.py` |
+| `data/news/` | `AAAA-MM-DD.json` (noticias **ubicadas** de ese día, hora de Lima) + `index.json`. Las publica la web |
+| `data/pending/` | noticias sin lugar o con confianza < 0.35 (no se publican; materia prima del botón IA, Fase 5) |
+| `data/archive/` | días que salieron de la ventana (90 días noticias, 30 pendientes). No se borra nada |
+| `data/state/vistos.json` | URLs/titulares ya procesados (10 días) para no repetir |
+| `data/status/` | `estado.json` (última ejecución, estado de cada medio) y `temas.json` (colores para la web) |
+| `data/eval/set.jsonl` | set de prueba: 129 noticias reales del 2026-10-19 etiquetadas a mano (lugar esperado) |
 | `data/raw/` | descargas crudas; **ignorado por git** (se re-descarga, ver SOURCES.md) |
 | `config/` | todo lo editable sin tocar código: medios RSS, temas, exclusiones, alias, interruptor IA |
 | `web/` | Vite + TypeScript **sin framework** + MapLibre. `web/src/main.ts` es la entrada |
 | `tests/` | pytest (lógica y validación de los datos generados) |
-| `.github/workflows/` | `ci.yml` (pruebas), `deploy.yml` (publicar), `etl.yml` (capas, mensual) |
+| `.github/workflows/` | `noticias.yml` (cada 2 h), `salud.yml` (diario), `evaluar.yml` (a mano), `ci.yml` (pruebas), `deploy.yml` (publicar), `etl.yml` (capas, mensual) |
 
 ## Cómo correr todo (desde la raíz del repo)
 ```bash
 uv venv --python 3.12 .venv && uv pip install --python .venv/bin/python -r requirements.txt   # una vez
 .venv/bin/python -m pytest                      # pruebas Python
 .venv/bin/python -m etl.limites.run             # regenerar límites (~10 s)
+.venv/bin/python -m etl.ccpp.run                # regenerar centros poblados (~25 s)
+.venv/bin/python -m pipeline.ingest             # leer RSS y actualizar data/news (~1,5 min)
+.venv/bin/python -m pipeline.ingest --solo rpp  # probar un solo medio
+.venv/bin/python -m pipeline.evaluar --detalle  # medir el geoparsing contra data/eval/set.jsonl
+.venv/bin/python -m pipeline.salud              # chequeo de salud (falla si algo anda mal)
 cd web && npm ci && npm run dev                 # web local en http://localhost:5173
+cd web && npm test                              # pruebas de la web (vitest)
 cd web && npm run build                         # compila a web/dist (copia data/layers, news, status)
 ```
-En la Mac del dueño la vista previa se lanza con la configuración `mapa-noticias-peru` de
-`~/Documents/Claude/Web/.claude/launch.json` (puerto 5178).
+En la Mac del dueño la vista previa se lanza con `mapa-noticias-peru` (dev, puerto 5178) o
+`mapa-noticias-peru-compilado` (versión compilada como en Pages, puerto 5179) de
+`~/Documents/Claude/Web/.claude/launch.json`. Ojo: en el navegador interno de la app, recargar la misma
+pestaña a veces deja el mapa en "Cargando…" ~30 s; abrir una pestaña nueva lo evita (no pasa en celulares).
+
+## Formato de una noticia (`data/news/AAAA-MM-DD.json` → `noticias[]`)
+`id` (hash de la URL), `titulo`, `resumen` (≤ 300 car.), `medio`, `medio_id`, `url`, `fecha` (UTC),
+`temas` (1–2 claves de `config/temas.yaml`, el primero es el principal), `lugares[]` (`nombre`, `ubigeo`,
+`ccpp?`, `precision` = departamento|provincia|distrito|centro_poblado, `provincia`, `departamento`, `lon`,
+`lat`, `confianza` 0–1, `principal`), `grupo?` (misma noticia en otro medio), `revisar?` (confianza < 0.6).
+La web pone pin solo a precisión distrito/centro poblado; provincia/región van a la lista de la zona.
+
+## Cómo funciona el geoparsing (resumen; detalle en `pipeline/geoparse.py`)
+Busca nombres del gazetteer (el más largo gana), exige mayúscula, descarta frases de `config/exclusiones.yaml`
+(clubes, personas, países, calles) y nombres pegados a otra palabra con mayúscula ("Tomás Gálvez").
+Desempata con palabras de contexto ("distrito de", "región", "en", "comisaría de"), otros lugares mencionados,
+la región del medio y la población. Elige el lugar más específico coherente. **Antes de cambiar reglas,
+correr `pipeline.evaluar --detalle` y después de cambiarlas otra vez**: `tests/test_geoparse.py` exige ≥ 80 %
+a nivel distrito. Preferir arreglos en `config/` (alias, exclusiones) antes que en el código.
 
 ## Convenciones (obligatorias)
 - **Ubigeo = texto de 6 dígitos** siempre. Normalizar con `etl.common.ubigeo6` (los servicios ArcGIS lo

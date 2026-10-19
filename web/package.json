@@ -10,6 +10,9 @@
     "test": "vitest run --passWithNoTests"
   },
   "dependencies": {
+    "@turf/bbox": "7.4.0",
+    "@turf/boolean-intersects": "7.4.0",
+    "@turf/circle": "7.4.0",
     "maplibre-gl": "6.12.0"
   },
   "devDependencies": {

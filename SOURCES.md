@@ -8,7 +8,7 @@ está en `data/layers/<capa>.meta.json`).
 | Capa | Fuente | URL | Formato | Licencia | Actualización | Estado |
 |---|---|---|---|---|---|---|
 | Límites distritales | INEI (servicio publicado por la ANA) | `https://geosnirh.ana.gob.pe/server/rest/services/ONRH/Limite_Distrital_Estandarizado_v2/FeatureServer/0` | ArcGIS REST → GeoJSON (paginado, 1 891 distritos) | Dato público del Estado peruano; citar INEI | Cuando el INEI crea distritos | ✅ cargada (`etl/limites`) |
-| Centros poblados | INEI Censo 2017 (servicio ANA) | `https://geosnirh.ana.gob.pe/server/rest/services/ONRH/CCPP_2017/FeatureServer/17` | ArcGIS REST, 94 922 puntos, UBIGEO numérico | Dato público; citar INEI | Censal (2017) | Fase 2 |
+| Centros poblados | INEI Censo 2017 (servicio ANA) | `https://geosnirh.ana.gob.pe/server/rest/services/ONRH/CCPP_2017/FeatureServer/17` | ArcGIS REST, 94 922 puntos, UBIGEO numérico | Dato público; citar INEI | Censal (2017) | ✅ cargada (`etl/ccpp`) |
 | Pobreza monetaria distrital | INEI, Mapa de Pobreza Monetaria 2018 (feb-2020) | `https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1718/` | PDF con anexos (1 874 distritos, IC 95 %) | Dato público; citar INEI | Edición más reciente disponible | Fase 3 |
 | Conflictos sociales | Defensoría del Pueblo, reporte mensual | `https://www.defensoria.gob.pe/areas_tematicas/paz-social-y-prevencion-de-conflictos/` (PDF n.º 270, ago-2026: `/wp-content/uploads/2026/09/Reporte-de-conflictos-sociales-n-270.pdf`) | PDF ~117 págs. | Dato público; citar Defensoría | Mensual (~mitad de mes) | Fase 3 |
 | Concesiones mineras | INGEMMET GEOCATMIN | `https://geocatmin.ingemmet.gob.pe/arcgis/rest/services/SERV_CATASTRO_MINERO_WGS84/MapServer/0` | ArcGIS REST, 67 202 polígonos, **sin paginación** (descargar por `DEPA`, máx. 2 000 por consulta) | Dato público; citar INGEMMET | Diaria | Fase 3 |
@@ -27,7 +27,7 @@ está en `data/layers/<capa>.meta.json`).
 - **RENIPRESS**: la página del dataset lista un CSV por mes; tomar el más reciente.
 
 ## Medios con RSS (verificados el 2026-10-19)
-La lista vigente y editable está en `config/sources.yaml` (Fase 2). Funcionando: RPP, El Comercio,
+La lista vigente y editable está en `config/sources.yaml` (34 feeds de 33 medios). Su estado en cada ejecución queda en `data/status/estado.json`. Funcionando: RPP, El Comercio,
 La República (sociedad y política), Correo, Gestión, Infobae Perú, Andina, Canal N, RCR, El Búho, El Pueblo,
 Los Andes, Pachamama Radio, Onda Azul, Radio Uno, Prensa Regional, Sin Fronteras, Jornada, Diario Ahora
 (Huánuco), El Tiempo, Cutivalú, Radio Marañón, Diario de Chimbote, Satélite, Pro & Contra, La Región,

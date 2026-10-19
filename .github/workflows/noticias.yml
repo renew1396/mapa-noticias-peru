@@ -1,0 +1,54 @@
+# Lee los RSS, ubica y clasifica las noticias, las guarda y publica el sitio.
+# Corre cada 2 horas (a los :23 para evitar la hora punta de GitHub). Si falla, GitHub avisa por correo.
+name: Noticias
+
+on:
+  schedule:
+    - cron: "23 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: escribe-datos
+  cancel-in-progress: false
+
+jobs:
+  ingesta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      cambio: ${{ steps.guardar.outputs.cambio }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Leer RSS y ubicar noticias
+        run: python -m pipeline.ingest
+      - name: Guardar
+        id: guardar
+        run: |
+          git config user.name "robot-mapa"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data
+          if git diff --cached --quiet; then
+            echo "cambio=no" >> "$GITHUB_OUTPUT"
+          else
+            git commit -q -m "Noticias: actualización automática $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase -q
+            git push -q
+            echo "cambio=si" >> "$GITHUB_OUTPUT"
+          fi
+
+  publicar:
+    needs: ingesta
+    if: needs.ingesta.outputs.cambio == 'si'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml

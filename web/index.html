@@ -9,10 +9,33 @@
   </head>
   <body>
     <header class="topbar">
-      <h1>Mapa de noticias del Perú</h1>
-      <span id="estado" class="estado" aria-live="polite">Cargando distritos…</span>
+      <div class="marca">
+        <h1>Mapa de noticias del Perú</h1>
+        <span id="estado" class="estado" aria-live="polite">Cargando…</span>
+      </div>
+      <button id="abrir-filtros" class="boton-barra" aria-expanded="false" aria-controls="filtros">
+        Filtros <span id="resumen-filtros" class="chip-mini">7 días</span>
+      </button>
     </header>
+
+    <section id="filtros" class="panel-filtros" hidden aria-label="Filtros de noticias">
+      <fieldset>
+        <legend>Período</legend>
+        <div class="segmentado" role="radiogroup" id="filtro-dias">
+          <button role="radio" aria-checked="true" data-dias="7">7 días</button>
+          <button role="radio" aria-checked="false" data-dias="30">30 días</button>
+          <button role="radio" aria-checked="false" data-dias="90">90 días</button>
+        </div>
+      </fieldset>
+      <label>Tema <select id="filtro-tema"><option value="">Todos los temas</option></select></label>
+      <label>Medio <select id="filtro-medio"><option value="">Todos los medios</option></select></label>
+      <div id="leyenda" class="leyenda" aria-label="Colores por tema"></div>
+      <p class="nota">Toca el mapa para ver las noticias de una zona. Los pines son noticias ubicadas en un distrito o
+        centro poblado; las que solo mencionan una provincia o región aparecen en la lista de la zona.</p>
+    </section>
+
     <main id="mapa" aria-label="Mapa del Perú"></main>
+
     <section id="ficha" class="ficha" hidden aria-live="polite">
       <button id="cerrar-ficha" class="cerrar" aria-label="Cerrar ficha">×</button>
       <div id="ficha-contenido"></div>

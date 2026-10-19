@@ -1,0 +1,254 @@
+# Reglas para evitar falsos positivos del geoparsing (Nivel 1). Todo SIN tildes y en minúsculas.
+# Las correcciones del botón "Revisar con IA" (Fase 5) agregarán entradas aquí.
+
+# Frases que NO son lugares aunque contengan uno (clubes, personas, instituciones, calles famosas).
+# Se borran del texto antes de buscar lugares.
+frases_excluidas:
+  # clubes y deporte
+  - alianza lima
+  - sporting cristal
+  - deportivo municipal
+  - sport boys
+  - fbc melgar
+  - real garcilaso
+  - cusco fc
+  - adt de tarma
+  - ayacucho fc
+  - comerciantes unidos
+  - union comercio
+  - atletico grau
+  - juan pablo ii college
+  - copa libertadores
+  # personas que llevan nombre de lugar
+  - miguel grau
+  - almirante grau
+  - simon bolivar
+  - jose de san martin
+  - francisco bolognesi
+  - ramon castilla
+  - antonio jose de sucre
+  - jorge basadre
+  - leoncio prado
+  - mariano melgar
+  - andres avelino caceres
+  - jose carlos mariategui
+  - jose maria arguedas
+  - maria parado de bellido
+  # instituciones y lugares de Lima con nombre de otro sitio
+  - san marcos
+  - unmsm
+  - universidad san martin de porres
+  - universidad nacional de san martin
+  - universidad de lima
+  - plaza san martin
+  - plaza grau
+  - plaza bolognesi
+  - palacio de gobierno
+  - via expresa grau
+  - hospital loayza
+  # nombres de otros países que coinciden con lugares del Perú
+  - santa cruz de la sierra
+  - santiago de chile
+  - concepcion chile
+  - asuncion paraguay
+  - la paz bolivia
+  - jaen espana
+
+# Palabras que, si van JUSTO ANTES de un nombre, indican una calle u otra cosa: no es el lugar.
+# (también se revisa "<prefijo> de <lugar>": "colegio de Piura").
+prefijos_calle: [avenida, av, jiron, jr, calle, pasaje, psje, ovalo, malecon, alameda, prolongacion, prol,
+                 cuadra, urbanizacion, urb, colegio, club, coliseo, estadio, universidad, hotel, restaurante, ie,
+                 institucion educativa, mercado, parque, plaza]
+
+# Nombres que solo cuentan con una palabra de contexto ("distrito de", "provincia de", "region",
+# "en la comunidad de", etc.) o si en el texto aparece también su provincia o departamento.
+solo_con_contexto:
+  - mala
+  - llama
+  - union
+  - la union
+  - progreso
+  - el progreso
+  - independencia
+  - constitucion
+  - pampas
+  - santa
+  - esperanza
+  - la esperanza
+  - porvenir
+  - el porvenir
+  - victoria
+  - la victoria
+  - florida
+  - la florida
+  - concepcion
+  - asuncion
+  - santiago
+  - santa cruz
+  - san jose
+  - dos de mayo
+  - el dorado
+  - morales
+  - salas
+  - laredo
+  - moro
+  - castilla
+  - sucre
+  - bolivar
+  - grau
+  - bolognesi
+  - melgar
+  - rioja
+  - requena
+  - putumayo
+  - magdalena
+  - carmen
+  - el carmen
+  - vista alegre
+  - san antonio
+  - san juan
+  - san pedro
+  - san pablo
+  - san miguel
+  - santa rosa
+  - santa maria
+  - san luis
+  - san rafael
+  - san isidro
+  - la paz
+  - libertad
+  - paz
+  - huerta
+  - pisco
+  - chao
+  - huari
+  - lagunas
+  - sama
+  - alto
+  - cerro
+  - nuevo
+  - pueblo nuevo
+  - centro
+  - comas
+  - surquillo
+  - quilca
+  - lucre
+  - torata
+  - jesus
+  - ite
+  - matucana
+  - ocros
+
+# Palabras con mayúscula que pueden ir pegadas a un lugar sin que sea parte de un nombre de persona
+# u organización ("Dirección Regional de Salud Moquegua", "Lima Norte", "Bajo Piura").
+vecinos_permitidos: [salud, educacion, regional, region, provincial, distrital, municipal, departamental, norte, sur,
+                     este, oeste, centro, metropolitana, provincias, alto, bajo, gran, nuevo, nueva, villa, puerto,
+                     ciudad, lago, rio, valle, cerro, playa, provincia, distrito, ugel, diresa, geresa, sutep, una,
+                     unsa, unsaac, unp, corte, fiscalia, pnp, dre, gore]
+
+# Nombres que nunca se aceptan como lugar (demasiado genéricos).
+nunca:
+  - peru
+  - lima metropolitana norte
+  - sur
+  - norte
+  - oriente
+  - selva
+  - sierra
+  - costa
+  - centro poblado
+  # países y ciudades extranjeras (hay caseríos peruanos con estos nombres)
+  - brasil
+  - bolivia
+  - chile
+  - ecuador
+  - colombia
+  - argentina
+  - paraguay
+  - uruguay
+  - venezuela
+  - mexico
+  - panama
+  - costa rica
+  - cuba
+  - espana
+  - francia
+  - italia
+  - alemania
+  - china
+  - japon
+  - rusia
+  - ucrania
+  - israel
+  - kenia
+  - belgica
+  - holanda
+  - paises bajos
+  - inglaterra
+  - reino unido
+  - portugal
+  - suiza
+  - suecia
+  - noruega
+  - grecia
+  - turquia
+  - canada
+  - australia
+  - india
+  - corea
+  - corea del sur
+  - iran
+  - irak
+  - siria
+  - palestina
+  - gaza
+  - libano
+  - egipto
+  - marruecos
+  - sudafrica
+  - nigeria
+  - haiti
+  - guatemala
+  - honduras
+  - el salvador
+  - nicaragua
+  - republica dominicana
+  - puerto rico
+  - texas
+  - california
+  - nueva jersey
+  - toronto
+  - santiago de chile
+  - arica
+  - iquique
+  - guayaquil
+  - medellin
+  - cali
+  - leticia
+  - la paz bolivia
+  - el alto
+  - oruro
+  - cochabamba
+  - estados unidos
+  - los angeles
+  - nueva york
+  - miami
+  - madrid
+  - barcelona
+  - roma
+  - paris
+  - londres
+  - washington
+  - bogota
+  - quito
+  - caracas
+  - la habana
+  - buenos aires
+  - sao paulo
+  - rio de janeiro
+  - vaticano
+  - europa
+  - asia
+  - africa
+  - america
+  - oceania

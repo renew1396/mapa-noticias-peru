@@ -1,0 +1,125 @@
+# Medios con RSS. Para agregar uno: copiar un bloque, cambiar id/nombre/url y,
+# si es regional, poner los códigos de departamento (2 dígitos del ubigeo) en `departamentos`.
+# Para quitar uno sin borrarlo: `activo: false`.
+#
+# Códigos de departamento: 01 Amazonas · 02 Áncash · 03 Apurímac · 04 Arequipa · 05 Ayacucho
+# 06 Cajamarca · 07 Callao · 08 Cusco · 09 Huancavelica · 10 Huánuco · 11 Ica · 12 Junín
+# 13 La Libertad · 14 Lambayeque · 15 Lima · 16 Loreto · 17 Madre de Dios · 18 Moquegua
+# 19 Pasco · 20 Piura · 21 Puno · 22 San Martín · 23 Tacna · 24 Tumbes · 25 Ucayali
+#
+# `departamentos` es solo una PISTA para desempatar nombres repetidos (p. ej. "San Juan"):
+# varios medios regionales republican noticias de otras regiones.
+# Verificados el 2026-10-19 (ver SOURCES.md).
+
+# Secciones (primer o segundo tramo de la URL) que no tienen territorio y se descartan.
+secciones_excluidas:
+  - deportes
+  - deporte-total
+  - futbol
+  - mag
+  - respuestas
+  - espectaculos
+  - farandula
+  - luces
+  - cine
+  - cine-series
+  - tvmas
+  - musica
+  - somos
+  - mundo
+  - internacional
+  - internacionales
+  - opinion
+  - miscelanea
+  - mix
+  - g-de-gestion
+  - tecnologia
+  - virales
+  - horoscopo
+  - loterias
+  - gastronomia
+  - no-flujo
+  - usa
+  - mexico
+  - colombia
+  - argentina
+  - videos
+  - podcast
+
+# Titulares que se descartan (expresiones regulares, sin distinguir mayúsculas): portadas y ediciones.
+titulos_excluidos:
+  - '^diario .{0,40}\d{1,2}/\d{1,2}/\d{2,4}'
+  - '^la prensa regional\s*[–-]'
+  - '^semanario '
+  - '^\d+\s*-\s*\d+$'
+
+# Correo publica ediciones regionales en /edicion/<region>/: se usa como pista.
+pistas_url:
+  "/edicion/arequipa/": ["04"]
+  "/edicion/ayacucho/": ["05"]
+  "/edicion/cajamarca/": ["06"]
+  "/edicion/chimbote/": ["02"]
+  "/edicion/huaraz/": ["02"]
+  "/edicion/cusco/": ["08"]
+  "/edicion/huancavelica/": ["09"]
+  "/edicion/huanuco/": ["10"]
+  "/edicion/ica/": ["11"]
+  "/edicion/huancayo/": ["12"]
+  "/edicion/la-libertad/": ["13"]
+  "/edicion/lambayeque/": ["14"]
+  "/edicion/lima/": ["15", "07"]
+  "/edicion/piura/": ["20"]
+  "/edicion/puno/": ["21"]
+  "/edicion/tacna/": ["23"]
+  "/edicion/tumbes/": ["24"]
+
+medios:
+  # --- Nacionales ---
+  - {id: rpp, nombre: RPP, url: "https://rpp.pe/feed", tipo: nacional}
+  - {id: elcomercio, nombre: El Comercio, url: "https://elcomercio.pe/arcio/rss/", tipo: nacional}
+  - {id: larepublica-sociedad, nombre: La República, url: "https://larepublica.pe/rss/sociedad.xml", tipo: nacional}
+  - {id: larepublica-politica, nombre: La República, url: "https://larepublica.pe/rss/politica.xml", tipo: nacional}
+  - {id: correo, nombre: Correo, url: "https://diariocorreo.pe/arcio/rss/", tipo: nacional}
+  - {id: gestion, nombre: Gestión, url: "https://gestion.pe/arcio/rss/", tipo: nacional}
+  - {id: infobae, nombre: Infobae Perú, url: "https://www.infobae.com/arc/outboundfeeds/rss/category/peru/", tipo: nacional}
+  - {id: andina, nombre: Andina, url: "https://andina.pe/agencia/rss.aspx", tipo: nacional}
+  - {id: canaln, nombre: Canal N, url: "https://www.canaln.pe/feed", tipo: nacional}
+  - {id: rcr, nombre: RCR, url: "https://www.rcrperu.com/feed/", tipo: nacional}
+
+  # --- Sur ---
+  - {id: elbuho, nombre: El Búho, url: "https://elbuho.pe/feed/", tipo: regional, departamentos: ["04"]}
+  - {id: elpueblo, nombre: Diario El Pueblo, url: "https://diarioelpueblo.com.pe/feed/", tipo: regional, departamentos: ["04"]}
+  - {id: losandes, nombre: Los Andes, url: "https://losandes.com.pe/feed/", tipo: regional, departamentos: ["21", "04"]}
+  - {id: pachamama, nombre: Pachamama Radio, url: "https://www.pachamamaradio.org/feed/", tipo: regional, departamentos: ["21"]}
+  - {id: ondaazul, nombre: Radio Onda Azul, url: "https://www.radioondaazul.com/feed/", tipo: regional, departamentos: ["21"]}
+  - {id: radiouno, nombre: Radio Uno, url: "https://www.radiouno.pe/feed/", tipo: regional, departamentos: ["23"]}
+  - {id: prensaregional, nombre: Prensa Regional, url: "https://prensaregional.pe/feed/", tipo: regional, departamentos: ["18"]}
+  - {id: sinfronteras, nombre: Diario Sin Fronteras, url: "https://diariosinfronteras.com.pe/feed/", tipo: regional, departamentos: ["23", "18", "21", "04"]}
+
+  # --- Centro ---
+  - {id: jornada, nombre: Diario Jornada, url: "https://jornada.com.pe/feed/", tipo: regional, departamentos: ["05"]}
+  - {id: ahora, nombre: Diario Ahora, url: "https://www.ahora.com.pe/feed/", tipo: regional, departamentos: ["10"]}
+
+  # --- Norte ---
+  - {id: eltiempo, nombre: El Tiempo, url: "https://www.eltiempo.pe/feed/", tipo: regional, departamentos: ["20"]}
+  - {id: cutivalu, nombre: Radio Cutivalú, url: "https://www.cutivalu.pe/feed/", tipo: regional, departamentos: ["20"]}
+  - {id: maranon, nombre: Radio Marañón, url: "https://radiomaranon.org.pe/feed/", tipo: regional, departamentos: ["06", "01"]}
+  - {id: chimbote, nombre: Diario de Chimbote, url: "https://www.diariodechimbote.com/feed/", tipo: regional, departamentos: ["02"]}
+  - {id: satelite, nombre: Diario Satélite, url: "https://www.satelite.pe/feed", tipo: regional, departamentos: ["13"]}
+
+  # --- Oriente ---
+  - {id: proycontra, nombre: Pro & Contra, url: "https://www.proycontra.com.pe/feed/", tipo: regional, departamentos: ["16"]}
+  - {id: laregion, nombre: Diario La Región, url: "https://www.diariolaregion.com/feed/", tipo: regional, departamentos: ["16"]}
+
+  # --- Temáticos (conflictos, ambiente, minería) ---
+  - {id: ser, nombre: Noticias SER, url: "https://noticiasser.pe/feed", tipo: tematico}
+  - {id: inforegion, nombre: Inforegión, url: "https://www.inforegion.pe/feed/", tipo: tematico}
+  - {id: actualidadambiental, nombre: Actualidad Ambiental, url: "https://www.actualidadambiental.pe/feed/", tipo: tematico}
+  - {id: mongabay, nombre: Mongabay Latam, url: "https://es.mongabay.com/feed/", tipo: tematico}
+  - {id: rumbominero, nombre: Rumbo Minero, url: "https://www.rumbominero.com/feed/", tipo: tematico}
+  - {id: cooperaccion, nombre: CooperAcción, url: "https://cooperaccion.org.pe/feed/", tipo: tematico}
+  - {id: dar, nombre: DAR, url: "https://www.dar.org.pe/feed/", tipo: tematico}
+
+# Sin RSS utilizable al 2026-10-19 (no agregar sin revisar de nuevo):
+# Perú21 (403), Exitosa, Ojo Público, Servindi (congelado), Convoca, El Peruano, Primicia,
+# La Industria, Diario del Cusco, Radio Universal, Voces.

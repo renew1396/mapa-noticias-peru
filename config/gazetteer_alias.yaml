@@ -1,0 +1,43 @@
+# Nombres alternativos de lugares (SIN tildes, minúsculas) → ubigeo de 6 dígitos.
+# Solo para nombres que NO son ya un distrito/provincia/departamento (p. ej. ciudades cuyo distrito
+# se llama distinto: Pucallpa = Callería). El alias se suma como candidato preferido.
+# Ubigeo terminado en 0000 = departamento; en 00 = provincia; resto = distrito.
+# Para un centro poblado, usar su código INEI de 10 dígitos (ubigeo + 4 dígitos).
+# Las correcciones del botón "Revisar con IA" (Fase 5) agregarán entradas aquí.
+
+# Sinónimos de escritura: se reemplazan en el texto antes de buscar.
+sinonimos:
+  cuzco: cusco
+  nazca: nasca
+
+alias:
+  lima metropolitana: "150100"
+  lima region: "150000"
+  region lima: "150000"
+  lima provincias: "150000"
+  cercado de lima: "150101"
+  lima cercado: "150101"
+  centro de lima: "150101"
+  sjl: "150132"
+  smp: "150135"
+  sjm: "150133"
+  vmt: "150143"
+  ves: "150142"
+  cerro de pasco: "190101"   # capital de Pasco (distrito Chaupimarca)
+  pucallpa: "250101"          # ciudad de Pucallpa (distrito Callería)
+  puerto maldonado: "170101"
+  vraem: "050000"            # zona multirregional; se ubica en Ayacucho con baja precisión
+  la oroya: "120801"
+  oroya: "120801"
+  machu picchu: "081304"
+  aguas calientes: "081304"
+  valle sagrado: "081300"
+  colca: "040500"
+  valle del colca: "040500"
+  lago titicaca: "210000"
+  titicaca: "210000"
+  pataz: "130800"
+  la rinconada: "211002"
+  tingo maria: "100601"
+  la merced: "120301"
+  talara: "200701"

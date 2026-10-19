@@ -12,7 +12,7 @@ on:
         description: "Fuente a actualizar"
         type: choice
         default: todas
-        options: [todas, limites]
+        options: [todas, limites, ccpp]
 
 permissions:
   contents: write
@@ -36,6 +36,9 @@ jobs:
       - name: Límites administrativos
         if: inputs.fuente == 'todas' || inputs.fuente == 'limites' || github.event_name == 'schedule'
         run: python -m etl.limites.run
+      - name: Centros poblados (gazetteer)
+        if: inputs.fuente == 'todas' || inputs.fuente == 'ccpp' || github.event_name == 'schedule'
+        run: python -m etl.ccpp.run
       - name: Validar antes de guardar
         run: python -m pytest
       - name: Guardar cambios
