@@ -1,0 +1,64 @@
+# Actualiza las capas de datos públicos. Corre el día 3 de cada mes y a mano.
+# Si una fuente cambió de estructura, el script falla con un mensaje claro y
+# NO se guarda nada (ver RUNBOOK.md › "El ETL de una fuente falló").
+name: Actualizar capas (ETL)
+
+on:
+  schedule:
+    - cron: "17 11 3 * *" # día 3 de cada mes, 06:17 hora de Lima
+  workflow_dispatch:
+    inputs:
+      fuente:
+        description: "Fuente a actualizar"
+        type: choice
+        default: todas
+        options: [todas, limites]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: escribe-datos
+  cancel-in-progress: false
+
+jobs:
+  etl:
+    runs-on: ubuntu-latest
+    outputs:
+      cambio: ${{ steps.guardar.outputs.cambio }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Límites administrativos
+        if: inputs.fuente == 'todas' || inputs.fuente == 'limites' || github.event_name == 'schedule'
+        run: python -m etl.limites.run
+      - name: Validar antes de guardar
+        run: python -m pytest
+      - name: Guardar cambios
+        id: guardar
+        run: |
+          git config user.name "robot-mapa"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Sin cambios en las capas."
+            echo "cambio=no" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Datos: actualizar capas (${{ inputs.fuente || 'todas' }})"
+            git pull --rebase
+            git push
+            echo "cambio=si" >> "$GITHUB_OUTPUT"
+          fi
+
+  publicar:
+    needs: etl
+    if: needs.etl.outputs.cambio == 'si'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml

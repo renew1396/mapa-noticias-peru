@@ -1,0 +1,14 @@
+# Entornos y dependencias
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+web/node_modules/
+web/dist/
+
+# Descargas crudas grandes: se documenta cómo obtenerlas en SOURCES.md
+data/raw/
+
+# Sistema
+.DS_Store
+*.tmp
