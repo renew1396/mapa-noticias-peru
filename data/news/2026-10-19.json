@@ -2,6 +2,174 @@
  "fecha": "2026-10-19",
  "noticias": [
   {
+   "id": "31e590790be3",
+   "titulo": "RELAVES DE LA MINERÍA ILEGAL EN CAJAMARCA CONTAMINAN ZONAS AGRÍCOLAS Y GANADERAS DE HUALGAYOC, LA ENCAÑADA Y CONGA",
+   "resumen": "RCR, 19 de octubre de 2026.- César Zamora Vento, economista y analista político, advirtió que los relaves de la minería ilegal en Cajamarca se encuentran contaminando zonas agrícolas y ganaderas de Hualgayoc, La Encañada y Conga. Señaló que las autoridades y la población en conjunto deben tomar…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/relaves-de-la-mineria-ilegal-en-cajamarca-contaminan-zonas-agricolas-y-ganaderas-de-hualgayoc-la-encanada-y-conga/",
+   "fecha": "2026-10-19T12:44:03Z",
+   "temas": [
+    "medio_ambiente",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Encañada",
+     "ubigeo": "060105",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.34446,
+     "lat": -7.08693,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Hualgayoc",
+     "ubigeo": "060700",
+     "precision": "provincia",
+     "provincia": "Hualgayoc",
+     "departamento": "Cajamarca",
+     "lon": -78.51885,
+     "lat": -6.67967,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5ed5f1808edd",
+   "titulo": "Cusco: combaten incendio forestal cerca del santuario del Señor de Huanca en San Salvador",
+   "resumen": "Bomberos de diferentes compañías de Cusco intentan controlar y mitigar un incendio forestal que se activó este domingo 18 de octubre en las cercanías del Santuario del Señor de Huanca, ubicado en el distrito de San Salvador, en la provincia cusqueña de Calca.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cusco-combaten-incendio-forestal-cerca-del-santuario-del-senor-huanca-san-salvador-1096472.aspx",
+   "fecha": "2026-10-19T12:36:14Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huanca",
+     "ubigeo": "080406",
+     "ccpp": "0804060017",
+     "precision": "centro_poblado",
+     "provincia": "Calca",
+     "departamento": "Cusco",
+     "lon": -71.80642,
+     "lat": -13.48851,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "San Salvador",
+     "ubigeo": "080406",
+     "precision": "distrito",
+     "provincia": "Calca",
+     "departamento": "Cusco",
+     "lon": -71.77862,
+     "lat": -13.49196,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Calca",
+     "ubigeo": "080400",
+     "precision": "provincia",
+     "provincia": "Calca",
+     "departamento": "Cusco",
+     "lon": -71.95569,
+     "lat": -13.32104,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "808f2625ae15",
+   "titulo": "Arequipa: Investigan explosión de artefacto en una vivienda de Mariano Melgar",
+   "resumen": "Un sujeto habría arrojado un artefacto explosivo por encima de la puerta de una casa de la calle Junín, en el distrito de Mariano Melgar",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-investigan-explosion-de-artefacto-en-una-vivienda-de-mariano-melgar-noticia/",
+   "fecha": "2026-10-19T12:31:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "770dff1c5bdf",
+   "titulo": "Norky’s le sube el fuego a su expansión: abrirá en el Rímac y apunta a estas tres regiones",
+   "resumen": "Tras un 2026 que superó sus proyecciones, la cadena de pollerías Norky’s ya tiene fecha para su próxima apertura en Lima. Estos son sus planes para 2027 dentro y fuera del Perú.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/empresas/pollerias-en-lima-norkys-alista-su-regreso-a-la-expansion-y-prueba-un-nuevo-formato-de-atencion-noticia/",
+   "fecha": "2026-10-19T12:30:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rímac",
+     "ubigeo": "150128",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02697,
+     "lat": -12.0422,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "1ce7b9654095",
    "titulo": "Temblor en Lima: sismo de magnitud 3,5 remeció Huarochirí esta mañana, según IGP",
    "resumen": "El sismo de hoy registró a 8 kilómetros al noreste de San Mateo, Huarochirí, y se produjo a una profundidad de 15 km, según informó el Instituto Geofísico del Perú (IGP).",
