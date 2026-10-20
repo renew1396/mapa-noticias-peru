@@ -45,7 +45,7 @@ repo, guardado solo en el celular del dueño; la clave de Anthropic vivirá como
 falta un Cloudflare Worker. Confirmado por el dueño.
 
 ## 2026-10-19 · Decisiones propuestas (vigentes salvo que el dueño diga otra cosa)
-- Noticias cada 2 horas.
+- Noticias cada 2 horas (desde 2026-10-20 programada cada hora: ver más abajo).
 - Temas: conflicto_social, medio_ambiente, mineria, agua, seguridad, salud, educacion, infraestructura,
   transporte, desastres, politica_local, economia, otros.
 - Tope mensual del Modo A cuando se active: US$ 2.
@@ -104,3 +104,24 @@ Se corre semanalmente para tomar el reporte nuevo apenas sale. La ficha enlaza a
 Algunos nodos de geocatmin.ingemmet.gob.pe no envían el certificado intermedio. Se sigue verificando HTTPS, sumando
 a los certificados de certifi el intermedio oficial de Sectigo (`etl/certs/`), bajado de la URL que indica el propio
 certificado del servidor.
+
+## 2026-10-20 · Noticias programadas cada hora (no cada 2)
+GitHub se saltó 3 de cada 4 ejecuciones programadas el primer día (es un comportamiento conocido de `schedule`).
+Programar cada hora (sin costo en repos públicos) hace que en la práctica corra cada 1–3 horas. El umbral de
+alerta (web y chequeo de salud) pasó de 6 a 8 horas para no dar falsas alarmas. Los `git push` del robot reintentan
+3 veces porque GitHub devolvió una vez "fatal error in commit_refs".
+
+## 2026-10-20 · Carga progresiva en el celular
+Primero mapa base, departamentos y noticias; los distritos (~870 KB comprimidos, el archivo más pesado) llegan
+después sin bloquear. Terra Draw (~46 KB) y pmtiles (~7 KB) se bajan solo al usarlos. Coordenadas de límites a 4
+decimales (−16 % de peso). Alternativa descartada por ahora: distritos como PMTiles (más rápido, pero complica el
+cálculo de zonas y el flujo de actualización, que solo puede correr desde el Perú).
+
+## 2026-10-20 · PWA con service worker propio (sin Workbox)
+Unas 40 líneas generadas en `vite.config.ts` en cada compilación (una dependencia menos). Código desde caché; página
+y datos primero de la red (así nunca se queda pegada una versión vieja) y de la caché si no hay internet. El mapa
+base no se guarda (otro dominio y muy pesado): sin internet se ven los datos sobre fondo liso.
+
+## 2026-10-20 · Página «Acerca de / Fuentes» dentro de la app
+Se arma con las `*.meta.json` y `estado.json`, así nunca queda desactualizada respecto de los datos publicados.
+Se abre con el botón ⓘ o con el enlace `#acerca`.

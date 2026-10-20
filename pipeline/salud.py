@@ -1,7 +1,7 @@
 """Chequeo de salud diario. Si algo falla, termina con error y GitHub avisa por correo.
 
 Revisa:
-  1. que la tarea de noticias haya corrido en las últimas 6 horas
+  1. que la tarea de noticias haya corrido en las últimas 8 horas
   2. que haya entrado alguna noticia nueva en las últimas 48 horas
   3. que ningún medio lleve 24 horas o más fallando seguido (12 ejecuciones)
   4. que el sitio publicado responda y tenga el índice de noticias
@@ -20,7 +20,7 @@ import requests
 from pipeline.ingest import ESTADO
 
 SITIO = os.environ.get("SITIO_URL", "https://renew1396.github.io/mapa-noticias-peru/")
-MAX_SIN_EJECUTAR = timedelta(hours=6)
+MAX_SIN_EJECUTAR = timedelta(hours=8)  # GitHub a veces se salta ejecuciones programadas
 MAX_SIN_NOTICIAS = timedelta(hours=48)
 MAX_FALLOS_SEGUIDOS = 12
 

@@ -1,6 +1,5 @@
 // Capas de datos públicos: se cargan solo cuando el usuario las prende (carga diferida para el celular).
 import { addProtocol, type GeoJSONSource, type Map as MapaLibre } from "maplibre-gl";
-import { Protocol } from "pmtiles";
 import type { FeatureCollection, Point } from "geojson";
 
 export interface Meta {
@@ -158,6 +157,7 @@ export async function prepararCapa(mapa: MapaLibre, id: IdCapa, debajoDe: string
     }
     if (!datos.concesionesDisponibles) return false;
     if (!protocoloListo) {
+      const { Protocol } = await import("pmtiles"); // se baja solo si alguien prende esta capa
       addProtocol("pmtiles", new Protocol().tile);
       protocoloListo = true;
     }

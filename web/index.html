@@ -5,7 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#1f2a37" />
     <title>Mapa de noticias del Perú</title>
-    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='13' r='8' fill='%23c2410c'/%3E%3Cpath d='M16 30 9 18h14z' fill='%23c2410c'/%3E%3Ccircle cx='16' cy='13' r='3' fill='white'/%3E%3C/svg%3E" />
+    <meta name="description" content="Noticias recientes por lugar y datos públicos del Perú en un mapa." />
+    <link rel="icon" type="image/png" sizes="32x32" href="iconos/favicon-32.png" />
+    <link rel="apple-touch-icon" href="iconos/apple-touch-icon.png" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Mapa Perú" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   </head>
   <body>
     <header class="topbar">
@@ -13,6 +19,7 @@
         <h1>Mapa de noticias del Perú</h1>
         <span id="estado" class="estado" aria-live="polite">Cargando…</span>
       </div>
+      <button id="abrir-acerca" class="boton-redondo" aria-label="Acerca de este mapa y fuentes" title="Acerca de / Fuentes">i</button>
       <button id="abrir-filtros" class="boton-barra" aria-expanded="false" aria-controls="filtros">
         Capas <span id="resumen-filtros" class="chip-mini">7 días</span>
       </button>
@@ -54,6 +61,13 @@
         <button id="cancelar-dibujo" class="boton-texto">Cancelar</button>
       </div>
     </main>
+
+    <div id="acerca" class="acerca" role="dialog" aria-modal="true" aria-labelledby="titulo-acerca" hidden>
+      <div class="acerca-caja">
+        <button id="cerrar-acerca" class="cerrar" aria-label="Cerrar">×</button>
+        <div id="acerca-contenido"></div>
+      </div>
+    </div>
 
     <section id="ficha" class="ficha" hidden aria-live="polite">
       <button id="cerrar-ficha" class="cerrar" aria-label="Cerrar ficha">×</button>

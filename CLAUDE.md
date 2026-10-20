@@ -19,12 +19,14 @@ cualquier costo, borrar datos, cambiar la arquitectura o hacer scraping de un si
 ## Estado por fases
 - [x] Fase 0: verificación de fuentes y plan (ver SOURCES.md)
 - [x] Fase 1: base — límites distritales, mapa con distritos tocables, workflows, docs (publicada 2026-10-19)
-- [x] Fase 2: noticias (34 RSS cada 2 h → geoparsing Nivel 1 → mapa con pines, radio 1–50 km, filtros 7/30/90 días,
+- [x] Fase 2: noticias (33 RSS activos, tarea programada cada hora → geoparsing Nivel 1 → mapa con pines, radio 1–50 km, filtros 7/30/90 días,
       tema y medio; evaluación 94 % a nivel distrito; chequeo de salud diario con aviso por correo) — 2026-10-19
 - [x] Fase 3: 4 capas (pobreza INEI 2018, conflictos Defensoría, concesiones INGEMMET, salud RENIPRESS) + mapa
       de calor de noticias, leyenda con fuente y fecha, dibujo de polígono (Terra Draw), ficha de zona con
       indicadores, fichas individuales, zona en el enlace (`#zona=lon,lat,km` / `#poligono=…`) — 2026-10-19
-- [ ] Fase 4: pulido, PWA, página de fuentes
+- [x] Fase 4: carga progresiva (distritos no bloquean; dibujo y PMTiles se bajan al usarlos), avisos en
+      pantalla, aviso de noticias atrasadas (> 8 h), página «Acerca de / Fuentes» (botón ⓘ, `#acerca`), PWA
+      instalable con modo sin conexión, accesibilidad (toques ≥ 44 px, foco visible) — 2026-10-20
 - [ ] Fase 5: botón "Revisar con IA" (Modo B gratis por defecto; Modo A con API apagado)
 
 ## Dónde está cada cosa
@@ -44,10 +46,11 @@ cualquier costo, borrar datos, cambiar la arquitectura o hacer scraping de un si
 | `data/eval/set.jsonl` | set de prueba: 129 noticias reales del 2026-10-19 etiquetadas a mano (lugar esperado) |
 | `data/raw/` | descargas crudas; **ignorado por git** (se re-descarga, ver SOURCES.md) |
 | `config/` | todo lo editable sin tocar código: medios RSS, temas, exclusiones, alias, interruptor IA |
-| `web/` | Vite + TypeScript **sin framework** + MapLibre. `main.ts` (mapa, clics, dibujo), `capas.ts` (capas de datos, carga diferida), `zona.ts` (cálculos puros, con tests), `ui.ts` (HTML de fichas y leyendas) |
+| `web/` | Vite + TypeScript **sin framework** + MapLibre. `main.ts` (mapa, carga, clics, dibujo), `capas.ts` (capas de datos, carga diferida), `zona.ts` (cálculos puros, con tests), `ui.ts` (HTML de fichas y leyendas), `acerca.ts` (página Acerca de / Fuentes, armada con las metas y el estado), `avisos.ts` (avisos en pantalla, conexión) |
+| `web/public/` | `manifest.webmanifest` e `iconos/` de la PWA. El service worker (`sw.js`) lo **genera** `vite.config.ts › swPlugin` en cada compilación (no editar `dist/sw.js`) |
 | release `capas` (GitHub) | `concesiones.pmtiles` (~22 MB). **No va en git**; `deploy.yml` lo baja al publicar y `etl.yml` lo actualiza |
 | `tests/` | pytest (lógica y validación de los datos generados) |
-| `.github/workflows/` | `noticias.yml` (cada 2 h), `salud.yml` (diario), `evaluar.yml` (a mano), `ci.yml` (pruebas), `deploy.yml` (publicar), `etl.yml` (capas, mensual) |
+| `.github/workflows/` | `noticias.yml` (programada cada hora; GitHub se salta algunas), `salud.yml` (diario), `evaluar.yml` (a mano), `ci.yml` (pruebas), `deploy.yml` (publicar), `etl.yml` (capas, lunes) |
 
 ## Cómo correr todo (desde la raíz del repo)
 ```bash
@@ -90,7 +93,7 @@ a nivel distrito. Preferir arreglos en `config/` (alias, exclusiones) antes que 
 ## Convenciones (obligatorias)
 - **Ubigeo = texto de 6 dígitos** siempre. Normalizar con `etl.common.ubigeo6` (los servicios ArcGIS lo
   devuelven como número y pierden el cero inicial).
-- Coordenadas WGS84 (lon, lat), 5 decimales.
+- Coordenadas WGS84 (lon, lat): 5 decimales en puntos; 4 en los polígonos de límites (ya simplificados a ~330 m).
 - Fechas guardadas en **UTC** (ISO 8601 con `Z`); se muestran en `America/Lima`.
 - Si una fuente cambia de estructura: lanzar `EtlError` con mensaje claro. Nunca guardar datos a medias
   (`write_json` escribe de forma atómica).
@@ -112,6 +115,13 @@ a nivel distrito. Preferir arreglos en `config/` (alias, exclusiones) antes que 
 | Salud | `salud.geojson` (props cortas n,c,t,i,u,p) | **a mano** (portal con firewall) | puntos agrupados, rosado público / gris privado |
 Las capas se cargan solo al prenderlas o al abrir una ficha de zona. Titulares mineros que parecen personas
 naturales se muestran como "Persona natural" (`etl/concesiones/run.py › titular_publico`).
+
+## Web: carga y modo sin conexión
+- Al abrir: mapa base + departamentos + noticias primero; `distritos.geojson` (~870 KB comprimido) llega después
+  y recién ahí se activan los clics de zona (`distritosListos`). Las capas y el dibujo se bajan al usarlos.
+- Service worker: código (`assets/`) desde caché; página y `data/*.json` primero de la red y, sin internet, de la
+  caché. No toca el mapa base (otro dominio) ni los PMTiles (descargas parciales). Al cambiar `swPlugin`, verificar
+  con `node --check web/dist/sw.js` y probar que una versión nueva reemplaza a la vieja.
 
 ## Lo que NO se debe tocar
 - No agregar servidores, bases de datos ni servicios de pago sin aprobación explícita del dueño.

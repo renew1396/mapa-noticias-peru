@@ -28,7 +28,7 @@ SERVICE = ("https://geosnirh.ana.gob.pe/server/rest/services/ONRH/"
 FIELDS = ["UBIGEO", "nombdep", "nombprov", "nombdist", "NOMBCAP", "FUENTE"]
 MIN_DISTRITOS = 1880          # hoy son 1 891; si baja de esto, algo anda mal en la fuente
 TOLERANCIA_GRADOS = 0.003      # ~330 m; ~1 MB comprimido, carga rápida en 4G
-DECIMALES = 5                  # ~1 m de precisión en las coordenadas
+DECIMALES = 4                  # ~11 m: de sobra con la simplificación de ~330 m
 
 
 def _round(geom):

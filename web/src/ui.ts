@@ -68,7 +68,8 @@ export interface Indicadores {
   conflictos?: PropsConflicto[] | null;
 }
 
-const pct = (x: number) => `${x.toLocaleString("es-PE", { maximumFractionDigits: 0 })} %`;
+// Un decimal para valores chicos (0,3 % no es lo mismo que 0 %); entero para el resto.
+const pct = (x: number) => `${x.toLocaleString("es-PE", { maximumFractionDigits: x < 10 ? 1 : 0 })} %`;
 const miles = (x: number) => x.toLocaleString("es-PE");
 
 export function fuente(m: Meta | undefined, extra = ""): string {

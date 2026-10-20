@@ -27,7 +27,7 @@ está en `data/layers/<capa>.meta.json`).
 - **RENIPRESS**: la página del dataset lista un CSV por mes; tomar el más reciente.
 
 ## Medios con RSS (verificados el 2026-10-19)
-La lista vigente y editable está en `config/sources.yaml` (34 feeds de 33 medios). Su estado en cada ejecución queda en `data/status/estado.json`. Funcionando: RPP, El Comercio,
+La lista vigente y editable está en `config/sources.yaml` (34 feeds de 33 medios; Inforegión desactivado). Su estado en cada ejecución queda en `data/status/estado.json`. Funcionando: RPP, El Comercio,
 La República (sociedad y política), Correo, Gestión, Infobae Perú, Andina, Canal N, RCR, El Búho, El Pueblo,
 Los Andes, Pachamama Radio, Onda Azul, Radio Uno, Prensa Regional, Sin Fronteras, Jornada, Diario Ahora
 (Huánuco), El Tiempo, Cutivalú, Radio Marañón, Diario de Chimbote, Satélite, Pro & Contra, La Región,

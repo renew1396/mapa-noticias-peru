@@ -163,3 +163,50 @@ button, select { font: inherit; color: inherit; }
 .conflictos { margin: 6px 0 0; padding-left: 18px; font-size: 13px; display: grid; gap: 4px; }
 .ficha .subt { font-size: 13px; color: var(--tinta-suave); margin: 4px 0 0; }
 .ficha .detalle { font-size: 13px; color: var(--tinta-suave); }
+
+/* ---------- Fase 4: avisos, acerca de, accesibilidad ---------- */
+:focus-visible { outline: 3px solid #f59e0b; outline-offset: 2px; }
+.chip { min-height: 44px; }
+.estado.atrasado { color: #fde68a; opacity: 1; font-weight: 600; }
+
+.boton-redondo {
+  flex: none; width: 40px; height: 40px; border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.35);
+  background: transparent; color: #fff; font: italic 700 18px Georgia, serif; cursor: pointer; margin-left: auto;
+}
+.topbar .boton-barra { margin-left: 0; }
+.topbar { gap: 8px; }
+.boton-secundario {
+  min-height: 44px; padding: 0 14px; border-radius: 10px; border: 1px solid var(--azul); background: #fff;
+  color: var(--azul); font-weight: 600; cursor: pointer; margin-top: 10px;
+}
+
+.avisos {
+  position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(24px + env(safe-area-inset-bottom));
+  z-index: 20; display: grid; gap: 8px; width: min(420px, calc(100% - 32px)); pointer-events: none;
+}
+.aviso {
+  pointer-events: auto; padding: 12px 14px; border-radius: 10px; font-size: 14px; line-height: 1.4; cursor: pointer;
+  box-shadow: 0 6px 20px rgba(31, 42, 55, 0.3); animation: subir 180ms ease-out;
+  background: var(--tinta); color: #fff;
+}
+.aviso-error { background: #7f1d1d; }
+.aviso-ok { background: #14532d; }
+
+.acerca { position: fixed; inset: 0; z-index: 10; background: rgba(17, 24, 39, 0.55); display: flex; align-items: flex-end; justify-content: center; }
+.acerca-caja {
+  position: relative; background: var(--panel); width: min(720px, 100%); max-height: 92vh; overflow: auto;
+  border-radius: 16px 16px 0 0; padding: 20px 16px calc(24px + env(safe-area-inset-bottom)); font-size: 15px; line-height: 1.55;
+}
+@media (min-width: 720px) { .acerca { align-items: center; } .acerca-caja { border-radius: 16px; padding: 24px 28px; } }
+.acerca-caja h2 { margin: 0 44px 8px 0; font-size: 20px; }
+.acerca-caja h3 { margin: 20px 0 6px; font-size: 16px; }
+.acerca-caja ul { padding-left: 20px; }
+.acerca-caja a { color: var(--azul); }
+.medios { columns: 2; font-size: 13px; }
+.tabla-scroll { overflow-x: auto; }
+.fuentes { border-collapse: collapse; font-size: 13px; width: 100%; min-width: 520px; }
+.fuentes th, .fuentes td { text-align: left; vertical-align: top; padding: 8px 6px; border-top: 1px solid var(--borde); }
+.fuentes thead th { color: var(--tinta-suave); font-weight: 600; border-top: 0; }
+.fuentes small { color: var(--tinta-suave); }
+/* Botones del mapa (acercar, alejar, mi ubicación) más grandes para el dedo. */
+.maplibregl-ctrl-group button { width: 40px; height: 40px; }

@@ -6,8 +6,7 @@ import {
 } from "maplibre-gl";
 // Vite no detecta solo el worker de MapLibre 6: lo empaquetamos y le pasamos su URL.
 import urlWorker from "maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url";
-import { TerraDraw, TerraDrawPolygonMode } from "terra-draw";
-import { TerraDrawMapLibreGLAdapter } from "terra-draw-maplibre-gl-adapter";
+import type { TerraDraw } from "terra-draw";
 import type { Feature, FeatureCollection, Point, Polygon } from "geojson";
 import type { Estado, IndiceNoticias, Noticia, Tema } from "./tipos";
 import {
@@ -20,8 +19,16 @@ import {
 import {
   actualizarCalor, cargar, cargarMetas, datos, mostrarCapa, prepararCapa, type IdCapa, type PropsConflicto, type PropsSalud,
 } from "./capas";
+import { avisar, vigilarConexion } from "./avisos";
+import { htmlAcerca } from "./acerca";
 
 setWorkerUrl(urlWorker);
+vigilarConexion();
+
+// PWA: permite instalar el mapa en el celular y abrirlo sin conexión con lo último que se vio.
+if (import.meta.env.PROD && "serviceWorker" in navigator) {
+  window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch((e) => console.warn("SW:", e)));
+}
 
 // Mapa base gratuito y sin clave (ver DECISIONS.md › Mapa base).
 const ESTILO_BASE = "https://tiles.openfreemap.org/styles/positron";
@@ -57,6 +64,8 @@ let distritosConNoticias = new Set<string>();
 const capasActivas = new Set<IdCapa>();
 let pinesVisibles = true;
 let dibujando = false;
+let estadoNoticias: Estado | null = null;
+const HORAS_ALERTA = 8; // si las noticias no se actualizan en este tiempo, se avisa en la barra
 
 /** La zona abierta en la ficha: un círculo (con radio) o un polígono dibujado. */
 let zonaActual:
@@ -135,6 +144,7 @@ function geojsonNoticias(): FeatureCollection<Point> {
 }
 
 function pintarDistritos() {
+  if (!mapa.getSource("distritos")) return;
   for (const ub of distritosConNoticias) mapa.setFeatureState({ source: "distritos", id: ub }, { n: 0 });
   const cuenta = new Map<string, number>();
   for (const n of visibles) {
@@ -276,13 +286,25 @@ function cerrarFicha() {
   (mapa.getSource("zona") as GeoJSONSource | undefined)?.setData({ type: "FeatureCollection", features: [] });
 }
 
-function abrirFicha(html: string) {
+let puntoFicha: [number, number] | null = null;
+
+function abrirFicha(html: string, punto?: [number, number]) {
   plegarLeyendaEnCelular();
   zonaActual = null;
   guardarZonaEnEnlace();
   (mapa.getSource("zona") as GeoJSONSource | undefined)?.setData({ type: "FeatureCollection", features: [] });
-  fichaContenido.innerHTML = html;
+  puntoFicha = punto ?? null;
+  fichaContenido.innerHTML = html + (punto ? `<p><button class="boton-secundario" data-ver-zona>Ver la zona de 10 km alrededor</button></p>` : "");
   ficha.hidden = false;
+}
+
+/** Abre la ficha de zona alrededor de un punto (desde una ficha individual). */
+async function verZonaEn(punto: [number, number]) {
+  const px = mapa.project(punto);
+  const d = mapa.queryRenderedFeatures(px, { layers: ["distritos-relleno"] })[0]?.properties;
+  zonaActual = { tipo: "circulo", centro: punto, radio: 10,
+    tocado: d ? { ubigeo: d.ubigeo, distrito: d.distrito, provincia: d.provincia, departamento: d.departamento } : undefined };
+  mostrarZona();
 }
 
 function abrirPin(feats: MapGeoJSONFeature[]) {
@@ -294,13 +316,51 @@ function abrirPin(feats: MapGeoJSONFeature[]) {
     l ? `${l.precision === "centro_poblado" ? "Centro poblado · " : ""}${l.provincia} · ${l.departamento}` : "",
     ns,
     temas,
-  ));
+  ), l ? [l.lon, l.lat] : undefined);
 }
 
 function nombreDistrito(ubigeo: string): string {
   const d = distritos.features.find((f) => f.properties?.ubigeo === ubigeo);
   return d ? `${d.properties!.distrito} (${d.properties!.provincia}, ${d.properties!.departamento})` : "";
 }
+
+// ---------- Estado de actualización ----------
+function mostrarEstado(estado: Estado | null) {
+  estadoNoticias = estado;
+  if (!estado) {
+    estadoEl.textContent = "Sin datos de noticias";
+    return;
+  }
+  const horas = (Date.now() - Date.parse(estado.ultima_ejecucion)) / 3_600_000;
+  estadoEl.textContent = horas > HORAS_ALERTA
+    ? `⚠ Noticias sin actualizar ${haceCuanto(estado.ultima_ejecucion)}`
+    : `Noticias actualizadas ${haceCuanto(estado.ultima_ejecucion)}`;
+  estadoEl.classList.toggle("atrasado", horas > HORAS_ALERTA);
+  estadoEl.title = `Última actualización: ${new Date(estado.ultima_ejecucion).toLocaleString("es-PE", { timeZone: "America/Lima" })}`;
+}
+
+// ---------- Acerca de / Fuentes ----------
+const acerca = $("acerca");
+function abrirAcerca() {
+  $("acerca-contenido").innerHTML = htmlAcerca(estadoNoticias);
+  acerca.hidden = false;
+  history.replaceState(null, "", "#acerca");
+  $("cerrar-acerca").focus();
+}
+function cerrarAcerca() {
+  if (acerca.hidden) return;
+  acerca.hidden = true;
+  if (location.hash === "#acerca") history.replaceState(null, "", location.pathname + location.search);
+}
+$("abrir-acerca").addEventListener("click", abrirAcerca);
+$("cerrar-acerca").addEventListener("click", cerrarAcerca);
+acerca.addEventListener("click", (e) => { if (e.target === acerca) cerrarAcerca(); });
+
+// Si el mapa base no carga (servicio caído o conexión muy lenta), avisar en vez de dejar la pantalla en blanco.
+const vigiaMapaBase = setTimeout(() => {
+  if (!mapa.loaded()) avisar("El mapa base está tardando en cargar. Si sigue en blanco, revisa tu conexión y recarga.", "error", 15000);
+}, 20000);
+mapa.once("load", () => clearTimeout(vigiaMapaBase));
 
 // ---------- Leyenda flotante ----------
 let leyendaAbierta = window.innerWidth >= 720; // en el celular empieza plegada para no tapar el mapa
@@ -318,41 +378,32 @@ function pintarLeyenda() {
 }
 
 // ---------- Carga inicial ----------
+// Las descargas empiezan YA, en paralelo con el mapa base. Los distritos (el archivo más pesado) no frenan
+// la primera vista: el mapa muestra departamentos y noticias, y los distritos se agregan cuando llegan.
+const pDistritos = cargarJSON<FeatureCollection>("data/layers/distritos.geojson");
+const pInicio = Promise.all([
+  cargarJSON<FeatureCollection>("data/layers/departamentos.geojson"),
+  cargarJSON<IndiceNoticias>("data/news/index.json").catch(() => ({ actualizado: "", dias: [] }) as IndiceNoticias),
+  cargarJSON<Estado>("data/status/estado.json").catch(() => null),
+  cargarJSON<Tema[]>("data/status/temas.json").catch(() => [] as Tema[]),
+  cargarMetas(),
+]);
+let avisarDistritosListos: () => void;
+const distritosListos = new Promise<void>((r) => (avisarDistritosListos = r));
+
 mapa.on("load", async () => {
   etiquetasEnEspanol();
   try {
-    const [dist, deps, idx, estado, listaTemas] = await Promise.all([
-      cargarJSON<FeatureCollection>("data/layers/distritos.geojson"),
-      cargarJSON<FeatureCollection>("data/layers/departamentos.geojson"),
-      cargarJSON<IndiceNoticias>("data/news/index.json").catch(() => ({ actualizado: "", dias: [] })),
-      cargarJSON<Estado>("data/status/estado.json").catch(() => null),
-      cargarJSON<Tema[]>("data/status/temas.json").catch(() => [] as Tema[]),
-      cargarMetas(),
-    ]);
-    distritos = dist;
+    const [deps, idx, estado, listaTemas] = await pInicio;
     indice = idx;
     temas = new Map(listaTemas.map((t) => [t.clave, t]));
     prepararFiltros(listaTemas, estado);
-    estadoEl.textContent = estado ? `Noticias actualizadas ${haceCuanto(estado.ultima_ejecucion)}` : "Sin datos de noticias";
-    estadoEl.title = estado ? `Última actualización: ${new Date(estado.ultima_ejecucion).toLocaleString("es-PE", { timeZone: "America/Lima" })}` : "";
+    mostrarEstado(estado);
 
-    mapa.addSource("distritos", { type: "geojson", data: distritos, promoteId: "ubigeo" });
     mapa.addSource("departamentos", { type: "geojson", data: deps });
     mapa.addSource("zona", { type: "geojson", data: { type: "FeatureCollection", features: [] } });
     mapa.addSource("noticias", {
       type: "geojson", data: { type: "FeatureCollection", features: [] }, cluster: true, clusterRadius: 38, clusterMaxZoom: 11,
-    });
-
-    mapa.addLayer({
-      id: "distritos-relleno", type: "fill", source: "distritos",
-      paint: {
-        "fill-color": COLOR_ACENTO,
-        "fill-opacity": ["interpolate", ["linear"], ["coalesce", ["feature-state", "n"], 0], 0, 0.02, 1, 0.12, 5, 0.22, 20, 0.35],
-      },
-    });
-    mapa.addLayer({
-      id: "distritos-borde", type: "line", source: "distritos", minzoom: 6,
-      paint: { "line-color": "#5b6675", "line-width": ["interpolate", ["linear"], ["zoom"], 6, 0.3, 10, 1], "line-opacity": 0.6 },
     });
     mapa.addLayer({
       id: "departamentos-borde", type: "line", source: "departamentos",
@@ -381,11 +432,35 @@ mapa.on("load", async () => {
 
     await cargarDias(filtros.dias);
     aplicarFiltros();
-    if (location.hash) mapa.once("idle", zonaDesdeEnlace);
+    if (!indice.dias.length) avisar("Todavía no hay noticias guardadas. Vuelve a intentar en unas horas.", "info");
   } catch (err) {
     console.error(err);
-    mostrarError("No se pudieron cargar los datos. Intenta recargar la página.");
+    mostrarError("No se pudieron cargar los datos. Revisa tu conexión y recarga la página.");
     estadoEl.textContent = "Error";
+    return;
+  }
+
+  try {
+    distritos = await pDistritos;
+    mapa.addSource("distritos", { type: "geojson", data: distritos, promoteId: "ubigeo" });
+    mapa.addLayer({
+      id: "distritos-relleno", type: "fill", source: "distritos",
+      paint: {
+        "fill-color": COLOR_ACENTO,
+        "fill-opacity": ["interpolate", ["linear"], ["coalesce", ["feature-state", "n"], 0], 0, 0.02, 1, 0.12, 5, 0.22, 20, 0.35],
+      },
+    }, "departamentos-borde");
+    mapa.addLayer({
+      id: "distritos-borde", type: "line", source: "distritos", minzoom: 6,
+      paint: { "line-color": "#5b6675", "line-width": ["interpolate", ["linear"], ["zoom"], 6, 0.3, 10, 1], "line-opacity": 0.6 },
+    }, "departamentos-borde");
+    pintarDistritos();
+    avisarDistritosListos();
+    if (location.hash.startsWith("#zona") || location.hash.startsWith("#poligono")) mapa.once("idle", zonaDesdeEnlace);
+    if (location.hash === "#acerca") abrirAcerca();
+  } catch (err) {
+    console.error(err);
+    avisar("No se pudieron cargar los límites de los distritos: la búsqueda por zona no funcionará. Recarga la página.", "error");
   }
 });
 
@@ -394,6 +469,14 @@ const CAPAS_TOCABLES = ["noticias-grupo", "noticias-punto", "conflictos-punto", 
 
 mapa.on("click", async (e: MapMouseEvent) => {
   if (dibujando) return;
+  if (!panelFiltros.hidden) { // con el panel de capas abierto, tocar el mapa solo lo cierra
+    cerrarFiltros();
+    return;
+  }
+  if (!mapa.getSource("distritos")) {
+    avisar("Cargando los distritos… vuelve a tocar en un momento.", "info");
+    return;
+  }
   const existentes = (ids: string[]) => ids.filter((l) => mapa.getLayer(l) && mapa.getLayoutProperty(l, "visibility") !== "none");
   const caja: [[number, number], [number, number]] = [[e.point.x - 10, e.point.y - 10], [e.point.x + 10, e.point.y + 10]];
 
@@ -410,7 +493,7 @@ mapa.on("click", async (e: MapMouseEvent) => {
   if (conf.length) {
     const p = conf[0].properties as Record<string, unknown>;
     const props = { ...p, distritos: typeof p.distritos === "string" ? JSON.parse(p.distritos as string) : p.distritos } as PropsConflicto;
-    abrirFicha(fichaConflicto(props));
+    abrirFicha(fichaConflicto(props), (conf[0].geometry as Point).coordinates as [number, number]);
     return;
   }
   const pines = existentes(["noticias-punto"]).length ? mapa.queryRenderedFeatures(caja, { layers: ["noticias-punto"] }) : [];
@@ -421,12 +504,12 @@ mapa.on("click", async (e: MapMouseEvent) => {
   const salud = existentes(["salud-punto"]).length ? mapa.queryRenderedFeatures(caja, { layers: ["salud-punto"] }) : [];
   if (salud.length) {
     const s = salud[0].properties as PropsSalud;
-    abrirFicha(fichaSalud(s, nombreDistrito(s.u)));
+    abrirFicha(fichaSalud(s, nombreDistrito(s.u)), (salud[0].geometry as Point).coordinates as [number, number]);
     return;
   }
   const conc = existentes(["concesiones-relleno"]).length ? mapa.queryRenderedFeatures(e.point, { layers: ["concesiones-relleno"] }) : [];
   if (conc.length && mapa.getZoom() >= 9) {
-    abrirFicha(fichaConcesion(conc[0].properties));
+    abrirFicha(fichaConcesion(conc[0].properties), [e.lngLat.lng, e.lngLat.lat]);
     return;
   }
   const d = mapa.queryRenderedFeatures(e.point, { layers: ["distritos-relleno"] })[0];
@@ -445,6 +528,10 @@ for (const capa of CAPAS_TOCABLES) {
 }
 
 ficha.addEventListener("click", (e) => {
+  if ((e.target as HTMLElement).closest("button[data-ver-zona]") && puntoFicha) {
+    verZonaEn(puntoFicha);
+    return;
+  }
   const b = (e.target as HTMLElement).closest<HTMLButtonElement>("button[data-radio]");
   if (b && zonaActual?.tipo === "circulo") {
     zonaActual.radio = Number(b.dataset.radio);
@@ -454,6 +541,7 @@ ficha.addEventListener("click", (e) => {
 $("cerrar-ficha").addEventListener("click", cerrarFicha);
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") {
+    cerrarAcerca();
     if (dibujando) terminarDibujo();
     cerrarFicha();
     cerrarFiltros();
@@ -464,10 +552,15 @@ document.addEventListener("keydown", (e) => {
 let draw: TerraDraw | null = null;
 const botonDibujar = $<HTMLButtonElement>("dibujar");
 
-function empezarDibujo() {
+async function empezarDibujo() {
   cerrarFicha();
   cerrarFiltros();
   if (!draw) {
+    // La librería de dibujo se baja recién la primera vez que se usa (no pesa en la carga inicial).
+    botonDibujar.disabled = true;
+    const [{ TerraDraw, TerraDrawPolygonMode }, { TerraDrawMapLibreGLAdapter }] = await Promise.all([
+      import("terra-draw"), import("terra-draw-maplibre-gl-adapter"),
+    ]).finally(() => (botonDibujar.disabled = false));
     draw = new TerraDraw({
       adapter: new TerraDrawMapLibreGLAdapter({ map: mapa }),
       modes: [new TerraDrawPolygonMode({
@@ -502,7 +595,13 @@ function terminarDibujo() {
   }
 }
 
-botonDibujar.addEventListener("click", () => (dibujando ? terminarDibujo() : empezarDibujo()));
+botonDibujar.addEventListener("click", () => {
+  if (dibujando) terminarDibujo();
+  else empezarDibujo().catch((e) => {
+    console.error(e);
+    avisar("No se pudo abrir la herramienta de dibujo. Revisa tu conexión.", "error");
+  });
+});
 $("cancelar-dibujo").addEventListener("click", terminarDibujo);
 
 // ---------- Capas y filtros ----------
@@ -534,10 +633,11 @@ panelFiltros.addEventListener("change", async (e) => {
     const etiqueta = estadoEl.textContent;
     estadoEl.textContent = "Cargando capa…";
     try {
+      await distritosListos;
       const ok = await prepararCapa(mapa, capa, "distritos-borde");
       if (!ok) {
         input.checked = false;
-        alert("Esta capa todavía no está disponible. Vuelve a intentarlo más tarde.");
+        avisar("Esta capa todavía no está disponible. Vuelve a intentarlo más tarde.", "error");
       } else {
         capasActivas.add(capa);
         mostrarCapa(mapa, capa, true);
@@ -546,7 +646,7 @@ panelFiltros.addEventListener("change", async (e) => {
     } catch (err) {
       console.error(err);
       input.checked = false;
-      alert("No se pudo cargar la capa. Revisa tu conexión e inténtalo de nuevo.");
+      avisar("No se pudo cargar la capa. Revisa tu conexión e inténtalo de nuevo.", "error");
     } finally {
       input.disabled = false;
       estadoEl.textContent = etiqueta;

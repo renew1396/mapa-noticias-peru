@@ -1,6 +1,6 @@
 """Ingesta de noticias: RSS → limpiar → deduplicar → ubicar → clasificar → archivos por día.
 
-Uso:  python -m pipeline.ingest              (lo corre GitHub Actions cada 2 horas)
+Uso:  python -m pipeline.ingest              (lo corre GitHub Actions: programado cada hora)
       python -m pipeline.ingest --solo rpp   (probar un medio)
 
 Archivos que escribe (ver CLAUDE.md › Formato de datos):

@@ -1,10 +1,11 @@
 # Lee los RSS, ubica y clasifica las noticias, las guarda y publica el sitio.
-# Corre cada 2 horas (a los :23 para evitar la hora punta de GitHub). Si falla, GitHub avisa por correo.
+# Programada cada hora (a los :23, fuera de la hora punta de GitHub). GitHub suele saltarse ejecuciones
+# programadas, así que en la práctica corre cada 1–3 horas. Si falla, GitHub avisa por correo.
 name: Noticias
 
 on:
   schedule:
-    - cron: "23 */2 * * *"
+    - cron: "23 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -39,8 +40,12 @@ jobs:
             echo "cambio=no" >> "$GITHUB_OUTPUT"
           else
             git commit -q -m "Noticias: actualización automática $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase -q
-            git push -q
+            # GitHub a veces rechaza un push por un error suyo pasajero: reintentar hasta 3 veces.
+            for intento in 1 2 3; do
+              if git pull --rebase -q && git push -q; then break; fi
+              if [ "$intento" = 3 ]; then echo "::error::No se pudo guardar tras 3 intentos"; exit 1; fi
+              sleep $((intento * 20))
+            done
             echo "cambio=si" >> "$GITHUB_OUTPUT"
           fi
 

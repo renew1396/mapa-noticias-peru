@@ -22,6 +22,9 @@ Ver las últimas ejecuciones: `gh run list --limit 20` · ver el error de una: `
 ## El sitio muestra la versión anterior después de publicar
 GitHub Pages deja la página en caché ~10 minutos. Esperar o abrir el enlace con `?v=2` al final. Los datos de
 noticias se piden con revalidación (`cache: "no-cache"`), así que se actualizan solos.
+Si el mapa está **instalado como app** (PWA): la página se pide primero a la red, así que basta cerrar la app y
+volver a abrirla. Si aun así sigue vieja: en el navegador, Ajustes del sitio › Borrar datos (borra solo la caché
+del mapa) y volver a entrar.
 
 ## El ETL de una fuente falló
 1. Leer el mensaje: los ETL fallan a propósito con `EtlError` cuando la fuente cambió
@@ -47,10 +50,13 @@ datos no pasa, pero si ocurre: Actions › elegir la tarea › "Enable workflow"
 - Archivo > 100 MB: GitHub rechaza el `push`. Dividir el archivo o filtrarlo (p. ej. concesiones vigentes).
 
 ## No se actualizan las noticias
-1. Mirar la tarea: `gh run list --workflow noticias.yml --limit 5`. Si no aparece nada reciente, puede estar
-   apagada (ver "Las tareas programadas dejaron de correr") o GitHub la está retrasando (normal hasta ~30 min).
+1. Mirar la tarea: `gh run list --workflow noticias.yml --limit 5`. Está programada **cada hora**, pero GitHub se
+   salta ejecuciones programadas con frecuencia: huecos de 2–5 horas son normales. La web avisa ("⚠ Noticias sin
+   actualizar") y el chequeo de salud falla recién después de 8 horas sin correr. Si no aparece nada en un día,
+   puede estar apagada (ver "Las tareas programadas dejaron de correr").
 2. Si falló: `gh run view <id> --log-failed`. Errores típicos:
-   - `git push` rechazado: otra tarea escribió al mismo tiempo. Se corrige sola en la siguiente ejecución.
+   - `git push` rechazado ("fatal error in commit_refs" u otra tarea escribió al mismo tiempo): la tarea ya reintenta
+     3 veces; si igual falla, se corrige sola en la siguiente ejecución (las noticias siguen en los RSS un tiempo).
    - Error de Python en `pipeline/ingest.py`: reproducir con `.venv/bin/python -m pipeline.ingest` y arreglar.
 3. Si corre pero no entran noticias: revisar `data/status/estado.json` (`nuevas`, y `medios.*.error`).
 4. Forzar una ejecución: `gh workflow run noticias.yml`.
