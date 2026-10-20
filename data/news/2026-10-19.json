@@ -2,6 +2,53 @@
  "fecha": "2026-10-19",
  "noticias": [
   {
+   "id": "6f04ff0ad8f0",
+   "titulo": "Lluvias en Piura provocan aniegos y obligan a suspende procesión en Chulucanas",
+   "resumen": "Lluvias de moderada a fuerte intensidad en Morropón inundaron calles y paralizaron el recorrido del Señor de los Milagros. El Senamhi y el COER emitieron alerta por activación de quebradas.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/piura/lluvias-en-piura-provocan-aniegos-y-suspension-de-procesion-en-chulucanas-noticia-1713460",
+   "fecha": "2026-10-20T04:53:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chulucanas",
+     "ubigeo": "200401",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Morropón",
+     "ubigeo": "200400",
+     "precision": "provincia",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "e7fa01378227",
    "titulo": "Fenómeno El Niño: Intensa lluvia se registra en Piura y otras zonas de esa región del norte del Perú",
    "resumen": "Una intensa lluvia se registró este lunes 19 de octubre en Piura y otras localidades de esa región del norte del país, como Chulucanas, Tambogrande, en medio de la llegada del Fenómeno El Niño.",
