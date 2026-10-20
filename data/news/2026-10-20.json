@@ -1,0 +1,31 @@
+{
+ "fecha": "2026-10-20",
+ "noticias": [
+  {
+   "id": "e114f05e0951",
+   "titulo": "Elecciones Regionales y Municipales 2026: resultados oficiales de ONPE en la región de Lima",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/elecciones/elecciones-regionales-y-municipales-2026-resultados-oficiales-de-onpe-en-la-region-de-lima-noticia/",
+   "fecha": "2026-10-20T05:00:06Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ],
+   "grupo": "397e20795c1d"
+  }
+ ]
+}
