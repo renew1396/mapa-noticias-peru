@@ -2,6 +2,2185 @@
  "fecha": "2026-10-22",
  "noticias": [
   {
+   "id": "19a18ae85a29",
+   "titulo": "PNP incauta fusiles AR-15 y explosivos vinculados a 'Los Lobos II' en Condorcanqui",
+   "resumen": "La Policía Nacional incautó cuatro fusiles AR-15, dos pistolas, 600 municiones y material explosivo presuntamente vinculados a la organización criminal 'Los Lobos II' en el distrito de Cenepa, Condorcanqui, Amazonas. La diligencia se enmarca en las investigaciones posteriores al megaoperativo del…",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/pnp-incauta-fusiles-explosivos-los-lobos-ii-condorcanqui",
+   "fecha": "2026-10-23T04:48:34Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Condorcanqui",
+     "ubigeo": "010400",
+     "precision": "provincia",
+     "provincia": "Condorcanqui",
+     "departamento": "Amazonas",
+     "lon": -77.8645,
+     "lat": -4.59216,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Amazonas",
+     "ubigeo": "010000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Amazonas",
+     "lon": -77.87281,
+     "lat": -6.22955,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4724a6baff67",
+   "titulo": "Fiscalía alerta que minería ilegal ya está en el entorno de Conga y ve riesgo en Cajamarca",
+   "resumen": "El coordinador nacional de las FEMA, Frank Almanza, alertó que la minería ilegal avanza en los alrededores del paralizado proyecto Conga y que Cajamarca concentra al menos diez focos de expansión vinculados a organizaciones criminales.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/fiscalia-mineria-ilegal-entorno-conga-cajamarca",
+   "fecha": "2026-10-23T04:28:33Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ad25faf8b204",
+   "titulo": "El Niño podría frenar el turismo en Piura y Tumbes y elevar hasta 60% el precio de papa, cebolla y limón",
+   "resumen": "La economista Paola del Carpio advirtió que El Niño podría reducir la llegada de turistas a las playas de Piura y Tumbes y encarecer productos de consumo masivo. Las reservas hoteleras ya caen entre 5% y 8% antes del pico del fenómeno.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/economia/el-nino-turismo-piura-tumbes-precios-alimentos",
+   "fecha": "2026-10-23T04:28:32Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "327df167f6dc",
+   "titulo": "Surco: detienen a tres personas, incluido un menor de edad, cuando presuntamente intentaban robar una vivienda",
+   "resumen": "La propietaria del inmueble regresó a su domicilio junto a su esposo y su hija, y encontró la puerta principal abierta y la cerradura manipulada y violentada.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/policiales/surco-detienen-a-tres-personas-incluido-un-menor-de-edad-cuando-presuntamente-intentaban-robar-una-vivienda-noticia-1714025",
+   "fecha": "2026-10-23T04:15:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a361acab21aa",
+   "titulo": "Transportistas amenazan con dejar de pagar peajes entre Nazca y Ocoña por deterioro de la vía",
+   "resumen": "Teófilo Sánchez, presidente del Sindicato de Camioneros de Carga Pesada, anunció que su gremio dejará de pagar los peajes de Yauca y Atico, en la región Ica, por el deterioro de la Panamericana Sur y los constantes derrumbes entre Nazca y Ocoña.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/transportistas-dejaran-de-pagar-peajes-entre-nazca-y-ocona-por-deterioro-de-la-via-noticia/",
+   "fecha": "2026-10-23T04:12:24Z",
+   "temas": [
+    "infraestructura",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110300",
+     "precision": "provincia",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Ocoña",
+     "ubigeo": "040206",
+     "precision": "distrito",
+     "provincia": "Camaná",
+     "departamento": "Arequipa",
+     "lon": -73.10498,
+     "lat": -16.43169,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Yauca",
+     "ubigeo": "040313",
+     "precision": "distrito",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -74.52732,
+     "lat": -15.66194,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Atico",
+     "ubigeo": "040303",
+     "precision": "distrito",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -73.62349,
+     "lat": -16.20841,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "323055eb5859",
+   "titulo": "Luis Galarreta asegura que modernización del sistema de inteligencia reforzará la lucha contra el crimen",
+   "resumen": "El presidente del Consejo de Ministros, Luis Galarreta, defendió el fortalecimiento del Sistema de Inteligencia Nacional (SINA) y la mejora de la capacidad operativa de la Dirección Nacional de Inteligencia (DINI) como medidas para combatir la criminalidad.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/luis-galarreta-asegura-que-modernizacion-del-sistema-de-inteligencia-reforzara-la-lucha-contra-el-crimen-noticia/",
+   "fecha": "2026-10-23T04:04:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Sina",
+     "ubigeo": "211005",
+     "precision": "distrito",
+     "provincia": "San Antonio de Putina",
+     "departamento": "Puno",
+     "lon": -69.28017,
+     "lat": -14.49665,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ea119aa9d8f8",
+   "titulo": "La Libertad: Comando Unificado intensifica la lucha contra el crimen en zonas críticas",
+   "resumen": "En cumplimiento de las disposiciones del Comando Unificado, la Policía Nacional del Perú (PNP) intensifica la lucha contra el crimen organizado en La Libertad mediante intervenciones focalizadas en zonas de alta incidencia delictiva.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-la-libertad-comando-unificado-intensifica-lucha-contra-crimen-zonas-criticas-1097040.aspx",
+   "fecha": "2026-10-23T03:32:51Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "50173367e597",
+   "titulo": "Julio Velarde advirtió riesgos por El Niño, pero destacó que la economía peruana mantiene \"fundamentos sólidos\"",
+   "resumen": "El presidente del Banco Central de Reserva (BCR) participó virtualmente en el VII Congreso de Emprendedores Amazónicos (CEA), realizado en Pucallpa. \"En general, frente al resto de la región, el Perú está con una posición bastante sólida\", aseguró.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/economia/economia/julio-velarde-advirtio-riesgos-por-el-nino-y-los-altos-precios-de-los-combustibles-pero-destaco-que-la-economia-peruana-mantiene-fundamentos-solidos-noticia-1714023",
+   "fecha": "2026-10-23T03:24:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ac1e1b8f88b7",
+   "titulo": "Gecko de Lima: Parque de las Leyendas realizará charla gratuita sobre el reptil amenazado que habita en las huacas",
+   "resumen": "El Phyllodactylus sentosus está clasificado como En Peligro en Perú. El Parque de las Leyendas realizará una charla el 25 de octubre para explicar sus características y las acciones destinadas a protegerlo",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/gecko-de-lima-parque-de-las-leyendas-realizara-charla-gratuita-sobre-el-reptil-amenazado-que-habita-en-las-huacas/",
+   "fecha": "2026-10-23T03:16:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b94ea7f42bef",
+   "titulo": "Satipo: bomberos celebran llegada de lluvias tras más de dos semanas combatiendo incendio en Río Tambo (VIDEO)",
+   "resumen": "Las precipitaciones trajeron alivio a los brigadistas que luchan contra el fuego en la comunidad nativa de Tincareni.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huancayo/satipo-bomberos-celebran-llegada-de-lluvias-tras-mas-de-dos-semanas-combatiendo-incendio-en-rio-tambo-noticia/",
+   "fecha": "2026-10-23T03:13:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tincareni",
+     "ubigeo": "120608",
+     "ccpp": "1206080072",
+     "precision": "centro_poblado",
+     "provincia": "Satipo",
+     "departamento": "Junín",
+     "lon": -73.86741,
+     "lat": -11.86838,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Satipo",
+     "ubigeo": "120600",
+     "precision": "provincia",
+     "provincia": "Satipo",
+     "departamento": "Junín",
+     "lon": -74.63624,
+     "lat": -11.25388,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Río Tambo",
+     "ubigeo": "120608",
+     "precision": "distrito",
+     "provincia": "Satipo",
+     "departamento": "Junín",
+     "lon": -74.30638,
+     "lat": -11.14752,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "986284f5301f",
+   "titulo": "Agenda cultural en Lima del 23 al 30 de octubre: ferias, música criolla y propuestas de Halloween cierran el mes",
+   "resumen": "Una selección de obras teatrales, muestras de arte y celebraciones por el Día de la Canción Criolla y Halloween marca la programación de los últimos días de octubre.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/agenda-cultural-en-lima-del-23-al-30-de-octubre-ferias-musica-criolla-y-propuestas-de-halloween/",
+   "fecha": "2026-10-23T03:06:19Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "18f702a04eef",
+   "titulo": "CORTE DE LA LIBERTAD RECIBE CERTIFICACIÓN INTERNACIONAL ANTISOBORNO",
+   "resumen": "Fuente: Nota de prensa Lima, 22 de octubre 2026.- Gracias al esfuerzo conjunto y al compromiso de magistrados, personal jurisdiccional y administrativo, la Corte Superior de Justicia de La Libertad obtuvo la certificación internacional ISO 37001 del Sistema de Gestión Antisoborno, como resultado…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/corte-de-la-libertad-recibe-certificacion-internacional-antisoborno/",
+   "fecha": "2026-10-23T03:01:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "52ce96a3723d",
+   "titulo": "Mindef: Ejército culmina evacuación de aguas empozadas en calles de Tumbes",
+   "resumen": "El Ministerio de Defensa, a través del Ejército del Perú, culminó en horas de la tarde la evacuación de aguas empozadas en las inmediaciones de la avenida Arica y el parque El Amor, en Tumbes, como parte de las acciones de respuesta ante las recientes lluvias registradas en la región.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-mindef-ejercito-culmina-evacuacion-aguas-empozadas-calles-tumbes-1097033.aspx",
+   "fecha": "2026-10-23T03:00:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3152987bc206",
+   "titulo": "Puerto Maldonado: Gobierno firma concesión por US$122 millones para mejorar saneamiento",
+   "resumen": "El Gobierno suscribió el contrato de concesión por US$ 122.18 millones para transformar los servicios de saneamiento de la ciudad de Puerto Maldonado y mejorar la calidad de vida de más de 190,000 personas de la región Madre de Dios.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-puerto-maldonado-gobierno-firma-concesion-122-millones-para-mejorar-saneamiento-1097034.aspx",
+   "fecha": "2026-10-23T02:57:24Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tambopata",
+     "ubigeo": "170101",
+     "precision": "distrito",
+     "provincia": "Tambopata",
+     "departamento": "Madre de Dios",
+     "lon": -69.1768,
+     "lat": -12.59367,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Madre de Dios",
+     "lon": -69.1768,
+     "lat": -12.59367,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f103ff70ce8f",
+   "titulo": "San Borja: hombre resulta herido tras ser trasladado sobre el capó de un vehículo [VIDEO]",
+   "resumen": "El hecho quedó registrado en video y muestra cómo el conductor frenó intempestivamente, provocando la caída del hombre.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/san-borja-hombre-resulta-herido-tras-ser-trasladado-sobre-el-capo-de-un-vehiculo-noticia-1714019",
+   "fecha": "2026-10-23T02:56:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Borja",
+     "ubigeo": "150130",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.99899,
+     "lat": -12.10709,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2e8acd208c67",
+   "titulo": "Intensa llovizna se registra en varios distritos de Lima",
+   "resumen": "La llovizna que cayó este jueves 22 de octubre en Lima Metropolitana puso en alerta a los conductores por el riesgo de aniegos en las principales vías.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/intensa-llovizna-se-registra-en-varios-distritos-de-lima-noticia/",
+   "fecha": "2026-10-23T02:54:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "bd2bc242ba03"
+  },
+  {
+   "id": "9f5ef1431747",
+   "titulo": "UNICEF alerta por riesgo en Piura: más de 370 mil niños y adolescentes están expuestos a inundaciones por El Niño",
+   "resumen": "Las lluvias ya comienzan a alterar la vida cotidiana en la región y aumentan la preocupación por el acceso a escuelas, centros de salud y otros servicios básicos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/unicef-alerta-por-riesgo-en-piura-mas-de-370-mil-ninos-y-adolescentes-estan-expuestos-a-inundaciones-por-el-nino/",
+   "fecha": "2026-10-23T02:52:59Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e54e6bbb134d",
+   "titulo": "Conversaba con un amigo cuando dos sicarios en moto lo acribillaron a balazos en San Juan de Miraflores",
+   "resumen": "Dos individuos que se desplazaban en una motocicleta abrieron fuego contra el cambista mientras conversaba con un amigo en el asentamiento Javier Heraud, según testimonios recogidos por la Policía Nacional",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/conversaba-con-un-amigo-cuando-dos-sicarios-en-moto-lo-acribillaron-a-balazos-en-san-juan-de-miraflores/",
+   "fecha": "2026-10-23T02:48:37Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan de Miraflores",
+     "ubigeo": "150133",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.96371,
+     "lat": -12.16349,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8d7ecf5a6a0a",
+   "titulo": "En Huánuco, El Niño apunta a menos lluvia: el Senamhi prevé déficit en la sierra",
+   "resumen": "El escenario del verano 2027 da 41 % de probabilidad a lluvias bajo lo normal en la sierra centro oriental. 24 distritos de Huánuco en emergencia",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/en-huanuco-el-nino-apunta-a-menos-lluvia-el-senamhi-preve-deficit-en-la-sierra",
+   "fecha": "2026-10-23T02:43:33Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "88140d8d56a7",
+   "titulo": "Premier Galarreta: uso de inteligencia servirá para fortalecer lucha contra criminalidad",
+   "resumen": "El presidente del Consejo de Ministros, Luis Galarreta, afirmó que el fortalecimiento y modernización del Sistema de Inteligencia Nacional (SINA), así como mejorar la capacidad operativa de la Dirección Nacional de Inteligencia (DINI), permitirá el fortalecimiento de la lucha contra la criminalidad.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-premier-galarreta-uso-inteligencia-servira-para-fortalecer-lucha-contra-criminalidad-1097031.aspx",
+   "fecha": "2026-10-23T02:42:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Sina",
+     "ubigeo": "211005",
+     "precision": "distrito",
+     "provincia": "San Antonio de Putina",
+     "departamento": "Puno",
+     "lon": -69.28017,
+     "lat": -14.49665,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0421e4c304ab",
+   "titulo": "Lluvia de 20 minutos inunda calles de Tingo María y daña techos en Brisas del Huallaga",
+   "resumen": "Una lluvia intensa de unos 20 minutos inundó calles y viviendas en Tingo María, provincia de Leoncio Prado, y las ráfagas de viento desprendieron calaminas en asentamientos humanos. El Senamhi advirtió lluvias localizadas fuertes para Huánuco y Ucayali.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/lluvia-inunda-tingo-maria-techos-brisas-del-huallaga",
+   "fecha": "2026-10-23T02:28:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rupa-Rupa",
+     "ubigeo": "100601",
+     "precision": "distrito",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.00056,
+     "lat": -9.29799,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Huallaga",
+     "ubigeo": "220204",
+     "precision": "distrito",
+     "provincia": "Bellavista",
+     "departamento": "San Martín",
+     "lon": -76.64858,
+     "lat": -7.13116,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b78dbce7ab4f",
+   "titulo": "Advierten riesgos en nueva contratación para proyecto de agua y alcantarillado de Tingo María",
+   "resumen": "Órgano de Control señala que utilizaron estudios observados por inconsistencias para elaborar nuevo expediente técnico",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/advierten-riesgos-en-nueva-contratacion-para-proyecto-de-agua-y-alcantarillado-de-tingo-maria-noticia/",
+   "fecha": "2026-10-23T02:26:19Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rupa-Rupa",
+     "ubigeo": "100601",
+     "precision": "distrito",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.00056,
+     "lat": -9.29799,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1d923e67c37e",
+   "titulo": "SMP: capturan a presuntos integrantes de banda criminal que extorsionaba a mototaxistas del mercado Sarita Colonia",
+   "resumen": "De acuerdo con información de la Policía Nacional, los detenidos habrían exigido pagos de cinco soles a los transportistas para permitirles circular por las vías de acceso al centro de abastos.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/policiales/smp-capturan-a-presuntos-integrantes-de-banda-criminal-que-extorsionaba-a-mototaxistas-del-mercado-sarita-colonia-noticia-1714017",
+   "fecha": "2026-10-23T02:19:44Z",
+   "temas": [
+    "seguridad",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "38b8e1a273f3",
+   "titulo": "Minedu suspende a escolares que golpearon a menor y formaliza proceso para su expulsión",
+   "resumen": "El director de la Dirección Regional de Educación de Lima Metropolitana (DRELM), Cornelio Gonzales, anunció que se evaluarán medidas drásticas contra los cuatro estudiantes implicados en la brutal agresión a un escolar de 14 años de la institución educativa pública Bartolomé Herrera, quien habría…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-minedu-suspende-a-escolares-golpearon-a-menor-y-formaliza-proceso-para-su-expulsion-1097030.aspx",
+   "fecha": "2026-10-23T02:13:28Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ea01a1cf8022",
+   "titulo": "Tacna: UNJBG reúne a expertos de siete países en congreso internacional de comunicación",
+   "resumen": "La Universidad Nacional Jorge Basadre Grohmann (UNJBG) inauguró el VIII Congreso Internacional de Comunicación y Protocolo, que reúne a especialistas de siete países para analizar las nuevas tendencias en comunicación estratégica, protocolo de Estado y desarrollo regional. La ceremonia se realizó…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/22/tacna-unjbg-reune-a-expertos-de-siete-paises-en-congreso-internacional-de-comunicacion/",
+   "fecha": "2026-10-23T02:12:58Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2f5ace8f77e2",
+   "titulo": "Petroperú detectó una nueva conexión clandestina en el Oleoducto Norperuano con mangueras y válvulas",
+   "resumen": "Petroperú activó su plan de respuesta tras hallar una intervención ilegal en el Tramo II del ducto, en Lambayeque. Con este caso, suman 10 las conexiones clandestinas detectadas desde junio",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/petroperu-detecto-una-nueva-conexion-clandestina-en-el-oleoducto-norperuano-con-mangueras-y-valvulas/",
+   "fecha": "2026-10-23T02:11:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2cd7327da830",
+   "titulo": "Huánuco: Prisión preventiva para docente investigado por abuso sexual de su propia hija",
+   "resumen": "Execrable hecho ocurrió cuando la menor y su agresor viajaron a Uchiza. La madre de la menor que también está siendo investigada, con comparecencia restringida.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-prision-preventiva-para-docente-investigado-por-abuso-sexual-de-quinceanera-noticia/",
+   "fecha": "2026-10-23T02:09:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Uchiza",
+     "ubigeo": "221005",
+     "precision": "distrito",
+     "provincia": "Tocache",
+     "departamento": "San Martín",
+     "lon": -76.46176,
+     "lat": -8.45822,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "fb440214a386",
+   "titulo": "Miles de soles en pérdidas por cultivos de arroz dañados por las lluvias en el distrito piurano de Las Lomas",
+   "resumen": "Las lluvias torrenciales en Las Lomas, Piura, anegan sembríos de arroz y dejan más de 40 mil soles en pérdidas en el sector Chipillico, según reportó un productor a RPP.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/piura/lluvias-torrenciales-destruyen-cultivos-de-arroz-en-las-lomas-y-dejan-cuantiosas-perdidas-noticia-1714016",
+   "fecha": "2026-10-23T02:05:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chipillico",
+     "ubigeo": "200111",
+     "ccpp": "2001110042",
+     "precision": "centro_poblado",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.13058,
+     "lat": -4.71855,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Las Lomas",
+     "ubigeo": "200111",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.23931,
+     "lat": -4.64986,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "86e12a6dafb4",
+   "titulo": "Delincuentes armados roban S/ 100 mil a una pareja en el puente de Camaná",
+   "resumen": "Pareja había cambiado dólares en soles y se dirigía a cenar",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/delincuentes-armados-roban-s-100-mil-a-una-pareja-en-el-puente-de-camana-noticia/",
+   "fecha": "2026-10-23T02:04:51Z",
+   "temas": [
+    "seguridad",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Camaná",
+     "ubigeo": "040201",
+     "precision": "distrito",
+     "provincia": "Camaná",
+     "departamento": "Arequipa",
+     "lon": -72.71149,
+     "lat": -16.62466,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f29f446cb901",
+   "titulo": "Poder Judicial mantiene “vigente” prisión preventiva contra Pedro Castillo",
+   "resumen": "El Poder Judicial dispuso que se mantenga “vigente” el mandato de prisión contra el expresidente Pedro Castillo como parte de la investigación preparatoria que se le sigue a raíz de los casos acumulados de Petroperú, Puente Tarata y Ministerio de Vivienda.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/poder-judicial-mantiene-vigente-prision-preventiva-contra-pedro-castillo-noticia/",
+   "fecha": "2026-10-23T02:00:00Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tarata",
+     "ubigeo": "230401",
+     "precision": "distrito",
+     "provincia": "Tarata",
+     "departamento": "Tacna",
+     "lon": -70.03188,
+     "lat": -17.47506,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1dcb6431523f",
+   "titulo": "Ositrán: Línea 2 del Metro alcanza 81% de avance físico a octubre",
+   "resumen": "A octubre de 2026, la Línea 2 y el Ramal de la Línea 4 del Metro de Lima y Callao registra un avance físico acumulado de 81.27% y un avance financiero de 80.31%, según el seguimiento efectuado por el Organismo Supervisor de la Inversión en Infraestructura de Transporte de Uso Público (Ositrán).",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-ositran-linea-2-del-metro-alcanza-81-avance-fisico-a-octubre-1097025.aspx",
+   "fecha": "2026-10-23T02:00:00Z",
+   "temas": [
+    "transporte",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "8ad0dd3a7354",
+   "titulo": "Loreto: Gobierno brindará 140,000 atenciones a ciudadanos de comunidades amazónicas",
+   "resumen": "El Gobierno puso en marcha la última campaña del año de las Plataformas Itinerantes de Acción Social (PIAS) en Loreto, con el despliegue de cuatro embarcaciones que brindarán más de 140,000 atenciones a cerca de 9,000 ciudadanos de comunidades amazónicas de difícil acceso.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-loreto-gobierno-brindara-140000-atenciones-a-ciudadanos-comunidades-amazonicas-1097027.aspx",
+   "fecha": "2026-10-23T01:49:18Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Pías",
+     "ubigeo": "130810",
+     "precision": "distrito",
+     "provincia": "Pataz",
+     "departamento": "La Libertad",
+     "lon": -77.54658,
+     "lat": -7.87186,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "grupo": "08e76cfc0f90"
+  },
+  {
+   "id": "afe30994940a",
+   "titulo": "Fenómeno El Niño amenaza patrimonio cultural en Lambayeque: Mincul protege huacas y museos ante posibles lluvias intensas",
+   "resumen": "La cartera de Cultura invierte más de S/ 554 mil en Huaca Rajada-Sipán y Huaca Las Balsas para reducir riesgos sobre el patrimonio arqueológico",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/fenomeno-el-nino-amenaza-patrimonio-cultural-en-lambayeque-mincul-protege-huacas-y-museos-ante-posibles-lluvias-intensas/",
+   "fecha": "2026-10-23T01:46:08Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e21d605f07fd",
+   "titulo": "Municipalidad de Lima anuncia cierre temporal de dos accesos en la avenida Javier Prado de lunes a viernes",
+   "resumen": "La Gerencia de Movilidad Urbana de la Municipalidad de Lima informó este jueves 22 de octubre del cierre temporal de dos accesos en la avenida Javier Prado, en sentido de oeste a este.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/transporte/municipalidad-de-lima-anuncia-cierre-temporal-de-dos-accesos-en-la-avenida-javier-prado-de-lunes-a-viernes-ultimas-noticia/",
+   "fecha": "2026-10-23T01:38:40Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4ff1e858dfc9",
+   "titulo": "Junín: Tras 19 días combatientes forestales logran extinguir incendio en comunidad nativa",
+   "resumen": "Tras 19 días de intensa lucha contra el fuego en una zona de difícil intervención de la selva central, combatientes forestales, bomberos, efectivos del Ejército y pobladores de comunidades nativas lograron extinguir el incendio forestal que afectó los anexos Tincareni y Tsyapo de la comunidad…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/junin/junin-tras-19-dias-combatientes-forestales-logran-extinguir-incendio-en-comunidad-nativa-apuesplan-ultimas-noticia/",
+   "fecha": "2026-10-23T01:35:00Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tincareni",
+     "ubigeo": "120608",
+     "ccpp": "1206080072",
+     "precision": "centro_poblado",
+     "provincia": "Satipo",
+     "departamento": "Junín",
+     "lon": -73.86741,
+     "lat": -11.86838,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Tsyapo",
+     "ubigeo": "120608",
+     "ccpp": "1206080075",
+     "precision": "centro_poblado",
+     "provincia": "Satipo",
+     "departamento": "Junín",
+     "lon": -73.87268,
+     "lat": -11.89805,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "fa9955dab26f",
+   "titulo": "Puno: Regidor de Carabaya desconoce presupuesto de Medio Ambiente y genera indignación entre oyentes",
+   "resumen": "El regidor Tito manifestó que desconoce cuánto presupuesto maneja el área de Medio Ambiente de la Municipalidad Provincial de Carabaya. Su respuesta generó indignación entre los oyentes de Radio Allinccapac durante una entrevista sobre la paralización de maquinaria en el botadero de Macusani.…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/22/puno-regidor-de-carabaya-desconoce-presupuesto-de-medio-ambiente-y-genera-indignacion-entre-oyentes/",
+   "fecha": "2026-10-23T01:34:01Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Macusani",
+     "ubigeo": "210301",
+     "precision": "distrito",
+     "provincia": "Carabaya",
+     "departamento": "Puno",
+     "lon": -70.43111,
+     "lat": -14.06854,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Carabaya",
+     "ubigeo": "210300",
+     "precision": "provincia",
+     "provincia": "Carabaya",
+     "departamento": "Puno",
+     "lon": -70.43111,
+     "lat": -14.06854,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4ce670f46d0e",
+   "titulo": "SENAMHI advierte lluvias de mayor intensidad en la costa norte entre el 24 y el 26 de octubre",
+   "resumen": "El organismo estima acumulados cercanos a 80 mm/día en Tumbes y superiores a 50 mm/día en provincias de Piura. Advirtió sobre posibles aniegos, activación de quebradas y un eventual aumento del caudal de los ríos de Tumbes.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/senamhi-advierte-lluvias-de-mayor-intensidad-en-la-costa-norte-entre-el-24-y-el-26-de-octubre-noticia-1714015",
+   "fecha": "2026-10-23T01:33:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200100",
+     "precision": "provincia",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "8f449afebb03",
+   "titulo": "Papa León XIV en Perú: Ucayali se prepara para movilización de hasta 230,000 personas",
+   "resumen": "El gobernador regional Manuel Gambini también dio detalles sobre los avances de obras para la llegada del Sumo Pontífice, programada para mediados de noviembre.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/papa-leon-xiv-en-peru-ucayali-se-prepara-para-movilizacion-de-hasta-230000-personas-noticia/",
+   "fecha": "2026-10-23T01:30:34Z",
+   "temas": [
+    "conflicto_social",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "06e28becb451",
+   "titulo": "Fiscalía alerta que la minería ilegal “ya está” en el entorno de Conga y que Cajamarca sería “diez” veces peor que Pataz",
+   "resumen": "El fiscal superior Frank Almanza advirtió que la minería ilegal avanza en zonas cercanas al proyecto, paralizado desde 2011, y alertó que Cajamarca enfrenta al menos diez focos de expansión que podrían superar la violencia y el control criminal registrados en Pataz",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/fiscalia-alerta-que-la-mineria-ilegal-ya-esta-en-el-entorno-de-conga-y-que-cajamarca-seria-diez-veces-peor-que-pataz/",
+   "fecha": "2026-10-23T01:28:37Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pataz",
+     "ubigeo": "130800",
+     "precision": "provincia",
+     "provincia": "Pataz",
+     "departamento": "La Libertad",
+     "lon": -77.29604,
+     "lat": -8.275,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "97853b21c747",
+   "titulo": "Gore La Libertad ejecutará 16 trabajos adicionales en puntos críticos ante El Niño",
+   "resumen": "Ante el pronóstico adverso de lluvias asociadas al fenómeno El Niño (FEN), el Gobierno Regional de La Libertad intervendrá en 16 puntos críticos en el río Chicama, en la provincia de Ascope, informó hoy el subgerente regional de Defensa Civil, Ricardo Lazo Suji, quien indicó que estos trabajos son…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-gore-libertad-ejecutara-16-trabajos-adicionales-puntos-criticos-ante-nino-1097026.aspx",
+   "fecha": "2026-10-23T01:26:49Z",
+   "temas": [
+    "desastres",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chicama",
+     "ubigeo": "130202",
+     "precision": "distrito",
+     "provincia": "Ascope",
+     "departamento": "La Libertad",
+     "lon": -79.14404,
+     "lat": -7.84255,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Ascope",
+     "ubigeo": "130200",
+     "precision": "provincia",
+     "provincia": "Ascope",
+     "departamento": "La Libertad",
+     "lon": -79.10728,
+     "lat": -7.7135,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "da0477579609"
+  },
+  {
+   "id": "bb3f951a557d",
+   "titulo": "Puno: Dictan nueve meses de prisión preventiva contra alcalde investigado por homicidio",
+   "resumen": "El Juzgado de Investigación Preparatoria de Juli dictó nueve meses de prisión preventiva contra Charles Octavio Mamani Díaz (51), alcalde del centro poblado de Tuquina, distrito de Pomata, investigado por el presunto delito de homicidio simple tras la muerte de Wilfredo Mamani Nina, alcalde del…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/22/puno-dictan-nueve-meses-de-prision-preventiva-contra-alcalde-investigado-por-homicidio/",
+   "fecha": "2026-10-23T01:25:07Z",
+   "temas": [
+    "politica_local",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pomata",
+     "ubigeo": "210406",
+     "precision": "distrito",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.29269,
+     "lat": -16.27348,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Juli",
+     "ubigeo": "210401",
+     "precision": "distrito",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.4595,
+     "lat": -16.21279,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Nina",
+     "ubigeo": "210407",
+     "ccpp": "2104070064",
+     "precision": "centro_poblado",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.14517,
+     "lat": -16.55058,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "8d96b2db1ceb"
+  },
+  {
+   "id": "bd2bc242ba03",
+   "titulo": "Fenómeno El Niño: Intensa llovizna se registra en varios distritos de Lima",
+   "resumen": "Una intensa llovizna se viene registrando este jueves 22 de octubre en varios distritos de Lima Metropolitana, lo que podría generar aniegos en las principales vías, en un contexto de temperaturas elevadas asociadas al calentamiento del mar y al Fenómeno El Niño.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/llovizna-en-lima-se-registra-en-varios-distritos-de-la-capital-fenomeno-el-nino-apuesplan-ultimas-noticia/",
+   "fecha": "2026-10-23T01:18:14Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f95ae386e64f",
+   "titulo": "Corte de agua en Lima este viernes 23 de octubre: Sedapal anuncia qué distritos serán afectados",
+   "resumen": "Sedapal ha comunicado una suspensión del suministro de agua en Lima para el viernes 23 de octubre, que afectará diversas áreas de la capital.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/22/sedapal-informa-corte-de-agua-de-hasta-14-horas-este-23-de-octubre-revisa-las-areas-afectadas-335764",
+   "fecha": "2026-10-23T01:17:49Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "98b087e50e03",
+   "titulo": "Alerta por El Niño: Indeci explica cómo informarte y actuar ante emergencias por inundaciones",
+   "resumen": "El especialista Carlos Pichilingüe explicó el uso de la herramienta Visor del Indeci, cómo informarse de las alertas del Senamhi, la evacuación a zonas altas y el armado de mochilas de emergencia ante lluvias e inundaciones.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/el-nino-en-peru-guia-del-indeci-para-evacuar-y-consultar-mapa-de-albergues-ante-lluvias-noticia-1714009",
+   "fecha": "2026-10-23T01:15:32Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alerta",
+     "ubigeo": "170303",
+     "ccpp": "1703030004",
+     "precision": "centro_poblado",
+     "provincia": "Tahuamanu",
+     "departamento": "Madre de Dios",
+     "lon": -69.23503,
+     "lat": -11.65636,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "619eac994a13",
+   "titulo": "Llovizna sorprende en varios puntos de Lima: Senamhi prevé más precipitaciones en distritos costeros durante las siguientes horas",
+   "resumen": "Senamhi señala que se esperan lluvias intensas en la sierra y la costa norte, incluyendo granizo en zonas altas, además de vientos que podrían alcanzar los 40 km/h. Esté preparado para condiciones adversas.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/22/llovizna-sorprende-en-varios-puntos-de-lima-senamhi-preve-mas-precipitaciones-en-distritos-costeros-durante-las-siguientes-horas-1467026",
+   "fecha": "2026-10-23T01:15:13Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5479f7dd6f81",
+   "titulo": "Silvia Cornejo dio a luz a su segundo bebé: Jean Paul Gabuteau reaccionó así",
+   "resumen": "‘Amor y Fuego’ informó que Silvia dio a luz a un niño en una clínica de Surco. La exconductora habría sido sometida a una cesárea, según el programa de espectáculos.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/silvia-cornejo-dio-a-luz-a-su-segundo-bebe-jean-paul-gabuteau-reacciono-asi/",
+   "fecha": "2026-10-23T01:15:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e93fb4fd3343",
+   "titulo": "Municipalidad otorga 30 días al Consorcio Cono Norte para garantizar buses en la vía Arequipa-La Joya",
+   "resumen": "Municipalidad de Arequipa envió una carta notarial con advertencia de resolver el contrato",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/municipalidad-otorga-30-dias-al-consorcio-cono-norte-para-garantizar-buses-en-la-via-arequipa-la-joya-noticia/",
+   "fecha": "2026-10-23T01:08:15Z",
+   "temas": [
+    "politica_local",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040100",
+     "precision": "provincia",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e80a59dc0553",
+   "titulo": "Petroperú detecta nueva conexión clandestina en el Oleoducto Norperuano",
+   "resumen": "Petroperú activó su Plan de Respuesta a Emergencias tras detectar una nueva conexión clandestina en el Oleoducto Norperuano (ONP), ubicada en el kilómetro 696+154 del Tramo II, en el distrito de Olmos, provincia y región Lambayeque.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-petroperu-detecta-nueva-conexion-clandestina-el-oleoducto-norperuano-1097024.aspx",
+   "fecha": "2026-10-23T01:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Olmos",
+     "ubigeo": "140308",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.74748,
+     "lat": -5.98787,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "grupo": "2f5ace8f77e2"
+  },
+  {
+   "id": "5b3ac8815504",
+   "titulo": "Marco Romero y Sebastián Llosa son nominados para representar a Perú en el Festival Viña del Mar 2027",
+   "resumen": "Los intérpretes competirán por la Gaviota de Plata en las categorías Internacional y Folclórica durante la edición 66 del festival chileno, programada para febrero en la Quinta Vergara con participantes de seis países.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/marco-romero-y-sebastian-llosa-son-nominados-para-representar-a-peru-en-el-festival-vina-del-mar-2027/",
+   "fecha": "2026-10-23T00:57:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Marco",
+     "ubigeo": "120415",
+     "precision": "distrito",
+     "provincia": "Jauja",
+     "departamento": "Junín",
+     "lon": -75.5611,
+     "lat": -11.74055,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5755155d537f",
+   "titulo": "Lluvias intensas inundan calles de Huánuco en solo 20 minutos, dañan techos de viviendas y afectan las actividades comerciales y turísticas",
+   "resumen": "El Senamhi advirtió sobre la formación de nubes de tormenta en sectores de Huánuco y Ucayali, con posibilidad de lluvias de moderada intensidad y precipitaciones fuertes localizadas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/lluvias-intensas-inundan-calles-de-huanuco-en-solo-20-minutos-danan-techos-de-viviendas-y-afectan-las-actividades-comerciales-y-turisticas/",
+   "fecha": "2026-10-23T00:47:28Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1a72f34b232b",
+   "titulo": "Papa León XIV más que confirmado en Perú tras itinerario revelado por la Cancillería",
+   "resumen": "El pontífice estará del 11 al 16 de noviembre de 2026 y su recorrido contempla actividades en Lima, Callao, Chiclayo, Cusco y Pucallpa",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/papa-leon-xiv-llegara-al-peru-en-noviembre-cancilleria-revela-fechas-y-despeja-dudas-sobre-su-viaje/",
+   "fecha": "2026-10-23T00:32:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7b12481828e3",
+   "titulo": "El drama de los incendios forestales en Perú: bomberos usan sus cascos para trasladar agua y combatir el fuego en Apurímac",
+   "resumen": "Sin mangueras ni mochilas aspersoras suficientes, los voluntarios organizaron una “Bomberotón” para reunir fondos y conseguir equipamiento adecuado",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/el-drama-de-los-incendios-forestales-en-peru-bomberos-usan-sus-cascos-para-trasladar-agua-y-combatir-el-fuego-en-apurimac/",
+   "fecha": "2026-10-23T00:27:35Z",
+   "temas": [
+    "medio_ambiente",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "96b0c587e158",
+   "titulo": "De una corona shipiba a 21 canoas: así será la bienvenida indígena al papa León XIV en Pucallpa",
+   "resumen": "Representantes de los pueblos indígenas de Ucayali se reunirán con el pontífice el 15 de noviembre en Yarinacocha para compartir las necesidades de sus comunidades. La bienvenida incluirá danzas, cantos y expresiones culturales.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/22/de-una-corona-shipiba-a-21-canoas-asi-sera-la-bienvenida-indigena-al-papa-leon-xiv-en-pucallpa-1283216",
+   "fecha": "2026-10-23T00:26:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Yarinacocha",
+     "ubigeo": "250105",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.57573,
+     "lat": -8.35549,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "23606e4dfef8",
+   "titulo": "El Niño pone a Piura bajo agua, mientras el Gobierno Regional gastó más de S/ 300 mil en celebraciones y actividades",
+   "resumen": "El Ejecutivo regional de Luis Neyra había ejecutado el 62,3 % de los S/ 54,2 millones destinados a reducir riesgos y atender emergencias por desastres, según un informe de Willax",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/22/el-nino-pone-a-piura-bajo-agua-mientras-el-gobierno-regional-gasto-mas-de-s-300-mil-en-celebraciones-y-actividades/",
+   "fecha": "2026-10-23T00:24:05Z",
+   "temas": [
+    "agua",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "679bef676756",
+   "titulo": "Juliaca: Hallan sin vida a joven cerca del puente Maravillas",
+   "resumen": "Una joven de entre 15 y 20 años fue hallada sin vida la tarde de este jueves cerca del puente Maravillas, en Juliaca. Según la información preliminar, la corriente del río habría arrastrado el cuerpo hasta el sector de Laguna Azul, donde quedó atrapado entre la vegetación, cerca de la orilla.…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/22/juliaca-hallan-sin-vida-a-joven-cerca-del-puente-maravillas/",
+   "fecha": "2026-10-23T00:20:58Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ee851cfce47b",
+   "titulo": "Surco: una trabajadora de limpieza resulta herida tras la detonación de un explosivo que habría sido dejado por barristas",
+   "resumen": "Según el Serenazgo, el pirotécnico correspondería a una \"bomba trueno\" que habría sido abandonada en el lugar por barristas días atrás, hipótesis que se encuentra pendiente de confirmación por la Policía Nacional del Perú (PNP).",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/surco-una-trabajadora-de-limpieza-resulta-herida-tras-la-detonacion-de-un-explosivo-que-habria-sido-dejada-por-barristas-noticia-1714005",
+   "fecha": "2026-10-23T00:15:30Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c24d466b8f6f",
+   "titulo": "Estos son los distritos de Lima con los precios más bajos por metro cuadrado, según el Banco Central de Reserva del Perú",
+   "resumen": "El reporte del primer trimestre de 2026 también permite comparar cuánto costaría adquirir un departamento de 70 m² en distintas zonas de la capital y qué otros factores conviene evaluar antes de realizar la compra",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/estos-son-los-distritos-de-lima-con-los-precios-mas-bajos-por-metro-cuadrado-segun-el-banco-central-de-reserva-del-peru/",
+   "fecha": "2026-10-23T00:09:10Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b05b3d8659ae",
+   "titulo": "Inician jornadas para prevenir violencia y acoso escolar en instituciones educativas de Moquegua",
+   "resumen": "En las instalaciones de la I.E. Simón Bolívar de Moquegua se inició la jornada educativa “Juntos construimos espacios seguros”, orientada a prevenir la violencia escolar y familiar, identificar situaciones de riesgo y abordar el cuidado de la salud mental de los adolescentes. La actividad contó…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/inician-jornadas-para-prevenir-violencia-y-acoso-escolar-en-instituciones-educativas-de-moquegua/",
+   "fecha": "2026-10-23T00:07:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "81f76b5a8e5c",
+   "titulo": "Lurín: toro escapa de camión y causa alarma en los alrededores del mercado San Pedro",
+   "resumen": "El animal corrió por la vía pública e ingresó al centro de abastos, causando alarma entre los comerciantes y transeúntes que se encontraban en la zona.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/lurin-toro-escapa-de-camion-y-causa-alarma-en-los-alrededores-del-mercado-san-pedro-noticia-1714004",
+   "fecha": "2026-10-23T00:04:02Z",
+   "temas": [
+    "infraestructura",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lurín",
+     "ubigeo": "150119",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.87037,
+     "lat": -12.27466,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "49df90dc38d7",
+   "titulo": "Incendio en Los Uros se repitió dos días y Fiscalía investigará las causas",
+   "resumen": "Capitanía de Puerto de Puno solicita al Ministerio Público investigar el incendio que afectó entre dos y tres hectáreas de totorales en Los Uros, mientras pobladores denuncian pérdidas de animales y viviendas calcinadas El incendio de totorales registrado durante dos días consecutivos en la isla…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/incendio-en-los-uros-se-repitio-dos-dias-y-fiscalia-investigara-las-causas/",
+   "fecha": "2026-10-22T23:55:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "74579ef49364",
+   "titulo": "Detienen a subgerente del municipio de Trujillo acusado de pedir coima",
+   "resumen": "Un funcionario de la Municipalidad Provincial de Trujillo (MPT) fue intervenido por presuntamente solicitar una coima de S/ 1,500 a la empresa de transportes California para evitar que la empresa sea sancionada por 30 días.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/detienen-a-subgerente-del-municipio-de-trujillo-acusado-de-pedir-coima-noticia/",
+   "fecha": "2026-10-22T23:55:16Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f8fc41e9bd72",
+   "titulo": "Pobladores de Isla Los Uros exige investigaciones por incendio que mató animales y destruyó nidos de aves",
+   "resumen": "Pobladores de Los Uros denuncian la pérdida de viviendas, animales y nidos de aves silvestres por el incendio de totorales en el lago Titicaca, y exigen una investigación para identificar a los responsables y cuantificar los daños ambientales Los pobladores de la isla Los Uros, en el lago…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/pobladores-de-isla-los-uros-exige-investigaciones-por-incendio-que-mato-animales-y-destruyo-nidos-de-aves/",
+   "fecha": "2026-10-22T23:52:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Isla",
+     "ubigeo": "210210",
+     "ccpp": "2102100024",
+     "precision": "centro_poblado",
+     "provincia": "Azángaro",
+     "departamento": "Puno",
+     "lon": -70.03331,
+     "lat": -15.31805,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8d96b2db1ceb",
+   "titulo": "Pomata: dictan nueve meses de prisión preventiva contra alcalde de Tuquina por presunto homicidio",
+   "resumen": "Jueza de Juli ordena nueve meses de prisión preventiva contra el alcalde de Tuquina, investigado por la muerte del alcalde de Collini, quien falleció por un traumatismo encéfalo craneano El Juzgado de Investigación Preparatoria de Juli dictó nueve meses de prisión preventiva contra Charles Octavio…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/pomata-dictan-nueve-meses-de-prision-preventiva-contra-alcalde-de-tuquina-por-presunto-homicidio/",
+   "fecha": "2026-10-22T23:47:23Z",
+   "temas": [
+    "politica_local",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Collini",
+     "ubigeo": "210406",
+     "ccpp": "2104060025",
+     "precision": "centro_poblado",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.3068,
+     "lat": -16.35975,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Pomata",
+     "ubigeo": "210406",
+     "precision": "distrito",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.29269,
+     "lat": -16.27348,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Juli",
+     "ubigeo": "210401",
+     "precision": "distrito",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.4595,
+     "lat": -16.21279,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1d6e5aac438a",
+   "titulo": "CAJAMARCA: DESTACAN ALIANZA CON EL SECTOR PRIVADO PARA FORTALECER LA PREPARACIÓN Y GESTIÓN DE RIESGOS EN LA ENCAÑADA ANTE EL NIÑO",
+   "resumen": "· Asistencia técnica de Newmont Yanacocha permite la elaboración de mapas de vulnerabilidad y la implementación del aplicativo Resiliencia para orientar las intervenciones municipales en Cajamarca. RCR, 22 de octubre 2026.- La encargada de Riesgos y Desastres de la Municipalidad Distrital de La…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/cajamarca-destacan-alianza-con-el-sector-privado-para-fortalecer-la-preparacion-y-gestion-de-riesgos-en-la-encanada-ante-el-nino/",
+   "fecha": "2026-10-22T23:44:17Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Para",
+     "ubigeo": "060809",
+     "ccpp": "0608090026",
+     "precision": "centro_poblado",
+     "provincia": "Jaén",
+     "departamento": "Cajamarca",
+     "lon": -79.29768,
+     "lat": -5.63227,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Alianza",
+     "ubigeo": "220504",
+     "ccpp": "2205040003",
+     "precision": "centro_poblado",
+     "provincia": "Lamas",
+     "departamento": "San Martín",
+     "lon": -76.27508,
+     "lat": -6.11706,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Encañada",
+     "ubigeo": "060105",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.34446,
+     "lat": -7.08693,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "67f8658369f9",
+   "titulo": "Arequipa: sentencian a 27 años de prisión a padre por tocamientos indebidos a sus hijas",
+   "resumen": "Hombre amenazaba a sus hijas para evitar que denunciaran las agresiones sexuales",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-sentencian-a-27-anos-de-prision-a-padre-por-tocamientos-indebidos-a-sus-hijas-noticia/",
+   "fecha": "2026-10-22T23:38:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c02c06cee22f",
+   "titulo": "Alerta por lluvias en Lima este fin de semana: dónde lloverá más y qué zonas deben estar bajo vigilancia",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/alerta-por-lluvias-en-lima-este-fin-de-semana-donde-llovera-mas-y-que-zonas-deben-estar-bajo-vigilancia-apuesplan-noticia/",
+   "fecha": "2026-10-22T23:34:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Alerta",
+     "ubigeo": "170303",
+     "ccpp": "1703030004",
+     "precision": "centro_poblado",
+     "provincia": "Tahuamanu",
+     "departamento": "Madre de Dios",
+     "lon": -69.23503,
+     "lat": -11.65636,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "c5eb90c13237",
    "titulo": "GOBIERNO DE KEIKO FUJIMORI, REGIONES Y MUNICIPIOS NECESITAN ASESORÍA PARA EJECUTAR MEDIDAS ANTE EL NIÑO COSTERO, SOSTIENE ANALISTA MANUEL BERNALES",
    "resumen": "RCR, 22 de octubre 2026.- El analista internacionalista Manuel Bernales Alvarado sostiene que el gobierno de Keiko Fujimori, los gobiernos regionales y las principales municipalidades provinciales necesitan asesoramiento especializado en gestión pública para ejecutar las medidas económicas…",
@@ -967,6 +3146,43 @@
    ]
   },
   {
+   "id": "024b5646275a",
+   "titulo": "Mollendo: cinco socorristas vigilan playas ante llegada de escolares y visitantes",
+   "resumen": "Un equipo mínimo de cinco socorristas viene asumiendo las labores de vigilancia y rescate en el sector de playas de Mollendo, según informó Federico Flores Sandoval, gerente de Seguridad Ciudadana de la Municipalidad Provincial de Islay. Las acciones preventivas se ejecutan de manera articulada…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/mollendo-cinco-socorristas-vigilan-playas-ante-llegada-de-escolares-y-visitantes/",
+   "fecha": "2026-10-22T22:15:50Z",
+   "temas": [
+    "educacion",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "38b2d964e105",
    "titulo": "2do Masterclass Mercedes-Benz Camiones: una experiencia de potencia, tecnología y conocimiento en Huancayo",
    "resumen": "Mercedes-Benz Camiones y Divemotor realizaron en Huancayo el segundo Masterclass de Camiones del 2026, una jornada que reunió a clientes de la región para vivir una experiencia que combinó capacitación, tecnología y pruebas prácticas de los principales modelos de la marca. Con un especial enfoque…",
@@ -1168,6 +3384,31 @@
      "lon": -79.03054,
      "lat": -8.10012,
      "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c5f9876236d3",
+   "titulo": "Poder Judicial admite acusación fiscal contra docente investigado por delitos sexuales",
+   "resumen": "El Poder Judicial dispuso el enjuiciamiento de Walter Guinio Salazar Alvarado, docente acusado por presuntos delitos contra la indemnidad sexual y la libertad sexual en agravio de una menor de edad. El proceso continuará ante el Juzgado Penal Colegiado de Ilo, luego de que concluyera la etapa…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/poder-judicial-admite-acusacion-fiscal-contra-docente-investigado-por-delitos-sexuales/",
+   "fecha": "2026-10-22T22:00:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
      "principal": true
     }
    ]
@@ -1414,6 +3655,32 @@
      "lat": -15.84026,
      "confianza": 0.7,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "02408c454d1b",
+   "titulo": "Inician obra de S/ 15,5 millones para mejorar abastecimiento de agua en Ilo",
+   "resumen": "Cerca de 13 mil habitantes de Ilo serán beneficiados con la construcción de una nueva línea de conducción de agua potable que busca reducir fugas y disminuir las interrupciones del servicio en el sector Puerto y zonas aledañas. El inicio del proyecto fue anunciado durante la ceremonia de entrega…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/inician-obra-de-s-155-millones-para-mejorar-abastecimiento-de-agua-en-ilo/",
+   "fecha": "2026-10-22T21:34:26Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
     }
    ]
   },
@@ -2272,6 +4539,43 @@
      "principal": true
     }
    ]
+  },
+  {
+   "id": "a8c547fd12b5",
+   "titulo": "Anuncian nueva llegada de guano de isla al Valle de Tambo",
+   "resumen": "Tras concretar la primera entrega de abono natural para los agricultores de la provincia de Islay, las autoridades agrarias anunciaron que se prevé la llegada de una siguiente tanda de 600 sacos de guano de isla en un plazo de quince días. “Estamos que nos han dado 15 días para adquirir otros 600…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/anuncian-nueva-llegada-de-guano-de-isla-al-valle-de-tambo/",
+   "fecha": "2026-10-22T20:20:51Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tambo",
+     "ubigeo": "050508",
+     "precision": "distrito",
+     "provincia": "La Mar",
+     "departamento": "Ayacucho",
+     "lon": -74.02077,
+     "lat": -12.94811,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
   },
   {
    "id": "7d4301fdddaa",
