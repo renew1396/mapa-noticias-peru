@@ -616,6 +616,55 @@
    ]
   },
   {
+   "id": "15ee113d5f71",
+   "titulo": "Trinquetes Políticos: Toca dar agua a Tambo",
+   "resumen": "POR: RONY FLOR COAYLA Por disposición de la Autoridad Nacional del Agua, como está normado y en época de estiaje (seca), toca dar el agua de la presa Pasto Grande al valle de Tambo. Son 8,2 millones de metros cúbicos de agua que se verterán hasta la provincia de Islay, en la región Arequipa. […]",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/trinquetes-politicos-toca-dar-agua-a-tambo/",
+   "fecha": "2026-10-23T02:28:48Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tambo",
+     "ubigeo": "040312",
+     "ccpp": "0403120005",
+     "precision": "centro_poblado",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -73.64824,
+     "lat": -15.45295,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
    "id": "0421e4c304ab",
    "titulo": "Lluvia de 20 minutos inunda calles de Tingo María y daña techos en Brisas del Huallaga",
    "resumen": "Una lluvia intensa de unos 20 minutos inundó calles y viviendas en Tingo María, provincia de Leoncio Prado, y las ráfagas de viento desprendieron calaminas en asentamientos humanos. El Senamhi advirtió lluvias localizadas fuertes para Huánuco y Ucayali.",
@@ -721,6 +770,31 @@
      "lon": -77.05763,
      "lat": -12.03005,
      "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8a9881ca85e1",
+   "titulo": "Trinquetes Políticos: Rotonda de Chen Chen, gracias a “Jaki”",
+   "resumen": "POR: RONY FLOR COAYLA Información del Ministerio de Transportes y Comunicaciones señala que el titular, Angello Tangherlini, sostuvo una reunión con la gobernadora regional, Gilia Gutiérrez, para abordar proyectos que buscan mejorar el transporte y la seguridad vial en Chen Chen, Moquegua. Durante…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/trinquetes-politicos-rotonda-de-chen-chen-gracias-a-jaki/",
+   "fecha": "2026-10-23T02:19:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
      "principal": true
     }
    ]
