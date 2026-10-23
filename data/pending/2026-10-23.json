@@ -2,6 +2,1527 @@
  "fecha": "2026-10-23",
  "noticias": [
   {
+   "id": "6a82bc259141",
+   "titulo": "Lima, Cusco y el Callao entre las regiones con mayores contrataciones vía Perú Compras",
+   "resumen": "Con contrataciones por 91.44 millones de soles las entidades públicas del Cusco ubicaron a la región en el segundo lugar, a nivel nacional, de contrataciones a través de los Catálogos Electrónicos, durante el periodo enero a setiembre del 2026.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-lima-cusco-y-callao-entre-las-regiones-mayores-contrataciones-via-peru-compras-1097115.aspx",
+   "fecha": "2026-10-23T19:21:08Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1df6c41d20d2",
+   "titulo": "Minem aprueba medidas para recuperar el servicio eléctrico en zonas de emergencia por El Niño ante lluvias y huaicos",
+   "resumen": "Este nuevo decreto busca garantizar el suministro eléctrico en zonas de emergencia, facilitando la recuperación de la infraestructura afectada por lluvias intensas y otros eventos climáticos.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/23/minem-aprueba-medidas-para-recuperar-el-servicio-electrico-en-zonas-de-emergencia-por-el-nino-ante-lluvias-y-huaicos-1425770",
+   "fecha": "2026-10-23T19:20:24Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b88db072b60d",
+   "titulo": "BONO DE S/ 200 PARA JUBILADOS DE LA ONP: ¿ALIVIO ECONÓMICO O AYUDA INSUFICIENTE?",
+   "resumen": "El ministro de Economía y Finanzas, Elmer Cuba, anunció un bono excepcional de casi S/ 200 para alrededor de 800 mil jubilados de la ONP, cuyo pago está previsto para diciembre de 2026. La medida busca mitigar el impacto económico asociado al fenómeno ElNiño, pero también abre el debate sobre si…",
+   "medio": "Los Andes",
+   "medio_id": "losandes",
+   "url": "https://losandes.com.pe/bono-onp-jubilados-diciembre-2026/",
+   "fecha": "2026-10-23T19:19:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "33467484f4f0",
+   "titulo": "SE BURLAN DEL PODER JUDICIAL",
+   "resumen": "Por sexta vez Javier Ulloa Siccha y sus abogados impiden que se realice la incorporación de 5 trabajadores en la Universidad San Pedro. Esto ocurrió esta mañana cuando la diligencia no se realizó porque según...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/23/se-burlan-del-poder-judicial/",
+   "fecha": "2026-10-23T19:15:47Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8979865f371e",
+   "titulo": "PRODUCE MODIFICA CONDICIONES PARA LA PESCA EXPLORATORIA DE SAMASA",
+   "resumen": "El Ministerio de la Producción modificó las condiciones de la pesca exploratoria de anchoveta blanca o samasa mediante la Resolución Ministerial N.° 00368-2026-PRODUCE, del 22 de octubre de 2026, que modifica la norma anterior que...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/23/produce-modifica-condiciones-para-la-pesca-exploratoria-de-samasa/",
+   "fecha": "2026-10-23T19:14:32Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "befd995552c6",
+   "titulo": "‘La Casa de las Galletas’, película peruana, llega a salas locales tras ganar un premio en el Festival de La Habana",
+   "resumen": "El largometraje peruano recibió el Premio Coral de Postproducción en 2023 y se estrenará el 5 de noviembre con Urpi Gibbons, Leonardo Torres Vilar y Pilar Núñez",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/la-casa-de-las-galletas-pelicula-peruana-llega-a-salas-locales-tras-ganar-un-premio-en-el-festival-de-la-habana/",
+   "fecha": "2026-10-23T19:14:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "67fb45211ba5",
+   "titulo": "Carlos Neuhaus propone líneas de garantía crediticia para empresas ante el fenómeno de El Niño",
+   "resumen": "Carlos Neuhaus, presidente del comando privado frente al fenómeno de El Niño, planteó aplicar unas líneas de garantías crediticias en favor de las empresas privadas a fin de garantizar la continuidad de servicios pese a las lluvias e inundaciones.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/carlos-neuhaus-propone-lineas-de-garantia-crediticia-para-empresas-ante-el-fenomeno-de-el-nino-l-ultimas-noticia/",
+   "fecha": "2026-10-23T19:11:28Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6c86473497b6",
+   "titulo": "Cómo convierte una audiencia deportiva en ingresos",
+   "resumen": "Una audiencia deportiva no desaparece cuando termina el partido. Busca previas, alineaciones, estadísticas, resultados, análisis y próximos calendarios. Esa continuidad explica por qué el deporte encaja bien con el marketing de afiliados. Nielsen señala que...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/23/como-convierte-una-audiencia-deportiva-en-ingresos/",
+   "fecha": "2026-10-23T19:09:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "86ebb2783982",
+   "titulo": "Gobierno entregará bono de casi S/ 200 a jubilados de ONP en diciembre",
+   "resumen": "El ministro de Economía y Finanzas, Elmer Cuba, anunció hoy la entrega de un bono excepcional de cerca de 200 soles a los jubilados de la Oficina de Normalización Previsional (ONP) en diciembre de este...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/23/gobierno-entregara-bono-de-casi-s-200-a-jubilados-de-onp-en-diciembre/",
+   "fecha": "2026-10-23T19:06:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "19a2a3befe17",
+   "titulo": "Cuatro medidas del Gobierno contra los tres choques que impactarán al Perú en los próximos meses",
+   "resumen": "La presidenta Keiko Fujimori y el ministro Elmer Cuba detallaron lo que se viene para el país en los próximos meses, y las acciones que han tomado para proteger la economía familiar",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/cuatro-medidas-del-gobierno-contra-los-tres-choques-que-impactaran-al-peru-en-los-proximos-meses/",
+   "fecha": "2026-10-23T19:03:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7d0c4a676c4d",
+   "titulo": "Escenario de sequía prolongada obliga a reforzar los equipos ante incendios forestales",
+   "resumen": "El titular del Ministerio de Desarrollo Agrario y Riego (Midagri), Marco Vinelli, confirmó hoy que el Gobierno incorporará 19 helibaldes adicionales para reforzar la capacidad de respuesta frente a los incendios forestales que podrían incrementarse en 2027 debido a las condiciones asociadas al…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-escenario-sequia-prolongada-obliga-a-reforzar-los-equipos-ante-incendios-forestales-1097109.aspx",
+   "fecha": "2026-10-23T18:53:34Z",
+   "temas": [
+    "medio_ambiente",
+    "agua"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "14821b16c42a",
+   "titulo": "El desierto de nosotros mismos: la lucidez crítica de Éric Sadin",
+   "resumen": "El 30 de noviembre de 2022 marca un punto de inflexión insoslayable para la historia intelectual de nuestro tiempo. La irrupción masiva de los primeros agentes conversacionales alteró de modo sustantivo el ecosistema cultural, pedagógico y productivo de las sociedades contemporáneas. Cuatro años…",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/columnistas/ricardoleninalfredofallacarrillo/el-desierto-de-nosotros-mismos-la-lucidez-critica-de-eric-sadin-noticia-1714154",
+   "fecha": "2026-10-23T18:53:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c770d0f4952d",
+   "titulo": "Elmer Cuba ante temores de un mayor déficit fiscal: La compra de aviones se pagará en 10 años y \"el hueco\" de Petroperú ya no existe",
+   "resumen": "El ministro de Economía respondió a las advertencias del exministro Alfredo Thorne, quien estimó que el déficit fiscal podría superar el 4% del PBI en 2027 al sumar medidas de gasto no contempladas. Cuba sostuvo que el costo de los aviones se distribuirá en 10 años y afirmó que Petroperú registra…",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/economia/economia/elmer-cuba-ante-temores-de-un-mayor-deficit-fiscal-la-compra-de-aviones-se-pagara-en-10-anos-y-el-hueco-de-petroperu-ya-no-existe-noticia-1714147",
+   "fecha": "2026-10-23T18:50:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1e062b887a14",
+   "titulo": "Papa León XIV recibe título honorífico de la capilla de San Jorge con aprobación del rey Carlos III",
+   "resumen": "El reconocimiento destaca los vínculos históricos entre la Santa Sede y la Iglesia de Inglaterra, así como los avances en el diálogo ecuménico y la unidad cristiana El Papa León XIV aceptó el título honorífico de confrater papal del colegio y la capilla de San Jorge, ubicada en el castillo de…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/papa-leon-xiv-recibe-titulo-honorifico-de-la-capilla-de-san-jorge-con-aprobacion-del-rey-carlos-iii/",
+   "fecha": "2026-10-23T18:49:42Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7d466244946d",
+   "titulo": "Denuncian penalmente a Fujimori y al presidente del Senado por promulgar la ley de facultades sin la firma de Óscar Reto",
+   "resumen": "El abogado Javier Adrianzen pide a la Fiscalía de la Nación investigar por abuso de autoridad a cinco funcionarios, entre ellos el gerente de El Peruano. También solicita que la Policía los detenga en flagrancia.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/23/denuncian-penalmente-a-fujimori-y-al-presidente-del-senado-por-promulgar-la-ley-de-facultades-sin-la-firma-de-oscar-reto-hnews-1969513",
+   "fecha": "2026-10-23T18:46:26Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ebfb2a7b899c",
+   "titulo": "Este 24 y 25 de octubre se continuará con la segunda fecha de la Liga Peruana de Vóley 2026-2027, fase 1",
+   "resumen": "Seis encuentros se disputarán este sábado 24 y domingo 25 de octubre en el Polideportivo Legado de Villa El Salvador, con el duelo entre Regatas Lima y Alianza Lima como uno de los partidos más esperados La Liga Peruana de Vóley 2026-2027 continuará este fin de semana con la segunda fecha de la…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/este-24-y-25-de-octubre-se-continuara-con-la-segunda-fecha-de-la-liga-peruana-de-voley-2026-2027-fase-1/",
+   "fecha": "2026-10-23T18:46:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1130d9e2e032",
+   "titulo": "Contratos mineros bajo la lupa: Chile busca reducir pérdidas millonarias con ayuda de la IA",
+   "resumen": "La inteligencia artificial gana terreno como herramienta para detectar desviaciones contractuales y reducir costos en la industria minera chilena. Las empresas mineras de Chile destinan más de US$ 23.000 millones anuales a la compra de bienes y servicios, un volumen de gasto que plantea…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/chile/contratos-mineros-bajo-la-lupa-chile-busca-reducir-perdidas-millonarias-con-ayuda-de-la-ia/",
+   "fecha": "2026-10-23T18:44:54Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "99db7cf10849",
+   "titulo": "Senado corrigió lo aprobado por Diputados para mejor lucha contra el crimen, afirman",
+   "resumen": "El analista en seguridad integral y gestión de riesgos, Pedro Yaranga, afirmó hoy que el Senado finalmente corrigió varios puntos del dictamen aprobado por la Cámara de Diputados para una efectiva lucha contra la criminalidad en el país, en el marco de la ley que delega en el Poder Ejecutivo la…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-senado-corrigio-aprobado-diputados-para-mejor-lucha-contra-crimen-afirman-1097090.aspx",
+   "fecha": "2026-10-23T18:44:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b998cc5392ee",
+   "titulo": "Ministro de Defensa: No hay plata para la compra de tanques coreanos",
+   "resumen": "El titular del sector, Rafael Belaúnde, también adelantó que el gobierno estudia reemplazar la flota de helicópteros de fabricación rusa por modelos de los países de la OTAN, o de EE. UU., para no depender solo de la Federación Rusa, afectada por la guerra con Ucrania.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/07/ministro-de-defensa-no-hay-plata-para-la-compra-de-tanques-coreanos-hnews-678377",
+   "fecha": "2026-10-23T18:35:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d0a5b7f254bf",
+   "titulo": "Mincetur aprueba Plan Nacional de Orden Turístico para mejorar el turismo en el Perú hasta 2031",
+   "resumen": "El Ministerio de Comercio Exterior y Turismo (Mincetur) aprobó el Plan Nacional de Orden Turístico 2026-2031, que busca mejorar los destinos turísticos del país para que los visitantes disfruten de viajes más seguros y mejores servicios.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/mincetur-aprueba-plan-nacional-de-orden-turistico-para-mejorar-el-turismo-en-el-peru-hasta-2031-l-ultimas-noticia/",
+   "fecha": "2026-10-23T18:35:32Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "cee67498af55",
+   "titulo": "Elmer Cuba, ministro de Economía: “Mientras estemos en el ministerio no plantearemos cambiar ninguna tasa de impuestos, IGV o impuesto a la renta”",
+   "resumen": "El titular del MEF, Elmer Cuba, remarcó que el mecanismo de garantías a través del Fondo Crecer permitirá aliviar a mypes, pero no se contempla un esquema similar al de Reactiva Perú. Además, comentó que se revisarán exoneraciones tributarias. Cuba también enfatizó su rechazo a la propuesta del…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/elmer-cuba-ministro-de-economia-mientras-estemos-en-el-ministerio-no-plantearemos-cambiar-ninguna-tasa-de-impuestos-igv-o-impuesto-a-la-renta-noticia/",
+   "fecha": "2026-10-23T18:30:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7a9a8db52729",
+   "titulo": "Gobierno pagará bono de cerca de S/200 para 800 mil jubilados de la ONP en diciembre",
+   "resumen": "Bono ONP. El MEF ha detallado que se pagaría alrededor de S/200 y solo una vez. Esto serviría para que los adultos mayores le hagan frente a presiones en la inflación",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/gobierno-pagara-bono-de-cerca-de-s200-para-800-mil-jubilados-de-la-onp-en-diciembre/",
+   "fecha": "2026-10-23T18:28:10Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7f7cebf4dda4",
+   "titulo": "Daniel Barragán revela que su hermana no fue despedida, sino que renunció por “la presión” y para no incomodarlo",
+   "resumen": "El senador de Obras defendió la trayectoria de su hermana y expresó su pesar por la salida. “Me apena mucho no porque necesite trabajo, sino que puede aportar”, dijo",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/daniel-barragan-revela-que-su-hermana-no-fue-despedida-sino-que-renuncio-por-la-presion-y-para-no-incomodarlo/",
+   "fecha": "2026-10-23T18:16:54Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f94c7528152c",
+   "titulo": "Loreto: Perupetro firma convenio para evaluar potencial de hidrocarburos en la Cuenca Marañón",
+   "resumen": "El acuerdo con Nikoil Energy y Maxenergy tendrá una vigencia de 20 meses y permitirá identificar nuevas oportunidades de exploración mediante estudios geológicos, geofísicos y geoquímicos, sin realizar actividades de campo. Perupetro S.A. suscribió un Convenio de Evaluación Técnica (CET) con el…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/hidrocarburos/loreto-perupetro-convenio-hidrocarburos-cuenca-maranon/",
+   "fecha": "2026-10-23T18:14:07Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.18,
+     "principal": true
+    },
+    {
+     "nombre": "Cuenca",
+     "ubigeo": "090105",
+     "precision": "distrito",
+     "provincia": "Huancavelica",
+     "departamento": "Huancavelica",
+     "lon": -75.0389,
+     "lat": -12.43294,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "Marañón",
+     "ubigeo": "100700",
+     "precision": "provincia",
+     "provincia": "Marañón",
+     "departamento": "Huánuco",
+     "lon": -77.14928,
+     "lat": -8.60485,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "8d165bf08eb2"
+  },
+  {
+   "id": "ab9beb034380",
+   "titulo": "Valeria Piazza se quiebra al ver a Andrea San Martín esposada: “Me causó mucha tristeza”",
+   "resumen": "La exreina de belleza señaló que le afectó ver a la influencer enmarrocada, en medio de las actuaciones de la Fiscalía por un caso en investigación",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/valeria-piazza-se-quiebra-al-ver-a-andrea-san-martin-esposada-me-causo-mucha-tristeza/",
+   "fecha": "2026-10-23T18:13:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "202d012ce3ba",
+   "titulo": "MEF: Petroperú tiene resultado positivo de US$ 600 millones en lo que va del año",
+   "resumen": "El ministro de Economía y Finanzas, Elmer Cuba, señaló hoy que la empresa estatal Petroperú tiene un saldo positivo de 600 millones de dólares en lo que va del presente año, mostrando una recuperación en relación a las pérdidas registradas en años previos.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-mef-petroperu-tiene-resultado-positivo-600-millones-lo-va-del-ano-1097096.aspx",
+   "fecha": "2026-10-23T18:11:54Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8bffa5d21e6b",
+   "titulo": "Sport Huancayo hace pedido de unión a los clubres para exigir más cámaras para el VAR",
+   "resumen": "El jefe de equipo del ‘Rojo Matador’ respaldó la propuesta de mejorar el arbitraje y sostuvo que la implementación de más cámaras debe beneficiar a todos los equipos, no solo a los que pelean el título o un cupo internacional.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sport-huancayo-hace-pedido-union-a-los-clubres-para-exigir-mas-camaras-para-var-1097103.aspx",
+   "fecha": "2026-10-23T18:08:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "80eee592af89",
+   "titulo": "MEF: bonos del paquete fiscal “contracíclico” no serán menores a S/ 200, ¿para quiénes?",
+   "resumen": "En entrevista con Gestión, Elmer Cuba precisó detalles respecto a la determinación del público objetivo que recibirá, sobre todo, los bonos anunciados para hacer frente al fenómeno El Niño.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/mef-monto-de-bonos-del-paquete-fiscal-contraciclico-no-seran-menores-a-s-200-noticia/",
+   "fecha": "2026-10-23T18:07:02Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2a50cb6563ac",
+   "titulo": "Daniel Barragán se pronuncia tras salida de su hermana de EsSalud: \"Ella me comentó que iba a renunciar\"",
+   "resumen": "A pesar de cuestionamientos sobre su designación, Barragán señaló que no ha influido en su nombramiento y expresó su pena por su renuncia.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/23/daniel-barragan-se-pronuncia-tras-salida-de-su-hermana-de-essalud-ella-me-comento-que-iba-a-renunciar-hnews-2056131",
+   "fecha": "2026-10-23T17:58:49Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4d41f8d815bd",
+   "titulo": "Sector vivienda y saneamiento en emergencia y sin facultades",
+   "resumen": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, lamentó que la Cámara de Diputados no incluyera 11 facultades referidas a su sector, afirmando que este se encuentra en emergencia debido a las cifras en saneamiento y titulación.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/sector-vivienda-y-saneamiento-en-emergencia-y-sin-facultades-noticia/",
+   "fecha": "2026-10-23T17:58:21Z",
+   "temas": [
+    "agua",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e607f870744c",
+   "titulo": "#ORGULLOPERUANO | Diez jóvenes peruanos impulsan proyectos para enfrentar problemas sociales",
+   "resumen": "",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/publirreportaje/orgulloperuano-diez-jovenes-peruanos-impulsan-proyectos-para-enfrentar-problemas-sociales-noticia/",
+   "fecha": "2026-10-23T17:57:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c0eba54c54e9",
+   "titulo": "La FAP requiere US$240 millones para comprar 12 helicópteros de búsqueda y rescate",
+   "resumen": "El instituto armado recibió una propuesta de la fábrica italiana Leonardo para la entrega inmediata de tres unidades AW139 nuevas y de otras dos usadas para atender las emergencias derivadas del Fenómeno El Niño. Desde hace más de cinco años la FAP espera la ejecución del proyecto para reemplazar…",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/23/la-fap-requiere-us240-millones-para-comprar-12-helicopteros-de-busqueda-y-rescate-hnews-1358173",
+   "fecha": "2026-10-23T17:57:29Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "307bc2633704",
+   "titulo": "Proinversión y Unicef reafirman alianza para impulsar inversiones que mejoren la vida de niñas, niños y adolescentes en el Perú",
+   "resumen": "Con el propósito de que más niñas, niños y adolescentes en el Perú accedan a mejores oportunidades de desarrollo, la Agencia de Promoción de la Inversión Privada (Proinversión) y el Fondo de las Naciones Unidas para la Infancia (Unicef) reafirmaron su alianza estratégica para promover inversiones…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/proinversion-y-unicef-reafirman-alianza-para-impulsar-inversiones-que-mejoren-la-vida-de-ninas-ninos-y-adolescentes-en-el-peru-l-ultimas-noticia/",
+   "fecha": "2026-10-23T17:55:32Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2492447aff5a",
+   "titulo": "Familias y mascotas se unen por la niñez en carrera 8K de Aldeas Infantiles SOS",
+   "resumen": "Con la participación de más de cuatro mil personas, se realizó con éxito la décima edición de la Carrera 8K “Corriendo por una Infancia Feliz”, organizada por Aldeas Infantiles SOS Perú.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-familias-y-mascotas-se-unen-por-ninez-carrera-8k-aldeas-infantiles-sos-1097100.aspx",
+   "fecha": "2026-10-23T17:50:30Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7b1801e4fab5",
+   "titulo": "Hacker “DeadM4n” afirma haber vulnerado los sistemas de EsSalud y expone datos de asegurados",
+   "resumen": "La alerta fue difundida en un foro de ciberdelincuencia. La presunta filtración se suma a otros reportes que mencionan a Reniec, demás empresas privadas como Claro Perú, y otros",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/hacker-deadm4n-afirma-haber-vulnerado-los-sistemas-de-essalud-y-expone-datos-de-asegurados/",
+   "fecha": "2026-10-23T17:42:00Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8243db650b18",
+   "titulo": "Ester Expósito protagonizará la adaptación de ‘La Regenta’ que prepara Netflix",
+   "resumen": "Expósito se une a la lista de actrices españolas que han encarnado a la Regenta, junto a Emma Penella en la versión de 1974 dirigida por Gonzalo Suárez y Aitana Sánchez-Gijón en la adaptación televisiva de 1995.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/famosos/celebridades/ester-exposito-protagonizara-la-adaptacion-de-la-regenta-que-prepara-netflix-noticia-1714124",
+   "fecha": "2026-10-23T17:40:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "df826c80108e",
+   "titulo": "Perú registra cero incendios forestales activos: Apurímac, Cusco y Junín reportan graves daños, según el Mindef",
+   "resumen": "Perú reporta cero incendios forestales activos. Apurímac, Cusco y Junín registran daños en miles de hectáreas, viviendas y cultivos.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/peru-registra-cero-incendios-forestales-activos-apurimac-cusco-y-junin-reportan-graves-danos-segun-el-ministerio-de-defensa-ultimas-noticia/",
+   "fecha": "2026-10-23T17:39:11Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.18,
+     "principal": true
+    },
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "20d8b98cacd0",
+   "titulo": "Gas natural: adenda del Proyecto 7 regiones estará lista en noviembre, según el Minem",
+   "resumen": "Gas natural: adenda del Proyecto 7 regiones estará lista en noviembre, según el ministro de Energía y Minas, Guillermo Shinnno",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/gas-natural-adenda-del-proyecto-7-regiones-estara-lista-en-noviembre-segun-el-minem-noticia/",
+   "fecha": "2026-10-23T17:35:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8f639f9192df",
+   "titulo": "Lionel Messi recibe la insignia de los Premios Princesa de Asturias 2026",
+   "resumen": "El futbolista argentino Lionel Messi recibió este viernes la insignia de los Premios Princesa de Asturias 2026, de manos de la princesa Leonor de Borbón, en la sala Covadonga del Hotel de la Reconquista, en Oviedo, España. El astro llegó acompañado de su pareja, Antonela Roccuzzo, y posó junto al…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/23/lionel-messi-recibe-la-insignia-de-los-premios-princesa-de-asturias-2026/",
+   "fecha": "2026-10-23T17:33:42Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "902017371ae7",
+   "titulo": "Boroo proyecta invertir más de US$ 1,500 millones para reactivar mina de oro Eagle en Canadá",
+   "resumen": "La compañía con sede en Singapur busca adquirir Victoria Gold por US$ 140 millones y ejecutar un plan de rehabilitación ambiental antes de reiniciar las operaciones de la mina Eagle, ubicada en Yukón. La empresa minera Boroo anunció que prevé invertir más de US$ 1,500 millones en Canadá como parte…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/canada/boroo-invertir-de-uss-1500-millones-mina-oro-eagle-en-canada/",
+   "fecha": "2026-10-23T17:33:25Z",
+   "temas": [
+    "mineria",
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a9c044852e19",
+   "titulo": "LBSJ realizará una nueva jornada de basketball este domingo 25 en “M.C”",
+   "resumen": "La Liga de Basketball de San Juan (LBSJ) desarrollará este domingo 25 de octubre una nueva fecha del Festival Pre Mini 2026-2 y del Campeonato de Confraternidad 2026-2, con encuentros de distintas categorías en el Polideportivo Mariscal Cáceres. La programación reunirá a clubes, colegios y…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/lbsj-realizara-una-nueva-jornada-de-basketball-este-domingo-25-en-m-c/",
+   "fecha": "2026-10-23T17:28:59Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ad17ec025dd9",
+   "titulo": "Transferencias mineras suman S/ 13.310 millones en Perú en lo que va del 2026",
+   "resumen": "El canon minero concentra S/ 9.588 millones del total distribuido. Áncash, Apurímac, Arequipa y Cajamarca reciben en conjunto el 49,1% de los recursos. De acuerdo a la última edición del Boletín Estadístico Minero (BEM) del Ministerio de Energía y Minas (Minem), las transferencias mineras en Perú…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/mineria/transferencias-mineras-en-lo-que-va-del-2026/",
+   "fecha": "2026-10-23T17:28:00Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Minas",
+     "ubigeo": "020703",
+     "ccpp": "0207030055",
+     "precision": "centro_poblado",
+     "provincia": "Carlos Fermín Fitzcarrald",
+     "departamento": "Áncash",
+     "lon": -77.28854,
+     "lat": -9.00199,
+     "confianza": 0.15,
+     "principal": true
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "248030657538",
+   "titulo": "Oleajes anómalos: 84 puertos permanecen cerrados en el litoral peruano",
+   "resumen": "Un total de 84 puertos permanecen cerrados en el litoral peruano debido a las condiciones de oleaje anómalo. La Dirección de Hidrografía y Navegación de la Marina de Guerra del Perú informó que mantiene el monitoreo permanente de las condiciones del mar y exhorta a la población a adoptar medidas…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-oleajes-anomalos-84-puertos-permanecen-cerrados-el-litoral-peruano-1097093.aspx",
+   "fecha": "2026-10-23T17:25:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "918ea4df3cb6",
+   "titulo": "Emergencia en la UNI: incendio en laboratorio de Ingeniería Mecánica moviliza a bomberos",
+   "resumen": "El decano Tito Roberto Vilchez suspendió las actividades académicas para proteger a estudiantes y docentes. Se coordinará la recuperación de clases más adelante.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/23/emergencia-en-la-uni-incendio-en-laboratorio-de-ingenieria-mecanica-moviliza-a-bomberos-1488974",
+   "fecha": "2026-10-23T17:25:23Z",
+   "temas": [
+    "educacion",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f6a3cd150b98",
+   "titulo": "Mindef reporta cero incendios forestales activos en el Perú",
+   "resumen": "Las lluvias recientes contribuyeron a extinguir los últimos focos de incendios forestales que permanecían activos en el país.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/mindef-reporta-cero-incendios-forestales-activos-en-el-peru-noticia/",
+   "fecha": "2026-10-23T17:20:25Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d6679b2b387f",
+   "titulo": "DT Kompany es hospitalizado tras desmayarse en un entrenamiento del Bayern Múnich",
+   "resumen": "Vincent Kompany, entrenador del Bayern Munich, fue hospitalizado este viernes tras un desvanecimiento durante un entrenamiento, informó el club alemán.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-dt-kompany-es-hospitalizado-tras-desmayarse-un-entrenamiento-del-bayern-munich-1097089.aspx",
+   "fecha": "2026-10-23T17:16:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d9b2ded00b61",
+   "titulo": "ONP: Ministerio de Economía anuncia bono de casi S/200 para 800 mil jubilados desde diciembre",
+   "resumen": "El ministro de Economía señaló que el pago a jubilados de la ONP será por única vez. Además, el Gobierno prepara subsidios temporales para las familias vulnerables afectadas por el fenómeno El Niño, aunque el monto y la población beneficiaria aún están por definirse.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/economia/economia/onp-ministerio-de-economia-anuncia-bono-de-casi-s-200-para-800-mil-jubilados-desde-diciembre-noticia-1714133",
+   "fecha": "2026-10-23T17:15:32Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0b2b2fb411cc",
+   "titulo": "Pedro Gamio advierte que el alza del diésel podría encarecer los alimentos y pide acelerar la masificación del gas natural",
+   "resumen": "Sobre el paquete de medidas económicas anunciado por el Gobierno, el exviceministro de Energía y Minas y exdirector de Petroperú consideró urgente implementar mecanismos de apoyo para proteger el presupuesto de los hogares y ayudar a las empresas a enfrentar la crisis. Mencionó la posibilidad de…",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/pedro-gamio-advierte-que-alza-diesel-podria-encarecer-alimentos-y-pide-acelerar-masificacion-gas-natural-n495832",
+   "fecha": "2026-10-23T17:13:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2d1a9b7fcd14",
+   "titulo": "Senadores JP presentarán demanda de inconstitucionalidad ante el TC por aprobación de delegación de facultades",
+   "resumen": "En un pronunciamiento, los senadores consideran que las decisiones adoptadas durante el tratamiento y aprobación de las facultades, fueron contrarias al orden constitucional",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/jp-presentara-demanda-de-inconstitucionalidad-ante-el-tc-por-aprobacion-de-delegacion-de-facultades/",
+   "fecha": "2026-10-23T17:10:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "927a194b7ad6",
+   "titulo": "Ley MAPE permitirá a mineros inscritos en el Reinfo operar hasta junio de 2028",
+   "resumen": "Las pequeñas plantas quedarían fuera del esquema de fiscalización por OEFA",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/ley-mape-permitira-a-mineros-inscritos-en-el-reinfo-operar-hasta-junio-de-2028-noticia/",
+   "fecha": "2026-10-23T17:08:49Z",
+   "temas": [
+    "mineria",
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "22fd8acdd3a9",
+   "titulo": "Presidenta: Tenemos que volver a unirnos, esa es la única manera de salir adelante",
+   "resumen": "La presidenta de la república, Keiko Fujimori, hizo un llamado a las autoridades regionales y locales a fortalecer el trabajo conjunto entre los tres niveles de gobierno para atender las necesidades urgentes de la población, impulsar los proyectos pendientes y desarrollar soluciones de mediano y…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-presidenta-tenemos-volver-a-unirnos-esa-es-unica-manera-salir-adelante-1097092.aspx",
+   "fecha": "2026-10-23T17:08:03Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d9ef733b0e73",
+   "titulo": "Carlos Mesía sobre posible demanda ante el TC por facultades: “No procedería porque no hay un proceso competencial”",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/congreso/carlos-mesia-sobre-posible-demanda-ante-el-tc-por-facultades-no-procederia-porque-no-hay-un-proceso-competencial-apuesplan-ultimas-noticia/",
+   "fecha": "2026-10-23T17:06:45Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "593fbfab956f",
+   "titulo": "Sueldo mínimo: bono de S/ 100 por trabajador de Mypes se dará automáticamente en octubre",
+   "resumen": "El ministro de Economía y Finanzas, Elmer Cuba, señaló hoy que el bono extraordinario de 100 soles por cada trabajador de las micro y pequeñas empresas (Mypes) formales será entregado automáticamente en este mes de octubre con el objetivo de mitigar el impacto del aumento del sueldo mínimo.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sueldo-minimo-bono-s-100-trabajador-mypes-se-dara-automaticamente-octubre-1097091.aspx",
+   "fecha": "2026-10-23T17:04:29Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9aee07399bcf",
+   "titulo": "¡Cerca de 40 grados! Senamhi emite alerta roja por calor extremo en varias regiones del país",
+   "resumen": "El ente estatal advirtió que, entre el 24 y 26 de octubre, se prevé escasa cobertura nubosa durante el día, “lo que favorecerá el aumento de la radiación ultravioleta”.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/senamhi-emite-alerta-roja-por-calor-extremo-en-varias-regiones-del-pais-noticia-1714128",
+   "fecha": "2026-10-23T17:00:38Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7c1f17fa5e8e",
+   "titulo": "Rutas no respetarían el pasaje universitario",
+   "resumen": "Estudiantes cuestionan a conductores de la ruta 21 por presuntamente desconocer el medio pasaje y exigen mayor fiscalización del transporte urbano. Estudiantes universitarios denunciaron que conductores de transporte urbano presuntamente dejan de respetar el medio pasaje desde las 8:40 p. m. y…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/rutas-no-respetarian-el-pasaje-universitario/",
+   "fecha": "2026-10-23T16:57:27Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "af5cf576705b",
+   "titulo": "Transparencia pide aclarar competencias del Senado y Diputados y fortalecer reglas de la bicameralidad",
+   "resumen": "Transparencia exhortó al Congreso a precisar las competencias de ambas cámaras y establecer reglas claras para la bicameralidad, tras la reciente aprobación en el Pleno del Senado de la propuesta legislativa que delega facultades legislativas al Poder Ejecutivo. La organización señaló que este…",
+   "medio": "Los Andes",
+   "medio_id": "losandes",
+   "url": "https://losandes.com.pe/transparencia-pide-aclarar-competencias-del-senado-y-diputados-y-fortalecer-reglas-de-la-bicameralidad/",
+   "fecha": "2026-10-23T16:54:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ab5f70b235d7",
+   "titulo": "Daniel Barragán afirma que su hermana renunció a EsSalud por presión mediática y política",
+   "resumen": "Sobre la controversia entre el Senado y la Cámara de Diputados por la aprobación de las facultades legislativas, el senador de Obras sostuvo que el Tribunal Constitucional (TC) debe pronunciarse cuando el desacuerdo involucra la interpretación de la Constitución",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/daniel-barragan-afirma-que-su-hermana-renuncio-essalud-presion-mediatica-y-politica-n495831",
+   "fecha": "2026-10-23T16:51:59Z",
+   "temas": [
+    "salud",
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6edd89d2bd71",
+   "titulo": "Testículos pequeños, varicocele y edad: las claves de la infertilidad masculina, según especialista",
+   "resumen": "La infertilidad masculina puede pasar inadvertida incluso en hombres con una vida sexual activa. Alteraciones genéticas y el uso de determinadas sustancias pueden afectar la capacidad reproductiva",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/testiculos-pequenos-varicocele-y-edad-las-claves-de-la-infertilidad-masculina-segun-un-especialista/",
+   "fecha": "2026-10-23T16:51:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6b9dc1f259f3",
+   "titulo": "Minem dispone medidas para facilitar la recuperación del servicio eléctrico ante el Fenómeno El Niño 2026-2027",
+   "resumen": "El objetivo de las medidas es priorizar la rehabilitación de la infraestructura eléctrica y restablecer la continuidad del suministro. El Ministerio de Energía y Minas (MINEM) aprobó medidas temporales para facilitar la recuperación, rehabilitación y restablecimiento de la infraestructura…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/noticias-energia/recuperacion-del-servicio-electrico-fenomeno-el-nino-2026-2027/",
+   "fecha": "2026-10-23T16:49:33Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "bdec230711df",
+   "titulo": "El dólar abre en S/3,44 en Perú ante repunte del petróleo y fortalecimiento de la divisa global",
+   "resumen": "El precio del dólar inició la jornada de este viernes en S/3,44 en el mercado interbancario, nivel similar al cierre anterior, aunque las primeras operaciones mostraron una ligera corrección hacia S/3,443.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-en-s344-en-peru-ante-repunte-del-petroleo-y-fortalecimiento-de-la-divisa-global-l-tipo-de-cambio-l-dolar-l-ultimas-noticia/",
+   "fecha": "2026-10-23T16:48:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e392a194e2f9",
+   "titulo": "Lourdes Alcorta rechaza demanda competencial ante el TC y pide priorizar la atención a damnificados por lluvias",
+   "resumen": "Consultada sobre la posibilidad de abrir un diálogo entre ambas cámaras para definir los alcances del Senado frente a las decisiones de Diputados, la senadora de Renovación Popular sostuvo que el diálogo siempre es bienvenido, pero consideró que debe desarrollarse en los espacios institucionales…",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/lourdes-alcorta-rechaza-demanda-competencial-ante-tc-y-pide-priorizar-atencion-damnificados-lluvias-n495830",
+   "fecha": "2026-10-23T16:45:54Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "00e7b0589fd0",
+   "titulo": "Tania Libertad cantará para el papa León XIV durante su visita al Perú: \"Elegí interpretar el 'Ave María' de Schubert\"",
+   "resumen": "Durante una entrevista con RPP, la cantante peruana contó cómo surgió la oportunidad de cantarle al Santo Padre.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/famosos/celebridades/tania-libertad-cantara-para-el-papa-leon-xiv-durante-su-visita-al-peru-video-noticia-1714105",
+   "fecha": "2026-10-23T16:44:50Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "776023d3c279",
+   "titulo": "Qué cambios propone la Ley MAPE al proceso de formalización minera en el Perú",
+   "resumen": "El proyecto de la nueva Ley de Minería Artesanal y Pequeña Minería (Ley MAPE) del gobierno de Keiko Fujimori plantea un mecanismo que permitiría a los mineros inscritos en el Registro Integral de Formalización Minera (Reinfo) seguir operando hasta el 30 de junio de 2028. Aunque el registro debe…",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/que-cambios-propone-la-ley-mape-al-proceso-de-formalizacion-minera-en-el-peru/",
+   "fecha": "2026-10-23T16:37:36Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f6f35758c0a2",
+   "titulo": "Último temblor hoy, viernes 23 de octubre: reporte el epicentro, magnitud y más del sismo",
+   "resumen": "Consulta el último reporte del IGP sobre los sismos registrados hoy en el Perú. Conoce la hora del movimiento telúrico, la magnitud, la ubicación del epicentro, la profundidad y las zonas donde se sintió el temblor.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/ultimo-temblor-hoy-via-igp-reporte-el-epicentro-magnitud-y-mas-del-sismo-tdpe-noticia/",
+   "fecha": "2026-10-23T16:36:02Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d4423d48929f",
+   "titulo": "Mega Niño: especialista de señala que urge pasar de la reconstrucción a la inversión preventiva",
+   "resumen": "Ante la coincidencia de anomalías hidrometeorológicas en América Latina y la presencia atípica de ictiofauna de aguas cálidas en el mar peruano, el país enfrenta una ventana crítica de oportunidad para prepararse ante un eventual escenario considerado como Mega Niño. Bajo esta premisa, el Dr.…",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/mega-nino-especialista-de-senala-que-urge-pasar-de-la-reconstruccion-a-la-inversion-preventiva/",
+   "fecha": "2026-10-23T16:33:42Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "66b41bafc6f3",
+   "titulo": "Javier Villegas: poeta de la niñez andina y cósmica",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/cultura/javier-villegas-poeta-de-la-ninez-andina-y-cosmica-la-libertad-peru-noticia/",
+   "fecha": "2026-10-23T16:31:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d45b6c5f81a3",
+   "titulo": "Juntos por el Perú demandará ante el TC la inconstitucionalidad de la ley de facultades por incorporaciones del Senado",
+   "resumen": "Solo bastará la firma de 15 senadores para llevar el caso al Tribunal Constitucional, que tendrá que definir los límites de la Cámara Alta a un texto aprobado por la Cámara de Diputados",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/juntos-por-el-peru-demandara-ante-el-tc-la-inconstitucionalidad-de-la-ley-de-facultades-por-incorporaciones-del-senado/",
+   "fecha": "2026-10-23T16:30:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "75a95edb57ea",
+   "titulo": "César Astudillo considera insuficientes las facultades legislativas para combatir la inseguridad",
+   "resumen": "El ministro del Interior, César Astudillo, sostuvo que las facultades legislativas otorgadas por el Congreso al Ejecutivo no cubren todas las medidas que el Gobierno buscaba implementar para enfrentar la inseguridad ciudadana.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/cesar-astudillo-considera-insuficientes-las-facultades-legislativas-para-combatir-la-inseguridad-noticia/",
+   "fecha": "2026-10-23T16:30:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "77fb155738cf",
+   "titulo": "Wall Street abre a la baja tras el alza del petróleo y las tensiones entre EE.UU. e Irán",
+   "resumen": "Wall Street abrió este viernes en rojo, presionado por el repunte del precio del petróleo y el temor a una nueva escalada del conflicto entre Estados Unidos e Irán, en una jornada de nuevo marcada por las dudas sobre la rentabilidad de las inversiones en inteligencia artificial (IA).",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/mercados/wall-street-abre-a-la-baja-tras-el-alza-del-petroleo-y-las-tensiones-entre-eeuu-e-iran-l-mercados-l-wall-street-l-ultimas-noticia/",
+   "fecha": "2026-10-23T16:27:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d032c0ccb81f",
+   "titulo": "Creador de ‘Super Mario Bros.’ se convierte en la primera figura de los videojuegos en recibir el máximo honor cultural de Japón",
+   "resumen": "En una rueda de prensa en la sede de Nintendo en Kioto tras el anuncio, Miyamoto dijo que se sentía \"verdaderamente honrado de recibir un premio tan prestigioso\".",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/famosos/celebridades/shigeru-miyamoto-creador-de-super-mario-bros-se-convierte-en-la-primera-figura-de-los-videojuegos-en-recibir-el-maximo-honor-cultural-de-japon-noticia-1714104",
+   "fecha": "2026-10-23T16:25:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1d12381d2194",
+   "titulo": "Suspensión perfecta de labores por el Fenómeno El Niño: \"No es una política que se ha discutido, es un caso extremo\", afirma Elmer Cuba",
+   "resumen": "El ministro de Economía y Finanzas, Elmer Cuba, precisó que la suspensión perfecta de labores no forma parte del paquete de medidas de S/ 18,000 millones que se aplicarán frente al Fenómeno El Niño.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/economia/economia/suspension-perfecta-de-labores-por-el-fenomeno-el-nino-no-es-una-politica-que-se-ha-discutido-es-un-caso-extremo-afirma-elmer-cuba-noticia-1714135",
+   "fecha": "2026-10-23T16:23:13Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5220e7bcb3f1",
+   "titulo": "Miguel Torres culpa a diputados por el retraso en la aprobación de facultades legislativas (VIDEO)",
+   "resumen": "El presidente del Senado, Miguel Torres, señaló a los diputados como responsables del retraso en las facultades legislativas.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/miguel-torres-culpa-a-diputados-por-el-retraso-en-la-aprobacion-de-facultades-legislativas-video/",
+   "fecha": "2026-10-23T16:23:03Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c65731f10b22",
+   "titulo": "Giannina Avendaño afirma que designación de hermana de Daniel Barragán generó suspicacias",
+   "resumen": "La diputada de Juntos por el Perú, Giannina Avendaño, consideró que la controversia entre la Cámara de Diputados y el Senado por la aprobación de las facultades legislativas al Poder Ejecutivo debería resolverse, idealmente, mediante el diálogo entre ambas cámaras. Asimismo, planteó revisar los…",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/giannina-avendano-afirma-que-designacion-hermana-daniel-barragan-genero-suspicacias-n495828",
+   "fecha": "2026-10-23T16:22:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d54363ec3105",
+   "titulo": "Plan actual de vigilancia aérea antidrogas no funciona, dice el ministro Astudillo",
+   "resumen": "Plan de vigilancia aérea antidrogas no funciona, según el ministro del Interior Cesar Astudillo. Propone intervención aérea letal tras labores de inteligencia",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/plan-de-vigilancia-aerea-antidrogas-no-funciona-segun-el-ministro-cesar-astudillo-noticia/",
+   "fecha": "2026-10-23T16:21:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b9c4510ead8e",
+   "titulo": "Requisitos de Bono Fenómeno El Niño: ¿Qué familias serán beneficiadas?",
+   "resumen": "El Bono Fenómeno El Niño anunciado por el Gobierno busca brindar apoyo económico a las familias vulnerables que podrían verse afectadas por las lluvias intensas, los huaicos y los desbordes de ríos. La medida también contempla ayudas temporales para personas que enfrentan dificultades económicas…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/economia/requisitos-de-bono-fenomeno-el-nino-que-familias-seran-beneficiadas/",
+   "fecha": "2026-10-23T16:18:59Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "70810129e8d6",
+   "titulo": "Keiko Fujimori anuncia bonos y pide optimismo ante la llegada del fenómeno de El Niño (VIDEO)",
+   "resumen": "Keiko Fujimori anunció bonos por 2 500 millones de soles para familias vulnerables ante el fenómeno de El Niño.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/keiko-fujimori-anuncia-bonos-y-pide-optimismo-ante-la-llegada-del-fenomeno-de-el-nino-video/",
+   "fecha": "2026-10-23T16:17:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7aa09906bf9d",
+   "titulo": "Demanda de litio para almacenamiento energético crecería solo 5% anual hasta 2030",
+   "resumen": "Benchmark Mineral Intelligence prevé una desaceleración tras dos años de crecimiento superior al 60% anual y estima que el mercado necesitará el equivalente a 134 nuevas minas para 2050. La demanda de litio destinada al almacenamiento estacionario de energía crecería alrededor de un 5% anual hasta…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/mineria/demanda-de-litio-para-almacenamiento-energetico-creceria-solo-5-anual-hasta-2030/",
+   "fecha": "2026-10-23T16:12:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1be098b2c231",
+   "titulo": "La docuserie de Alejandro Sanz es premiada en Estados Unidos: dónde ver ‘Cuando nadie me ve’ en Perú",
+   "resumen": "a producción dirigida por Álvaro Ron obtuvo el galardón a Mejor Película Internacional y reúne testimonios de Shakira, Rosalía, Juanes y otros músicos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/la-docuserie-de-alejandro-sanz-es-premiada-en-estados-unidos-donde-ver-cuando-nadie-me-ve-en-peru/",
+   "fecha": "2026-10-23T16:10:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6f4066ae77fb",
+   "titulo": "Evalúan sancionar a Senadores del Buen Gobierno que entregaron facultades a gobierno de Keiko Fujimori (VIDEO)",
+   "resumen": "Buen Gobierno estudiará sancionar a Juver Flores y Jorge Gavidia por votar a favor de facultades legislativas para Keiko Fujimori",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/evaluan-sancionar-a-senadores-del-buen-gobierno-que-entregaron-facultades-a-gobierno-de-keiko-fujimori-video/",
+   "fecha": "2026-10-23T16:07:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "850c53f5f89c",
+   "titulo": "Ley autoriza bono de S/ 487 para docentes y auxiliares: ¿quiénes lo recibirán?",
+   "resumen": "Los docentes y auxiliares de educación nombrados y contratados de instituciones educativas públicas recibirán una bonificación extraordinaria de S/ 487, que será otorgada por única vez durante el año fiscal 2026. Así lo dispone el artículo 6 de la Ley N.° 32732, que aprueba Créditos Suplementarios…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/economia/ley-autoriza-bono-de-s-487-para-docentes-y-auxiliares-quienes-lo-recibiran/",
+   "fecha": "2026-10-23T16:07:25Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7dfd12c5d2aa",
+   "titulo": "Teletón 2026 reconoce a América Multimedia con los corazones Solidario y de Oro",
+   "resumen": "Representantes de la Teletón explicaron que el Corazón de Oro se creó este año para reconocer las décadas de acompañamiento de América Multimedia, que ha colaborado con la iniciativa por más de 30 años.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/teleton-2026-reconoce-america-multimedia-corazones-solidario-y-oro-n495826",
+   "fecha": "2026-10-23T16:05:21Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "646b864220d3",
+   "titulo": "MPA advierte resolución de contrato a Consorcio por fallas en la Autopista La Joya",
+   "resumen": "La comuna provincial otorgó 30 días al concesionario para corregir deficiencias en el servicio del Sistema Integrado de Transporte (SIT).",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/mpa-advierte-resolucion-de-contrato-a-consorcio-por-fallas-en-la-autopista-la-joya/",
+   "fecha": "2026-10-23T16:01:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "271da1f92571",
+   "titulo": "Empresas adelantan búsqueda de altos ejecutivos para 2027: ¿cuándo empiezan las contrataciones?",
+   "resumen": "Tres de cada diez procesos de búsqueda de altos ejecutivos gestionados por Cornerstone Perú en el 2026 contemplan incorporaciones para febrero del próximo año. La planificación financiera, las reestructuraciones y los desafíos de sucesión marcan las decisiones de contratación.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/empresas/empresas-peruanas-adelantan-la-busqueda-de-altos-ejecutivos-para-el-2027-que-perfiles-necesitan-noticia/",
+   "fecha": "2026-10-23T16:01:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "02ad8b00644b",
+   "titulo": "“LOS MARIACHIS” DE LA VICEGOBERNADORA SERÁN INVESTIGADOS POR FISCALÍA",
+   "resumen": "* “Yo no lo organicé, pero tampoco los pude botar de mi oficina”, expresó la Vicegobernadora. Documento advierte posibles indicios de uso de bienes públicos para fines ajenos al servicio y solicita evaluar el inicio de diligencias preliminares.La Contraloría General de la República, a través del…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "https://proycontra.com.pe/noticias/los-mariachis-de-la-vicegobernadora-seran-investigados-por-fiscalia",
+   "fecha": "2026-10-23T15:59:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "14645a4a4e0e",
+   "titulo": "Iber Maraví cuestiona facultades aprobadas por el Senado y acusa a la mayoría oficialista de dar un “golpe a la democracia”",
+   "resumen": "Consultado sobre la anunciada acción de inconstitucionalidad contra la aprobación de las facultades, el senador de Juntos por el Perú indicó que correspondería a los diputados impulsarla, aunque aseguró que su bancada respalda esa iniciativa",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/iber-maravi-cuestiona-facultades-aprobadas-senado-y-acusa-mayoria-oficialista-dar-golpe-democracia-n495825",
+   "fecha": "2026-10-23T15:57:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "abe32c74070e",
+   "titulo": "Peruana JorLe Industrial concreta envío de equipos para industria pesquera de Chile",
+   "resumen": "La peruana JorLe Industrial recientemente fabricó y exportó tres bombas de pescado, desde su sede en Perú hacia Concepción (Chile).",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/empresas/jorle-industrial-fabrica-y-exporta-equipos-pesqueros-para-chile-noticia/",
+   "fecha": "2026-10-23T15:57:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "683cdfdde137",
+   "titulo": "«¡Actúan de manera dictatorial!»: el estallido de la fujimorista Karina Beteta en el debate de la ley proimpunidad (VIDEO)",
+   "resumen": "Karina Beteta acusó de \"dictatorial\" a la presidenta de la Comisión de Justicia tras no recibir la palabra. Pese al caos, derogaron la ley de Rospigliosi.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/actuan-de-manera-dictatorial-el-estallido-de-la-fujimorista-karina-beteta-en-el-debate-de-la-ley-proimpunidad-video/",
+   "fecha": "2026-10-23T15:56:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4b616a612075",
+   "titulo": "¡Conmovedor! Entre gritos de alegría, bomberos celebran la llegada de lluvias tras días de incendios (VIDEO)",
+   "resumen": "Según informó el Servicio Nacional de Áreas Naturales Protegidas por el Estado (SERNANP), los brigadistas siguen realizando tareas de monitoreo",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/conmovedor-entre-gritos-de-alegria-bomberos-celebran-la-llegada-de-lluvias-tras-dias-de-incendios-video/",
+   "fecha": "2026-10-23T15:53:33Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "81051db5d35e",
+   "titulo": "Gobierno declara días no laborables compensables por visita del papa León XIV",
+   "resumen": "El Gobierno declaró días no laborables compensables en ocho regiones por la visita del papa León XIV, con fechas escalonadas en noviembre de 2026. Los trabajadores deberán recuperar las horas y los servicios esenciales quedan excluidos.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/dias-no-laborables-visita-papa-leon-xiv",
+   "fecha": "2026-10-23T15:50:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [],
+   "grupo": "6981c6ae7e4e"
+  },
+  {
+   "id": "235f05fbda85",
+   "titulo": "DEL ACCESO AL USO: EL DESAFÍO PENDIENTE DE LA INCLUSIÓN FINANCIERA EN EL PERÚ",
+   "resumen": "Fuente: IPE Aunque el acceso a servicios financieros ha avanzado, persisten desafíos para que más peruanos aprovechen sus beneficios. En el podcast del Instituto Peruano de Economía (IPE), María Pía Palacios y Rufino Arribas abordaron el papel de la digitalización, la educación financiera y el…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/del-acceso-al-uso-el-desafio-pendiente-de-la-inclusion-financiera-en-el-peru/",
+   "fecha": "2026-10-23T15:50:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "129a1703b808",
+   "titulo": "EsSalud dio por concluida la designación de la hermana del senador Daniel Barragán como asesora",
+   "resumen": "Su nombramiento generó cuestionamientos debido a que es hermana del senador Daniel Barragán, integrante del partido Obras, en medio del debate parlamentario sobre la delegación de facultades legislativas al Poder Ejecutivo",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/essalud-dio-concluida-designacion-hermana-senador-daniel-barragan-como-asesora-n495824",
+   "fecha": "2026-10-23T15:47:07Z",
+   "temas": [
+    "salud",
+    "infraestructura"
+   ],
+   "lugares": [],
+   "grupo": "d58e32924dc0"
+  },
+  {
+   "id": "ebe42d0c4630",
+   "titulo": "FRANCIA ENFRENTA UNA SEVERA CRISIS SOCIAL Y ECONÓMICA POR EL EXCESO DE GASTO PÚBLICO Y EL COSTO ENERGÉTICO",
+   "resumen": "RCR, 23 de octubre de 2026.- Manuel Bernales Alvarado, director de los programas «Geopolítica en RCR» y «Zoom Político», sostuvo que la violenta crisis social registrada en Francia —marcada por centenares de detenidos, atentados a la propiedad privada y toques de queda decretados por el presidente…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/francia-enfrenta-una-severa-crisis-social-y-economica-por-el-exceso-de-gasto-publico-y-el-costo-energetico/",
+   "fecha": "2026-10-23T15:42:55Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "32bb3c991c37",
+   "titulo": "Juntos por el Perú anuncia demanda de inconstitucionalidad ante el TC por facultades legislativas aprobadas en el Senado",
+   "resumen": "A través de un comunicado, la agrupación política cuestionó el procedimiento seguido en la Cámara de Senadores y sostuvo que algunas de las decisiones tomadas serían contrarias al orden constitucional",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/juntos-peru-anuncia-demanda-inconstitucionalidad-ante-tc-facultades-legislativas-aprobadas-senado-n495823",
+   "fecha": "2026-10-23T15:38:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ca6c80be14e2",
+   "titulo": "Paciente que sufrió ACV espera que le entreguen medicamentos desde hace más de una semana",
+   "resumen": "Rotafono de RPP | La paciente de 69 años tiene la mitad de su cuerpo paralizado, sufre de ataques de epilepsia y es hipertensa. Su familia pide a Padomi de EsSalud que agilice los trámites para que le den los medicamentos recetados.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/rotafono/servicios-publicos/essalud-padomi-hermano-de-paciente-que-sufrio-acv-espera-que-le-entreguen-medicamentos-desde-hace-mas-de-una-semana-noticia-1714107",
+   "fecha": "2026-10-23T15:37:25Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6dbd0bf39932",
+   "titulo": "El Niño: Entregarán bono de casi S/ 200 a jubilados de ONP en diciembre",
+   "resumen": "El ministro de Economía y Finanzas, Elmer Cuba, anunció hoy la entrega de un bono excepcional de cerca de 200 soles a los jubilados de la Oficina de Normalización Previsional (ONP) en diciembre de este año, como parte del paquete de medidas para mitigar los efectos del fenómeno El Niño. Cabe…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/economia/el-nino-entregaran-bono-de-casi-s-200-a-jubilados-de-onp-en-diciembre/",
+   "fecha": "2026-10-23T15:34:46Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b002f0e8ca78",
+   "titulo": "Golpe a leyes controvertidas: Cámara de Diputados aprueba derogar parcialmente leyes pro-crimen y pro-impunidad (VIDEO)",
+   "resumen": "Comisión de Justicia aprueba por mayoría derogar leyes que daban la investigación a la Policía y ampliaban el fuero militar.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/golpe-a-leyes-controvertidas-camara-de-diputados-aprueba-derogar-parcialmente-leyes-pro-crimen-y-pro-impunidad-video/",
+   "fecha": "2026-10-23T15:33:40Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7111475b1260",
+   "titulo": "Elmer Cuba ante una eventual suspensión perfecta por El Niño: “Es un caso extremo, no es una política que se haya discutido ni aprobado”",
+   "resumen": "El titular del Ministerio de Economía y Finanzas, Elmer Cuba, señaló que la posibilidad de que las empresas puedan aplicar una suspensión perfecta de labores a sus trabajadores por los efectos del fenómeno de El Niño es un caso extremo.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/elmer-cuba-ante-una-eventual-suspension-perfecta-por-los-efectos-de-el-nino-es-un-caso-extremo-no-es-una-politica-que-se-discutido-ni-aprobado-l-ultimas-noticia/",
+   "fecha": "2026-10-23T15:33:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "605092077637",
+   "titulo": "Pronacej realizó megaoperativo en nueve centros juveniles e incautó armas blancas, memorias USB, pipas, entre otros",
+   "resumen": "Durante las requisas, se incautaron cinco armas blancas artesanales, memorias USB, pipas y otros objetos prohibidos.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/pronacej-realizo-megaoperativo-en-nueve-centros-juveniles-e-incauto-armas-blancas-memorias-usb-pipas-entre-otros-noticia-1714099",
+   "fecha": "2026-10-23T15:30:38Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d44777751680",
+   "titulo": "¿Pueden las redes sociales afectar nuestro crecimiento profesional?",
+   "resumen": "En esta edición de 20 en Empleabilidad se brindan algunos consejos para estar preparados para una próxima entrevista laboral.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/gestion-tv/20-empleabilidad/pueden-las-redes-sociales-afectar-nuestro-crecimiento-profesional-por-lhh-peru-noticia/",
+   "fecha": "2026-10-23T15:30:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2623c33f35a5",
+   "titulo": "Papa León XIV en Perú: así deberán recuperar las horas los trabajadores por los días no laborables",
+   "resumen": "La norma aprobada por el Gobierno establece las condiciones y los lineamientos que deben considerar las instituciones públicas y empresas privadas para determinar la aplicación de la medida y la recuperación de horas en su personal.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/23/papa-leon-xiv-en-peru-asi-deberan-recuperar-las-horas-los-trabajadores-por-los-dias-no-laborables-2157147",
+   "fecha": "2026-10-23T15:24:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "352d01e98d32",
+   "titulo": "Keiko Fujimori: “Tenemos que volver a unirnos. Trabajar los tres niveles de gobierno. Esa es la única manera en que vamos a salir adelante”",
+   "resumen": "Durante su pronunciamiento, la presidenta señaló que se lleva los pedidos de los escolares de la zona y anunció que el presupuesto para el próximo año contempla S/ 6.000 millones destinados al sector Educación",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/keiko-fujimori-tenemos-que-volver-unirnos-trabajar-tres-niveles-gobierno-esa-unica-manera-que-vamos-salir-adelante-n495822",
+   "fecha": "2026-10-23T15:22:21Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9e6ee62763f1",
+   "titulo": "Madre fue a dar a luz a gemelas, pero solo le entregaron a una bebé: “Quiero que aparezca mi hija”",
+   "resumen": "Pese a que las ecografías confirmaban el embarazo de gemelas, el personal del hospital Carrión solo le entregó una bebé tras la cesárea. El nosocomio aseguró que actuó en apego estricto a sus guías y expresó su disposición para colaborar con las autoridades.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/23/madre-fue-a-dar-a-luz-a-gemelas-pero-solo-le-entregaron-a-una-bebe-quiero-que-aparezca-mi-hija-1080172",
+   "fecha": "2026-10-23T15:22:02Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9ffa6eecdbd5",
+   "titulo": "César Astudillo afirma que facultades legislativas no son suficientes, pero asegura que el Gobierno seguirá combatiendo la inseguridad",
+   "resumen": "El ministro del Interior indicó que el Ejecutivo espera la emisión de decretos legislativos y decretos de urgencia que permitan avanzar con procesos de contratación para adquirir tecnología destinada a fortalecer la lucha contra la inseguridad",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/cesar-astudillo-afirma-que-facultades-legislativas-no-son-suficientes-asegura-que-gobierno-seguira-combatiendo-inseguridad-n495821",
+   "fecha": "2026-10-23T15:17:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4092bd386c06",
+   "titulo": "Elmer Cuba sobre facultades legislativas: \"Hay un sinsabor porque los gobiernos que comienzan han tenido siempre respaldo de los Congresos\"",
+   "resumen": "En esa misma línea, el ministro de Desarrollo Agrario y Riego, Marco Vinelli, expresó su \"gran insatisfacción\" frente al accionar del Parlamento tras advertir que solo se aprobó el 40% de las facultades solicitadas.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/gobierno/elmer-cuba-sobre-facultades-legislativas-hay-un-sinsabor-porque-los-gobiernos-que-comienzan-han-tenido-siempre-respaldo-de-los-congresos-noticia-1714091",
+   "fecha": "2026-10-23T15:15:15Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": []
+  },
+  {
    "id": "3abcde28fe35",
    "titulo": "Ministro de Economía sobre medidas para enfrentar el fenómeno de El Niño: “Solo los países solventes fiscalmente como Perú pueden reaccionar”",
    "resumen": "Elmer Cuba, ministro de Economía y Finanzas, se refirió a las recientes medidas anticíclicas que anunció para enfrentar el fenómeno de El Niño. En entrevista para RPP sostuvo que Perú es un país fiscalmente solvente lo que le permite “poner sobre la mesa” dichas medidas para evitar que afecten la…",
@@ -24,6 +1545,32 @@
    "fecha": "2026-10-23T15:07:29Z",
    "temas": [
     "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "533f193e257a",
+   "titulo": "César Astudillo pide mantener la erradicación de cultivos de coca para combatir el narcotráfico",
+   "resumen": "El ministro del Interior también resaltó el fortalecimiento de las relaciones de cooperación con Estados Unidos y señaló que el país cuenta con apoyo en equipamiento y aeronaves para las operaciones contra el narcotráfico",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/cesar-astudillo-pide-mantener-erradicacion-cultivos-coca-combatir-narcotrafico-n495820",
+   "fecha": "2026-10-23T15:06:42Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "819f15c5f001",
+   "titulo": "Charly García celebra sus 75 años con un emotivo saludo a sus seguidores desde su balcón",
+   "resumen": "Como figura central del rock argentino, Charly García transformó la música popular con composiciones que rompieron moldes estéticos y desafiaron las convenciones sociales y políticas.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/famosos/celebridades/charly-garcia-celebra-sus-75-anos-con-un-emotivo-saludo-a-sus-seguidores-desde-su-balcon-noticia-1714100",
+   "fecha": "2026-10-23T15:05:36Z",
+   "temas": [
+    "otros"
    ],
    "lugares": []
   },
@@ -150,6 +1697,19 @@
    "fecha": "2026-10-23T14:42:34Z",
    "temas": [
     "agua"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "cc6c7e190d68",
+   "titulo": "Carlos Mesía plantea que el TC resuelva controversia entre el Senado y la Cámara de Diputados por facultades delegadas",
+   "resumen": "Consultado sobre las tensiones generadas por la aprobación de las facultades legislativas, el titular de la Comisión de Constitución negó que se haya producido un quiebre en la relación entre ambas cámaras. “Nosotros también estamos incómodos porque ellos piensan que nos hemos extralimitado y…",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/carlos-mesia-plantea-que-tc-resuelva-controversia-entre-senado-y-camara-diputados-facultades-delegadas-n495819",
+   "fecha": "2026-10-23T14:39:21Z",
+   "temas": [
+    "otros"
    ],
    "lugares": []
   },
@@ -1030,6 +2590,19 @@
    ],
    "lugares": [],
    "grupo": "98ca3c86f134"
+  },
+  {
+   "id": "e0f216b08e97",
+   "titulo": "Yaguarundí: el misterioso felino que parece una nutria y que científicos buscan conservar en América Latina | Reportaje fotográfico",
+   "resumen": "El yaguarundí es un felino que parece una nutria por su cuerpo esbelto, cabeza pequeña, orejas redondeadas y cola larga. La pérdida de hábitat, el tráfico ilegal y las enfermedades transmitidas por perros domésticos amenazan la supervivencia de la especie. Conservacionistas de varios países unen…",
+   "medio": "Mongabay Latam",
+   "medio_id": "mongabay",
+   "url": "https://es.mongabay.com/custom-story/2026/10/yaguarundi-misterioso-felino-parece-nutria-conservacion-america-latina-reportaje-fotografico/",
+   "fecha": "2026-10-23T11:14:00Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": []
   },
   {
    "id": "0b478acfcf28",
