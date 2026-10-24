@@ -2,6 +2,1824 @@
  "fecha": "2026-10-23",
  "noticias": [
   {
+   "id": "043728d93050",
+   "titulo": "Papa León XIV: con bendición se inició armado de escenario para misa en Pimentel",
+   "resumen": "Con la bendición de las obras y oraciones se inició el armado de la estructura principal en las pampas de Pimentel, región Lambayeque, que han entrado en una nueva etapa de preparación para recibir al papa León XIV, quien celebrará una histórica y multitudinaria misa el 13 de noviembre.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-bendicion-se-inicio-armado-escenario-para-misa-pimentel-1097169.aspx",
+   "fecha": "2026-10-24T01:39:44Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pimentel",
+     "ubigeo": "140112",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.93573,
+     "lat": -6.8354,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "48be5f46cd6c",
+   "titulo": "Chiclayo: necropsia revela que mototaxista habría muerto por edema pulmonar",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-necropsia-revela-que-mototaxista-habria-muerto-por-edema-pulmonar-noticia/",
+   "fecha": "2026-10-24T01:30:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "148d903ff4cf",
+   "titulo": "Metropolitano tendrá más deflectores y ventanas con mayor apertura ante ola de calor",
+   "resumen": "El Ministerio de Transportes y Comunicaciones (MTC), a través de la Autoridad de Transporte Urbano para Lima y Callao (ATU), presentó hoy su plan de respuesta y continuidad operativa para mitigar los efectos del fenómeno El Niño en el transporte público. El documento incluye acciones preventivas…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-metropolitano-tendra-mas-deflectores-y-ventanas-mayor-apertura-ante-ola-calor-1097168.aspx",
+   "fecha": "2026-10-24T01:21:26Z",
+   "temas": [
+    "transporte",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "51ea67d9d8b0",
+   "titulo": "Juliaca: MVCS firma contrato para etapa IV del proyecto integral de agua y alcantarillado",
+   "resumen": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, lideró la firma del contrato para la ejecución de Etapa IV del Proyecto de Ampliación y Mejoramiento de los Servicios de Agua Potable y Alcantarillado (PIAA) de Juliaca.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-juliaca-mvcs-firma-contrato-para-etapa-iv-del-proyecto-integral-agua-y-alcantarillado-1097170.aspx",
+   "fecha": "2026-10-24T01:19:44Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "58370a7cdf75",
+   "titulo": "Cusco: más de 1.100 títulos de propiedad llegan a familias e instituciones de las 13 provincias",
+   "resumen": "La entrega comenzó en Taray, en la provincia de Calca, y alcanzará a más de 4.500 pobladores. Entre los beneficiarios también figuran ocho instituciones educativas, un centro de salud y una comisaría",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/cusco-mas-de-1100-titulos-de-propiedad-llegan-a-familias-e-instituciones-de-las-13-provincias/",
+   "fecha": "2026-10-24T01:14:57Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Taray",
+     "ubigeo": "080407",
+     "precision": "distrito",
+     "provincia": "Calca",
+     "departamento": "Cusco",
+     "lon": -71.86688,
+     "lat": -13.4277,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Calca",
+     "ubigeo": "080400",
+     "precision": "provincia",
+     "provincia": "Calca",
+     "departamento": "Cusco",
+     "lon": -71.95569,
+     "lat": -13.32104,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "50b335269c75",
+   "titulo": "Chiclayo: joven de 24 años es asesinado a balazos tras una discusión en Pimentel",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-joven-de-24-anos-es-asesinado-a-balazos-tras-una-discusion-en-pimentel-noticia/",
+   "fecha": "2026-10-24T01:12:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pimentel",
+     "ubigeo": "140112",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.93573,
+     "lat": -6.8354,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140100",
+     "precision": "provincia",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a653d00e5161",
+   "titulo": "Huancayo: Disfraces para fiesta de Halloween y otros se roban en ruta",
+   "resumen": "Empresa quiere responder con el 10% del valor del capital",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huancayo/huancayo-disfraces-para-fiesta-de-halloween-y-otros-se-roban-en-ruta-noticia/",
+   "fecha": "2026-10-24T01:12:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huancayo",
+     "ubigeo": "120101",
+     "precision": "distrito",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "99f074ccec00",
+   "titulo": "Perú impulsa conservación de biodiversidad e implementación del Marco Mundial en la COP17",
+   "resumen": "El Perú participa en la 17.ª Conferencia de las Partes (COP17) del Convenio sobre la Diversidad Biológica (CDB), que se realiza del 19 al 30 de octubre en Ereván, Armenia. Como uno de los países más megadiversos del mundo y proveedor de valiosos conocimientos tradicionales, el país considera esta…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-peru-impulsa-conservacion-biodiversidad-e-implementacion-del-marco-mundial-la-cop17-1097167.aspx",
+   "fecha": "2026-10-24T01:12:09Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Marco",
+     "ubigeo": "120415",
+     "precision": "distrito",
+     "provincia": "Jauja",
+     "departamento": "Junín",
+     "lon": -75.5611,
+     "lat": -11.74055,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7103f6217423",
+   "titulo": "Señor de los Milagros: qué estaciones de la Línea 1 del Metro de Lima usar para llegar a los últimos recorridos de octubre y noviembre",
+   "resumen": "La imagen saldrá de la Iglesia de Las Nazarenas a las 6:00 a. m. el miércoles y al mediodía del domingo, tras las misas programadas para cada jornada",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/senor-de-los-milagros-que-estaciones-de-la-linea-1-del-metro-de-lima-usar-para-llegar-a-los-ultimos-recorridos-de-octubre-y-noviembre/",
+   "fecha": "2026-10-24T01:05:53Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Las Nazarenas",
+     "ubigeo": "050115",
+     "ccpp": "0501150001",
+     "precision": "centro_poblado",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.21255,
+     "lat": -13.15409,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "77108a9c2791",
+   "titulo": "Homicidios de adolescentes se acercan a récord de 2025: Perú registra 84 casos",
+   "resumen": "Perú registra 84 adolescentes asesinados hasta octubre de 2026. Lima Metropolitana suma 28 homicidios, la cifra anual más alta de la última década.",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/homicidios-de-adolescentes-se-acercan-a-record-de-2025-peru-registra-84-casos/",
+   "fecha": "2026-10-24T01:01:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0ecfca365cf6",
+   "titulo": "Aumenta en Lima la venta de herramientas para hacer frente a las lluvias por el fenómeno El Niño [VIDEO]",
+   "resumen": "Un equipo de RPP visitó Las Malvinas, donde los comerciantes comentaron que los productos más solicitados son los chalecos impermeables, lampas, palas, picos, botas de jebe, cascos y selladores.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/fenomeno-el-nino-aumenta-la-venta-de-herramientas-en-las-malvinas-para-hacer-frente-a-las-lluvias-noticia-1714203",
+   "fecha": "2026-10-24T00:55:18Z",
+   "temas": [
+    "desastres",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Las Malvinas",
+     "ubigeo": "200109",
+     "ccpp": "2001090022",
+     "precision": "centro_poblado",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.71633,
+     "lat": -5.36263,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4f038b806c70",
+   "titulo": "Fenómeno El Niño: realizan trabajos de limpieza en el río Chillón en sector de SMP",
+   "resumen": "La Municipalidad de San Martín de Porres, en coordinación con el Ministerio de Vivienda, Construcción y Saneamiento (MVCS), trabaja en la descolmatación de los ríos que cruzan por la jurisdicción con el objetivo de evitar posibles desbordes y atenuar el impacto de la naturaleza que podría…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-fenomeno-nino-realizan-trabajos-limpieza-el-rio-chillon-sector-smp-1097151.aspx",
+   "fecha": "2026-10-24T00:53:35Z",
+   "temas": [
+    "desastres",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ed0796c813ba",
+   "titulo": "Diario Sin Fronteras reconoce a Fernando Alarcón por su cuarto lugar en Caminos del Inca",
+   "resumen": "Diario Sin Fronteras reconoció al piloto arequipeño Fernando Alarcón, quien obtuvo el cuarto lugar en la categoría Camionetas y fue el competidor de Arequipa mejor ubicado en el Rally Caminos del Inca 2026. El reconocimiento fue entregado por Juan Carlos Salavaldez, gerente de Operaciones del…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/23/diario-sin-fronteras-reconoce-fernando-alarcon-caminos-del-inca/",
+   "fecha": "2026-10-24T00:47:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Caminos Del Inca",
+     "ubigeo": "140115",
+     "ccpp": "1401150010",
+     "precision": "centro_poblado",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.5916,
+     "lat": -6.89975,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "19157aa13bad",
+   "titulo": "Tacna reúne a expertos internacionales para debatir el futuro de la comunicación",
+   "resumen": "Investigadores, docentes y especialistas nacionales e internacionales participan este viernes 23 de octubre en la segunda jornada del VIII Congreso Internacional de Comunicación y Protocolo, organizado por la Asociación Peruana de Ceremonialistas en el auditorio central de la Universidad Nacional…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/23/tacna-reune-a-expertos-internacionales-para-debatir-el-futuro-de-la-comunicacion/",
+   "fecha": "2026-10-24T00:40:09Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2ec6d69f5442",
+   "titulo": "Recrean al almirante Miguel Grau Seminario a tamaño real en Arequipa",
+   "resumen": "Una recreación de Miguel Grau a escala natural se exhibe hasta el 28 de octubre en el campus San Lázaro de la Universidad Católica San Pablo (UCSP). La figura se basa en fotografías de época, testimonios de sus contemporáneos y otras fuentes documentales.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/recrean-al-almirante-miguel-grau-seminario-a-tamano-real-en-arequipa-noticia/",
+   "fecha": "2026-10-24T00:35:31Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2d7fabae824c",
+   "titulo": "Amenazan a alcalde electo de Huanchaco: \"No vaya a ser que termines frío como la China Polo\"",
+   "resumen": "Criminales le exigen S/30.000 y un pago mensual de S/20.000. El nuevo burgomaestre del balneario turístico viajó a Lima para denunciar el hecho.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/23/amenazan-a-alcalde-electo-de-huanchaco-no-vayas-hacer-que-termines-frio-como-la-china-polo-hnews-2238659",
+   "fecha": "2026-10-24T00:30:45Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huanchaco",
+     "ubigeo": "130104",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.12169,
+     "lat": -8.07987,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "004102fce7c0",
+   "titulo": "Deudos de protestas se unieron para echar a Keiko Fujimori de Juliaca",
+   "resumen": "La mandataria tenía previsto llegar a la ciudad calcetera con motivo de su aniversario y para participar en la firma de un contrato para un proyecto de agua y alcantarillado.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/23/deudos-de-protestas-se-unieron-para-echar-a-keiko-fujimori-de-juliaca-hnews-1704645",
+   "fecha": "2026-10-24T00:27:17Z",
+   "temas": [
+    "conflicto_social",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "99abd0eb7e45",
+   "titulo": "Más de cinco millones de peruanos viven en distritos con riesgo alto ante incendios forestales",
+   "resumen": "Cusco es la región más afectada, con más de 500 mil hectáreas quemadas entre 2017 y 2025 por incendios",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/mas-de-cinco-millones-de-peruanos-viven-en-distritos-con-riesgo-alto-ante-incendios-forestales/",
+   "fecha": "2026-10-24T00:26:54Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d57f71972249",
+   "titulo": "Lima paga tres veces menos que regiones por el gas de todos los peruanos: distribuidoras del norte exigen tarifa nivelada",
+   "resumen": "Las concesionarias del norte, encabezadas por Promigas, plantean modificar la Ley 32315 para restituir el límite de 900 mil metros cúbicos mensuales en la tarifa nivelada. La empresa sostiene que el cambio es clave para recuperar la predictibilidad del sector y destrabar inversiones regionales",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/lima-paga-tres-veces-menos-por-el-gas-de-todos-los-peruanos-que-las-regiones-distribuidoras-del-norte-exigen-tarifa-nivelada/",
+   "fecha": "2026-10-24T00:20:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9b5a327ee4ad",
+   "titulo": "JEE Lima Centro rechaza solicitud de segunda vuelta entre Rafael López Aliaga y Francis Allison",
+   "resumen": "Avanza País pidió que se exija un mínimo del 30% de votos válidos para proclamar al alcalde de Lima. El organismo electoral también rechazó suspender la proclamación de resultados, mientras queda pendiente saber si la agrupación apelará ante el JNE.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/23/jee-lima-centro-rechaza-solicitud-de-segunda-vuelta-entre-rafael-lopez-aliaga-y-francis-allison-hnews-1543438",
+   "fecha": "2026-10-24T00:18:43Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "d1c97523a05a"
+  },
+  {
+   "id": "52eaca9a4f58",
+   "titulo": "Said Palao protagoniza accidente automovilístico: su auto y una moto impactaron",
+   "resumen": "El chico reality protagonizó un accidente vehicular en Surco luego de que su automóvil impactara con una motocicleta en la que viajaban dos personas.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/said-palao-protagoniza-accidente-automovilistico-su-auto-y-una-moto-impactaron/",
+   "fecha": "2026-10-24T00:17:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4b4f08598d10",
+   "titulo": "\"¡Para mí no es presidenta!\": Rechazan a Keiko en Arequipa",
+   "resumen": "Gremios de transportistas le pidieron ir a Quebrada Honda para ver el riesgo por la caída de rocas y advirtieron un bloqueo y paro exigiendo mallas de prevención, pero fueron ignorados.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/23/para-mi-no-es-presidenta-rechazan-a-keiko-en-arequipa-hnews-887018",
+   "fecha": "2026-10-24T00:12:22Z",
+   "temas": [
+    "conflicto_social",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Quebrada Honda",
+     "ubigeo": "040115",
+     "ccpp": "0401150002",
+     "precision": "centro_poblado",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.49143,
+     "lat": -16.52225,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "be45dd216ea8",
+   "titulo": "Estos serán los 3 días no laborables en Lima y Callao por la visita del papa León XIV: son aplicables para el sector privado y público",
+   "resumen": "El Gobierno estableció horarios diferenciados para las jornadas de noviembre y precisó cómo se recuperarán las horas pendientes, así como las condiciones que deberán cumplir las empresas para acogerse a la medida",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/estos-seran-los-3-dias-no-laborables-en-lima-y-callao-por-la-visita-del-papa-leon-xiv-son-aplicables-para-el-sector-privado-y-publico/",
+   "fecha": "2026-10-24T00:00:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b34a9339f536",
+   "titulo": "Minedu expone acciones ante violencia escolar y de prevención por El Niño en Lambayeque",
+   "resumen": "La actual gestión del Ministerio de Educación (Minedu) trabaja de manera integral para brindar una educación de calidad con una gestión eficiente, protección de los estudiantes, capacitación docente y mejoramiento de la infraestructura de las instituciones educativas, en concordancia con los…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-minedu-expone-acciones-ante-violencia-escolar-y-prevencion-por-nino-lambayeque-1097160.aspx",
+   "fecha": "2026-10-23T23:57:36Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9b87640b419e",
+   "titulo": "Carretera Central: Dos muertos deja accidente entre dos autos y un tráiler en Huarochirí",
+   "resumen": "El accidente múltiple ocurrió en el kilómetro 57, en San Bartolomé, e involucró a dos autos y un tráiler. Dos de los heridos se encuentran graves",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/accidente-carretera-central-dos-muertos-deja-accidente-entre-dos-autos-y-un-trailer-en-huarochiri-heridos-noticia/",
+   "fecha": "2026-10-23T23:51:55Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Bartolomé",
+     "ubigeo": "150717",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.52914,
+     "lat": -11.91197,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Huarochirí",
+     "ubigeo": "150700",
+     "precision": "provincia",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.38615,
+     "lat": -11.84493,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4e073b2c410c",
+   "titulo": "Dos mujeres intentaron salir del Perú con joyas ocultas por S/300 mil, pero el escáner del aeropuerto Jorge Chávez las delató",
+   "resumen": "El personal de seguridad detectó el cargamento oculto entre prendas durante un control rutinario, luego de advertir una conducta nerviosa y esquiva de las viajeras antes de su ingreso a la zona de revisión",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/dos-mujeres-intentaron-salir-del-peru-con-joyas-ocultas-por-s300-mil-pero-el-escaner-del-aeropuerto-jorge-chavez-las-delato/",
+   "fecha": "2026-10-23T23:47:34Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jorge Chávez",
+     "ubigeo": "060305",
+     "precision": "distrito",
+     "provincia": "Celendín",
+     "departamento": "Cajamarca",
+     "lon": -78.0918,
+     "lat": -6.94107,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "92047842eace",
+   "titulo": "Abogado sostiene que vicegobernadora podía asumir funciones tras detención de Luis Torres",
+   "resumen": "El abogado Néstor Pari sostuvo que la vicegobernadora regional de Tacna, Liliana Velasco Cornejo, podía asumir temporalmente las funciones del gobernador Luis Torres Robledo durante su detención, en aplicación del artículo 23 de la Ley Orgánica de Gobiernos Regionales. Así lo señaló durante una…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286624/abogado-sostiene-que-vicegobernadora-podia-asumir-funciones-tras-detencion-de-luis-torres/",
+   "fecha": "2026-10-23T23:45:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a091bdf94cfd",
+   "titulo": "Siete empresas compiten por Lote 207 de Talara en contrato petrolero por tres décadas",
+   "resumen": "¡Noticia que agita la costa norte: siete empresas compiten por un contrato petrolero de tres décadas en Talara! El lote conocido como 207, ubicado en la región de Talara, ha recibido ofertas de siete compañías que aspiran a explotar ese bloque durante 30 años. La presentación de propuestas marca…",
+   "medio": "Diario Satélite",
+   "medio_id": "satelite",
+   "url": "https://satelite.pe/siete-empresas-compiten-por-lote-207-de-talara-en-contrato-petrolero-por-tres-decadas",
+   "fecha": "2026-10-23T23:40:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pariñas",
+     "ubigeo": "200701",
+     "precision": "distrito",
+     "provincia": "Talara",
+     "departamento": "Piura",
+     "lon": -81.26936,
+     "lat": -4.5795,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "58db67d3101e",
+   "titulo": "Cuatro candidatos de Jayllihuaya expondrán sus propuestas en debate electoral",
+   "resumen": "El debate se realizará este 24 de octubre, a las 2:00 p. m., en la plaza principal de Jayllihuaya, con la participación de cuatro candidatos que expondrán sus propuestas antes de las elecciones del 1 de noviembre. El comité electoral informó que cerca de 1,400 ciudadanos están habilitados para…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/cuatro-candidatos-de-jayllihuaya-expondran-sus-propuestas-en-debate-electoral/",
+   "fecha": "2026-10-23T23:38:02Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jayllihuaya",
+     "ubigeo": "210101",
+     "ccpp": "2101010049",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.98416,
+     "lat": -15.88125,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dd2b0226b004",
+   "titulo": "Alerta en el Callao: Senamhi advierte aumento de la velocidad del viento y registra ráfagas de 33 km/h",
+   "resumen": "Las ráfagas del viento podrían alcanzar 37 km/h en la costa norte y 26 km/h en la costa sur, generando polvo y arena que disminuirán la visibilidad en zonas afectadas.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/23/alerta-en-el-callao-senamhi-advierte-aumento-de-la-velocidad-del-viento-y-registra-rafagas-de-33-kmh-1445665",
+   "fecha": "2026-10-23T23:37:03Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alerta",
+     "ubigeo": "170303",
+     "ccpp": "1703030004",
+     "precision": "centro_poblado",
+     "provincia": "Tahuamanu",
+     "departamento": "Madre de Dios",
+     "lon": -69.23503,
+     "lat": -11.65636,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "3afc9e4379c7",
+   "titulo": "Museo Amano exhibirá alimentos del antiguo Perú: hasta canchita de hace 2.000 años",
+   "resumen": "El Museo Amano presentará Yachay Mikhuy el 7 y 8 de noviembre en Miraflores, Lima, con piezas arqueológicas sobre alimentos del antiguo Perú y la cultura Paracas.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/cultura/museo-amano-exhibira-alimentos-del-antiguo-peru-hasta-canchita-de-hace-2000-anos-noticia/",
+   "fecha": "2026-10-23T23:36:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "150122",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02918,
+     "lat": -12.1218,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Paracas",
+     "ubigeo": "110505",
+     "precision": "distrito",
+     "provincia": "Pisco",
+     "departamento": "Ica",
+     "lon": -76.25192,
+     "lat": -13.839,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ca1dd58560b7",
+   "titulo": "Javier Valdés: “Trujillo es una ciudad cinematográfica”",
+   "resumen": "Trujillo, La Libertad.- Las luces se encienden y aparece en primera fila el actor y director teatral Javier Valdés Garrido Lecca. Las cámaras lo enfocan y el público aplaude otra vez. Acaba de proyectarse la película Dos besos (2015) en el auditorio Antenor Orrego de la Dirección Desconcentrada de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-javier-valdes-trujillo-es-una-ciudad-cinematografica-1097159.aspx",
+   "fecha": "2026-10-23T23:36:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b1eb46c7fccb",
+   "titulo": "Obrero de construcción civil exige reconocer descanso por su día y cuestiona a autoridades de Puno",
+   "resumen": "Giancarlo Rodríguez pidió al gobernador regional de Puno y al alcalde provincial reconocer el descanso compensatorio del lunes 26 de octubre por el Día de los Trabajadores en Construcción Civil. Además, denunció presuntas irregularidades en la entrega de implementos laborales y cuestionó las…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/obrero-de-construccion-civil-exige-reconocer-descanso-por-su-dia-y-cuestiona-a-autoridades-de-puno/",
+   "fecha": "2026-10-23T23:35:43Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9951873c84fd",
+   "titulo": "Pensión 65 impulsa el talento y las actividades económicas de los adultos mayores de Trujillo",
+   "resumen": "El programa Pensión 65 del Ministerio de Desarrollo e Inclusión Social (Midis) realizó la primera edición de la feria Saberes que Emprenden en la Plazuela El Recreo, en Trujillo, a fin de impulsar el talento y las actividades económicas de los adultos mayores.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/pension-65-impulsa-el-talento-y-las-actividades-economicas-de-los-adultos-mayores-de-trujillo-la-libertad-peru-noticia/",
+   "fecha": "2026-10-23T23:33:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "534e81319173",
+   "titulo": "Arequipa: Detectan pagos por trabajos no ejecutados en obra de S/35 millones en Cerro Colorado",
+   "resumen": "La Municipalidad Distrital de Cerro Colorado habría realizado pagos por trabajos no ejecutados en la obra de agua potable y alcantarillado de la Asociación Urbanizadora José Luis Bustamante y Rivero, sector X-XII, y la Asociación de Vivienda Taller Granja La Cabaña de Peruarbo, sector Argentina…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-detectan-pagos-por-trabajos-no-ejecutados-en-obra-de-s35-millones-en-cerro-colorado-noticia/",
+   "fecha": "2026-10-23T23:32:22Z",
+   "temas": [
+    "infraestructura",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cerro Colorado",
+     "ubigeo": "040104",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.56088,
+     "lat": -16.37626,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Cabana",
+     "ubigeo": "211102",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.32196,
+     "lat": -15.64913,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "742627064ec7",
+   "titulo": "Central de Barrios de Juliaca denuncia presunta intromisión del Consorcio San Miguel en fiscalización del proyecto de agua y desagüe",
+   "resumen": "Eusebio Cabrera Chunga cuestionó que la empresa ejecutora habría convocado a dirigentes para conformar un nuevo comité de gestión sin incluir a todos los representantes vecinales. Anunció que el comité será consolidado en una asamblea general y exigió transparencia en la ejecución del proyecto de…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/central-de-barrios-de-juliaca-denuncia-presunta-intromision-del-consorcio-san-miguel-en-fiscalizacion-del-proyecto-de-agua-y-desague/",
+   "fecha": "2026-10-23T23:27:34Z",
+   "temas": [
+    "agua",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f706d0239122",
+   "titulo": "Exigen transparencia en reasignaciones pendientes y transparentar plazas vacantes en el sector salud en San Román",
+   "resumen": "Yesica Calla Condori pidió al Gobierno Regional de Puno y a la Diresa transparentar las plazas disponibles y el número de trabajadores pendientes de reasignación, en cumplimiento de las leyes N.º 31553 y N.º 32719. El sindicato advirtió que continuará vigilante para garantizar el respeto de los…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/exigen-transparencia-en-reasignaciones-pendientes-y-transparentar-plazas-vacantes-en-el-sector-salud-en-san-roman/",
+   "fecha": "2026-10-23T23:24:58Z",
+   "temas": [
+    "salud",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "becc74d36a9a",
+   "titulo": "Juliaca firma contrato para ejecutar obra de agua potable por S/ 887 millones",
+   "resumen": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, encabezó la firma del contrato para ejecutar la cuarta etapa del Proyecto Integral de Agua Potable y Alcantarillado (PIAA), con una inversión de S/ 887 millones 600 mil. La obra beneficiará a más de 370 mil personas y forma…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/23/juliaca-firma-contrato-para-ejecutar-obra-de-agua-potable-por-s-887-millones/",
+   "fecha": "2026-10-23T23:24:57Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fc65265a5e46",
+   "titulo": "Hospital Materno Infantil de Juliaca quedará inconcluso al cierre de la gestión de Richard Hancco, advierte exconsejero",
+   "resumen": "El exconsejero regional denunció que el Hospital Materno Infantil de Juliaca continúa paralizado pese a registrar, según indicó, un avance del 80 % al 90 % en su infraestructura. Además, exigió al gobernador Richard Hancco explicar las razones de la demora y cuestionó la falta de avances en otras…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/hospital-materno-infantil-de-juliaca-quedara-inconcluso-al-cierre-de-la-gestion-de-richard-hancco-advierte-exconsejero/",
+   "fecha": "2026-10-23T23:22:31Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b374de9a2ada",
+   "titulo": "“Abramos el Corazón”: USAT reúne a universidades de Lambayeque en emotivo video para recibir al papa León XIV BAJADA",
+   "resumen": "Cerca de 40 estudiantes de seis universidades de Lambayeque participaron en un emotivo video que invita a los jóvenes a prepararse para el encuentro con el Santo Padre este 13 de noviembre en Chiclayo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/campanas/publirreportaje/abramos-el-corazon-usat-reune-a-universidades-de-lambayeque-en-emotivo-video-para-recibir-al-papa-leon-xiv-bajada-noticia-1714199",
+   "fecha": "2026-10-23T23:22:07Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "dc9cbc30f136",
+   "titulo": "Tres muertes violentas en una semana alarman la ruta Huanta-VRAEM",
+   "resumen": "En menos de una semana se reportaron tres muertes violentas en las vías que conectan Huanta con el VRAEM. Las víctimas incluyen a un matrimonio asesinado a balazos en Luricocha y a un joven transportista hallado en Iguaín. Pobladores exigen mayor control policial.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/tres-crimenes-semana-ruta-huanta-vraem",
+   "fecha": "2026-10-23T23:20:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Luricocha",
+     "ubigeo": "050405",
+     "precision": "distrito",
+     "provincia": "Huanta",
+     "departamento": "Ayacucho",
+     "lon": -74.27369,
+     "lat": -12.8996,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Huanta",
+     "ubigeo": "050400",
+     "precision": "provincia",
+     "provincia": "Huanta",
+     "departamento": "Ayacucho",
+     "lon": -74.24796,
+     "lat": -12.93942,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Iguaín",
+     "ubigeo": "050404",
+     "precision": "distrito",
+     "provincia": "Huanta",
+     "departamento": "Ayacucho",
+     "lon": -74.20895,
+     "lat": -12.99257,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b7bfd3b063cc",
+   "titulo": "Hospital Carlos Monge Medrano cumple 40 años entre deficiencias en infraestructura y alta demanda de pacientes",
+   "resumen": "El director José Mamani Vilca informó que el perfil del proyecto ya fue aprobado y que se trabaja en el expediente técnico para construir un moderno hospital en Juliaca. Además, reconoció las limitaciones de infraestructura, las largas colas y la necesidad de fortalecer los equipos médicos para…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/hospital-carlos-monge-medrano-cumple-40-anos-entre-deficiencias-en-infraestructura-y-alta-demanda-de-pacientes/",
+   "fecha": "2026-10-23T23:20:07Z",
+   "temas": [
+    "salud",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Vilca",
+     "ubigeo": "090116",
+     "precision": "distrito",
+     "provincia": "Huancavelica",
+     "departamento": "Huancavelica",
+     "lon": -75.18341,
+     "lat": -12.47712,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c4df429e8dbf",
+   "titulo": "Puno: Trabajador administrativo de la UNAP muere en choque frontal en Azángaro",
+   "resumen": "Un choque frontal entre una combi de la Universidad Nacional del Altiplano de Puno (UNAP) y una camioneta 4×4 dejó un fallecido y varios heridos, cuyo número aún no ha sido precisado. La víctima fue identificada como Angles Castro Belisario, trabajador administrativo de la Dirección de Admisión de…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/23/puno-trabajador-administrativo-de-la-unap-muere-en-choque-frontal-en-azangaro/",
+   "fecha": "2026-10-23T23:16:49Z",
+   "temas": [
+    "transporte",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Azángaro",
+     "ubigeo": "210200",
+     "precision": "provincia",
+     "provincia": "Azángaro",
+     "departamento": "Puno",
+     "lon": -70.19543,
+     "lat": -14.90818,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "45d70ba95c08",
+   "titulo": "Exhortan a alcaldes electos de Puno a contratar equipos técnicos capacitados ante 213 obras paralizadas por más de S/ 3.300 millones",
+   "resumen": "Comex Perú advierte que las 213 obras paralizadas en Puno superan los S/ 3.300 millones y exhorta a las nuevas autoridades municipales a contratar equipos técnicos capacitados para evitar retrasos y garantizar la culminación de hospitales, colegios y otras infraestructuras El economista de Comex…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/exhortan-a-alcaldes-electos-de-puno-a-contratar-equipos-tecnicos-capacitados-ante-213-obras-paralizadas-por-mas-de-s-3-300-millones/",
+   "fecha": "2026-10-23T23:12:30Z",
+   "temas": [
+    "infraestructura",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "13e57d0d2d1c",
+   "titulo": "GESTIÓN DE RIESGO EN MARCHA: CAPACITAN A PROMOTORES COMUNALES EN BAÑOS DEL INCA FRENTE A EL NIÑO",
+   "resumen": "RCR, 23 de octubre de 2026.- Ante el incremento de las precipitaciones pluviales en la región, la Municipalidad Distrital de Baños del Inca y la minera Newmont Yanacocha consolidaron una alianza estratégica orientada a fortalecer la preparación de las comunidades altoandinas frente a los efectos…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/gestion-de-riesgo-en-marcha-capacitan-a-promotores-comunales-en-banos-del-inca-frente-a-el-nino/",
+   "fecha": "2026-10-23T23:08:46Z",
+   "temas": [
+    "conflicto_social",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Baños",
+     "ubigeo": "101002",
+     "precision": "distrito",
+     "provincia": "Lauricocha",
+     "departamento": "Huánuco",
+     "lon": -76.73567,
+     "lat": -10.07642,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b0c487d430f5",
+   "titulo": "Pescadores de Piura exigen medidas del gobierno ante el Fenómeno El Niño",
+   "resumen": "La falta de calamar gigante frente a la costa norte llevó a embarcaciones artesanales a paralizar faenas. El gremio pidió ampliar la temporada de pesca y acceder a programas de apoyo para combustible",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/pescadores-de-piura-exigen-medidas-del-gobierno-ante-el-fenomeno-el-nino/",
+   "fecha": "2026-10-23T23:08:00Z",
+   "temas": [
+    "economia",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "96b6cbe6582b",
+   "titulo": "Arequipa: 14 años de prisión para trabajador por abusar de su amiga",
+   "resumen": "Yván Arrosquipa Q. fue sentenciado a 14 años de prisión por el Poder Judicial al ser hallado culpable del delito de violación sexual, en agravio de su amiga que se quedó dormida tras haber ingerido licor.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-14-anos-de-prision-para-trabajador-por-abusar-de-su-amiga-noticia/",
+   "fecha": "2026-10-23T22:58:37Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e733aecf0042",
+   "titulo": "Adulto mayor con cálculos renales espera operación desde hace casi dos años en el hospital Almanzor",
+   "resumen": "Rotafono de RPP | El paciente de 65 años fue referido del Hospital II-2 Tarapoto al hospital Almanzor de Chiclayo y se hizo los exámenes preoperatorios en 2025 y 2026, pero aún no tiene fecha para su cirugía.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/rotafono/servicios-publicos/tarapoto-adulto-mayor-con-calculos-renales-espera-operacion-desde-hace-casi-dos-anos-en-el-hospital-almanzor-de-chiclayo-noticia-1714196",
+   "fecha": "2026-10-23T22:56:49Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tarapoto",
+     "ubigeo": "220901",
+     "precision": "distrito",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.3602,
+     "lat": -6.48943,
+     "confianza": 0.59,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "342b706a90c8",
+   "titulo": "Accidente de tránsito deja un conductor fallecido y cinco heridos de la UNA Puno cuando viajaban a Macusani para un simulacro de admisión",
+   "resumen": "La comitiva de la Universidad Nacional del Altiplano de Puno viajaba para realizar un simulacro de admisión en Macusani. El accidente ocurrió en el sector de Recreo, cerca de San Antón; el conductor, Belisario Angles Castro, falleció y los otros cinco ocupantes resultaron heridos El director de la…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/accidente-de-transito-deja-un-conductor-fallecido-y-cinco-heridos-de-la-una-puno-cuando-viajaban-a-macusani-para-un-simulacro-de-admision/",
+   "fecha": "2026-10-23T22:56:11Z",
+   "temas": [
+    "transporte",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Macusani",
+     "ubigeo": "210301",
+     "precision": "distrito",
+     "provincia": "Carabaya",
+     "departamento": "Puno",
+     "lon": -70.43111,
+     "lat": -14.06854,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "San Antón",
+     "ubigeo": "210211",
+     "precision": "distrito",
+     "provincia": "Azángaro",
+     "departamento": "Puno",
+     "lon": -70.31708,
+     "lat": -14.58391,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e98c068d1a54",
+   "titulo": "Ciclista de 19 años resulta herido tras ser mordido por un perro en Gregorio Albarracín",
+   "resumen": "Un joven de 19 años resultó herido tras ser mordido por un perro mientras se desplazaba en bicicleta por una vía pública de la junta vecinal 28 de Agosto, en el distrito de Gregorio Albarracín, en Tacna. Según información de seguridad ciudadana, los agentes acudieron a una vivienda de la zona tras…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286616/ciclista-de-19-anos-resulta-herido-tras-ser-mordido-por-un-perro-en-gregorio-albarracin/",
+   "fecha": "2026-10-23T22:52:43Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "90001e30b909",
+   "titulo": "Puno recibirá más de S/ 76 millones por canon minero y enfrenta el reto de invertir eficientemente tales recursos",
+   "resumen": "Esta transferencia forma parte del incremento de los aportes generados por la minería formal, cuya recaudación fiscal nacional aumentó en 62.8 % entre enero y abril de este año, beneficiando al Gobierno Central, los gobiernos regionales, las municipalidades y las universidades públicas. Del monto…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/23/puno-recibira-mas-de-s-76-millones-por-canon-minero-y-enfrenta-el-reto-de-invertir-eficientemente-tales-recursos/",
+   "fecha": "2026-10-23T22:51:32Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ca49b514c0c3",
+   "titulo": "Chiclayo: niña de 1 año y 10 meses muere electrocutada en su vivienda en José Leonardo Ortiz",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-nina-de-1-ano-y-10-meses-muere-electrocutada-en-su-vivienda-en-jose-leonardo-ortiz-noticia/",
+   "fecha": "2026-10-23T22:50:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "José Leonardo Ortíz",
+     "ubigeo": "140105",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.83448,
+     "lat": -6.76296,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140100",
+     "precision": "provincia",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b512977521db",
+   "titulo": "Arequipa: Aprueban nueva delimitación del Paisaje Arqueológico Toro Muerto",
+   "resumen": "El Ministerio de Cultura aprobó la actualización de la información catastral del expediente de delimitación del Paisaje Arqueológico Toro Muerto, ubicado en los distritos de Uraca y Aplao, en la provincia de Castilla, región Arequipa.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-aprueban-nueva-delimitacion-del-paisaje-arqueologico-toro-muerto-noticia/",
+   "fecha": "2026-10-23T22:46:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Uraca",
+     "ubigeo": "040413",
+     "precision": "distrito",
+     "provincia": "Castilla",
+     "departamento": "Arequipa",
+     "lon": -72.46961,
+     "lat": -16.22376,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Aplao",
+     "ubigeo": "040401",
+     "precision": "distrito",
+     "provincia": "Castilla",
+     "departamento": "Arequipa",
+     "lon": -72.49215,
+     "lat": -16.07624,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Castilla",
+     "ubigeo": "040400",
+     "precision": "provincia",
+     "provincia": "Castilla",
+     "departamento": "Arequipa",
+     "lon": -72.49215,
+     "lat": -16.07624,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "66e10048177f",
+   "titulo": "Punta Hermosa: Tubería rota retrasó obras en quebrada Malanche",
+   "resumen": "Vecinos de Punta Hermosa expresaron su preocupación por los retrasos en los trabajos preventivos de la quebrada Malanche, donde una tubería matriz de desagüe sufrió una rotura. La zona fue afectada por los huaicos de 2023.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/punta-hermosa-tuberia-rota-retraso-obras-quebrada-malanche-n495839",
+   "fecha": "2026-10-23T22:44:25Z",
+   "temas": [
+    "infraestructura",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Punta Hermosa",
+     "ubigeo": "150126",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.82429,
+     "lat": -12.33357,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "523a7ecec41f",
+   "titulo": "Callao: Virgen del Carmen luce renovada para recibir al papa León XIV",
+   "resumen": "La escultura ubicada en Carmen de la Legua-Reynoso fue restaurada con diseños inspirados en vitrales como parte de los preparativos para la visita del sumo pontífice al Perú",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/callao-virgen-del-carmen-luce-renovada-para-recibir-al-papa-leon-xiv-visita-vaticano-noticia/",
+   "fecha": "2026-10-23T22:37:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Carmen",
+     "ubigeo": "150705",
+     "ccpp": "1507050005",
+     "precision": "centro_poblado",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.22388,
+     "lat": -11.66759,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4d606f386008",
+   "titulo": "Moquegua podría tener tarifas eléctricas más bajas: Keiko Fujimori encarga al Minem evaluar un subsidio cruzado",
+   "resumen": "La propuesta será revisada por el Ministerio de Energía y Minas y los organismos reguladores, tras un pedido de autoridades locales durante una visita a la región",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/23/moquegua-podria-tener-tarifas-electricas-mas-bajas-keiko-fujimori-encarga-al-minem-evaluar-un-subsidio-cruzado/",
+   "fecha": "2026-10-23T22:35:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ea054a133963",
+   "titulo": "ENGIE inaugura ampliación de Intipampa y anuncia central solar de más de US$127 millones",
+   "resumen": "ENGIE inauguró la ampliación de Intipampa, que suma capacidad solar en Moquegua, y anunció Hanaqpampa, proyecto con inversión superior a US$127 millones.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/empresas/engie-amplia-intipampa-y-anuncia-central-solar-en-moquegua-noticia/",
+   "fecha": "2026-10-23T22:33:19Z",
+   "temas": [
+    "infraestructura",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "9a163ca4283c",
    "titulo": "Serenos de Juliaca rescatan a mascota que se encontraba atrapada dos días entre paredes",
    "resumen": "Richard Hancco atribuye al MINSA la falta de presupuesto para hospitales de Juli, Huancané e Ilave y anuncia gestiones para obtener fondos en 2027",
@@ -981,6 +2799,42 @@
    ]
   },
   {
+   "id": "a10b26678e1a",
+   "titulo": "Playas de Ilo no califican como saludables por falta de servicios higiénicos y limpieza",
+   "resumen": "Las playas de Ilo evaluadas por la Dirección Regional de Salud (DIRESA) Moquegua no cumplen con los criterios para ser calificadas como “Playas Saludables”, principalmente por la falta de servicios higiénicos disponibles para los bañistas y deficiencias en la limpieza de los balnearios. El…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/playas-de-ilo-no-califican-como-saludables-por-falta-de-servicios-higienicos-y-limpieza/",
+   "fecha": "2026-10-23T21:09:53Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "a3047bf1524c",
    "titulo": "Burrada vs Burrada",
    "resumen": "Vergüenza ajena sintieron muchos ciudadanos al ver el patético show que se formó en el Gobierno Regional de Tacna (GORE), un día atrás. Por un lado una vicegobernadora, desesperada por tomar posesión y posición de la riendas y oficinas del GORE, y por otro lado un abogado que funge de asesor del…",
@@ -1241,6 +3095,32 @@
    "revisar": true
   },
   {
+   "id": "4ef693c3e777",
+   "titulo": "Red de Salud Ilo solicita S/ 2 millones para mantenimiento de establecimientos",
+   "resumen": "La Red Integrada de Salud Ilo solicitó a la Municipalidad Provincial de Ilo un presupuesto inicial de S/ 2 millones para ejecutar trabajos de mantenimiento de emergencia en los establecimientos de salud que presentan daños en su infraestructura. El director de la Red Integrada de Salud Ilo…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/red-de-salud-ilo-solicita-s-2-millones-para-mantenimiento-de-establecimientos/",
+   "fecha": "2026-10-23T20:50:35Z",
+   "temas": [
+    "desastres",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "03622d9e90fd",
    "titulo": "Obrero permaneció sepultado por casi cuatro horas tras colapso de muro de contención en Ventanilla: fue rescatado con vida",
    "resumen": "El trabajador, identificado como Ananías Bardales, de 34 años, quedó atrapado al ceder la base de una vivienda ubicada en un terreno de pendiente pronunciada",
@@ -1262,6 +3142,42 @@
      "lat": -11.87721,
      "confianza": 0.9,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "32dd9189c575",
+   "titulo": "Trujillo: Bailaban en capilla de cementerio en Salaverry",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/bailaban-en-capilla-de-cementerio-en-salaverry-trujillo-la-libertad-peru-noticia/",
+   "fecha": "2026-10-23T20:44:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Salaverry",
+     "ubigeo": "130109",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -78.97601,
+     "lat": -8.22431,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
     }
    ]
   },
@@ -1776,6 +3692,42 @@
      "departamento": "Arequipa",
      "lon": -71.52898,
      "lat": -16.39334,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8a64a103869b",
+   "titulo": "Mollendo conmemora 129 años de elevación de villa a ciudad",
+   "resumen": "Las actividades públicas al cumplirse 129 años de la elevación de Mollendo de la categoría de villa a ciudad se realizarán este martes 27 de octubre. La jornada conmemorativa, organizada por la Municipalidad Provincial de Islay, se iniciará a las 9:00 a. m. en la plaza Bolognesi. CEREMONIA CÍVICA…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/mollendo-conmemora-129-anos-de-elevacion-de-villa-a-ciudad/",
+   "fecha": "2026-10-23T19:26:16Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
      "confianza": 0.9,
      "principal": false
     }
