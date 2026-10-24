@@ -2,6 +2,902 @@
  "fecha": "2026-10-23",
  "noticias": [
   {
+   "id": "1d57d36a3ef7",
+   "titulo": "Machu Picchu también se canta: Braison Cyrus estrena canción inspirada en ciudad inca",
+   "resumen": "Qué duda cabe que Machu Picchu es una fuente inagotable de inspiración para el mundo. Esta vez, el músico Braison Cyrus, hermano menor de Miley Cirus, se unió al dúo Jesse & Joy para lanzar \"Machu Picchu\", una canción inspirada en la magia y mística de nuestro santuario histórico enclavado en la…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-machu-picchu-tambien-se-canta-braison-cyrus-estrena-cancion-inspirada-ciudad-inca-1097183.aspx",
+   "fecha": "2026-10-24T04:53:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Machupicchu",
+     "ubigeo": "081304",
+     "precision": "distrito",
+     "provincia": "Urubamba",
+     "departamento": "Cusco",
+     "lon": -72.52567,
+     "lat": -13.15421,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b350a95c4470",
+   "titulo": "La Libertad: Joven resulta herido tras explotarle un artefacto en la mano",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/joven-resulta-herido-tras-explotarle-un-artefacto-en-la-mano-la-libertad-peru-noticia/",
+   "fecha": "2026-10-24T04:48:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0a7f4b5a6ffd",
+   "titulo": "Triple choque en la carretera Central deja dos mujeres fallecidas y nueve heridos en Huarochirí",
+   "resumen": "Un triple choque entre una camioneta, un automóvil y un tractocamión con cisterna dejó dos mujeres fallecidas y nueve heridos en la carretera Central, en Huarochirí. La Policía investiga las causas del accidente, que provocó congestión vehicular en ambos sentidos de la vía.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/accidentes/triple-choque-en-la-carretera-central-deja-dos-mujeres-fallecidas-y-nueve-heridos-en-huarochiri-ultimas-noticia/",
+   "fecha": "2026-10-24T04:36:00Z",
+   "temas": [
+    "infraestructura",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huarochirí",
+     "ubigeo": "150700",
+     "precision": "provincia",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.38615,
+     "lat": -11.84493,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6128713c51bf",
+   "titulo": "Mininter fija meta de 16,250 hectáreas erradicadas en segunda fase del Precip",
+   "resumen": "El Ministerio del Interior anunció que el Precip prevé erradicar 16,250 hectáreas de coca ilegal en su segunda fase de 2026. Al 21 de octubre se intervinieron 1,624.40 hectáreas en los ejes de Tingo María (Huánuco), Aguaytía Norte (Ucayali) y Santa Lucía Norte (San Martín).",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/nacional/mininter-precip-meta-16250-hectareas-tingo-maria",
+   "fecha": "2026-10-24T04:20:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Lucia",
+     "ubigeo": "100609",
+     "ccpp": "1006090022",
+     "precision": "centro_poblado",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.02396,
+     "lat": -9.13834,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Rupa-Rupa",
+     "ubigeo": "100601",
+     "precision": "distrito",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.00056,
+     "lat": -9.29799,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Aguaytia",
+     "ubigeo": "250301",
+     "ccpp": "2503010001",
+     "precision": "centro_poblado",
+     "provincia": "Padre Abad",
+     "departamento": "Ucayali",
+     "lon": -75.5076,
+     "lat": -9.03363,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "San Martín",
+     "ubigeo": "220000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "San Martín",
+     "lon": -76.97427,
+     "lat": -6.03473,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "aa5398e5a461",
+   "titulo": "Más del 80% de pasajeros en Lima padece sobrecarga sonora en el transporte público",
+   "resumen": "Desplazarse en transporte público en Lima es una experiencia que impacta en la salud mental y emocional de los ciudadanos.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-mas-del-80-pasajeros-lima-padece-sobrecarga-sonora-el-transporte-publico-1097181.aspx",
+   "fecha": "2026-10-24T04:14:38Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bcde82aeaafb",
+   "titulo": "Hospital Belén de Trujillo inaugura sala multisensorial para personas con discapacidad",
+   "resumen": "El hospital Belén de Trujillo inauguró una sala multisensorial, un espacio implementado gracias a las gestiones ante la Gerencia Regional de Salud La Libertad para complementar la atención terapéutica y fortalecer los servicios de rehabilitación.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-hospital-belen-trujillo-inaugura-sala-multisensorial-para-personas-discapacidad-1097177.aspx",
+   "fecha": "2026-10-24T04:02:52Z",
+   "temas": [
+    "salud",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Belén",
+     "ubigeo": "160112",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.26004,
+     "lat": -3.76906,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "db00cc758de5",
+   "titulo": "Firman contrato para etapa IV del proyecto de agua y alcantarillado de Juliaca",
+   "resumen": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, lideró la firma del contrato para la ejecución de Etapa IV del Proyecto de Ampliación y Mejoramiento de los Servicios de Agua Potable y Alcantarillado (PIAA) Juliaca, la megaobra que, con una inversión de 1,759 millones de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-firman-contrato-para-etapa-iv-del-proyecto-agua-y-alcantarillado-juliaca-1097173.aspx",
+   "fecha": "2026-10-24T03:30:00Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ],
+   "grupo": "51ea67d9d8b0"
+  },
+  {
+   "id": "f6283314627a",
+   "titulo": "Congreso: PCM, MEF, MTC y gobiernos regionales sustentan presupuestos para 2027",
+   "resumen": "Los titulares de la Presidencia del Consejo de Ministros (PCM), el Ministerio de Economía y Finanzas (MEF), el Ministerio de Transportes y Comunicaciones (MTC) y los gobiernos regionales de Madre de Dios y Tacna sustentaron sus presupuestos institucionales para el año fiscal 2027 ante la Comisión…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-congreso-pcm-mef-mtc-y-gobiernos-regionales-sustentan-presupuestos-para-2027-1097175.aspx",
+   "fecha": "2026-10-24T03:15:52Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170203",
+     "precision": "distrito",
+     "provincia": "Manu",
+     "departamento": "Madre de Dios",
+     "lon": -70.39422,
+     "lat": -12.61849,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "6be110a24bdd",
+   "titulo": "Carretera Central: accidente múltiple deja dos fallecidas y nueve heridos",
+   "resumen": "Un accidente de tránsito múltiple registrado la tarde de hoy, viernes, en el kilómetro 56+500 de la carretera Central, cerca de Tornamesa, en el distrito de San Bartolomé, en la provincia limeña de Huarochirí, dejó dos mujeres fallecidas y nueve personas heridas.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-carretera-central-accidente-multiple-deja-dos-fallecidas-y-nueve-heridos-1097174.aspx",
+   "fecha": "2026-10-24T03:13:16Z",
+   "temas": [
+    "infraestructura",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Bartolomé",
+     "ubigeo": "150717",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.52914,
+     "lat": -11.91197,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Huarochirí",
+     "ubigeo": "150700",
+     "precision": "provincia",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.38615,
+     "lat": -11.84493,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ce74c3ff85cc",
+   "titulo": "Habilitan paso parcial tras nuevo derrumbe en la Panamericana Sur en Arequipa",
+   "resumen": "El tránsito vehicular en el kilómetro 770 de la carretera Panamericana Sur, en el sector La Planchada, región Arequipa, se vio interrumpido la noche de este viernes debido a un derrumbe de rocas que bloqueó la vía temporalmente.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/habilitan-paso-parcial-tras-nuevo-derrumbe-en-la-panamericana-sur-en-arequipa-noticia/",
+   "fecha": "2026-10-24T03:11:12Z",
+   "temas": [
+    "infraestructura",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Planchada",
+     "ubigeo": "040206",
+     "ccpp": "0402060012",
+     "precision": "centro_poblado",
+     "provincia": "Camaná",
+     "departamento": "Arequipa",
+     "lon": -73.22325,
+     "lat": -16.40014,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0c151900b404",
+   "titulo": "Conciertos y fiestas por Halloween 2026: fechas, precios y dónde comprar las entradas",
+   "resumen": "Halloween y el Día de la Canción Criolla tendrán salsa, música criolla, reguetón y fiestas retro en distintos puntos de Lima.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/conciertos-y-fiestas-por-halloween-2026-fechas-precios-y-donde-comprar-las-entradas/",
+   "fecha": "2026-10-24T03:03:49Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ea3db4681c4c",
+   "titulo": "Chorrillos: asesinan a repartidor de delivery y hieren a otras dos personas frente a la playa Agua Dulce",
+   "resumen": "La víctima conversaba con unas personas cuando dos sujetos sujetos a bordo de una moto llegaron y dispararon contra su objetivo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/chorrillos-asesinan-a-repartidor-de-delivery-y-hieren-a-otras-dos-personas-frente-a-la-playa-agua-dulce-noticia-1714209",
+   "fecha": "2026-10-24T02:53:24Z",
+   "temas": [
+    "agua",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chorrillos",
+     "ubigeo": "150108",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.01647,
+     "lat": -12.1769,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "069f4c77b295",
+   "titulo": "Presidente del Congreso constató obras para impulsar agro y prevenir inundaciones en Piura",
+   "resumen": "En una visita de trabajo a la región Piura, el presidente del Congreso de la República, Miguel Torres Morales, recorrió las obras del canal Miguel Checa y del drenaje pluvial Sullana–Bellavista. Ambos proyectos estratégicos están orientados a fortalecer la actividad agrícola y proteger a la…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-presidente-del-congreso-constato-obras-para-impulsar-agro-y-prevenir-inundaciones-piura-1097148.aspx",
+   "fecha": "2026-10-24T02:37:12Z",
+   "temas": [
+    "infraestructura",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miguel Checa",
+     "ubigeo": "200606",
+     "precision": "distrito",
+     "provincia": "Sullana",
+     "departamento": "Piura",
+     "lon": -80.81469,
+     "lat": -4.90028,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Sullana",
+     "ubigeo": "200600",
+     "precision": "provincia",
+     "provincia": "Sullana",
+     "departamento": "Piura",
+     "lon": -80.68788,
+     "lat": -4.89044,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Bellavista",
+     "ubigeo": "200602",
+     "precision": "distrito",
+     "provincia": "Sullana",
+     "departamento": "Piura",
+     "lon": -80.68019,
+     "lat": -4.89006,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a366b0aefd59",
+   "titulo": "SUSALUD interviene tras denuncia de madre que esperaba gemelas y recibió solo una bebé",
+   "resumen": "Una grave denuncia se encuentra bajo investigación en el Callao, luego de que María Elena Siccha Granados acudiera al Hospital Nacional Daniel Alcides Carrión para dar a luz a sus gemelas, pero tras una cesárea recibiera únicamente a una recién nacida. La familia sostiene que los controles…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/23/susalud-interviene-tras-denuncia-de-madre-que-esperaba-gemelas-y-recibio-solo-una-bebe/",
+   "fecha": "2026-10-24T02:37:03Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ee6bee2f2f23",
+   "titulo": "Metropolitano tendrá más ventilación, toldos y bebederos: la ATU anuncia medidas ante los efectos del fenómeno El Niño",
+   "resumen": "El plan también contempla acciones preventivas en corredores, líneas del Metro, taxis y buses regulares para reducir los riesgos que enfrentarán pasajeros, conductores y personal de campo en Lima y Callao",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/metropolitano-tendra-mas-ventilacion-toldos-y-bebederos-la-atu-anuncia-medidas-ante-los-efectos-del-fenomeno-el-nino/",
+   "fecha": "2026-10-24T02:34:18Z",
+   "temas": [
+    "transporte",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8dff1e2cd35e",
+   "titulo": "Lima tendrá nuevas lloviznas este fin de semana, según pronóstico del Senamhi",
+   "resumen": "El Senamhi pronostica lloviznas y lluvias ligeras en Lima durante el fin de semana, principalmente en los distritos costeros y Lima Sur. Además, mantiene un aviso meteorológico por precipitaciones en 20 regiones del país, con mayor riesgo en sectores de la costa norte y la sierra.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/lima-tendra-nuevas-lloviznas-este-fin-de-semana-segun-pronostico-del-senamhi-fenomeno-el-nino-apuesplan-ultimas-noticia/",
+   "fecha": "2026-10-24T02:32:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "12a428bbfcfd",
+   "titulo": "Migraciones y la Policía refuerzan controles antes de la visita del papa León XIV al Perú",
+   "resumen": "Se desplegaron operativos en Cusco, Chiclayo y Trujillo como parte de las acciones previas a la llegada del pontífice. Más de 400 ciudadanos extranjeros fueron intervenidos durante las jornadas de fiscalización",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/migraciones-y-la-policia-refuerzan-controles-antes-de-la-visita-del-papa-leon-xiv-al-peru/",
+   "fecha": "2026-10-24T02:31:11Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d4106231be50",
+   "titulo": "Lambayeque: niños de Mórrope presentan hasta 11 veces el límite de arsénico en la orina",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-ninos-de-morrope-presentan-hasta-11-veces-el-limite-de-arsenico-en-la-orina-noticia/",
+   "fecha": "2026-10-24T02:19:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mórrope",
+     "ubigeo": "140306",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -80.01564,
+     "lat": -6.54025,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c66f4b40fccb",
+   "titulo": "“La Frontera de los Cuentos” llega al Teatro La Plaza con tres historias para toda la familia",
+   "resumen": "La Frontera de los Cuentos se estrena el 24 de octubre de 2026 en el Teatro La Plaza de Miraflores, con funciones familiares los fines de semana y preventa a S/ 30.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/cultura/la-frontera-de-los-cuentos-llega-al-teatro-la-plaza-con-tres-historias-para-toda-la-familia-noticia/",
+   "fecha": "2026-10-24T02:11:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "100506",
+     "precision": "distrito",
+     "provincia": "Huamalíes",
+     "departamento": "Huánuco",
+     "lon": -76.81871,
+     "lat": -9.49394,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "e5d9659af2f8",
+   "titulo": "Chiclayo: marcas armados asaltan a influencer y le roban S/ 30 mil en Santa Victoria",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-marcas-armados-asaltan-a-influencer-y-le-roban-s-30-mil-en-santa-victoria-noticia/",
+   "fecha": "2026-10-24T02:06:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Santa Victoria",
+     "ubigeo": "130106",
+     "ccpp": "1301060025",
+     "precision": "centro_poblado",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -78.93491,
+     "lat": -8.11067,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4edec8fb5625",
+   "titulo": "Huancavelica: ANA muestra cómo el agua del río Mantaro se transforma en electricidad",
+   "resumen": "Para conocer el proceso de generación de energía a partir del agua del río Mantaro, la Autoridad Nacional del Agua (ANA) organizó una pasantía técnica en la central hidroeléctrica Santiago Antúnez de Mayolo, ubicada en el distrito de Colcabamba, provincia de Tayacaja, región Huancavelica, en la…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-huancavelica-ana-muestra-como-agua-del-rio-mantaro-se-transforma-electricidad-1097152.aspx",
+   "fecha": "2026-10-24T02:00:00Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mantaro",
+     "ubigeo": "090705",
+     "ccpp": "0907050149",
+     "precision": "centro_poblado",
+     "provincia": "Tayacaja",
+     "departamento": "Huancavelica",
+     "lon": -74.74169,
+     "lat": -12.3394,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Huancavelica",
+     "ubigeo": "090000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huancavelica",
+     "lon": -74.97132,
+     "lat": -12.78703,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Colcabamba",
+     "ubigeo": "090705",
+     "precision": "distrito",
+     "provincia": "Tayacaja",
+     "departamento": "Huancavelica",
+     "lon": -74.67936,
+     "lat": -12.40915,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Tayacaja",
+     "ubigeo": "090700",
+     "precision": "provincia",
+     "provincia": "Tayacaja",
+     "departamento": "Huancavelica",
+     "lon": -74.86823,
+     "lat": -12.39906,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "26b665071cc9",
+   "titulo": "¡Partidazo! Las extranjeras de Alianza Lima y Regatas serán protagonistas en la Liga Peruana de Vóley",
+   "resumen": "La Liga Peruana de Vóley cuenta con una importante presencia de refuerzos internacionales, entre los cuales destacan las jugadoras de Alianza y Regatas, que se enfrentarán este sábado.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/voley/mas-voley/alianza-lima-vs-regatas-lima-las-extranjeras-seran-protagonistas-del-partidazo-por-liga-peruana-de-voley-noticia-1714204",
+   "fecha": "2026-10-24T01:58:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alianza",
+     "ubigeo": "220504",
+     "ccpp": "2205040003",
+     "precision": "centro_poblado",
+     "provincia": "Lamas",
+     "departamento": "San Martín",
+     "lon": -76.27508,
+     "lat": -6.11706,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4f09516b2a94",
+   "titulo": "Lambayeque: cuestionan gastos del PEOT y UGEL en cámaras y camioneta antigua",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-cuestionan-gastos-del-peot-y-ugel-en-camaras-y-camioneta-antigua-noticia/",
+   "fecha": "2026-10-24T01:51:30Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e8a6cdb3fa9e",
+   "titulo": "SMP: ejecutan trabajos de limpieza en el río Chillón ante la temporada de lluvias",
+   "resumen": "La Municipalidad de San Martín de Porres y el Ministerio de Vivienda realizan trabajos de descolmatación en el río Chillón para prevenir desbordes ante la temporada de lluvias. Las intervenciones incluyen el retiro de rocas y piedras en puntos críticos y continuarán hasta diciembre de 2026.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/smp-ejecutan-trabajos-de-limpieza-en-el-rio-chillon-ante-la-temporada-de-lluvias-fenomeno-el-nino-apuesplan-ultimas-noticia/",
+   "fecha": "2026-10-24T01:45:05Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "98a339ce8fa0",
+   "titulo": "Arequipa: Recuperan moto hurtada en Paucarpata",
+   "resumen": "Una motocicleta que había sido hurtada en el distrito de Paucarpata fue recuperada por agentes de la PNP en el distrito de Miraflores, durante la operación “Alto Impacto”.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-recuperan-moto-hurtada-en-paucarpata-noticia/",
+   "fecha": "2026-10-24T01:40:04Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Paucarpata",
+     "ubigeo": "040112",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.50461,
+     "lat": -16.43284,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "040110",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52245,
+     "lat": -16.39472,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "043728d93050",
    "titulo": "Papa León XIV: con bendición se inició armado de escenario para misa en Pimentel",
    "resumen": "Con la bendición de las obras y oraciones se inició el armado de la estructura principal en las pampas de Pimentel, región Lambayeque, que han entrado en una nueva etapa de preparación para recibir al papa León XIV, quien celebrará una histórica y multitudinaria misa el 13 de noviembre.",
@@ -322,6 +1218,43 @@
    ]
   },
   {
+   "id": "f59e2a0c47db",
+   "titulo": "Central Solar Expansión Intipampa amplía su capacidad a 91.7 MW en Moquegua",
+   "resumen": "La Central Solar Expansión Intipampa, ubicada en la vía hacia Toquepala, en Moquegua, incorporó 51 megavatios (MW) adicionales de capacidad instalada, con lo que alcanza un total de 91.7 MW. La ampliación fue inaugurada con la participación del ministro de Energía y Minas, Guillermo Shinno. La…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/central-solar-expansion-intipampa-amplia-su-capacidad-a-91-7-mw-en-moquegua/",
+   "fecha": "2026-10-24T01:00:42Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Toquepala",
+     "ubigeo": "230302",
+     "ccpp": "2303020003",
+     "precision": "centro_poblado",
+     "provincia": "Jorge Basadre",
+     "departamento": "Tacna",
+     "lon": -70.63215,
+     "lat": -17.27954,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "0ecfca365cf6",
    "titulo": "Aumenta en Lima la venta de herramientas para hacer frente a las lluvias por el fenómeno El Niño [VIDEO]",
    "resumen": "Un equipo de RPP visitó Las Malvinas, donde los comerciantes comentaron que los productos más solicitados son los chalecos impermeables, lampas, palas, picos, botas de jebe, cascos y selladores.",
@@ -467,6 +1400,31 @@
      "departamento": "Arequipa",
      "lon": -71.52898,
      "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d5f23de8298b",
+   "titulo": "Puno: Instan a padres a cuidar la salud bucal infantil para prevenir enfermedades",
+   "resumen": "Redes de salud de Puno promueven el cepillado dental y advierten que las caries infantiles causan dolor y dificultan la alimentación de los niños",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-instan-a-padres-a-cuidar-la-salud-bucal-infantil-para-prevenir-enfermedades/",
+   "fecha": "2026-10-24T00:31:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
      "confianza": 0.6,
      "principal": true
     }
@@ -815,6 +1773,31 @@
      "departamento": "Tacna",
      "lon": -70.25199,
      "lat": -18.00181,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9d068e78f286",
+   "titulo": "Gobernadora exige al Gobierno Central garantizar presupuesto para Moquegua en 2027",
+   "resumen": "La gobernadora regional Gilia Gutiérrez Ayala solicitó al Gobierno Central atender las necesidades presupuestales de Moquegua y advirtió sobre un posible recorte de recursos para el próximo año. El pedido lo realizó durante la ceremonia de inauguración del proyecto de electrificación rural en las…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/gobernadora-exige-al-gobierno-central-garantizar-presupuesto-para-moquegua-en-2027/",
+   "fecha": "2026-10-23T23:40:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
      "confianza": 0.7,
      "principal": true
     }
@@ -1181,6 +2164,32 @@
    ]
   },
   {
+   "id": "ee673148d6ee",
+   "titulo": "Puno: retomaría la próxima semana mesa técnica por alza del pasaje urbano",
+   "resumen": "La Municipalidad de Puno evalúa reanudar la mesa técnica la próxima semana para abordar el pasaje de S/ 1.50 tras el paro de transportistas y el rechazo ciudadano",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-retomaria-la-proxima-semana-mesa-tecnica-por-alza-del-pasaje-urbano/",
+   "fecha": "2026-10-23T23:24:28Z",
+   "temas": [
+    "conflicto_social",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210100",
+     "precision": "provincia",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "fc65265a5e46",
    "titulo": "Hospital Materno Infantil de Juliaca quedará inconcluso al cierre de la gestión de Richard Hancco, advierte exconsejero",
    "resumen": "El exconsejero regional denunció que el Hospital Materno Infantil de Juliaca continúa paralizado pese a registrar, según indicó, un avance del 80 % al 90 % en su infraestructura. Además, exigió al gobernador Richard Hancco explicar las razones de la demora y cuestionó la falta de avances en otras…",
@@ -1452,6 +2461,66 @@
    ]
   },
   {
+   "id": "2ec73386615d",
+   "titulo": "Presidenta Keiko Fujimori inaugura obra de electrificación rural en Pampas de la Clemesí",
+   "resumen": "La presidenta de la República, Keiko Fujimori, inauguró el proyecto de electrificación rural en las Pampas de Clemesí, provincia de Mariscal Nieto, región Moquegua, que permitirá brindar acceso al servicio eléctrico a 1,540 pobladores mediante 385 conexiones domiciliarias. La ceremonia se…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/presidenta-keiko-fujimori-inaugura-obra-de-electrificacion-rural-en-pampas-de-la-clemesi/",
+   "fecha": "2026-10-23T23:05:21Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Clemesi",
+     "ubigeo": "180101",
+     "ccpp": "1801010070",
+     "precision": "centro_poblado",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -71.19263,
+     "lat": -17.26665,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Pampas",
+     "ubigeo": "090701",
+     "precision": "distrito",
+     "provincia": "Tayacaja",
+     "departamento": "Huancavelica",
+     "lon": -74.86823,
+     "lat": -12.39906,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "Mariscal Nieto",
+     "ubigeo": "180100",
+     "precision": "provincia",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "e4d76a3c23df"
+  },
+  {
    "id": "96b6cbe6582b",
    "titulo": "Arequipa: 14 años de prisión para trabajador por abusar de su amiga",
    "resumen": "Yván Arrosquipa Q. fue sentenciado a 14 años de prisión por el Poder Judicial al ser hallado culpable del delito de violación sexual, en agravio de su amiga que se quedó dormida tras haber ingerido licor.",
@@ -1596,6 +2665,31 @@
    "fecha": "2026-10-23T22:51:32Z",
    "temas": [
     "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "27793a7b7aed",
+   "titulo": "Puno: Dirigente afirma que la población se impuso a transportistas y que rechazan alza de pasaje",
+   "resumen": "Rodolfo Cutipa respalda el rechazo ciudadano al pasaje de S/ 1.50 en Puno y pide a transportistas reducir la tarifa o sustentar técnicamente el alza",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-dirigente-afirma-que-la-poblacion-se-impuso-a-transportistas-y-que-rechazan-alza-de-pasaje/",
+   "fecha": "2026-10-23T22:51:06Z",
+   "temas": [
+    "transporte"
    ],
    "lugares": [
     {
@@ -2273,6 +3367,31 @@
      "lat": -9.93008,
      "confianza": 0.9,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "65f3134bc069",
+   "titulo": "CD Moquegua se prepara para enfrentar a Alianza Lima por la Liga 1",
+   "resumen": "El CD Moquegua culminó sus entrenamientos semanales con miras al partido que disputará este domingo 25 de octubre, a las 13:15 horas, frente a Alianza Lima, en el estadio 25 de Noviembre, por la Liga 1. El equipo moqueguano buscará llegar en buenas condiciones a este compromiso y aprovechar el…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/cd-moquegua-se-prepara-para-enfrentar-a-alianza-lima-por-la-liga-1/",
+   "fecha": "2026-10-23T21:55:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
     }
    ]
   },

@@ -4953,6 +4953,53 @@
    "lugares": []
   },
   {
+   "id": "05d81761c44c",
+   "titulo": "SBN subastará 28 terrenos estatales en Lima, Áncash y Moquegua",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/sbn-subastara-28-terrenos-estatales-en-lima-ancash-y-moquegua-noticia/",
+   "fecha": "2026-10-22T11:16:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "97df68ae850c",
    "titulo": "Precio del dólar Perú y tipo de cambio hoy 22 de octubre del 2026",
    "resumen": "En Perú, el tipo de cambio para hoy jueves 22 de octubre es de S/3.44 según el Banco Central de Reserva Del Perú.",
