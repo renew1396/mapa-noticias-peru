@@ -2,6 +2,963 @@
  "fecha": "2026-10-24",
  "noticias": [
   {
+   "id": "e98aa42cf7ab",
+   "titulo": "Ica: más de 1,600 estudiantes de la I.E. Gral. Juan José Bernales estrenan campo deportivo",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/ica-mas-de-1600-estudiantes-de-la-ie-gral-juan-jose-bernales-estrenan-campo-deportivo-noticia/",
+   "fecha": "2026-10-24T12:43:00Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "35ed3a691e1b",
+   "titulo": "Municipalidad Provincial de Pisco declara hijo ilustre a Santiago Aguayo por su triunfo en Caminos del Inca",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/municipalidad-provincial-de-pisco-declara-hijo-ilustre-a-santiago-aguayo-por-su-triunfo-en-caminos-del-inca-noticia/",
+   "fecha": "2026-10-24T12:40:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pisco",
+     "ubigeo": "110500",
+     "precision": "provincia",
+     "provincia": "Pisco",
+     "departamento": "Ica",
+     "lon": -76.20156,
+     "lat": -13.70987,
+     "confianza": 0.59,
+     "principal": true
+    },
+    {
+     "nombre": "Caminos Del Inca",
+     "ubigeo": "140115",
+     "ccpp": "1401150010",
+     "precision": "centro_poblado",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.5916,
+     "lat": -6.89975,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "0ca55936641d",
+   "titulo": "Huancayo: Conductores paran por compactadoras que circulan sin placa ni SOAT",
+   "resumen": "Los vehículos aún no cuentan con toda la documentación.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huancayo/huancayo-conductores-paran-por-compactadoras-que-circulan-sin-placa-ni-soat-noticia/",
+   "fecha": "2026-10-24T12:36:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huancayo",
+     "ubigeo": "120101",
+     "precision": "distrito",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e4a544d58116",
+   "titulo": "Gobierno Regional de Ica ofreció triduo en honor al Señor de Luren",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/gobierno-regional-de-ica-ofrecio-triduo-en-honor-al-senor-de-luren-noticia/",
+   "fecha": "2026-10-24T12:33:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3e3553852b98",
+   "titulo": "Consulta en este link el precio de la gasolina más barata y cara en Lima, hoy, 24 de octubre",
+   "resumen": "Aquí está la lista de los precios más asequibles de los carburantes y también los más caros en la ciudad peruana",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/consulta-en-este-link-el-precio-de-la-gasolina-mas-barata-y-cara-en-lima-hoy-24-de-octubre/",
+   "fecha": "2026-10-24T12:16:29Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e6550f97bd0d",
+   "titulo": "Mario Reyna espera drástico castigo para exsubgerente del municipio de Trujillo",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/mario-reyna-espera-drastico-castigo-para-exsubgerente-del-municipio-de-trujillo-la-libertad-peru-noticia/",
+   "fecha": "2026-10-24T12:01:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "30000fbd549c",
+   "titulo": "Sismo en La Libertad: temblor de magnitud 3.6 se sintió en Trujillo",
+   "resumen": "El epicentro del sismo se ubicó en el mar, a 54 kilómetros al sur de Salaverry, reportó el Instituto Geofísico del Perú.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/la-libertad/sismo-en-la-libertad-temblor-de-magnitud-36-se-sintio-en-trujillo-noticia-1714240",
+   "fecha": "2026-10-24T11:40:26Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Salaverry",
+     "ubigeo": "130109",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -78.97601,
+     "lat": -8.22431,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6aaa22ce4d2d",
+   "titulo": "Gerente de la Sub Región Ilo califica de “desafortunadas” las declaraciones de Ángelo Quilco",
+   "resumen": "El gerente de la Sub Región Ilo, Guido Guzmán Palacios, calificó de “desafortunadas y desinformadas” las declaraciones del consejero regional Ángelo Quilco Flores respecto al avance de las obras públicas y su continuidad presupuestal. El funcionario aseguró que los cinco proyectos actualmente en…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/gerente-de-la-sub-region-ilo-califica-de-desafortunadas-las-declaraciones-de-angelo-quilco/",
+   "fecha": "2026-10-24T11:31:02Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9fda65f1f8df",
+   "titulo": "Trujillo: Roy Arbaiza convoca a alcaldes electos a reunión",
+   "resumen": "El alcalde electo por Trujillo, Roy Arbaiza Corcuera, ha convocado a una reunión de trabajo a los otros virtuales burgomaestres de los once distritos de la provincia. Aseguró que en el cónclave estará presente, con una participación activa, Arturo Fernández Bazán, quien ha sido denominado “asesor”…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/roy-arbaiza-convoca-a-alcaldes-electos-a-reunion-trujillo-la-libertad-peru-noticia/",
+   "fecha": "2026-10-24T11:30:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5173e1d489d3",
+   "titulo": "La Libertad: Nuevo puente en distrito de Carabamba quedó listo",
+   "resumen": "La culminación de la obra vial interurbana del puente Los Pinos, en el distrito de Carabamba (Julcán), representa un avance significativo para el desarrollo de la población, ya que facilitará una conectividad fluida y una transitabilidad peatonal y vehicular segura.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/nuevo-puente-en-distrito-de-carabamba-quedo-listo-la-libertad-peru-noticia/",
+   "fecha": "2026-10-24T11:21:00Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Carabamba",
+     "ubigeo": "130503",
+     "precision": "distrito",
+     "provincia": "Julcán",
+     "departamento": "La Libertad",
+     "lon": -78.60743,
+     "lat": -8.11249,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Los Pinos",
+     "ubigeo": "130902",
+     "ccpp": "1309020102",
+     "precision": "centro_poblado",
+     "provincia": "Sánchez Carrión",
+     "departamento": "La Libertad",
+     "lon": -77.81829,
+     "lat": -7.88077,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Julcán",
+     "ubigeo": "130500",
+     "precision": "provincia",
+     "provincia": "Julcán",
+     "departamento": "La Libertad",
+     "lon": -78.48645,
+     "lat": -8.04266,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "def213aa5aea",
+   "titulo": "La Libertad es una de las cinco regiones con la menor incidencia de anemia en niños de 6 a 35 meses",
+   "resumen": "En 2025, el 38.6% de los niños de 6 a 35 meses de edad de La Libertad sufrió de anemia, según estimaciones de la Encuesta Demográfica y de Salud Familiar (ENDES) consignadas por ComexPerú. Esta tasa ubicó a la región como la quinta con la menor incidencia de esa enfermedad en dicho grupo etario a…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/la-libertad-es-una-de-las-cinco-regiones-con-la-menor-incidencia-de-anemia-en-ninos-de-6-a-35-meses-trujillo-peru-noticia/",
+   "fecha": "2026-10-24T11:19:00Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "15c93811edd6",
+   "titulo": "Contraloría: Instituto Vial Provincial de Islay incumple normativas de control interno",
+   "resumen": "De acuerdo con el Informe de Acción de Oficio Posterior N° 13447-2026-CG/PREV-AOP publicado por la Contraloría General de la República este 20 de octubre, el Instituto Vial Provincial Municipal de Islay incurrió en el incumplimiento del registro de información y la remisión de los documentos que…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/contraloria-instituto-vial-provincial-de-islay-incumple-normativas-de-control-interno/",
+   "fecha": "2026-10-24T11:16:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Islay",
+     "ubigeo": "040704",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.09741,
+     "lat": -17.00083,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6728d9fbe8db",
+   "titulo": "Penal de Samegua: cámaras ciegas, torres vacías y hacinamiento",
+   "resumen": "Con 203 internos por encima de su capacidad, insuficiente personal de seguridad, cámaras inoperativas y deficiencias en la vigilancia perimetral, funciona el Establecimiento Penitenciario de Moquegua, ubicado en Samegua. La Contraloría General de la República identificó cinco situaciones adversas…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/penal-de-samegua-camaras-ciegas-torres-vacias-y-hacinamiento/",
+   "fecha": "2026-10-24T11:01:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Samegua",
+     "ubigeo": "180104",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.90025,
+     "lat": -17.18218,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a9cc116796a4",
+   "titulo": "Inomac planea ingresar a Lima a fines de este 2026",
+   "resumen": "La distribuidora de vehículos pesados apunta a vender anualmente 150 camiones en el 2027 y 2028. Además, contempla llegar a Arequipa el próximo año.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/dia-1/inomac-planea-ingresar-a-lima-a-fines-de-este-2026-noticia/",
+   "fecha": "2026-10-24T11:00:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b8623fc98429",
+   "titulo": "Pedro Castillo: PJ rechaza nuevo recurso que buscaba su excarcelación ¿cuáles son los argumentos?",
+   "resumen": "El Juzgado de Investigación Preparatoria de la Corte Superior de Justicia de Lima Este rechazó un nuevo recurso de Pedro Castillo, mediante el que buscaba ser excarcelado pese a su condena por conspiración para la rebelión.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/pedro-castillo-poder-judicial-rechaza-nuevo-recurso-de-expresidente-que-buscaba-su-excarcelacion-noticia/",
+   "fecha": "2026-10-24T10:50:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7f09045c4f89",
+   "titulo": "Recamier entra al K-Fragrance y alista nuevas marcas coreanas en Perú para el 2027",
+   "resumen": "La colombiana Recamier tiene en Perú su segunda operación en ventas y prepara su próximo paso. Marcas coreanas, repelentes y tiendas de descuento: así es su plan para 2027.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/empresas/recamier-prepara-nuevas-marcas-coreanas-y-su-plan-para-crecer-en-peru-noticia/",
+   "fecha": "2026-10-24T10:45:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Marcas",
+     "ubigeo": "090205",
+     "precision": "distrito",
+     "provincia": "Acobamba",
+     "departamento": "Huancavelica",
+     "lon": -74.39816,
+     "lat": -12.89034,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5789bc3ad461",
+   "titulo": "¿Por qué es feriado hoy 24 de octubre en Juliaca?",
+   "resumen": "Este sábado 24 de octubre es feriado en la provincia de San Román, en la región Puno, debido al aniversario de la inauguración de esta jurisdicción, cuya capital es la ciudad de Juliaca. La fecha está establecida en la Ley N.° 13293, que declara feriado provincial el 24 de octubre de cada año.…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-por-es-feriado-hoy-24-octubre-juliaca-1097142.aspx",
+   "fecha": "2026-10-24T10:45:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d11e602b4d13",
+   "titulo": "Alcaldesa de Chen Chen gestiona ante el MTC celeridad de proyecto del óvalo",
+   "resumen": "La alcaldesa del centro poblado de Chen Chen, Jakelin Ninaraqui, sostuvo una reunión de trabajo con el ministro de Transportes y Comunicaciones, Angello Tangherlini, para tratar el avance y la necesidad de agilizar la ejecución del proyecto del óvalo de Chen Chen, en Moquegua. El encuentro tuvo…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/alcaldesa-de-chen-chen-gestiona-ante-el-mtc-celeridad-de-proyecto-del-ovalo/",
+   "fecha": "2026-10-24T10:31:10Z",
+   "temas": [
+    "politica_local",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "07abc1ddbf49",
+   "titulo": "Cierran vía a playas por cinco días por obra en el malecón Ratti",
+   "resumen": "La Municipalidad Provincial de Islay anunció el cierre temporal de la vía que conduce hacia el circuito de playas de Mollendo, medida que se aplicará durante cinco días, desde el martes 27 hasta el sábado 31 de octubre. La restricción vehicular responde a la ejecución de trabajos de demolición…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/cierran-via-a-playas-por-cinco-dias-por-obra-en-el-malecon-ratti/",
+   "fecha": "2026-10-24T10:15:42Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3cc50fd17175",
+   "titulo": "Corte de agua en Lima hoy 24 de octubre: Distritos y horarios afectados",
+   "resumen": "EN VIVO Consulta aquí los distritos de Lima y horarios afectados por el corte de agua programado por el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) para hoy.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-24-de-octubre-distritos-y-horarios-afectados-noticia-1714232",
+   "fecha": "2026-10-24T10:00:38Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ],
+   "grupo": "240735556a8d"
+  },
+  {
+   "id": "7164eaa8ac49",
+   "titulo": "Clima en Arequipa: pronóstico de lluvias y ráfagas de viento",
+   "resumen": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo en Perú",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/clima-en-arequipa-pronostico-de-lluvias-y-rafagas-de-viento/",
+   "fecha": "2026-10-24T09:45:54Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "44dcf763fa46",
+   "titulo": "¿Cómo estará el clima en Lima este 24 de octubre?",
+   "resumen": "El estado del tiempo en Perú se ve alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/como-estara-el-clima-en-lima-este-24-de-octubre/",
+   "fecha": "2026-10-24T09:32:20Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3a32e9103d0c",
+   "titulo": "Clima en Piura: temperatura y probabilidad de lluvia para este sábado 24 de octubre",
+   "resumen": "La diversidad climatológica en Perú es tal que se tienen identificados 38 estados del tiempo a lo largo del país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/clima-en-piura-temperatura-y-probabilidad-de-lluvia-para-este-sabado-24-de-octubre/",
+   "fecha": "2026-10-24T09:32:01Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "08b096ebf891",
+   "titulo": "Clima: las temperaturas que predominarán este 24 de octubre en Huancayo",
+   "resumen": "La diversidad climatológica en Perú es tal que se tienen identificados 38 estados del tiempo a lo largo del país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/clima-las-temperaturas-que-predominaran-este-24-de-octubre-en-huancayo/",
+   "fecha": "2026-10-24T09:31:42Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huancayo",
+     "ubigeo": "120101",
+     "precision": "distrito",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "099ccbd9860c"
+  },
+  {
+   "id": "cbadbca86691",
+   "titulo": "Clima en Perú: temperatura y probabilidad de lluvia para Iquitos este 24 de octubre",
+   "resumen": "El estado del tiempo en Perú se ve alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/clima-en-peru-temperatura-y-probabilidad-de-lluvia-para-iquitos-este-24-de-octubre/",
+   "fecha": "2026-10-24T09:31:24Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ],
+   "grupo": "3a32e9103d0c"
+  },
+  {
+   "id": "c6aa6cbc89e3",
+   "titulo": "Clima en Cuzco: conoce el pronóstico y prepárate antes de salir",
+   "resumen": "El clima en Perú resulta alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/clima-en-cuzco-conoce-el-pronostico-y-preparate-antes-de-salir/",
+   "fecha": "2026-10-24T09:31:03Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "ac959f0562bb"
+  },
+  {
+   "id": "ab069fc936db",
+   "titulo": "Corte Suprema rechaza recurso del GORE Moquegua en proceso por reposición durante el embarazo",
+   "resumen": "La Corte Suprema de Justicia de la República declaró improcedente el recurso de casación presentado por la Procuraduría Pública del Gobierno Regional de Moquegua en un proceso judicial seguido por Sharai Gabriela Tapia Roque, relacionado con una demanda de reposición laboral por embarazo. La…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/corte-suprema-rechaza-recurso-del-gore-moquegua-en-proceso-por-reposicion-durante-el-embarazo/",
+   "fecha": "2026-10-24T09:30:20Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "74686760cb21",
+   "titulo": "Mollendo: vehículo se incendia en la bajada al Campín",
+   "resumen": "Un automóvil Hyundai, de placa de rodaje B6R-302, se incendió aproximadamente a las 12:50 p. m. en la bajada al Campín mientras se desplazaba de subida con dirección al sector de Alto Las Cruces. El siniestro, provocado según información preliminar por un aparente cortocircuito, dejó al conductor…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/mollendo-vehiculo-se-incendia-en-la-bajada-al-campin/",
+   "fecha": "2026-10-24T09:15:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ae2f0eff2b93",
+   "titulo": "Colegio San Martín de Porres se corona campeón nacional de Baile Urbano en los Juegos Florales 2026",
+   "resumen": "El Colegio Parroquial San Martín de Porres de Tacna se consagró campeón nacional de Baile Urbano en los Juegos Florales Escolares Nacionales 2026, luego de imponerse en la etapa nacional de esta competencia que reunió a representantes de diferentes regiones del país. La noticia fue confirmada la…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286628/colegio-san-martin-de-porres-se-corona-campeon-nacional-de-baile-urbano-en-los-juegos-florales-2026/",
+   "fecha": "2026-10-24T09:10:56Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8e6deab67db4",
+   "titulo": "Juntas vecinales de Ilo se capacitan para responder ante posibles desastres",
+   "resumen": "Integrantes de las juntas vecinales de la provincia de Ilo, grupos de jóvenes y población en general participaron en una capacitación orientada a la formación de brigadistas de primera respuesta ante situaciones de emergencia y desastres. La actividad tuvo como finalidad preparar a los…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/juntas-vecinales-de-ilo-se-capacitan-para-responder-ante-posibles-desastres/",
+   "fecha": "2026-10-24T09:01:12Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3004dc26b4bd",
+   "titulo": "SENAMHI: Pronóstico del clima hoy sábado 24 de octubre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-sabado-24-de-octubre-2026-noticia-1714224",
+   "fecha": "2026-10-24T09:00:45Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "d8d5c86fd4c0"
+  },
+  {
+   "id": "236fcf4eba80",
+   "titulo": "Sedapal reporta cortes de agua este sábado en Lima sin precisar distritos ni horarios",
+   "resumen": "Sedapal comunicó cortes de agua programados e imprevistos en Lima este sábado 24 de octubre, sin detallar distritos ni horarios. La empresa pide consultar su web, Messenger y WhatsApp, y verificó el número de suministro para saber si el corte afecta un domicilio.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/sociedad/sedapal-cortes-agua-lima-sabado-24-octubre",
+   "fecha": "2026-10-24T08:20:49Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5595f3c15852",
+   "titulo": "Sedapal reporta cortes de agua este sábado 24 de octubre en Lima",
+   "resumen": "Sedapal informó sobre cortes de agua programados e imprevistos este sábado 24 de octubre en Lima. La empresa remite a sus canales oficiales para conocer los distritos y horarios afectados. Sedapal, fundada en 1962, atiende agua potable y alcantarillado en la capital.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/sociedad/sedapal-cortes-agua-24-octubre-lima",
+   "fecha": "2026-10-24T07:50:49Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "df15e74f7ea3"
+  },
+  {
    "id": "98b6ef25e89a",
    "titulo": "Devaluación del peso chileno frente al sol afecta el movimiento económico en Tacna",
    "resumen": "",
@@ -124,6 +1081,153 @@
     }
    ],
    "grupo": "66e10048177f"
+  },
+  {
+   "id": "0a1d86d1c674",
+   "titulo": "Frente Patriótico de Loreto realizará hoy su décimo congreso para elegir nueva dirigencia regional",
+   "resumen": "El Frente Patriótico de Loreto (FPL) realizará hoy, sábado 24 de octubre, su décimo congreso ordinario, con el objetivo de elegir a su nuevo Comité Ejecutivo Regional y establecer una plataforma de lucha que recoja las principales demandas de la población loretana.Efrosina González, presidenta de…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/frente-patriotico-de-loreto-realizara-hoy-su-decimo-congreso-para-elegir-nueva-dirigencia-regional/",
+   "fecha": "2026-10-24T05:20:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2c041a447676",
+   "titulo": "Parroquia San Martín de Porres realizará Gran Bingo Kermés con premios de hasta 15 mil soles",
+   "resumen": "La parroquia San Martín de Porres de Iquitos realizará mañana, domingo 25 de octubre, su tradicional Gran Bingo Kermés 2026, una actividad solidaria que busca recaudar fondos para financiar la atención de personas en situación de vulnerabilidad. El evento se desarrollará desde las 10:00 de la…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/parroquia-san-martin-de-porres-realizara-gran-bingo-kermes-con-premios-de-hasta-15-mil-soles/",
+   "fecha": "2026-10-24T05:19:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7bd34b12a17f",
+   "titulo": "28 años después: es importante que volvamos a ser lo que siempre debimos ser… Loreto dignidad rebelde de la patria…",
+   "resumen": "Escribe: Erick Bragapucahuayruro@yahoo.es Corrían las 3 de la tarde de aquel histórico 24 de Octubre de 1998, la gente empezaba a aglomerarse en la plaza 28 de Julio; epicentro de fatídicas y grandes batallas de la historia de Loreto ¿cómo no recordarlo? Si mientras reviso rápidamente el buzón de…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/28-anos-despues-es-importante-que-volvamos-a-ser-lo-que-siempre-debimos-ser-loreto-dignidad-rebelde-de-la-patria/",
+   "fecha": "2026-10-24T05:19:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8891be4fe35f",
+   "titulo": "Corte de Loreto capacita a funcionarios de Requena en ética, neutralidad y canales de denuncia",
+   "resumen": "La Corte Superior de Justicia de Loreto dictó con éxito un taller especializado sobre ética, integridad, canales de denuncia y principio de neutralidad en la provincia de Requena. La jornada de capacitación estuvo dirigida exclusivamente a los funcionarios y servidores públicos encargados de tomar…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/corte-de-loreto-capacita-a-funcionarios-de-requena-en-etica-neutralidad-y-canales-de-denuncia/",
+   "fecha": "2026-10-24T05:18:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Requena",
+     "ubigeo": "160500",
+     "precision": "provincia",
+     "provincia": "Requena",
+     "departamento": "Loreto",
+     "lon": -73.85678,
+     "lat": -5.0638,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "06c2885abd2f",
+   "titulo": "Loreto es la tercera región del Perú con mayor incidencia de anemia infantil",
+   "resumen": "La región Loreto ocupa el tercer lugar a nivel nacional con mayor incidencia de anemia infantil, luego de registrar que el 55.6 % de los niños de entre 6 y 35 meses de edad padecieron esta enfermedad durante 2025, según estimaciones de la Encuesta Demográfica y de Salud Familiar (ENDES)…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/loreto-es-la-tercera-region-del-peru-con-mayor-incidencia-de-anemia-infantil/",
+   "fecha": "2026-10-24T05:17:00Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
   },
   {
    "id": "44fa59be9d13",
