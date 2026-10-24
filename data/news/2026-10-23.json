@@ -2997,6 +2997,55 @@
    ]
   },
   {
+   "id": "37c143ac4b73",
+   "titulo": "Royal Raymi: el café y el cacao del VRAEM que buscan conquistar nuevos mercados",
+   "resumen": "La empresa ayacuchana, dirigida por Doris Paucar, lleva ocho años apostando por la transformación del café y el cacao con valor agregado, control de calidad e innovación para ampliar sus oportunidades comerciales. El café y el cacao del Valle de los Ríos Apurímac, Ene y Mantaro (VRAEM) tienen…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/royal-raymi-el-cafe-y-el-cacao-del-vraem-que-buscan-conquistar-nuevos-mercados/",
+   "fecha": "2026-10-23T22:27:50Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Apurimac",
+     "ubigeo": "050615",
+     "ccpp": "0506150005",
+     "precision": "centro_poblado",
+     "provincia": "Lucanas",
+     "departamento": "Ayacucho",
+     "lon": -74.23001,
+     "lat": -14.75554,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Mantaro",
+     "ubigeo": "080910",
+     "ccpp": "0809100017",
+     "precision": "centro_poblado",
+     "provincia": "La Convención",
+     "departamento": "Cusco",
+     "lon": -73.93998,
+     "lat": -12.32403,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "59061a346707",
    "titulo": "Moquegua: electrificación rural beneficiará a 1,540 pobladores",
    "resumen": "El MINEM inauguró las obras de electrificación rural en las Pampas de Clemesí, provincia de Mariscal Nieto, con redes eléctricas de 33 kV y 380/220 V. Un total de 1,540 pobladores de las Pampas de Clemesí, en la provincia de Mariscal Nieto, región Moquegua, accederán al servicio de electricidad…",
