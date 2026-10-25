@@ -2,6 +2,1329 @@
  "fecha": "2026-10-25",
  "noticias": [
   {
+   "id": "a01b91c16079",
+   "titulo": "Ica: conducía camioneta con 2.18 gramos de alcohol por litro de sangre y chocó contra camión",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/ica-conductor-de-camioneta-dio-positivo-con-218-gl-de-alcohol-tras-choque-en-los-aquijes-noticia/",
+   "fecha": "2026-10-25T19:45:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3f1ee031b189",
+   "titulo": "FREDUJ critica falta de obras e inseguridad ciudadana en el centenario de Juliaca",
+   "resumen": "Jesús Abarca Layme, dirigente sindical, cuestiona el retroceso urbano en los últimos cuatro años de gestión municipal. El último 24 de octubre, la provincia de San Román conmemoró el centenario de su creación política, rindiendo homenaje a su historia y al arduo trabajo de su población. En esa…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/freduj-critica-falta-de-obras-e-inseguridad-ciudadana-en-el-centenario-de-juliaca/",
+   "fecha": "2026-10-25T19:37:46Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4bfded84aed1",
+   "titulo": "Juliaca: Siete delincuentes asaltan tienda de abarrotes en Maravillas",
+   "resumen": "Siete delincuentes robaron 800 soles, ahorros familiares y la alcancía de niños en una tienda de Juliaca, tras maniatar a la propietaria por más de 20 minutos",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/juliaca-siete-delincuentes-asaltan-tienda-de-abarrotes-en-maravillas/",
+   "fecha": "2026-10-25T19:32:15Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Maravillas",
+     "ubigeo": "080913",
+     "ccpp": "0809130005",
+     "precision": "centro_poblado",
+     "provincia": "La Convención",
+     "departamento": "Cusco",
+     "lon": -73.55365,
+     "lat": -12.87251,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "51e83182bb4c",
+   "titulo": "Huancavelica: una persona fallecida y cuatro heridas deja accidente de bus en Pacococha",
+   "resumen": "Una docente de educación inicial perdió la vida y otras cuatro personas resultaron heridas, incluido el conductor, en el accidente de un bus de la empresa Unión Andina, que cubría la ruta de Castrovirreyna hacia Huancavelica.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-huancavelica-una-persona-fallecida-y-cuatro-heridas-deja-accidente-bus-pacococha-1097304.aspx",
+   "fecha": "2026-10-25T19:28:44Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pacococha",
+     "ubigeo": "090401",
+     "ccpp": "0904010081",
+     "precision": "centro_poblado",
+     "provincia": "Castrovirreyna",
+     "departamento": "Huancavelica",
+     "lon": -75.26645,
+     "lat": -13.22134,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Huancavelica",
+     "ubigeo": "090000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huancavelica",
+     "lon": -74.97132,
+     "lat": -12.78703,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Union",
+     "ubigeo": "090702",
+     "ccpp": "0907020004",
+     "precision": "centro_poblado",
+     "provincia": "Tayacaja",
+     "departamento": "Huancavelica",
+     "lon": -75.04801,
+     "lat": -12.36543,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Castrovirreyna",
+     "ubigeo": "090400",
+     "precision": "provincia",
+     "provincia": "Castrovirreyna",
+     "departamento": "Huancavelica",
+     "lon": -75.31833,
+     "lat": -13.28332,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0ef50a8689df",
+   "titulo": "Junín: 47.1% de niños de 6 a 35 meses sufrió anemia en 2025, según Endes",
+   "resumen": "En 2025, el 47.1% de los niños de 6 a 35 meses de Junín tuvo anemia, según la Endes consignada por ComexPerú, 3.4 puntos menos que en 2024. La región es la décimo primera con mayor incidencia. Al cierre del año pasado, 65% de los niños asignados a tamizaje de hemoglobina recibió ambas pruebas…",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/sociedad/junin-anemia-infantil-2025-endes-comexperu",
+   "fecha": "2026-10-25T19:20:54Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "75a7a1cfbfb7",
+   "titulo": "Apurímac: reportan otra vez incendio forestal en Larata y Vista Alegre desde hace casi 24 horas [VIDEO]",
+   "resumen": "Rotafono de RPP | Un nuevo incendio forestal se registra otra vez en el distrito de Curahuasi, en Abancay, región Apurímac y los pobladores de estas comunidades piden ayuda al Gobierno Regional y Central.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/rotafono/emergencias/apurimac-reportan-otra-vez-incendio-forestal-en-larata-y-vista-alegre-en-abancay-desde-hace-casi-24-horas-emergencia-bomberos-video-noticia-1714419",
+   "fecha": "2026-10-25T19:13:49Z",
+   "temas": [
+    "medio_ambiente",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Vista Alegre",
+     "ubigeo": "030602",
+     "ccpp": "0306020005",
+     "precision": "centro_poblado",
+     "provincia": "Chincheros",
+     "departamento": "Apurímac",
+     "lon": -73.65874,
+     "lat": -13.52466,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Curahuasi",
+     "ubigeo": "030104",
+     "precision": "distrito",
+     "provincia": "Abancay",
+     "departamento": "Apurímac",
+     "lon": -72.69601,
+     "lat": -13.5413,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Abancay",
+     "ubigeo": "030100",
+     "precision": "provincia",
+     "provincia": "Abancay",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b69d9f8f8625",
+   "titulo": "Juliaca: Exceso de alcohol deja jóvenes inconscientes en serenata",
+   "resumen": "Jóvenes quedaron inconscientes en la plaza Zarumilla de Juliaca tras la serenata por los 100 años de San Román; Serenazgo auxilió a afectados por hipotermia e intoxicación",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/juliaca-exceso-de-alcohol-deja-jovenes-inconscientes-en-serenata/",
+   "fecha": "2026-10-25T19:07:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "76b5a583151b"
+  },
+  {
+   "id": "122fd53d5e18",
+   "titulo": "Pisco: hoy saldrá en procesión por más de 17 horas el Señor de La Agonía",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/pisco-hoy-saldra-en-procesion-por-mas-de-17-horas-el-senor-de-la-agonia-noticia/",
+   "fecha": "2026-10-25T19:06:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pisco",
+     "ubigeo": "110501",
+     "precision": "distrito",
+     "provincia": "Pisco",
+     "departamento": "Ica",
+     "lon": -76.20156,
+     "lat": -13.70987,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f28bd34a3b86",
+   "titulo": "Keiko Fujimori rezó por la salud del papa León XIV en una misa en Las Nazarenas",
+   "resumen": "El cardenal Carlos Castillo también resaltó la rápida recuperación del sumo pontífice previo a su visita apostólica al Perú.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/keiko-fujimori-pide-por-salud-de-papa-leon-xiv-en-las-nazarenas-noticia-1714415",
+   "fecha": "2026-10-25T19:00:42Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Nazarenas",
+     "ubigeo": "050115",
+     "ccpp": "0501150001",
+     "precision": "centro_poblado",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.21255,
+     "lat": -13.15409,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c6c24fc9c9dc",
+   "titulo": "Ica: nuevo huaico podría repetir el bloqueo de la Panamericana Sur por falta de puente en Ocucaje",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/ica-nuevo-huaico-podria-repetir-el-bloqueo-de-la-panamericana-sur-si-no-se-construye-un-puente-en-ocucaje-noticia/",
+   "fecha": "2026-10-25T19:00:00Z",
+   "temas": [
+    "conflicto_social",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ocucaje",
+     "ubigeo": "110104",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.67212,
+     "lat": -14.34657,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6e6861f798fa",
+   "titulo": "Gobierno autoriza ingreso de Petroloreto al Lote 192 para impulsar reactivación operativa",
+   "resumen": "El Poder Ejecutivo aprobó la modificación del Contrato de Licencia para la Explotación de Hidrocarburos en el Lote 192, ubicado en la región Loreto, mediante el Decreto Supremo 023-2026-EM, publicado en el Diario Oficial El Peruano y refrendado por los ministros de Economía y Finanzas, y de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-gobierno-autoriza-ingreso-petroloreto-al-lote-192-para-impulsar-reactivacion-operativa-1097297.aspx",
+   "fecha": "2026-10-25T19:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a36d881cd9a5",
+   "titulo": "Misa del papa León XIV en Las Palmas: ¿qué deben evaluar las familias antes de asistir?",
+   "resumen": "El ingreso a la Base Aérea Las Palmas podría comenzar desde las primeras horas de la mañana, por lo que la organización brindó algunas recomendaciones antes de asistir",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/misa-del-papa-leon-xiv-en-las-palmas-que-deben-evaluar-las-familias-antes-de-asistir/",
+   "fecha": "2026-10-25T18:58:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "d95a47b0c381",
+   "titulo": "Presidenta Keiko Fujimori elevó plegarias por la salud del papa León XIV",
+   "resumen": "La presidenta de la república, Keiko Fujimori Higuchi, asistió hoy a la misa del XXX Domingo del Tiempo Ordinario, celebrada en el Santuario de Las Nazarenas, donde elevó plegarias por la salud del papa León XIV y para que continúe guiando a la Iglesia católica.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-presidenta-keiko-fujimori-elevo-plegarias-por-salud-del-papa-leon-xiv-1097298.aspx",
+   "fecha": "2026-10-25T18:56:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Nazarenas",
+     "ubigeo": "050115",
+     "ccpp": "0501150001",
+     "precision": "centro_poblado",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.21255,
+     "lat": -13.15409,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0f7434d64a59",
+   "titulo": "Casa de solo 63 centímetros de ancho en Aucallama busca ser la más estrecha del mundo",
+   "resumen": "La vivienda tiene dos niveles, mide 11,8 metros de largo y fue construida en apenas seis meses. Cuenta con baño, cocina, sala, dormitorio y hasta lavandería.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/25/casa-de-solo-63-centimetros-de-ancho-en-aucallama-busca-ser-la-mas-estrecha-del-mundo-883575",
+   "fecha": "2026-10-25T18:56:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Aucallama",
+     "ubigeo": "150604",
+     "precision": "distrito",
+     "provincia": "Huaral",
+     "departamento": "Lima",
+     "lon": -77.17995,
+     "lat": -11.55956,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5e7b08f780c5",
+   "titulo": "Cusco: entregan 1127 títulos de propiedad para familias e instituciones públicas",
+   "resumen": "El Organismo de Formalización de la Propiedad Informal (Cofopri) inició la entrega de 1127 títulos de propiedad para 4500 pobladores, familias e instituciones públicas de las 13 provincias de Cusco.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cusco-entregan-1127-titulos-propiedad-para-familias-e-instituciones-publicas-1097302.aspx",
+   "fecha": "2026-10-25T18:54:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080100",
+     "precision": "provincia",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b7d2faab8027",
+   "titulo": "Gobierno prorroga por 60 días el estado de emergencia en Lima y Callao, ¿qué se mantiene?",
+   "resumen": "Gobierno oficializa la prórroga del estado de emergencia en Lima y Callao por 60 días desde el 28 de octubre. Conoce las restricciones vigentes.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/gobierno-de-peru-prorroga-por-60-dias-el-estado-de-emergencia-en-lima-y-callao-que-se-mantiene-noticia/",
+   "fecha": "2026-10-25T18:44:23Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "grupo": "496ce3eb7a00"
+  },
+  {
+   "id": "9088cabaf05f",
+   "titulo": "Piden actualizar mapa de puntos críticos de Ica ante el riesgo de nuevas emergencias por lluvias",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/ica-piden-actualizar-mapa-de-puntos-criticos-de-ica-ante-el-riesgo-de-nuevas-emergencias-por-lluvias-noticia/",
+   "fecha": "2026-10-25T18:38:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2a1b5aeb4fc6",
+   "titulo": "Luna del Cazador de octubre 2026: fecha, hora y cómo ver este singular fenómeno astronómico en Perú",
+   "resumen": "El evento coincidirá con la plenitud de octubre y se producirá cuando el satélite se sitúe frente al Sol desde la Tierra, según la referencia horaria establecida para Lima",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/luna-del-cazador-de-octubre-2026-fecha-hora-y-como-ver-este-singular-fenomeno-astronomico-en-peru/",
+   "fecha": "2026-10-25T18:32:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fc06d283d39b",
+   "titulo": "Papa León XIV: entradas para misa en Las Palmas y encuentro con jóvenes se obtendrán gratis de forma digital y sin reservas",
+   "resumen": "La vigilia con jóvenes será el 12 de noviembre en el Estadio Nacional y la misa está programada para el lunes 16 en la Base Aérea Las Palmas. Por la visita del sumo pontífice, el Gobierno decretó días no laborables el 11, 12 y 16 en Lima.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/25/papa-leon-xiv-entradas-para-misa-en-las-palmas-y-encuentro-con-jovenes-se-obtendran-gratis-de-forma-digital-y-sin-reservas-1536725",
+   "fecha": "2026-10-25T18:32:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "150502",
+     "ccpp": "1505020016",
+     "precision": "centro_poblado",
+     "provincia": "Cañete",
+     "departamento": "Lima",
+     "lon": -76.58043,
+     "lat": -12.77613,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "6f05f7a77b3e",
+   "titulo": "Temblor en Arequipa hoy: sismo de 4.5 en Caravelí",
+   "resumen": "Un sismo de magnitud 4.5 se registró este domingo 25 de octubre en Caravelí, Arequipa, a las 12:11 p. m. El IGP reportó una profundidad de 78 kilómetros.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/temblor-en-arequipa-hoy-sismo-de-45-en-caraveli-noticia/",
+   "fecha": "2026-10-25T18:25:08Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Caravelí",
+     "ubigeo": "040300",
+     "precision": "provincia",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -73.36575,
+     "lat": -15.77255,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "bcaf9c144558",
+   "titulo": "Bombero ecuatoriano viajó 28 horas en bus para llegar al casting de ‘Yo Soy’ y sorprende al jurado con imitación de Victor Manuelle",
+   "resumen": "Steven de la Torre recorrió por tierra el trayecto entre Guayaquil, Piura y Lima. El concursante de 36 años relató que combina su carrera musical con su labor como bombero voluntario.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/bombero-ecuatoriano-viajo-28-horas-en-bus-para-llegar-al-casting-de-yo-soy-y-sorprende-al-jurado-con-imitacion-de-victor-manuelle/",
+   "fecha": "2026-10-25T18:24:48Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "33cda8a74acb",
+   "titulo": "Familia lo pierde todo en incendio de grandes proporciones en Ventanilla: “Gracias a Dios mis hijos están bien”, señala madre",
+   "resumen": "Una familia de Ventanilla perdió su vivienda y todas sus pertenencias tras un incendio de grandes proporciones registrado la noche del sábado en Pachacútec. La madre de familia contó que sus tres hijos lograron ponerse a salvo y pidió apoyo a las autoridades para reconstruir su hogar.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/callao/ventanilla-familia-pierde-su-vivienda-en-incendio-de-grandes-proporciones-y-pide-ayuda-para-reconstruirla-noticia-1714414",
+   "fecha": "2026-10-25T18:23:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ventanilla",
+     "ubigeo": "070106",
+     "precision": "distrito",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.12782,
+     "lat": -11.87721,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Pachacútec",
+     "ubigeo": "110105",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.69194,
+     "lat": -14.1519,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "917607084ad6",
+   "titulo": "FISCALÍA DETECTA SEIS COMITÉS DEL VASO DE LECHE QUE NO ENTREGABAN DESAYUNOS A NIÑOS EN CHIMBOTE",
+   "resumen": "Seis comités del Programa del Vaso de Leche en Chimbote fueron observados por presuntas irregularidades en la atención alimentaria de niños, niñas y adolescentes, luego de que la Fiscalía constatara que no brindaban el desayuno...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/25/fiscalia-detecta-seis-comites-del-vaso-de-leche-que-no-entregaban-desayunos-a-ninos-en-chimbote/",
+   "fecha": "2026-10-25T18:20:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chimbote",
+     "ubigeo": "021801",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.60768,
+     "lat": -9.04169,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "cc5ef92d4cb0",
+   "titulo": "VIGILAN CON DRONES PARA PREVENIR EL DENGUE Y LA LEPTOSPIROSIS",
+   "resumen": "La Municipalidad de Nuevo Chimbote informó que está realizando labores de vigilancia preventiva con drones para identificar posibles criaderos de zancudos y focos de proliferación de roedores en techos, patios y otros espacios de difícil...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/25/vigilan-con-drones-para-prevenir-el-dengue-y-la-leptospirosis/",
+   "fecha": "2026-10-25T18:12:36Z",
+   "temas": [
+    "salud",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Nuevo Chimbote",
+     "ubigeo": "021809",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.53072,
+     "lat": -9.12851,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "72ef3c0cf446",
+   "titulo": "DESIGNAN A CINCO FISCALES TITULARES EN FISCALÍAS PROVINCIALES DE FAMILIA DE ÁNCASH",
+   "resumen": "La Fiscalía de la Nación dispuso la adecuación de las designaciones de cinco fiscales titulares en diversas fiscalías provinciales de familia del Distrito Fiscal de Áncash, en cumplimiento de los nuevos títulos de nombramiento expedidos...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/25/designan-a-cinco-fiscales-titulares-en-fiscalias-provinciales-de-familia-de-ancash/",
+   "fecha": "2026-10-25T18:11:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5a77727617eb",
+   "titulo": "INCENDIO URBANO EN CASMA DEJÓ DOS PERSONAS DAMNIFICADAS Y UNA VIVIENDA INHABITABLE",
+   "resumen": "Un incendio urbano registrado a las 3:00 p. m. del viernes 23 de octubre afectó una vivienda de material rústico en el asentamiento humano Santa Rosa, distrito y provincia de Casma, informó el COER Ancash....",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/25/incendio-urbano-en-casma-dejo-dos-personas-damnificadas-y-una-vivienda-inhabitable/",
+   "fecha": "2026-10-25T18:10:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Casma",
+     "ubigeo": "020800",
+     "precision": "provincia",
+     "provincia": "Casma",
+     "departamento": "Áncash",
+     "lon": -78.30639,
+     "lat": -9.47584,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Santa Rosa",
+     "ubigeo": "021510",
+     "precision": "distrito",
+     "provincia": "Pallasca",
+     "departamento": "Áncash",
+     "lon": -78.06749,
+     "lat": -8.52778,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a8fa0a93afd4",
+   "titulo": "Clases en la UANCV continuarán solo hasta 31 de diciembre 2026 en marco del cierre de esta casa superior de estudios",
+   "resumen": "UANCV atenderá a egresados en Juliaca durante 2027 y 2028 para tramitar grados y títulos, tras respuesta de SUNEDU que descarta ampliar el cese académico",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/clases-en-la-uancv-continuaran-solo-hasta-31-de-diciembre-2026-en-marco-del-cierre-de-esta-casa-superior-de-estudios/",
+   "fecha": "2026-10-25T18:08:41Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "43ea4fe91ca8",
+   "titulo": "Ejecutivo prorroga estado de emergencia en Lima y Callao por 60 días",
+   "resumen": "El Ejecutivo prorrogó por 60 días calendario el estado de emergencia en Lima Metropolitana y la provincia constitucional del Callao, mediante el Decreto Supremo N.º 142-2026-PCM. La medida regirá desde el 28 de octubre de 2026 y busca combatir la delincuencia y la criminalidad. Durante este…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/25/ejecutivo-prorroga-estado-de-emergencia-en-lima-y-callao-por-60-dias/",
+   "fecha": "2026-10-25T18:05:43Z",
+   "temas": [
+    "desastres",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "0494eb6bb972"
+  },
+  {
+   "id": "4a5ffda1c4ea",
+   "titulo": "Cajamarca: culmina segundo recorrido de procesión del Señor de los Milagros",
+   "resumen": "La imagen del Señor de los Milagros ingresó esta madrugada al convento San Antonio de Padua, ubicado en la plaza de Armas de Cajamarca, acompañada por una multitud de fieles que participó en su segundo recorrido procesional por las calles de esta ciudad.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cajamarca-culmina-segundo-recorrido-procesion-del-senor-los-milagros-1097295.aspx",
+   "fecha": "2026-10-25T18:01:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "284bb99b0a58",
+   "titulo": "Lluvias en Lima Este: inundaciones afectan avenidas de Villa María del Triunfo y Villa El Salvador",
+   "resumen": "La llovizna registrada en Lima Este inundó vías de Villa María del Triunfo y Villa El Salvador, incluida la avenida Pachacútec, y afectó el tránsito vehicular.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/lluvias-en-lima-este-inundaciones-afectan-avenidas-de-villa-maria-del-triunfo-y-villa-el-salvador-ultimas-noticia/",
+   "fecha": "2026-10-25T17:53:38Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa María del Triunfo",
+     "ubigeo": "150143",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.94361,
+     "lat": -12.16248,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "cec420e5ab98",
+   "titulo": "Chincha: obra de Plaza de Armas de Sunampe, un año y todavía no se entrega",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/chincha-obra-de-plaza-de-armas-de-sunampe-un-ano-y-todavia-no-se-entrega-noticia/",
+   "fecha": "2026-10-25T17:52:00Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Sunampe",
+     "ubigeo": "110210",
+     "precision": "distrito",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.16367,
+     "lat": -13.4275,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Chincha",
+     "ubigeo": "110200",
+     "precision": "provincia",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.13251,
+     "lat": -13.4182,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c3af481cc398",
+   "titulo": "DNI, código QR y llegada desde temprano: así será el ingreso a la misa del papa León XIV en la Base Aérea de Las Palmas",
+   "resumen": "Juan Bytton, secretario general de la visita papal, adelantó cómo será el registro digital, qué requisitos deberán cumplir los asistentes y qué medidas se aplicarán para acceder a los tickets gratuitos de ingreso",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/dni-codigo-qr-y-llegada-desde-temprano-asi-sera-el-ingreso-a-la-misa-del-papa-leon-xiv-en-la-base-aerea-de-las-palmas/",
+   "fecha": "2026-10-25T17:50:24Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "423b69d64686",
+   "titulo": "Ica reduce la informalidad laboral, pero todavía afecta a más de la mitad de trabajadores",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/ica-reduce-la-informalidad-laboral-pero-todavia-afecta-a-mas-de-la-mitad-de-trabajadores-noticia/",
+   "fecha": "2026-10-25T17:29:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8834379cfedc",
+   "titulo": "Yunguyo lideró concurso regional Sikuris Zampoña de Oro 2026 con dos agrupaciones ganadoras",
+   "resumen": "Dos agrupaciones de Yunguyo ganaron primaria y secundaria en el V Concurso Regional Zampoña de Oro 2026, con 86.34 y 86.15 puntos, destacando el talento escolar",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/yunguyo-lidero-concurso-regional-sikuris-zampona-de-oro-2026-con-dos-agrupaciones-ganadoras/",
+   "fecha": "2026-10-25T17:23:31Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yunguyo",
+     "ubigeo": "211300",
+     "precision": "provincia",
+     "provincia": "Yunguyo",
+     "departamento": "Puno",
+     "lon": -69.09551,
+     "lat": -16.2267,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "592f616b1b47",
+   "titulo": "Ucayali: Presentan plan para recuperar laguna Yarinacocha y mejorar vigilancia forestal",
+   "resumen": "A fin de reducir la contaminación de las aguas de la laguna Yarinacocha, en Ucayali. y recuperar este ecosistema natural, turístico y cultural, el Ministerio del Ambiente presentó una propuesta de acción y recuperación.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-ucayali-presentan-plan-para-recuperar-laguna-yarinacocha-y-mejorar-vigilancia-forestal-1097293.aspx",
+   "fecha": "2026-10-25T17:21:15Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yarinacocha",
+     "ubigeo": "250105",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.57573,
+     "lat": -8.35549,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "fe0c1800b957",
+   "titulo": "Alcalde de Curahuasi pide apoyo aéreo urgente ante reactivación de incendio forestal en Apurímac",
+   "resumen": "El fuego volvió a reavivarse en la comunidad de Vista Alegre y amenaza con extenderse hacia zonas pobladas. En Matibamba, Larata y Vista Alegre, los incendios habrían arrasado más de 12.000 hectáreas, según estimaciones de los pobladores.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/25/alcalde-de-curahuasi-pide-apoyo-aereo-urgente-ante-reactivacion-de-incendio-forestal-en-apurimac-281750",
+   "fecha": "2026-10-25T17:12:29Z",
+   "temas": [
+    "medio_ambiente",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Curahuasi",
+     "ubigeo": "030104",
+     "precision": "distrito",
+     "provincia": "Abancay",
+     "departamento": "Apurímac",
+     "lon": -72.69601,
+     "lat": -13.5413,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Vista Alegre",
+     "ubigeo": "030602",
+     "ccpp": "0306020005",
+     "precision": "centro_poblado",
+     "provincia": "Chincheros",
+     "departamento": "Apurímac",
+     "lon": -73.65874,
+     "lat": -13.52466,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0f9d1a92acac",
+   "titulo": "Canto en shipibo será parte de la misa que ofrecerá el papa León XIV en Pucallpa",
+   "resumen": "Un coro de 168 integrantes se prepara para acompañar la celebración eucarística que el sumo pontífice presidirá en la explanada de La Videnita, durante su visita a la Amazonía peruana.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/25/canto-en-shipibo-sera-parte-de-la-misa-que-ofrecera-el-papa-leon-xiv-en-pucallpa-1979550",
+   "fecha": "2026-10-25T17:11:14Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "11e3d56b5050"
+  },
+  {
+   "id": "3f10610bf56d",
+   "titulo": "Friedrich Kaiser Depel, el obispo que escuchó “el clamor de los Andes” en Perú, fue declarado venerable por el papa León XIV",
+   "resumen": "El papa León XIV reconoció las virtudes heroicas del primer prelado de Caravelí, un religioso alemán que llegó a Perú en 1939 y fundó una congregación para atender a comunidades andinas sin presencia sacerdotal permanente",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/friedrich-kaiser-depel-el-obispo-que-escucho-el-clamor-de-los-andes-en-peru-fue-declarado-venerable-por-el-papa-leon-xiv/",
+   "fecha": "2026-10-25T17:11:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Caravelí",
+     "ubigeo": "040301",
+     "precision": "distrito",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -73.36575,
+     "lat": -15.77255,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ecaef12edbb4",
+   "titulo": "MTC destraba carretera Checca–Mazocruz y abogado anticorrupción propone reactivar contrato para evitar otro concurso",
+   "resumen": "El MTC dejó sin efecto las restricciones que impedían convocar y adjudicar el saldo de obra de la carretera Checca–Mazocruz, vía clave para El Collao, en Puno",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/mtc-destraba-carretera-checca-mazocruz-y-abogado-anticorrupcion-propone-reactivar-contrato-para-evitar-otro-concurso/",
+   "fecha": "2026-10-25T17:08:46Z",
+   "temas": [
+    "infraestructura",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Checca",
+     "ubigeo": "210501",
+     "ccpp": "2105010107",
+     "precision": "centro_poblado",
+     "provincia": "El Collao",
+     "departamento": "Puno",
+     "lon": -69.65366,
+     "lat": -16.17185,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "El Collao",
+     "ubigeo": "210500",
+     "precision": "provincia",
+     "provincia": "El Collao",
+     "departamento": "Puno",
+     "lon": -69.63819,
+     "lat": -16.08704,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1d6a71787340",
+   "titulo": "Choque múltiple deja un fallecido y varios heridos en la vía Interoceánica, en Puno",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/puno/choque-multiple-deja-un-fallecido-y-varios-heridos-en-la-via-interoceanica-en-puno-noticia/",
+   "fecha": "2026-10-25T17:07:36Z",
+   "temas": [
+    "infraestructura",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Choque",
+     "ubigeo": "210407",
+     "ccpp": "2104070071",
+     "precision": "centro_poblado",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.19401,
+     "lat": -16.57774,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "c559a2bb5162",
    "titulo": "Incendios en los Uros evidencian falta de prevención y ponen en riesgo el turismo en el Titicaca",
    "resumen": "Un experto alertó que la quema de totorales por dos noches seguidas en los Uros, lago Titicaca, revela prevención insuficiente y amenaza el turismo de la zona",
