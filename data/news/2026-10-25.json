@@ -1,0 +1,67 @@
+{
+ "fecha": "2026-10-25",
+ "noticias": [
+  {
+   "id": "50a995f48aed",
+   "titulo": "Magaly Medina relata episodio con el padre de su hijo en su podcast",
+   "resumen": "Magaly Medina reveló en su podcast un episodio económico con el padre de su hijo al mudarse a Lima. El testimonio surgió durante una entrevista a Pamela López sobre su separación de Christian Cueva.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/entretenimiento/magaly-medina-episodio-padre-hijo-pamela-lopez",
+   "fecha": "2026-10-25T05:10:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5b389c5592e9",
+   "titulo": "Comando Unificado destruye bienes de minería ilegal valorizados en S/ 9.573.200 en Madre de Dios",
+   "resumen": "El Comando Unificado, con Policía Nacional y Fuerzas Armadas, ejecutó dos operativos contra la minería ilegal en Inambari, Madre de Dios, y destruyó maquinaria y bienes valorizados en S/ 9 millones 573.200. El Mininter anunció que las interdicciones continuarán en la región.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/comando-unificado-mineria-ilegal-madre-de-dios-9-millones",
+   "fecha": "2026-10-25T05:10:52Z",
+   "temas": [
+    "mineria",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Inambari",
+     "ubigeo": "170102",
+     "precision": "distrito",
+     "provincia": "Tambopata",
+     "departamento": "Madre de Dios",
+     "lon": -70.37175,
+     "lat": -13.10129,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Madre de Dios",
+     "lon": -69.1768,
+     "lat": -12.59367,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  }
+ ]
+}

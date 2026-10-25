@@ -2,6 +2,628 @@
  "fecha": "2026-10-24",
  "noticias": [
   {
+   "id": "453f18019154",
+   "titulo": "Generación Z y colectivos sociales se movilizan en Lima contra la inseguridad y los incedios forestales",
+   "resumen": "La protesta tuvo como punto de concentración la Plaza San Martín, donde agrupaciones juveniles y colectivos marcharon frente a la delincuencia, las extorsiones y la crisis ambiental.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/24/generacion-z-y-colectivos-sociales-se-movilizan-en-lima-contra-la-inseguridad-y-los-incedios-forestales-hnews-1996512",
+   "fecha": "2026-10-25T04:58:27Z",
+   "temas": [
+    "conflicto_social",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "99bc597a6cfc",
+   "titulo": "Chiclayo: protesta de jóvenes y colectivos sociales contra la inseguridad ciudadana deja un detenido",
+   "resumen": "El joven fue trasladado hasta la Comisaría César Llatas Castro por hacer arengas contra la Policía Nacional. Horas después fue dejado en libertad.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/lambayeque/chiclayo-protesta-de-jovenes-y-colectivos-sociales-contra-la-inseguridad-ciudadana-deja-un-detenido-noticia-1714371",
+   "fecha": "2026-10-25T04:30:32Z",
+   "temas": [
+    "seguridad",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b2f76635f73d",
+   "titulo": "“Generación Z” marchó en Lima contra las extorsiones, incendios forestales y alza del costo de vida",
+   "resumen": "Los manifestantes recorrieron varias vías del Centro Histórico y cuestionaron la respuesta del Ejecutivo frente a la inseguridad ciudadana y las emergencias ambientales",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/generacion-z-marcho-en-lima-contra-las-extorsiones-incendios-forestales-y-alza-del-costo-de-vida-noticia/",
+   "fecha": "2026-10-25T04:23:57Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "932acee035f2",
+   "titulo": "Dataciones de radiocarbono revelan que el imperio inca surgió décadas antes de 1438",
+   "resumen": "Investigadores andinos acordaron descartar la cronología tradicional y datan con radiocarbono sitios incas de Cusco, Ecuador, Argentina y Chile",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/dataciones-de-radiocarbono-revelan-que-el-imperio-inca-surgio-decadas-antes-de-1438/",
+   "fecha": "2026-10-25T04:11:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c4c3f43c76b1",
+   "titulo": "ANA avanza 12 barreras contra huaicos en Lima y Huarochirí: dos ya están listas",
+   "resumen": "La ANA informó que continúa la instalación de 12 barreras dinámicas de acero flexible en zonas vulnerables de Lima Metropolitana y Huarochirí. Dos ya culminaron y cinco están en ejecución, como medida preventiva ante la próxima temporada de lluvias.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/nacional/ana-barreras-dinamicas-huaicos-lima-huarochiri",
+   "fecha": "2026-10-25T03:50:53Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Huarochirí",
+     "ubigeo": "150700",
+     "precision": "provincia",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.38615,
+     "lat": -11.84493,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0215dc204a90",
+   "titulo": "Indecopi multa con S/2,4 millones al Colegio de Ingenieros de San Martín tras detectar fallas de seguridad en piscina donde murió menor de 10 años",
+   "resumen": "Indecopi ordena la implementación de salvavidas y equipos de rescate en la piscina del centro recreacional, además de corregir deficiencias en la atención de emergencias.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/24/indecopi-multa-con-s24-millones-al-colegio-de-ingenieros-de-san-martin-tras-detectar-fallas-de-seguridad-en-piscina-donde-murio-menor-de-10-anos-1586568",
+   "fecha": "2026-10-25T03:48:44Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín",
+     "ubigeo": "220303",
+     "precision": "distrito",
+     "provincia": "El Dorado",
+     "departamento": "San Martín",
+     "lon": -76.7405,
+     "lat": -6.51441,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a667e67bd147",
+   "titulo": "Municipio de Lima desplegará drones y cámaras para proteger fieles en penúltima procesión",
+   "resumen": "La Municipalidad de Lima, bajo el liderazgo del alcalde Renzo Reggiardo, desplegará drones, cámaras corporales (bodycams) y cámaras de videovigilancia como parte del plan de seguridad \"Mes Morado en Lima\", que contará con más de 1 000 trabajadores municipales para resguardar a los miles de fieles…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-municipio-lima-desplegara-drones-y-camaras-para-proteger-fieles-penultima-procesion-1097276.aspx",
+   "fecha": "2026-10-25T03:38:42Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7b48bbd70687",
+   "titulo": "Huarochirí: estudiante de San Marcos sufre accidente durante salida de campo al Bosque de Zárate",
+   "resumen": "Una estudiante de la UNMSM sufrió un accidente durante una salida de campo al Bosque de Zárate, en Huarochirí, y quedó a la espera de ser rescatada. La universidad informó que la joven se encontraba consciente y coordinaba con las autoridades su evacuación y traslado a un centro de salud.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/accidentes/huarochiri-estudiante-de-san-marcos-sufre-accidente-durante-salida-de-campo-al-bosque-de-zarate-ultimas-noticia/",
+   "fecha": "2026-10-25T03:26:03Z",
+   "temas": [
+    "salud",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huarochirí",
+     "ubigeo": "150700",
+     "precision": "provincia",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.38615,
+     "lat": -11.84493,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9bba03f22532",
+   "titulo": "León XIV en Pucallpa: Fuerzas Armadas preparan ruta para visita papal",
+   "resumen": "Ministro Rafael Belaunde señala que las Fuerzas Armadas están listas para llegada del papa León XIV a Pucallpa",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/papa-leon-xiv-en-pucallpa-marina-y-fuerza-aerea-preparan-ruta-para-visita-papal-noticia/",
+   "fecha": "2026-10-25T03:21:16Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ac8e4cb0f53c",
+   "titulo": "ANA avanza instalación de barreras para proteger a 120 mil habitantes frente a huaicos",
+   "resumen": "La Autoridad Nacional del Agua (ANA) informó que continúa con la instalación de 12 barreras dinámicas de acero flexible en zonas vulnerables de Lima Metropolitana y Huarochirí, como parte de las acciones preventivas ante la próxima temporada de lluvias.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-ana-avanza-instalacion-barreras-para-proteger-a-120-mil-habitantes-frente-a-huaicos-1097273.aspx",
+   "fecha": "2026-10-25T03:10:15Z",
+   "temas": [
+    "desastres",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Huarochirí",
+     "ubigeo": "150700",
+     "precision": "provincia",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.38615,
+     "lat": -11.84493,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a6e9057d78f2",
+   "titulo": "Marina de Guerra, Ejército y Fuerza Aérea listos para la llegada del papa León XIV a Pucallpa",
+   "resumen": "El Ministerio de Defensa revisó el despliegue militar en Ucayali para la visita prevista el 15 de noviembre. El pontífice tendrá actividades con pueblos amazónicos y una misa en la Villa Deportiva Regional",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/marina-de-guerra-ejercito-y-fuerza-aerea-listos-para-la-llegada-del-papa-leon-xiv-a-pucallpa/",
+   "fecha": "2026-10-25T02:59:50Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b46e7949cc6f",
+   "titulo": "Cae en la frontera con Chile buscado por la justicia de Puno",
+   "resumen": "Tacna.- Un hombre de 60 años, identificado como Agustín Vargas Chambi, fue detenido por agentes de la PNP en el Complejo Fronterizo de Santa Rosa, luego de comprobarse que registraba una requisitoria vigente emitida por un juzgado de Puno. La intervención estuvo a cargo de efectivos de la…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286671/cae-en-la-frontera-con-chile-buscado-por-la-justicia-de-puno/",
+   "fecha": "2026-10-25T02:57:53Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Rosa",
+     "ubigeo": "210103",
+     "ccpp": "2101030005",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.71393,
+     "lat": -15.65951,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e09109e081ea",
+   "titulo": "Línea 2 del Metro de Lima: Ositrán reporta un avance de obras del 81,27%",
+   "resumen": "La Línea 2 y el Ramal de la Línea 4 del Metro de Lima y Callao registran un avance físico acumulado de 81,27%, según Ositrán. Aunque la excavación del túnel está culminada, continúan los trabajos de instalación de los sistemas ferroviarios y electromecánicos.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/linea-2-del-metro-de-lima-ositran-reporta-un-avance-de-obras-del-8127-ultimas-noticia/",
+   "fecha": "2026-10-25T02:36:38Z",
+   "temas": [
+    "transporte",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d1df9c8cde8c",
+   "titulo": "Incendio forestal se reactiva en Apurímac: pobladores de Curahuasi piden ayuda urgente para frenar el avance de las llamas",
+   "resumen": "Los pobladores locales observan con angustia cómo el nuevo foco forestal consume los pastizales andinos sin caminos para combatirlo a pie, mientras las fuertes ráfagas de viento aceleran la emergencia en el departamento de Apurímac",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/incendio-forestal-se-reactiva-en-apurimac-pobladores-de-curahuasi-piden-ayuda-urgente-para-frenar-el-avance-de-las-llamas/",
+   "fecha": "2026-10-25T02:03:08Z",
+   "temas": [
+    "medio_ambiente",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Curahuasi",
+     "ubigeo": "030104",
+     "precision": "distrito",
+     "provincia": "Abancay",
+     "departamento": "Apurímac",
+     "lon": -72.69601,
+     "lat": -13.5413,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3579dd30b4da",
+   "titulo": "Jóvenes y colectivos sociales marcharon en el centro de Lima contra la extorsión y la crisis ambiental",
+   "resumen": "Los manifestantes comenzaron a congregarse desde las 4:00 p. m. en la histórica plaza San Martín. Hasta el lugar llegaron estudiantes de diversas universidades de la capital, organizaciones de derechos humanos y sindicatos.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/jovenes-y-colectivos-sociales-marchan-en-el-centro-de-lima-contra-la-extorsion-y-la-crisis-ambiental-noticia-1714362",
+   "fecha": "2026-10-25T01:47:12Z",
+   "temas": [
+    "medio_ambiente",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "52754836a90e",
+   "titulo": "Doble emergencia climática en Huánuco: Sequía en la sierra y lluvias intensas en la selva",
+   "resumen": "Las incoherencias del clima",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-doble-emergencia-climatica-sequia-en-la-sierra-y-lluvias-intensas-en-la-selva-noticia/",
+   "fecha": "2026-10-25T01:33:31Z",
+   "temas": [
+    "desastres",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "34e0395c21e9",
+   "titulo": "Consejera regional por Huancané afirma que no halló pruebas de corrupción en fiscalizaciones al GORE Puno",
+   "resumen": "Consejera regional de Huancané afirma que no encontró pruebas concretas de corrupción durante sus labores de fiscalización y señala que persisten problemas en el sector Salud de Puno La consejera regional por la provincia de Huancané, Leyder Carina Puma Ojeda, sostuvo que, durante sus labores de…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/consejera-regional-por-huancane-afirma-que-no-hallo-pruebas-de-corrupcion-en-fiscalizaciones-al-gore-puno/",
+   "fecha": "2026-10-25T01:24:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huancané",
+     "ubigeo": "210600",
+     "precision": "provincia",
+     "provincia": "Huancané",
+     "departamento": "Puno",
+     "lon": -69.76777,
+     "lat": -15.20082,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "45afef669400",
+   "titulo": "Ministro de Vivienda expresa disposición a dialogar con familiares de las víctimas del 9 de enero en Juliaca",
+   "resumen": "Ministro de Vivienda ofrece diálogo directo con los familiares de las víctimas del 9 de enero durante las actividades por el centenario de la provincia de San Román y destaca avances en el proyecto de saneamiento de Juliaca El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/ministro-de-vivienda-expresa-disposicion-a-dialogar-con-familiares-de-las-victimas-del-9-de-enero-en-juliaca/",
+   "fecha": "2026-10-25T01:23:48Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4e0246321b79",
+   "titulo": "Sociedad Nacional de Industrias “Las ventas en el sector textil caerían un 50% en Navidad, estaremos ad portas o ya con un diluvio en el país”",
+   "resumen": "Raúl Saba, presidente del Comité Textil y Confecciones de la Sociedad Nacional de Industrias (SNI), considera positiva la declaratoria de emergencia, espera que se flexibilicen las medidas para que más mypes accedan a los créditos y pide que se tomen medidas contra el dumping. Estima que en…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/sociedad-nacional-de-industrias-las-ventas-en-el-sector-textil-caerian-un-50-en-navidad-estaremos-ad-portas-o-ya-con-un-diluvio-en-el-pais-apuesplan-noticia/",
+   "fecha": "2026-10-25T01:20:16Z",
+   "temas": [
+    "desastres",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Navidad",
+     "ubigeo": "100901",
+     "ccpp": "1009010041",
+     "precision": "centro_poblado",
+     "provincia": "Puerto Inca",
+     "departamento": "Huánuco",
+     "lon": -75.02941,
+     "lat": -9.38768,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ba1d241f31a7",
+   "titulo": "Huánuco: prisión preventiva para presunto autor de robo agravado",
+   "resumen": "Sindicado como autor de robo irá a prisión",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-prision-preventiva-para-presunto-autor-de-robo-agravado-noticia/",
+   "fecha": "2026-10-25T01:19:47Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "c388992d35c5",
    "titulo": "Puno: conjuntos yunguyeños lideran concurso regional de sikuris",
    "resumen": "Dos agrupaciones de Yunguyo destacaron en el V Concurso Regional de Sikuris Zampoña de Oro 2026. La Zampoñada Querubines, de la IEP 71006 Centro Base, obtuvo 86.34 puntos en la categoría primaria, mientras que Zampoñada Juventud Micaelina alcanzó 86.15 puntos en secundaria, ambas en la serie de un…",
@@ -34,6 +656,31 @@
      "lat": -15.84026,
      "confianza": 0.7,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8af176f90dac",
+   "titulo": "Detectan deudas tributarias de propietarios que residen fuera de la ciudad de Puno",
+   "resumen": "SAT Puno exhorta a los contribuyentes a regularizar sus deudas durante octubre, último mes de la amnistía tributaria que ofrece el 100 % de descuento en intereses, moras y multas El gerente del Servicio de Administración Tributaria (SAT) de la Municipalidad Provincial de Puno, César Apaza, informó…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/detectan-deudas-tributarias-de-propietarios-que-residen-fuera-de-la-ciudad-de-puno/",
+   "fecha": "2026-10-25T01:15:12Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210100",
+     "precision": "provincia",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
     }
    ]
   },
@@ -83,6 +730,31 @@
      "departamento": "Lambayeque",
      "lon": -79.89526,
      "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "62fe15754d9b",
+   "titulo": "Puno conmemora los 130 años del natalicio del compositor Teodoro Valcárcel",
+   "resumen": "A 130 años de su nacimiento, destacan el legado de Teodoro Valcárcel Caballero, músico y compositor puneño que incorporó la tradición musical andina en sus obras y contribuyó al desarrollo de la música peruana Al cumplirse 130 años del nacimiento del destacado músico y compositor puneño Teodoro…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/puno-conmemora-los-130-anos-del-natalicio-del-compositor-teodoro-valcarcel/",
+   "fecha": "2026-10-25T01:06:53Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
      "confianza": 0.6,
      "principal": true
     }
@@ -242,6 +914,31 @@
    ]
   },
   {
+   "id": "0b2c57efc7d6",
+   "titulo": "Vecinos retienen a presunto ladrón cuando intentaba sustraer memoria de camioneta",
+   "resumen": "n hombre fue retenido por residentes de Villa Magisterial, en Moquegua, cuando presuntamente intentaba sustraer la memoria electrónica de una Toyota Hilux estacionada cerca de EsSalud. El hecho ocurrió este sábado 24 de octubre. De acuerdo con información preliminar, los moradores advirtieron que…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/vecinos-retienen-a-presunto-ladron-cuando-intentaba-sustraer-memoria-de-camioneta/",
+   "fecha": "2026-10-25T00:07:05Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "58c9da3ac6e9",
    "titulo": "Ministro Belaunde: Fuerzas Armadas están listas para llegada del papa León XIV a Pucallpa",
    "resumen": "El ministro de Defensa, Rafael Belaunde, supervisó la preparación del Ejército, la Marina de Guerra y la Fuerza Aérea del Perú para la visita del papa León XIV a Pucallpa, prevista para el próximo 15 de noviembre.",
@@ -289,6 +986,44 @@
      "lat": -16.39334,
      "confianza": 0.6,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "13b39d58ea9a",
+   "titulo": "Macontra deja la doble vía y obreros pasarían a Consorcio Vial Sama",
+   "resumen": "Macontra (Minería y Construcción) anunció el cese de sus operaciones con el Consorcio Vial Sama a cargo de la ejecución de la obra doble vía Tacna a Boca del Río, y la desvinculación de todo su personal, alegando razones de “fuerza mayor”. Al respecto, el secretario general del Sindicato Regional…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286664/macontra-deja-la-doble-via-y-obreros-pasarian-a-consorcio-vial-sama/",
+   "fecha": "2026-10-24T23:24:01Z",
+   "temas": [
+    "infraestructura",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Boca Del Rio",
+     "ubigeo": "230109",
+     "ccpp": "2301090023",
+     "precision": "centro_poblado",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.6787,
+     "lat": -18.15817,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": false
     }
    ]
   },
@@ -425,6 +1160,69 @@
     }
    ],
    "grupo": "116d5658308b"
+  },
+  {
+   "id": "a7ecd23fa840",
+   "titulo": "Roban camioneta estacionada frente a vivienda en San Antonio",
+   "resumen": "Una camioneta fue robada este sábado, alrededor del mediodía, en la asociación Ciudad Nueva, distrito de San Antonio. El vehículo se encontraba estacionado frente a una vivienda cuando habría sido sustraído por delincuentes que actuaron en cuestión de minutos. Según los afectados, los responsables…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/roban-camioneta-estacionada-frente-a-vivienda-en-san-antonio/",
+   "fecha": "2026-10-24T22:33:37Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Antonio",
+     "ubigeo": "180107",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -71.0247,
+     "lat": -17.32109,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Ciudad Nueva",
+     "ubigeo": "230104",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.23814,
+     "lat": -17.98192,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "c5ee67230d30",
+   "titulo": "Víctor Adolfo Ercilla asume como decano del Colegio de Profesores de Tacna",
+   "resumen": "El profesor Víctor Adolfo Ercilla juró como nuevo decano del Colegio de Profesores del Perú, Consejo Regional de Tacna, para el periodo 2026-2029, durante una ceremonia realizada la noche del viernes 23 en las instalaciones del DM Hotel. El encargado de tomarle juramento fue Walter Jesús Goyzueta…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286681/victor-adolfo-ercilla-asume-como-decano-del-colegio-de-profesores-de-tacna/",
+   "fecha": "2026-10-24T22:30:46Z",
+   "temas": [
+    "educacion",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
   },
   {
    "id": "53714198dc6c",
@@ -1096,6 +1894,31 @@
      "lat": -13.839,
      "confianza": 0.9,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e01280913675",
+   "titulo": "UNAM acredita a docentes electos para órganos de gobierno de dos facultades",
+   "resumen": "La Universidad Nacional de Moquegua (UNAM) acreditó a dos docentes electos para completar la representación ante los órganos de gobierno de las facultades de Ciencias Sociales e Ingeniería, luego de las elecciones complementarias desarrolladas el 23 de octubre. El Comité Electoral Universitario…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/unam-acredita-a-docentes-electos-para-organos-de-gobierno-de-dos-facultades/",
+   "fecha": "2026-10-24T21:23:40Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
     }
    ]
   },
@@ -2986,6 +3809,31 @@
      "lat": -11.84493,
      "confianza": 0.7,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "26c60f21209f",
+   "titulo": "ANA prorroga por dos años la reserva hídrica para el proyecto Pasto Grande",
+   "resumen": "Moquegua.- La Autoridad Nacional del Agua (ANA) oficializó la prórroga, por dos años, de la reserva de recursos hídricos superficiales para el Proyecto Especial Regional Pasto Grande, mediante una resolución jefatural publicada en el diario oficial El Peruano. La disposición busca mantener la…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286678/ana-prorroga-por-dos-anos-la-reserva-hidrica-para-el-proyecto-pasto-grande/",
+   "fecha": "2026-10-24T17:40:45Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": true
     }
    ]
   },
