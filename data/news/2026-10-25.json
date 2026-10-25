@@ -2,6 +2,911 @@
  "fecha": "2026-10-25",
  "noticias": [
   {
+   "id": "69d8e071267b",
+   "titulo": "La “collera” del papa León XIV: los amigos y exmonaguillos de la primera misión pastoral de Robert Prevost en Chulucanas",
+   "resumen": "Antes de cumplir los 30 años Robert Prevost llegó al distrito piurano para cumplir su primera misión religiosa. Tres de sus exmonaguillos reviven las anécdotas que vivieron junto a él.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/personajes/la-collera-del-papa-leon-xiv-los-amigos-y-exmonaguillos-de-la-primera-mision-pastoral-de-robert-prevost-en-chulucanas-apuesplan-noticia/",
+   "fecha": "2026-10-25T12:30:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chulucanas",
+     "ubigeo": "200401",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5d13e393a587",
+   "titulo": "Ica: inauguran pistas y veredas en varias calles del centro poblado de Guadalupe, en Salas",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/ica-inauguran-pistas-y-veredas-en-varias-calles-del-centro-poblado-de-guadalupe-en-salas-noticia/",
+   "fecha": "2026-10-25T12:24:00Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Guadalupe",
+     "ubigeo": "110108",
+     "ccpp": "1101080001",
+     "precision": "centro_poblado",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.77229,
+     "lat": -13.98586,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Salas",
+     "ubigeo": "110108",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.77229,
+     "lat": -13.98586,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d6167a725ceb",
+   "titulo": "Una dulce tradición que se mantiene en la Heroica Villa de Catacaos",
+   "resumen": "Más de treinta reposteros, panaderos y cocineras de panes y dulces tomarán la plaza de armas de Catacaos para participar de la tradicional feria de los “Angelitos” y “Roscas de muertos”, que se realizará del sábado 31 al lunes 2 de noviembre.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/cultura/una-dulce-tradicion-que-se-mantiene-en-la-heroica-villa-de-catacaos-noticia/",
+   "fecha": "2026-10-25T12:20:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Catacaos",
+     "ubigeo": "200105",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.67242,
+     "lat": -5.26727,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "82a751ce75d2",
+   "titulo": "Temblor hoy en Perú EN VIVO: últimos sismos, epicentro y reporte del IGP del domingo 25 de octubre de 2026",
+   "resumen": "El evento de mayor magnitud alcanzó 4,6 y fue percibido con intensidad III en Zorritos, mientras que otro movimiento de 3,6 se registró al sur de Salaverry",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-domingo-25-de-octubre-de-2026/",
+   "fecha": "2026-10-25T12:18:33Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Zorritos",
+     "ubigeo": "240201",
+     "precision": "distrito",
+     "provincia": "Contralmirante Villar",
+     "departamento": "Tumbes",
+     "lon": -80.66814,
+     "lat": -3.67761,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Salaverry",
+     "ubigeo": "130109",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -78.97601,
+     "lat": -8.22431,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "98ca3c86f134",
+   "revisar": true
+  },
+  {
+   "id": "e2166a1b3eb9",
+   "titulo": "¿Hoy lluvias intensas en Piura? Esta es la predicción del tiempo para hoy, 25 de octubre",
+   "resumen": "En tanto, según el pronóstico meteorológico, las ráfagas de viento alcanzarán a los 11.1 kilómetros por hora en el día y los 11.1 kilómetros por hora por la noche",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/piura-la-prediccion-del-tiempo-para-este-25-de-octubre/",
+   "fecha": "2026-10-25T12:16:10Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ece862348d9d",
+   "titulo": "Accidente en San Isidro: Camioneta terminó al borde de la Vía Expresa tras impactar contra un taxi en San Isidro",
+   "resumen": "Dos automóviles colisionaron en la auxiliar de la avenida Javier Prado y uno terminó sobre las áreas verdes, mientras la afectada fue llevada a un centro médico",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/accidente-en-san-isidro-camioneta-termino-al-borde-de-la-via-expresa-tras-impactar-contra-un-taxi-en-san-isidro/",
+   "fecha": "2026-10-25T12:10:59Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Isidro",
+     "ubigeo": "090612",
+     "precision": "distrito",
+     "provincia": "Huaytará",
+     "departamento": "Huancavelica",
+     "lon": -75.23813,
+     "lat": -13.95634,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "9283d7cd7eaf",
+   "titulo": "Piura: Paralización de puente deja indefensa a población en Cura Mori",
+   "resumen": "Los pobladores del caserío Santa Rosa se encuentran en constante estado de preocupación ante la paralización de la obra del puente de ingreso a su localidad. PUEDES LEER ► A la cárcel dos sujetos por ultrajar a menores: sentenciados a 20 y 35 años de prisión Esta infraestructura es la principal…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/piura-paralizacion-de-puente-deja-indefensa-a-poblacion-en-cura-mori/",
+   "fecha": "2026-10-25T12:08:21Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Rosa",
+     "ubigeo": "200107",
+     "ccpp": "2001070002",
+     "precision": "centro_poblado",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.67876,
+     "lat": -5.3206,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Cura Mori",
+     "ubigeo": "200107",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.66544,
+     "lat": -5.32357,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "314e81ab8521",
+   "titulo": "Piura: Producción de mango caería hasta 90% en San Lorenzo",
+   "resumen": "La producción de mango en el valle de San Lorenzo podría desplomarse hasta en un 90 % debido a las alteraciones climáticas asociadas al Fenómeno El Niño (FEN). Así lo advirtió Miguel Castillo Vera, presidente de la Junta de Usuarios de San Lorenzo, quien señaló que las elevadas temperaturas…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/piura-produccion-de-mango-caeria-hasta-90-en-san-lorenzo/",
+   "fecha": "2026-10-25T12:01:16Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Lorenzo",
+     "ubigeo": "200305",
+     "ccpp": "2003050012",
+     "precision": "centro_poblado",
+     "provincia": "Huancabamba",
+     "departamento": "Piura",
+     "lon": -79.69719,
+     "lat": -5.16691,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6303b3226272",
+   "titulo": "Hoy cierra la Feria Internacional del Libro de Moquegua 2026: Daniel Lazo es el artista invitado",
+   "resumen": "La IV Feria Internacional del Libro de Moquegua (FILMOQ) 2026 llegará a su fin este domingo 25 de octubre, luego de diez días de actividades dedicadas a los libros, autores y expresiones culturales. La programación comenzará a las 10:00 a. m. con la Gran Aventura Familiar de la FILMOQ 2026, que…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/hoy-cierra-la-feria-internacional-del-libro-de-moquegua-2026-daniel-lazo-es-el-artista-invitado/",
+   "fecha": "2026-10-25T12:00:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "03ff48a015cc",
+   "titulo": "Barranco de infarto: Renovación gana por 171 votos a SP",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/barranco-de-infarto-renovacion-gana-por-171-votos-a-sp-noticia/",
+   "fecha": "2026-10-25T12:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Barranco",
+     "ubigeo": "150104",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02179,
+     "lat": -12.14916,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "446cd8119273",
+   "titulo": "Habrá segunda vuelta para la región Lima",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/habra-segunda-vuelta-para-la-region-lima-noticia/",
+   "fecha": "2026-10-25T12:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8895c18468fe",
+   "titulo": "Garúa sorprendió a Lima y se intensificó durante la madrugada: qué distritos de la zona sur estuvieron bajo alerta del SENAMHI",
+   "resumen": "Las lloviznas se extendieron por cerca de tres horas en sectores de la capital, con previsiones de mayor presencia en San Juan de Miraflores y Lurín",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/garua-sorprendio-a-lima-y-se-intensifico-durante-la-madrugada-que-distritos-de-la-zona-sur-estuvieron-bajo-alerta-del-senamhi/",
+   "fecha": "2026-10-25T11:59:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan de Miraflores",
+     "ubigeo": "150133",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.96371,
+     "lat": -12.16349,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Lurín",
+     "ubigeo": "150119",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.87037,
+     "lat": -12.27466,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6b428317ed2a",
+   "titulo": "Efemérides del 25 de octubre: Hoy se recuerda el fallecimiento de la precursora de la literatura indigenista",
+   "resumen": "La fecha reúne la firma del Contrato Grace, el aniversario de la muerte de Clorinda Matto de Turner y celebraciones relacionadas con la construcción, el turismo, Santa Anita y la inclusión",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/efemerides-del-25-de-octubre-hoy-se-recuerda-el-fallecimiento-de-la-precursora-de-la-literatura-indigenista/",
+   "fecha": "2026-10-25T11:57:50Z",
+   "temas": [
+    "infraestructura",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Anita",
+     "ubigeo": "150137",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.97137,
+     "lat": -12.04378,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5797d6e58342",
+   "titulo": "Días no laborables compensables por la visita del Papa León XIV: todo lo que debes saber de la medida, decreto y fechas confirmadas",
+   "resumen": "El decreto fija fechas diferenciadas en Lima, Callao y otras cinco jurisdicciones, mientras deja en manos de cada compañía la modalidad aplicable",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/dias-no-laborables-compensables-por-la-visita-del-papa-leon-xiv-todo-lo-que-debes-saber-de-la-medida-decreto-y-fechas-confirmadas/",
+   "fecha": "2026-10-25T11:55:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ee12a407d7f5",
+   "titulo": "Nuevo atentado contra un bus de la empresa ‘El triángulo’: Atacan a balazos a chofer en San Juan de Miraflores",
+   "resumen": "El ataque ocurrió en la avenida Héroes del Cenepa, en Lima Sur, semanas después del asesinato de Juan Burgos Imán, trabajador de la misma compañía",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/nuevo-atentado-contra-un-bus-de-lipetsa-atacan-a-balazos-a-chofer-de-el-triangulo-en-san-juan-de-miraflores/",
+   "fecha": "2026-10-25T11:45:42Z",
+   "temas": [
+    "transporte",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan de Miraflores",
+     "ubigeo": "150133",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.96371,
+     "lat": -12.16349,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "42b0e4909261",
+   "titulo": "Clima en Lima: esta será la temperatura máxima hoy, domingo 25 de octubre, según el Senamhi",
+   "resumen": "Aunque la madrugada de este domingo se registró una llovizna moderada y prolongada, el pronóstico meteorológico apunta que hacia el mediodía habrá mayor sensación de calor",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/peru-el-pronostico-del-tiempo-para-lima-este-25-de-octubre/",
+   "fecha": "2026-10-25T11:44:03Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5d217022d8ed",
+   "titulo": "La Libertad: Multas y retención de vehículos por arrojar basura en quebradas",
+   "resumen": "Aquel mal vecino que bote basura o el irresponsable conductor de un volquete que arroje desmonte u otros residuos en el cauce de la quebrada San Ildefonso deben ser denunciados, multados y, el caso del chofer, su vehículo retenido y enviado a un depósito.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/multas-y-retencion-de-vehiculos-por-arrojar-basura-en-quebradas-trujillo-la-libertad-peru-noticia/",
+   "fecha": "2026-10-25T11:42:41Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7aa1334be99f",
+   "titulo": "Deslealtades, intrigas y traiciones en la cúpula de la Policía Nacional",
+   "resumen": "Rencillas. La acusación del teniente general Óscar Arriola contra el teniente general Augusto Ríos Tiravanti por la supuesta filtración de documentos personales del actual comandante general de la PNP, Fredy López Mendoza, está a punto de concluir en la Oficina de Asuntos Internos del Ministerio…",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/25/deslealtades-intrigas-y-traiciones-en-la-cupula-de-la-policia-nacional-hnews-1856232",
+   "fecha": "2026-10-25T11:16:03Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mendoza",
+     "ubigeo": "010601",
+     "ccpp": "0106010001",
+     "precision": "centro_poblado",
+     "provincia": "Rodríguez de Mendoza",
+     "departamento": "Amazonas",
+     "lon": -77.48221,
+     "lat": -6.39541,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a07344b97e93",
+   "titulo": "Serge Barbet: “Es fundamental enseñarles a los jóvenes a producir noticias”",
+   "resumen": "Frente al avance de la inteligencia artificial y la desinformación, el director del CLEMI, invitado al Hay Festival en Arequipa, defiende la urgencia de promover la alfabetización mediática en las escuelas para proteger el futuro de nuestras democracias.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/eldominical/entrevista/serge-barbet-es-fundamental-ensenarles-a-los-jovenes-a-producir-noticias-hay-festival-arequipa-noticia/",
+   "fecha": "2026-10-25T10:54:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c8c7d73b06ba",
+   "titulo": "Ministro de Vivienda llega este lunes a Mollendo para abordar crisis hídrica en Islay",
+   "resumen": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas González, encabezará este lunes 26 de octubre una visita de trabajo y exposición sobre la problemática hídrica de la provincia de Islay. La actividad, programada para las 9:00 a. m. en las instalaciones de la Estación Cultural…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/ministro-de-vivienda-llega-este-lunes-a-mollendo-para-abordar-crisis-hidrica-en-islay/",
+   "fecha": "2026-10-25T10:45:37Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a89dc250ecfc",
+   "titulo": "Previsión meteorológica: las temperaturas que se esperan en Huancayo este 25 de octubre",
+   "resumen": "El clima en Perú resulta alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/prevision-meteorologica-las-temperaturas-que-se-esperan-en-huancayo-este-25-de-octubre/",
+   "fecha": "2026-10-25T10:32:17Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huancayo",
+     "ubigeo": "120101",
+     "precision": "distrito",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7170350a1e5e",
+   "titulo": "Clima en Iquitos: el pronóstico para este 25 de octubre",
+   "resumen": "El estado del tiempo en Perú se ve alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/clima-en-iquitos-el-pronostico-para-este-25-de-octubre/",
+   "fecha": "2026-10-25T10:31:58Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a99adc48ab07",
+   "titulo": "Conoce el clima de este día en Cuzco",
+   "resumen": "El estado del tiempo en Perú se ve alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/conoce-el-clima-de-este-dia-en-cuzco/",
+   "fecha": "2026-10-25T10:31:40Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "312ce1a85106",
+   "titulo": "Dirigente vecinal cuestiona falta de previsión ante posible escasez de agua en Ilo",
+   "resumen": "El dirigente vecinal Luis Ñaupas Aza cuestionó que no se hayan concretado medidas para renovar las antiguas redes de agua potable y alcantarillado de Ilo, pese a los años de administración de la Entidad Prestadora de Servicios de Saneamiento (EPS Ilo) por parte del Organismo Técnico de la…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/dirigente-vecinal-cuestiona-falta-de-prevision-ante-posible-escasez-de-agua-en-ilo/",
+   "fecha": "2026-10-25T10:30:35Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f38677b5b41e",
+   "titulo": "¿Qué pide Lima por delivery? El pollo lidera, pero estos platos “dan la pelea”",
+   "resumen": "DiDi revela qué comen los limeños por delivery, cuáles son sus horarios favoritos y cómo evolucionan sus preferencias gastronómicas.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/gastronomia-peruana-que-pide-lima-por-delivery-el-pollo-lidera-pero-estos-platos-dan-la-pelea-noticia/",
+   "fecha": "2026-10-25T10:10:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "35d13198100d",
+   "titulo": "Monitoreo ambiental evalúa calidad del agua y presencia de especies en el río Moquegua",
+   "resumen": "En el marco del Monitoreo Ambiental Participativo de Agua (MAP-14), correspondiente a la temporada seca 2026, este 24 de octubre se realizaron evaluaciones de campo en diferentes puntos de Moquegua para determinar la calidad del agua superficial, los sedimentos y los componentes hidrobiológicos.…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/monitoreo-ambiental-evalua-calidad-del-agua-y-presencia-de-especies-en-el-rio-moquegua/",
+   "fecha": "2026-10-25T10:00:00Z",
+   "temas": [
+    "agua",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "cbe1c571c308",
+   "titulo": "Amoniaco verde impulsaría megapuerto de Corío",
+   "resumen": "El amoniaco verde podría constituir un elemento clave para captar el interés de grandes navieras en el proyecto del megapuerto de las Américas Corío, en la región Arequipa. Así lo señaló Gonzalo Santillana, director ejecutivo de Mediterranean Shipping Company (MSC), durante su participación en el…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/amoniaco-verde-impulsaria-megapuerto-de-corio/",
+   "fecha": "2026-10-25T09:45:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "33b3ee4fcc53",
+   "titulo": "SENAMHI: Pronóstico del clima hoy domingo 25 de octubre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-domingo-25-de-octubre-2026-noticia-1714375",
+   "fecha": "2026-10-25T09:00:45Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "d8d5c86fd4c0"
+  },
+  {
+   "id": "64fb4657677c",
+   "titulo": "IGP registró un sismo de magnitud 4.6 en Lomas, Arequipa",
+   "resumen": "El país se ubica en el llamado Cinturón de Fuego del Pacífico, una zona en donde acontecen el 80% de los temblores más fuertes del mundo",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/igp-registro-un-sismo-de-magnitud-46-en-lomas-arequipa/",
+   "fecha": "2026-10-25T07:31:15Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lomas",
+     "ubigeo": "040311",
+     "precision": "distrito",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -74.85136,
+     "lat": -15.56971,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e507c57b6777",
+   "titulo": "Hornos de cal de Yura: el oficio que levantó Arequipa y hoy enfrenta el abandono",
+   "resumen": "Junto al sillar, la cal forma parte de esa conjunción de materiales tradicionales que edificaron la arquitectura de la Ciudad Blanca.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/hornos-de-cal-de-yura-el-oficio-que-levanto-arequipa-y-hoy-enfrenta-el-abandono/",
+   "fecha": "2026-10-25T06:33:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yura",
+     "ubigeo": "040128",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.70631,
+     "lat": -16.24687,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "50a995f48aed",
    "titulo": "Magaly Medina relata episodio con el padre de su hijo en su podcast",
    "resumen": "Magaly Medina reveló en su podcast un episodio económico con el padre de su hijo al mudarse a Lima. El testimonio surgió durante una entrevista a Pamela López sobre su separación de Christian Cueva.",
