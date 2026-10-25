@@ -2,6 +2,441 @@
  "fecha": "2026-10-24",
  "noticias": [
   {
+   "id": "a91094845984",
+   "titulo": "El 60% de las empresas industriales teme que el fenómeno El Niño afecte sus operaciones",
+   "resumen": "Las compañías advierten posibles paralizaciones, dificultades para conseguir materias primas y fallas tecnológicas que podrían generar pérdidas económicas si no cuentan con planes de contingencia",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/el-60-de-las-empresas-industriales-teme-que-el-fenomeno-el-nino-afecte-sus-operaciones/",
+   "fecha": "2026-10-25T01:13:03Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "32e6cbdb3282",
+   "titulo": "¿Qué oportunidades abre Tapp, del BCR, para fintech y nuevos servicios financieros?",
+   "resumen": "La evolución de los pagos digitales no solo plantea desafíos de conexión entre entidades financieras, sino también oportunidades para desarrollar nuevos servicios. En esa línea, Tapp, la infraestructura pública de pagos impulsada por el Banco Central de Reserva del Perú (BCR), busca facilitar la…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-que-oportunidades-abre-tapp-del-bcr-para-fintech-y-nuevos-servicios-financieros-1097252.aspx",
+   "fecha": "2026-10-25T01:00:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f297b13d36a7",
+   "titulo": "Marcha contra la inseguridad y por efectos del Fenómeno El Niño se realiza este sábado 24 de octubre en Lima, Cusco y Arequipa",
+   "resumen": "Miles de ciudadanos se concentran en diversas ciudades del país bajo la consigna “Por el Perú, por nuestras familias”. Exigen acciones urgentes frente al desborde delictivo, el impacto de los siniestros forestales y la amenaza de eventos climatológicos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/marcha-contra-la-inseguridad-y-por-efectos-del-fenomeno-el-nino-se-realiza-este-sabado-24-de-octubre-en-lima-cusco-arequipa/",
+   "fecha": "2026-10-25T00:52:31Z",
+   "temas": [
+    "desastres",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4811e091076a",
+   "titulo": "Gobierno anuncia bono para damnificados por lluvias dentro de paquete de S/ 2,500 millones",
+   "resumen": "El Ejecutivo destinará S/ 2,500 millones a bonos directos para damnificados por lluvias, huaicos e inundaciones. Los pagos comenzarán en diciembre y durarán entre tres y cinco meses. Forma parte de un paquete fiscal de S/ 18,000 millones que incluye prevención y reconstrucción.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/economia/bono-damnificados-lluvias-2500-millones-diciembre",
+   "fecha": "2026-10-25T00:50:50Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "402d1b21341b",
+   "titulo": "Docentes de la UNSA acatarán paralización de 24 horas este lunes 26 tras incumplimiento de aumento salarial",
+   "resumen": "El gremio denuncia que el aumento sigue pendiente desde septiembre, pese a las gestiones ante",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/10/24/docentes-de-la-unsa-acataran-paralizacion-de-24-horas-este-lunes-26-tras-incumplimiento-de-aumento-salarial/",
+   "fecha": "2026-10-25T00:48:15Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2cd6b2401969",
+   "titulo": "Más del 30 % de pacientes que acuden a emergencia del Honorio Delgado pueden atenderse en centros de salud",
+   "resumen": "Las consultas por afecciones leves incrementan la demanda del Hospital Regional Honorio Delgado Espinoza Por:",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/10/24/mas-del-30-de-pacientes-que-acuden-a-emergencia-del-honorio-delgado-pueden-atenderse-en-centros-de-salud/",
+   "fecha": "2026-10-25T00:45:04Z",
+   "temas": [
+    "salud",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7e1da14f6084",
+   "titulo": "Caso Interoceánica: Poder Judicial definirá si Alejandro Toledo cumple su condena en su domicilio",
+   "resumen": "La Corte Suprema evaluará el recurso del exmandatario para definir si le otorga el arresto domiciliario por razones humanitarias.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/24/caso-interoceanica-poder-judicial-definira-si-alejandro-toledo-cumple-su-condena-en-su-domicilio-hnews-573456",
+   "fecha": "2026-10-25T00:33:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "73741cfacbce",
+   "titulo": "Gobierno anuncia bono para damnificados por lluvias y huaicos dentro de paquete de S/ 2,500 millones",
+   "resumen": "El Ejecutivo oficializó un bono directo para hogares damnificados por lluvias, huaicos e inundaciones, con un presupuesto de S/ 2,500 millones dentro de un paquete fiscal de S/ 18,000 millones. El MEF precisó que el desembolso comenzará en diciembre.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/economia/bono-damnificados-lluvias-huaicos-2500-millones",
+   "fecha": "2026-10-25T00:20:50Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2803a0132ca7",
+   "titulo": "Carlos Espá: Canciller viajará a Portugal y España del 1 al 6 de noviembre",
+   "resumen": "El ministro participará en reuniones diplomáticas y actividades vinculadas con la Cumbre Iberoamericana. El Gobierno autorizó US$ 7.246 para pasajes y viáticos",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/carlos-espa-canciller-viajara-a-portugal-y-espana-del-1-al-6-de-noviembre-noticia/",
+   "fecha": "2026-10-25T00:11:14Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3dbbe19e93c4",
+   "titulo": "Receta de tallarines en salsa blanca y champiñones",
+   "resumen": "Degusta los encantos de la gastronomía peruana con Tallarines en Salsa Blanca y Champiñones",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2025/01/29/receta-de-tallarines-en-salsa-blanca-y-champinones/",
+   "fecha": "2026-10-25T00:06:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "95bd3eddc10d",
+   "titulo": "Días no laborables por la visita del Papa XIV: ¿Si no quiero trabajar, puedo pedir estos días a cuenta de mis vacaciones?",
+   "resumen": "Las ocho regiones comprendidas suspenderán actividades a mediados de noviembre ante la llegada de León XIV, con horarios diferenciados para facilitar la asistencia ciudadana a todos los actos multitudinarios que contempla la agenda oficial",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/dias-no-laborables-por-la-visita-del-papa-xiv-si-no-quiero-trabajar-puedo-pedir-estos-dias-a-cuenta-de-mis-vacaciones/",
+   "fecha": "2026-10-25T00:04:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1f8d96da3a4a",
+   "titulo": "Mudanzas y cambios familiares impulsan la contratación de alarmas en hogares peruanos",
+   "resumen": "La seguridad en el Perú ha dejado de ser un gasto opcional para convertirse en una inversión estratégica en el presupuesto de familias y comercios. Este cambio en las prioridades de consumo responde a una realidad en la que el 30% de los usuarios actuales de sistemas de seguridad sufrió el impacto…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-mudanzas-y-cambios-familiares-impulsan-contratacion-alarmas-hogares-peruanos-1097251.aspx",
+   "fecha": "2026-10-25T00:00:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a59a3867212c",
+   "titulo": "Entradas gratuitas para ver al papa León XIV en Perú: Arzobispado detalla las dos modalidades de ingreso a las misas",
+   "resumen": "El recorrido oficial contempla paradas desde Chiclayo hasta Cusco, Pucallpa y Santa Cruz durante noviembre, previendo concentraciones masivas de casi un millón de fieles en locaciones emblemáticas como la base aérea de Las Palmas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/entradas-gratuitas-para-ver-al-papa-leon-xiv-en-peru-arzobispado-detalla-las-dos-modalidades-de-ingreso-a-las-misas/",
+   "fecha": "2026-10-24T23:48:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "82112b66452c",
+   "titulo": "El Comercio obtiene premio de la SIP por su periodismo de datos",
+   "resumen": "Durante ceremonia en Bogotá, Colombia, El Comercio recibió reconocimiento por el informe “Radiografía del poder: congresistas que buscan la reelección”.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/desde-la-redaccion/el-comercio-obtiene-premio-de-la-sip-por-su-periodismo-de-datos-noticia/",
+   "fecha": "2026-10-24T23:44:24Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c6b066435621",
+   "titulo": "Incidente cibernético en PHP genera alertas a nivel mundial",
+   "resumen": "Un fallo en PHP que puso en jaque a miles de servidores: lo que pasó, por qué fue tan grave y qué puedes hacer ahora para no convertirte en la próxima víctima. Cómo se originó la alarma y hasta dónde llegó el problema Apareció un fallo crítico en implementaciones ampliamente usadas de PHP que fue…",
+   "medio": "Diario Satélite",
+   "medio_id": "satelite",
+   "url": "https://satelite.pe/incidente-cibernetico-en-php-genera-alertas-a-nivel-mundial",
+   "fecha": "2026-10-24T23:42:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "927e8c670d16",
+   "titulo": "Bono para damnificados por lluvias, huaicos e inundaciones: qué anunció el Gobierno",
+   "resumen": "Subsidio extraordinario formará parte de un paquete de S/ 2,500 millones para amortiguar el impacto económico y mitigar los daños del fenómeno climático en las zonas críticas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/bono-para-damnificados-por-lluvias-huaicos-e-inundaciones-que-anuncio-el-gobierno/",
+   "fecha": "2026-10-24T23:36:01Z",
+   "temas": [
+    "desastres",
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e9d8971b6340",
+   "titulo": "Bautizan en honor a Lionel Messi una nueva especie de planta de flores celestes en Perú",
+   "resumen": "La planta crece sobre los 2 000 a 2 400 metros de altura sobre el nivel del mar en varias laderas rocosas de la costa central de Perú.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/famosos/celebridades/lionel-messi-bautizan-nueva-especie-de-planta-con-flores-celestes-en-peru-en-honor-al-futbolista-argentino-noticia-1714354",
+   "fecha": "2026-10-24T23:34:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0744939ff74e",
+   "titulo": "Línea 2 del Metro: Ositrán anunció que obras llegan al 81 % de avance",
+   "resumen": "La Línea 2 opera hasta el momento en cinco estaciones entre Evitamiento y Mercado Santa Anita, mientras continúan los trabajos para tener operativas el resto de áreas.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/linea-2-del-metro-ositran-anuncio-que-obras-llegan-al-81-de-avance-noticia-1714353",
+   "fecha": "2026-10-24T23:32:11Z",
+   "temas": [
+    "transporte",
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "adeec5915307",
+   "titulo": "Cinco recomendaciones para que negocios se adapten a nueva era de compras por internet",
+   "resumen": "Comprar por internet ya no significa necesariamente ingresar a una página web, buscar un producto y añadirlo al carrito. Hoy, la ruta entre descubrir un artículo y pagarlo es cada vez más corta gracias a los marketplaces y a las compras a través de redes sociales.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cinco-recomendaciones-para-negocios-se-adapten-a-nueva-era-compras-internet-1097250.aspx",
+   "fecha": "2026-10-24T23:30:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0043ba302a65",
+   "titulo": "Senado y Cámara de Diputados convocan a sus juntas de portavoces para el martes 27",
+   "resumen": "La conferencia se realizará desde las 10:30 a. m. en la Sala Grau del Palacio Legislativo y, al concluir, se desarrollará una sesión conjunta",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/congreso-senado-y-camara-de-diputados-convocan-a-sus-juntas-de-portavoces-para-el-martes-27-noticia/",
+   "fecha": "2026-10-24T23:26:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7d5f40aa42e9",
+   "titulo": "JNJ convocará a concurso público para 478 plazas vacantes de fiscales a nivel nacional",
+   "resumen": "El Pleno de la Junta Nacional de Justicia (JNJ) aprobó por unanimidad efectuar las acciones preparatorias para convocar a un concurso público de méritos para la selección y nombramiento de 478 plazas vacantes de fiscales en diversos niveles y especialidades.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-jnj-convocara-a-concurso-publico-para-478-plazas-vacantes-fiscales-a-nivel-nacional-1097264.aspx",
+   "fecha": "2026-10-24T23:10:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b886c55f7221",
+   "titulo": "Seguridad y El Niño: premier Galarreta anuncia plazo para emitir las primeras normas",
+   "resumen": "El presidente del Consejo de Ministros, Luis Galarreta, estimó que los trámites internos para que las primeras medidas de la delegación de facultades lleguen al Consejo de Ministros tomarán entre 15 y 20 días.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/seguridad-y-fenomeno-el-nino-premier-galarreta-anuncia-plazo-para-primera-normas-noticia/",
+   "fecha": "2026-10-24T23:01:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "081d5f31f0fa",
+   "titulo": "Cuatro formas en que las empresas pueden obtener liquidez sin esperar pago de facturas",
+   "resumen": "A pocas semanas del depósito de la Compensación por Tiempo de Servicios (CTS) de noviembre, las empresas deben revisar sus proyecciones financieras para anticipar sus necesidades de efectivo y cumplir con sus compromisos laborales y operativos. Este desafío es especialmente relevante para los…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cuatro-formas-que-las-empresas-pueden-obtener-liquidez-sin-esperar-pago-facturas-1097246.aspx",
+   "fecha": "2026-10-24T23:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0f93c33922ec",
+   "titulo": "El televisor concentra el 57% del consumo total de video, pese al avance de las plataformas online",
+   "resumen": "Aunque las plataformas digitales ganan espacio, los hábitos de las audiencias muestran diferencias según la edad y el dispositivo utilizado, con patrones que obligan a medir ambos entornos de manera conjunta",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/el-televisor-concentra-el-57-del-consumo-total-de-video-pese-al-avance-de-las-plataformas-online/",
+   "fecha": "2026-10-24T22:58:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c039b9b0083a",
+   "titulo": "Cine al aire libre y afiches cinematográficos: Tenería Ñawi celebra el aniversario del cine club Tercer Ojo",
+   "resumen": "El Centro Cultural Tenería Ñawi celebrará este sábado 31 de octubre el aniversario del Cine Club Tercer Ojo con una exposición de afiches cinematográficos y la proyección gratuita de El viaje de Chihiro, en plena calle Tenería. La jornada comenzará a las 4:00 p. m. con la exhibición de afiches y…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/cine-al-aire-libre-y-afiches-cinematograficos-teneria-nawi-celebra-el-aniversario-del-cine-club-tercer-ojo/",
+   "fecha": "2026-10-24T22:47:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ab9c6bdb1dc1",
+   "titulo": "Días no laborables por la visita del papa León XIV a Perú: qué fechas son y a quiénes alcanza la medida",
+   "resumen": "El Poder Ejecutivo publicó el Decreto Supremo N.º 020-2026-TR para facilitar el desplazamiento y la seguridad de los ciudadanos durante las actividades oficiales y litúrgicas del sumo pontífice",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/24/dias-no-laborables-por-la-visita-del-papa-leon-xiv-a-peru-que-fechas-son-y-a-quienes-alcanza-la-medida/",
+   "fecha": "2026-10-24T22:46:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "25670747859b",
+   "titulo": "El impacto de las IAs y los simuladores de rendimiento deportivo",
+   "resumen": "El fútbol peruano siempre tuvo ese halo inexplicable: una mezcla de tierra, altura, pasión y, por qué no, misterio. En la Liga 1, las reglas del libro de fútbol suelen escribir sus propios borradores. El equipo de menor presupuesto puede dar la sorpresa en una tarde lluviosa en el García Rada…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/24/el-impacto-de-las-ias-y-los-simuladores-de-rendimiento-deportivo/",
+   "fecha": "2026-10-24T22:37:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
    "id": "301d52607c08",
    "titulo": "Renovación Popular presenta proyecto de ley para que la DINI investigue amenazas nacionales bajo control judicial",
    "resumen": "La propuesta delimita la labor de la Dirección Nacional de Inteligencia a amenazas como \"espionaje e injerencia extranjera\". Además, exige permiso judicial previo y sanciona el uso de estas capacidades para reglaje político.",
@@ -601,6 +1036,19 @@
    "fecha": "2026-10-24T19:30:01Z",
    "temas": [
     "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "825686b3629e",
+   "titulo": "MPT no tapa huecos ni deja que otros lo hagan",
+   "resumen": "En medio de continuos reclamos por el pésimo estado de las pistas en la ciudad, dos jóvenes acudieron a la avenida Cusco —cerca del ingreso al distrito de Gregorio Albarracín— para reparar por cuenta propia huecos en la pista utilizando bloques de carpeta asfáltica y un combo, y así ganarse unos…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286654/mpt-no-tapa-huecos-ni-deja-que-otros-lo-hagan/",
+   "fecha": "2026-10-24T19:25:23Z",
+   "temas": [
+    "infraestructura"
    ],
    "lugares": []
   },

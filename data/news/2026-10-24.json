@@ -2,6 +2,431 @@
  "fecha": "2026-10-24",
  "noticias": [
   {
+   "id": "c388992d35c5",
+   "titulo": "Puno: conjuntos yunguyeños lideran concurso regional de sikuris",
+   "resumen": "Dos agrupaciones de Yunguyo destacaron en el V Concurso Regional de Sikuris Zampoña de Oro 2026. La Zampoñada Querubines, de la IEP 71006 Centro Base, obtuvo 86.34 puntos en la categoría primaria, mientras que Zampoñada Juventud Micaelina alcanzó 86.15 puntos en secundaria, ambas en la serie de un…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/24/puno-conjuntos-yunguyenos-lideran-concurso-regional-de-sikuris/",
+   "fecha": "2026-10-25T01:19:46Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yunguyo",
+     "ubigeo": "211300",
+     "precision": "provincia",
+     "provincia": "Yunguyo",
+     "departamento": "Puno",
+     "lon": -69.09551,
+     "lat": -16.2267,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5d71107c2189",
+   "titulo": "Culminarían en los próximos días los trabajos de reconstrucción de la torre de la iglesia San Cristóbal",
+   "resumen": "Feligreses contentos con reconstrucción",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/culminarian-en-los-proximos-dias-los-trabajos-de-reconstruccion-de-la-torre-de-la-iglesia-san-cristobal-noticia/",
+   "fecha": "2026-10-25T01:14:54Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Cristóbal",
+     "ubigeo": "050615",
+     "precision": "distrito",
+     "provincia": "Lucanas",
+     "departamento": "Ayacucho",
+     "lon": -74.22223,
+     "lat": -14.74308,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "e2722d56cac8",
+   "titulo": "Lambayeque: absuelven a empresarios condenados por lavado de activos",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-absuelven-a-empresarios-condenados-por-lavado-de-activos-noticia/",
+   "fecha": "2026-10-25T01:10:50Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "386cac1f452b",
+   "titulo": "Horarios del Metropolitano: Apertura de estaciones y salidas de buses en Lima",
+   "resumen": "La red de transporte masivo de la capital ajusta sus frecuencias y recorridos especiales para atender a más de 300 mil pasajeros diarios entre Lima Norte y Sur",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/17/horarios-del-metropolitano-apertura-de-estaciones-y-salidas-de-buses-en-lima/",
+   "fecha": "2026-10-25T00:54:06Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4d3de4a5b376",
+   "titulo": "Comando Unificado golpea a minería ilegal en Madre de Dios con pérdidas de S/ 10 millones",
+   "resumen": "El Comando Unificado, integrado por las fuerzas combinadas de la Policía Nacional y las Fuerzas Armadas, ejecutaron dos operativos de interdicción contra la minería ilegal en la región Madre de Dios, logrando destruir maquinaria y bienes valorizados en casi S/ 10 millones (nueve millones 573 mil…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-comando-unificado-golpea-a-mineria-ilegal-madre-dios-perdidas-s-10-millones-1097266.aspx",
+   "fecha": "2026-10-25T00:51:49Z",
+   "temas": [
+    "mineria",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Madre de Dios",
+     "lon": -69.1768,
+     "lat": -12.59367,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ],
+   "grupo": "ee426130124d"
+  },
+  {
+   "id": "a4fd116cffa5",
+   "titulo": "Minedu suspende a cuatro escolares por agredir a un menor de 14 años y evalúa expulsarlos de colegio en San Miguel",
+   "resumen": "Las autoridades educativas evalúan la posible expulsión definitiva de los implicados, quienes recibirán clases virtuales mientras se desarrolle el procedimiento administrativo.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/24/minedu-suspende-a-cuatro-escolares-por-agredir-a-un-menor-de-14-anos-y-evalua-expulsarlos-de-colegio-en-san-miguel-297240",
+   "fecha": "2026-10-25T00:28:02Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Miguel",
+     "ubigeo": "061101",
+     "precision": "distrito",
+     "provincia": "San Miguel",
+     "departamento": "Cajamarca",
+     "lon": -78.85009,
+     "lat": -6.99997,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "46852e6da0e8",
+   "titulo": "PNP inició patrullaje aéreo contra la extorsión y el sicariato en el transporte público de Lima norte",
+   "resumen": "Esta intervención policial responde al incremento de ilícitos registrados en el sector.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/pnp-inicio-patrullaje-aereo-contra-la-extorsion-y-el-sicariato-en-el-transporte-publico-de-lima-norte-noticia-1714359",
+   "fecha": "2026-10-25T00:20:01Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d7b3f119a7b5",
+   "titulo": "Buses del Metropolitano tendrán más ventilación y tres terminales contarán con bebederos ante ola de calor por El Niño, anuncia ATU",
+   "resumen": "Se establecerán rutas alternativas para los corredores Rojo, Azul y Morado en caso de inundaciones, y se intensificará la limpieza e inspección de drenajes en las líneas 1 y 2 del Metro de Lima junto a los planes descritos para el Metropolitano.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/24/buses-del-metropolitano-tendran-mas-ventilacion-y-tres-terminales-contaran-con-bebederos-ante-ola-de-calor-por-el-nino-anuncia-atu-402192",
+   "fecha": "2026-10-25T00:19:59Z",
+   "temas": [
+    "transporte",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7a4e7e281fe3",
+   "titulo": "Tumbes: sismo de magnitud 4.6 sacudió región de frontera con Ecuador",
+   "resumen": "Un sismo de magnitud 4.6 sacudió esta tarde la región Tumbes, en la frontera con Ecuador, sin que las autoridades hayan reportado hasta el momento daños personales o materiales.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-tumbes-sismo-magnitud-46-sacudio-region-frontera-ecuador-1097269.aspx",
+   "fecha": "2026-10-25T00:19:10Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "58c9da3ac6e9",
+   "titulo": "Ministro Belaunde: Fuerzas Armadas están listas para llegada del papa León XIV a Pucallpa",
+   "resumen": "El ministro de Defensa, Rafael Belaunde, supervisó la preparación del Ejército, la Marina de Guerra y la Fuerza Aérea del Perú para la visita del papa León XIV a Pucallpa, prevista para el próximo 15 de noviembre.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-ministro-belaunde-fuerzas-armadas-estan-listas-para-llegada-del-papa-leon-xiv-a-pucallpa-1097265.aspx",
+   "fecha": "2026-10-24T23:55:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a3ce9edf360a",
+   "titulo": "Arequipa: Buscan a familiares de anciano herido tras accidente",
+   "resumen": "Un adulto mayor que se identificó como Esteban López, de aproximadamente 72 años, permanece internado en el hospital Honorio Delgado tras resultar herido en un accidente de tránsito ocurrido en la avenida Vidaurrázaga.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-buscan-a-familiares-de-anciano-herido-tras-accidente-noticia/",
+   "fecha": "2026-10-24T23:35:18Z",
+   "temas": [
+    "salud",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8197c066beb3",
+   "titulo": "Campeones magistrales en Juegos Deportivos Escolares de UGEL Arequipa Norte",
+   "resumen": "El Colegio Niño Magistral del distrito de Cayma escribió una página dorada en su historia deportiva al consagrarse campeón en futsal varones y vóley damas categoría A, en los Juegos Deportivos Escolares de la UGEL Arequipa Norte. La final se llevó a cabo en el coliseo Rayo Chachani, en Cerro…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/campeones-magistrales-en-juegos-deportivos-escolares-de-ugel-arequipa-norte-noticia/",
+   "fecha": "2026-10-24T23:20:39Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cayma",
+     "ubigeo": "040103",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.54409,
+     "lat": -16.36253,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "48e73447b053",
+   "titulo": "Padre e hijo a prisión preventiva por trata de menor",
+   "resumen": "Tacna.- El Segundo Juzgado de Investigación Preparatoria de la Unidad de Flagrancia de Tacna dictó nueve meses de prisión preventiva contra Carlos Alberto Condori Cotrado (33) y su padre, Alberto Condori Tarqui (67), investigados por el delito de trata de personas en la modalidad de explotación…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286644/padre-e-hijo-a-prision-preventiva-por-trata-de-menor/",
+   "fecha": "2026-10-24T22:50:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "63bee5406db6",
+   "titulo": "Vientos de más de 30 km/h afectan la costa de Ica y dificultan el tránsito vehicular",
+   "resumen": "Fuertes vientos provocaron el levantamiento de polvo y arena en Pisco, Ica, y redujeron la visibilidad en las carreteras. En Arequipa, el MTC realiza trabajos de limpieza en un tramo de la Panamericana Sur, donde el tránsito permanece restringido por la acumulación de arena.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/ica/pisco-vientos-de-mas-de-30-kmh-afectan-la-costa-de-ica-y-dificultan-el-transito-vehicular-ultimas-noticia/",
+   "fecha": "2026-10-24T22:50:00Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pisco",
+     "ubigeo": "110500",
+     "precision": "provincia",
+     "provincia": "Pisco",
+     "departamento": "Ica",
+     "lon": -76.20156,
+     "lat": -13.70987,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "500a0c081de8",
+   "titulo": "Temblor en Tumbes: Sismo de magnitud 4.6 se registró en Zorritos",
+   "resumen": "El movimiento ocurrió la tarde de este sábado. El evento tuvo una profundidad de 78 kilómetros",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tumbes/temblor-en-tumbes-sismo-de-magnitud-46-se-registro-en-zorritos-igp-noticia/",
+   "fecha": "2026-10-24T22:49:51Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Zorritos",
+     "ubigeo": "240201",
+     "precision": "distrito",
+     "provincia": "Contralmirante Villar",
+     "departamento": "Tumbes",
+     "lon": -80.66814,
+     "lat": -3.67761,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "grupo": "116d5658308b"
+  },
+  {
    "id": "53714198dc6c",
    "titulo": "¿Cómo comprar un departamento para tu familia? Cuatro factores que debes considerar",
    "resumen": "Las necesidades de vivienda evolucionan a medida que los hijos crecen y los integrantes de una familia desarrollan rutinas diferentes. En Lima Metropolitana y Callao, los departamentos de tres dormitorios concentraron el 39% de las ventas de viviendas nuevas entre enero y julio de 2026, según la…",
@@ -170,6 +595,42 @@
     }
    ],
    "grupo": "1e7e26f94e16"
+  },
+  {
+   "id": "4c41cc102d10",
+   "titulo": "La educación en Arequipa a lo largo de la Colonia y sus similitudes con el presente",
+   "resumen": "¿Qué ha quedado de aquellos tiempos y qué similitud tendrá con lo propuesto hoy en día por el gobierno? ¿Por qué los incas llevaban el \"homeschooling\"?",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/la-educacion-en-arequipa-a-lo-largo-de-la-colonia-y-sus-similitudes-en-el-presente/",
+   "fecha": "2026-10-24T22:10:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Colonia",
+     "ubigeo": "151011",
+     "precision": "distrito",
+     "provincia": "Yauyos",
+     "departamento": "Lima",
+     "lon": -75.89017,
+     "lat": -12.63385,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
   },
   {
    "id": "da4143401682",
@@ -1056,6 +1517,44 @@
    ]
   },
   {
+   "id": "b3119ff970b1",
+   "titulo": "ANA prorroga reserva hídrica de Pasto Grande y mantiene entrega de agua al valle del Tambo",
+   "resumen": "La Autoridad Nacional del Agua (ANA) prorrogó por dos años la reserva de recursos hídricos a favor del Proyecto Especial Regional Pasto Grande (PERPG), del Gobierno Regional de Moquegua, mediante la Resolución Jefatural N.º 0263-2026-ANA, publicada este sábado 24 de octubre en el Diario Oficial El…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/ana-prorroga-reserva-hidrica-de-pasto-grande-y-mantiene-entrega-de-agua-al-valle-del-tambo/",
+   "fecha": "2026-10-24T20:44:59Z",
+   "temas": [
+    "agua",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tambo",
+     "ubigeo": "050508",
+     "precision": "distrito",
+     "provincia": "La Mar",
+     "departamento": "Ayacucho",
+     "lon": -74.02077,
+     "lat": -12.94811,
+     "confianza": 0.35,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
    "id": "6c42bf19bfbe",
    "titulo": "COMO PARTE DE JORNADA ACADÉMICA DEL SUBSISTEMA ESPECIALIZADO ESTUDIANTES DE DERECHO DE LA PUCP CONOCEN EL TRABAJO DE LOS ÓRGANOS JURISDICCIONALES DE EXTINCIÓN DE DOMINIO",
    "resumen": "Fuente: Nota de prensa Aprenden sobre importancia de este mecanismo en la lucha contra el crimen organizado y la corrupción. Lima, 24 de octubre 2026.– Estudiantes de la Facultad de Derecho de la Pontificia Universidad Católica del Perú (PUCP) participaron en una visita académica a la sede del…",
@@ -1191,6 +1690,44 @@
      "principal": true
     }
    ]
+  },
+  {
+   "id": "78451942bb72",
+   "titulo": "Gilia Gutierrez pide al Ejecutivo financiar represas Coralaque, Cuturi y Tambillo",
+   "resumen": "La gobernadora regional de Moquegua, Gilia Gutiérrez Ayala, pidió al Gobierno Nacional garantizar el financiamiento para la construcción de las represas Coralaque, Cuturi y Tambillo, proyectos destinados a incrementar la disponibilidad de agua para consumo poblacional y actividades agrícolas en la…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/gilia-gutierrez-pide-al-ejecutivo-financiar-represas-coralaque-cuturi-y-tambillo/",
+   "fecha": "2026-10-24T20:18:09Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tambillo",
+     "ubigeo": "050113",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.11057,
+     "lat": -13.19477,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
   },
   {
    "id": "4317944dac93",
@@ -2198,6 +2735,31 @@
    ]
   },
   {
+   "id": "37ca62c9643a",
+   "titulo": "Poste queda a punto de caer tras accidente de tránsito",
+   "resumen": "Un accidente de tránsito registrado durante la noche provocó el colapso de un poste de alumbrado público en la intersección de la avenida Internacional con la calle Haití, cerca del estadio Maracaná y del parque acuático, en el distrito de Alto de la Alianza. El impacto destruyó la base de la…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286651/poste-queda-a-punto-de-caer-tras-accidente-de-transito/",
+   "fecha": "2026-10-24T18:09:47Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alto de la Alianza",
+     "ubigeo": "230102",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.24779,
+     "lat": -17.9931,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "08a87092ce80",
    "titulo": "Paucarpata: vecinos alertan sobre presuntos robos de carteras desde un vehículo",
    "resumen": "Vecinos de Paucarpata alertaron sobre presuntos robos de carteras cometidos desde un vehículo en movimiento. Según la información proporcionada, los pobladores captaron a un conductor y a su acompañante mientras, presuntamente, ingerían bebidas alcohólicas y arrebataban pertenencias a personas que…",
@@ -2365,6 +2927,31 @@
     }
    ],
    "grupo": "a907ea8f2b04"
+  },
+  {
+   "id": "ade82a16f2e2",
+   "titulo": "Aprueban S/ 180 mil para desarrollar productos de palta en Moquegua",
+   "resumen": "El Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC) aprobó un desembolso de 180 mil soles destinado a un proyecto de asistencia técnica para desarrollar productos alimenticios a partir de subproductos de la palta en Moquegua. La iniciativa figura en la Resolución de…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/aprueban-s-180-mil-para-desarrollar-productos-de-palta-en-moquegua/",
+   "fecha": "2026-10-24T17:45:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
   },
   {
    "id": "908b0c9de973",
@@ -2946,6 +3533,42 @@
    ]
   },
   {
+   "id": "03519b7d74cc",
+   "titulo": "UNAM realiza ferias de salud preventiva en Ilo y Moquegua",
+   "resumen": "La Universidad Nacional de Moquegua (UNAM) desarrolló dos ferias de salud preventiva dirigidas a estudiantes, docentes y personal administrativo de la Filial Ilo y la sede Moquegua. La primera jornada se realizó el 22 de octubre en Ilo y la segunda, el 23 de octubre, en el área verde de la Escuela…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/unam-realiza-ferias-de-salud-preventiva-en-ilo-y-moquegua/",
+   "fecha": "2026-10-24T16:27:31Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "c4d3975be223",
    "titulo": "La Libertad: Ronderos atrapan a dos jóvenes por robar baterías y los castigan con ejercicios físicos",
    "resumen": "",
@@ -3213,6 +3836,42 @@
      "lon": -80.65779,
      "lat": -5.1524,
      "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ee8563db6c26",
+   "titulo": "Avanza construcción de los túneles mellizos en la autopista Arequipa-La Joya",
+   "resumen": "La construcción de los túneles mellizos de la autopista Arequipa–La Joya avanza con trabajos de acondicionamiento en el portal norte donde se ejecutan labores de estabilización de taludes, excavación en material suelto y roca, e instalación del campamento de obra. Estas intervenciones buscan…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/avanza-construccion-de-los-tuneles-mellizos-en-la-autopista-arequipa-la-joya/",
+   "fecha": "2026-10-24T15:40:20Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Joya",
+     "ubigeo": "040108",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.8182,
+     "lat": -16.42304,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
      "principal": false
     }
    ]
