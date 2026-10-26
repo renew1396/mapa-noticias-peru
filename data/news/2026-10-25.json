@@ -2,6 +2,695 @@
  "fecha": "2026-10-25",
  "noticias": [
   {
+   "id": "ed1483785c70",
+   "titulo": "Docente muere y cuatro quedan heridos en accidente de bus en Huancavelica",
+   "resumen": "El vehículo de Unión Andina se despistó en el sector de Pacococha. Familiares de las víctimas piden apoyo para los heridos y que se esclarezcan las circunstancias del siniestro.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huancavelica/docente-muere-y-cuatro-quedan-heridos-en-accidente-de-bus-en-huancavelica-noticia/",
+   "fecha": "2026-10-26T01:18:27Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Union",
+     "ubigeo": "090702",
+     "ccpp": "0907020004",
+     "precision": "centro_poblado",
+     "provincia": "Tayacaja",
+     "departamento": "Huancavelica",
+     "lon": -75.04801,
+     "lat": -12.36543,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Huancavelica",
+     "ubigeo": "090000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huancavelica",
+     "lon": -74.97132,
+     "lat": -12.78703,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Pacococha",
+     "ubigeo": "090401",
+     "ccpp": "0904010081",
+     "precision": "centro_poblado",
+     "provincia": "Castrovirreyna",
+     "departamento": "Huancavelica",
+     "lon": -75.26645,
+     "lat": -13.22134,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "9ab115be7b91",
+   "titulo": "Los Escorpiones: despojo de tierras y doble homicidio en Lambayeque",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/los-escorpiones-despojo-de-tierras-y-doble-homicidio-en-lambayeque-noticia/",
+   "fecha": "2026-10-26T01:13:23Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "87df1dcde171",
+   "titulo": "Chorrillos: Playa Agua Dulce lució concurrida pese a condiciones marítimas adversas (FOTOS)",
+   "resumen": "Pese a la presencia de oleajes anómalos en el litoral peruano, cientos de bañistas acudieron este domingo a la playa Agua Dulce, en el distrito limeño de Chorrillos, para disfrutar del mar y de la jornada de descanso.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/chorrillos-playa-agua-dulce-lucio-concurrida-pese-a-condiciones-maritimas-adversas-fotos-noticia/",
+   "fecha": "2026-10-26T00:37:00Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chorrillos",
+     "ubigeo": "150108",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.01647,
+     "lat": -12.1769,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a06856ebbe11",
+   "titulo": "La casa más estrecha de Perú busca entrar al récord Guinness: así es la vivienda de 63 centímetros de ancho en Huaral",
+   "resumen": "Ubicada al norte de Lima, la construcción aprovecha cada centímetro para integrar ambientes destinados al descanso, la preparación de alimentos y las tareas domésticas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/26/la-casa-mas-estrecha-de-peru-busca-entrar-al-record-guinness-asi-es-la-vivienda-de-63-centimetros-de-ancho-en-huaral/",
+   "fecha": "2026-10-26T00:22:29Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huaral",
+     "ubigeo": "150601",
+     "precision": "distrito",
+     "provincia": "Huaral",
+     "departamento": "Lima",
+     "lon": -77.20682,
+     "lat": -11.49537,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7444eca0a663",
+   "titulo": "Aeropuerto Jorge Chávez: intervienen a peruano que trasladaba un DNI y un pasaporte presuntamente irregulares hacia Brasil",
+   "resumen": "El pasajero tenía previsto viajar a São Paulo, donde, según refirió, entregaría los documentos a otra persona",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/26/aeropuerto-jorge-chavez-intervienen-a-peruano-que-trasladaba-un-dni-y-un-pasaporte-presuntamente-irregulares-hacia-brasil/",
+   "fecha": "2026-10-26T00:16:41Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jorge Chávez",
+     "ubigeo": "060305",
+     "precision": "distrito",
+     "provincia": "Celendín",
+     "departamento": "Cajamarca",
+     "lon": -78.0918,
+     "lat": -6.94107,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5d63a3e1574c",
+   "titulo": "Fuego en Curahuasi: alcalde pide al Gobierno ayuda aérea urgente ante avance de incendio forestal en Apurímac",
+   "resumen": "El alcalde distrital Gorky León, quien se trasladó a la zona afectada junto al comandante de la Compañía de Bomberos de Curahuasi y dirigentes comunales, calificó la situación como crítica.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/fuego-en-curahuasi-alcalde-pide-al-gobierno-ayuda-aerea-urgente-ante-avance-de-incendio-forestal-en-apurimac-noticia-1714457",
+   "fecha": "2026-10-26T00:10:17Z",
+   "temas": [
+    "politica_local",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Curahuasi",
+     "ubigeo": "030104",
+     "precision": "distrito",
+     "provincia": "Abancay",
+     "departamento": "Apurímac",
+     "lon": -72.69601,
+     "lat": -13.5413,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3cc0c71d52ee",
+   "titulo": "EULER HERNÁNDEZ RESPALDARÁ A MELÉNDEZ EN SEGUNDA VUELTA",
+   "resumen": "* El exalcalde de Punchana y excandidato a Maynas por Perú Moderno cuestionó la gestión regional actual y señaló que su apoyo se basa en su evaluación de los gobiernos y el uso de los recursos públicos.",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "https://proycontra.com.pe/noticias/euler-hernandez-respaldara-a-melendez-en-segunda-vuelta",
+   "fecha": "2026-10-26T00:08:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Segunda",
+     "ubigeo": "200301",
+     "ccpp": "2003010045",
+     "precision": "centro_poblado",
+     "provincia": "Huancabamba",
+     "departamento": "Piura",
+     "lon": -79.4457,
+     "lat": -5.2297,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Punchana",
+     "ubigeo": "160108",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24192,
+     "lat": -3.72866,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Maynas",
+     "ubigeo": "160100",
+     "precision": "provincia",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0b726611f0ed",
+   "titulo": "Caen tres integrantes de “Los Terribles del Valle” por extorsión en La Libertad",
+   "resumen": "Tres integrantes de la banda criminal “Los Terribles del Valle” fueron capturados por presuntamente estar implicados en el delito de extorsión en La Libertad. La intervención ocurrió en el centro poblado de Cartavio, provincia de Ascope.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/caen-tres-integrantes-de-los-terribles-del-valle-por-extorsion-en-la-libertad-noticia/",
+   "fecha": "2026-10-26T00:05:15Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cartavio",
+     "ubigeo": "130207",
+     "ccpp": "1302070005",
+     "precision": "centro_poblado",
+     "provincia": "Ascope",
+     "departamento": "La Libertad",
+     "lon": -79.22084,
+     "lat": -7.88376,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Ascope",
+     "ubigeo": "130200",
+     "precision": "provincia",
+     "provincia": "Ascope",
+     "departamento": "La Libertad",
+     "lon": -79.10728,
+     "lat": -7.7135,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "86953cde088a",
+   "titulo": "Putina: mujer fallece tras presunta caída durante fiesta matrimonial en Quilcapunco",
+   "resumen": "Una mujer adulta de nombre Dorotea Cerdan de 50 años aproximadamente falleció en horas de la tarde luego de participar en una fiesta matrimonial en el distrito de Quilcapunco, tras el tradicional «recogo de padrino» y otra persona fue trasladado hacia el establecimiento de salud aparentemente por…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/25/putina-mujer-fallece-tras-presunta-caida-durante-fiesta-matrimonial-en-quilcapunco/",
+   "fecha": "2026-10-25T23:52:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Putina",
+     "ubigeo": "211001",
+     "precision": "distrito",
+     "provincia": "San Antonio de Putina",
+     "departamento": "Puno",
+     "lon": -69.86891,
+     "lat": -14.91403,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0344fd87df5b",
+   "titulo": "Propiedad vinculada a Juan Gabriel en Florida se oferta por 38,9 millones de dólares",
+   "resumen": "Puedo hacerlo, pero necesito el texto completo del artículo para reescribirlo. Solo con el titular no puedo mantener ni reorganizar las ideas originales ni garantizar fidelidad al contenido. Por favor pega aquí el artículo original (o confirma que te sirve que redacte una versión basada en…",
+   "medio": "Diario Satélite",
+   "medio_id": "satelite",
+   "url": "https://satelite.pe/propiedad-vinculada-a-juan-gabriel-en-florida-se-oferta-por-389-millones-de-dolares",
+   "fecha": "2026-10-25T23:43:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Florida",
+     "ubigeo": "010306",
+     "precision": "distrito",
+     "provincia": "Bongará",
+     "departamento": "Amazonas",
+     "lon": -77.96953,
+     "lat": -5.82614,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f44b089ec15d",
+   "titulo": "La Libertad: Suman tecnología contra el crimen en Julcán",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/suman-tecnologia-contra-el-crimen-en-julcan-la-libertad-peru-noticia/",
+   "fecha": "2026-10-25T23:42:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Julcán",
+     "ubigeo": "130500",
+     "precision": "provincia",
+     "provincia": "Julcán",
+     "departamento": "La Libertad",
+     "lon": -78.48645,
+     "lat": -8.04266,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7324e9481231",
+   "titulo": "Metro de Lima, Metropolitano y Corredores tendrán bebederos, toldos y mejor sistema de ventilación ante ola de calor por fenómeno El Niño",
+   "resumen": "La Autoridad de Transporte Urbano para Lima y Callao anunció medidas para reducir el impacto de las altas temperaturas, lluvias e inundaciones en los principales servicios de movilidad de la capital",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/metro-de-lima-metropolitano-y-corredores-tendran-bebederos-toldos-y-mejor-sistema-de-ventilacion-ante-ola-de-calor-por-fenomeno-el-nino/",
+   "fecha": "2026-10-25T23:39:50Z",
+   "temas": [
+    "desastres",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "88c0c8b69dda",
+   "titulo": "Cuatro Zonas rechaza aumento de pasajes y anuncia fiscalización de obras en Juliaca",
+   "resumen": "Luis Ángel Condori Yapu priorizará la defensa económica vecinal y auditará proyectos municipales como la Plaza de Armas. Luis Ángel Condori Yapu señaló que promoverá que los usuarios continúen pagando S/ 1.00 por el servicio de transporte urbano, mientras se exige a las empresas mejorar la calidad…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/cuatro-zonas-rechaza-aumento-de-pasajes-y-anuncia-fiscalizacion-de-obras-en-juliaca/",
+   "fecha": "2026-10-25T23:39:45Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bdee7588375e",
+   "titulo": "Arena invade la Panamericana Sur en Arequipa y deja decenas de vehículos varados (VIDEO)",
+   "resumen": "El tránsito continúa restringido este domingo 25 de octubre en la carretera Panamericana Sur, en el tramo Tanaka-Chala (Caravelí), debido a la arena acumulada en la calzada por los fuertes vientos. La situación viene afectando a decenas de conductores de carga pesada desde el último viernes.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arena-invade-la-panamericana-sur-en-arequipa-y-deja-vehiculos-varados-video-noticia/",
+   "fecha": "2026-10-25T23:37:55Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Caravelí",
+     "ubigeo": "040300",
+     "precision": "provincia",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -73.36575,
+     "lat": -15.77255,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ddfd65c55f26",
+   "titulo": "Lambayeque registra 10.559 casos de dengue y 17 muertes en lo que va del 2026",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-registra-10559-casos-de-dengue-y-17-muertes-en-lo-que-va-del-2026-noticia/",
+   "fecha": "2026-10-25T23:24:18Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7c7760fa1f28",
+   "titulo": "50 escolares de Carabayllo ingresan a San Marcos y cinco logran el primer puesto",
+   "resumen": "Cincuenta estudiantes de quinto de secundaria del colegio Juan Pablo Peregrino, en Carabayllo, ingresaron a San Marcos en las primeras fechas del examen de admisión 2027-I; cinco obtuvieron el primer puesto en sus carreras y seis lograron el segundo o tercer lugar.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/educacion/carabayllo-50-escolares-san-marcos-admision-2027",
+   "fecha": "2026-10-25T23:20:53Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Carabayllo",
+     "ubigeo": "150106",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02695,
+     "lat": -11.89017,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "404609c75173",
+   "titulo": "Un beso ganador: Sport Boys venció a FC Cajamarca con gran actuación de Christian Cueva",
+   "resumen": "Sport Boys volvió a la victoria tras imponerse por 4-2 a FC Cajamarca en el Estadio Miguel Grau del Callao, un partido donde Christian Cueva fue la gran figura al anotar un doblete y dar una asistencia.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-un-beso-ganador-sport-boys-vencio-a-fc-cajamarca-gran-actuacion-christian-cueva-1097321.aspx",
+   "fecha": "2026-10-25T23:03:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ed3241b7557f",
+   "titulo": "León XIV en Perú: Entradas para misa en Las Palmas y encuentro con jóvenes serán gratuitas",
+   "resumen": "Los accesos serán digitales, personales e intransferibles, y no requerirán reservas. Este lunes se anunciará cuándo estará disponible la plataforma de inscripción",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-en-peru-entradas-para-misa-en-las-palmas-y-encuentro-con-jovenes-seran-gratuitas-noticia/",
+   "fecha": "2026-10-25T23:02:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "150502",
+     "ccpp": "1505020016",
+     "precision": "centro_poblado",
+     "provincia": "Cañete",
+     "departamento": "Lima",
+     "lon": -76.58043,
+     "lat": -12.77613,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "495dcacef9b6",
+   "titulo": "Tren Macho reanuda operaciones en Junín con viajes gratuitos: quiénes podrán acceder al beneficio y qué ruta cubrirá desde este lunes",
+   "resumen": "",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/25/tren-macho-reanuda-operaciones-en-junin-con-viajes-gratuitos-quienes-podran-acceder-al-beneficio-y-que-ruta-cubrira-desde-este-lunes/",
+   "fecha": "2026-10-25T22:45:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "79985e131041",
+   "titulo": "Visita del Papa León XIV en Perú: Entradas serán digitales, gratuitas y sin reservas",
+   "resumen": "El sacerdote Juan Bytton, secretario general de la visita del pontífice a Lima, anunció que las entradas para el encuentro del papa León XIV con los jóvenes en el Estadio Nacional y la misa en Las Palmas serán digitales, gratuitas y sin reservas.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/papa-leon-xiv-en-peru-entradas-seran-digitales-gratuitas-y-sin-reservas-noticia/",
+   "fecha": "2026-10-25T22:43:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "150502",
+     "ccpp": "1505020016",
+     "precision": "centro_poblado",
+     "provincia": "Cañete",
+     "departamento": "Lima",
+     "lon": -76.58043,
+     "lat": -12.77613,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "62237baf2658",
+   "titulo": "Junín: Desbaratan banda criminal que dopaba a sus víctimas para robarles celulares y vaciar sus cuentas",
+   "resumen": "La Policía Nacional (PNP) logró desmantelar la organización criminal denominada Los Intocables del Centro, que mantenía en zozobra a la población de Huancayo, en Junín, y detuvo de manera preliminar a 13 personas, entre ellas un efectivo del orden.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/junin/junin-desbaratan-banda-criminal-que-dopaba-a-sus-victimas-para-robarles-celulares-y-vaciar-sus-cuentas-los-intocables-del-centro-ultimas-noticia/",
+   "fecha": "2026-10-25T22:37:48Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huancayo",
+     "ubigeo": "120101",
+     "precision": "distrito",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "c648dc6b98a7",
    "titulo": "Auxilian a hombre inconsciente con golpe en la cabeza en el cono sur de Tacna",
    "resumen": "Un hombre fue encontrado inconsciente y con una herida sangrante en el cuero cabelludo, cerca de las 11:00 de la noche del sábado último, en inmediaciones de la avenida Los Damascos, en el cono sur de Tacna. Vecinos del sector alertaron al personal de Seguridad Ciudadana, cuyos agentes acudieron…",
@@ -22,6 +711,32 @@
      "lon": -70.25199,
      "lat": -18.00181,
      "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "716ce5d93ff5",
+   "titulo": "Papa León XIV pide el cese de hostilidades y paz para Yemen ante crisis humanitaria",
+   "resumen": "Durante el rezo del Ángelus, el pontífice expresó su preocupación por la falta de alimentos, agua y atención médica en Yemen. También condenó un ataque contra fieles cristianos en Jordania. El papa León XIV hizo un llamado urgente al cese de las hostilidades en Yemen y pidió garantizar la paz para…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/papa-leon-xiv-pide-el-cese-de-hostilidades-y-paz-para-yemen-ante-crisis-humanitaria/",
+   "fecha": "2026-10-25T22:29:40Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jordania",
+     "ubigeo": "100903",
+     "ccpp": "1009030042",
+     "precision": "centro_poblado",
+     "provincia": "Puerto Inca",
+     "departamento": "Huánuco",
+     "lon": -74.54473,
+     "lat": -8.74088,
+     "confianza": 0.9,
      "principal": true
     }
    ]
@@ -83,6 +798,31 @@
      "lon": -77.03092,
      "lat": -12.04533,
      "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "aa2380188249",
+   "titulo": "Pobladores limpian capilla El Copón tras sismo en Chongos Bajo",
+   "resumen": "Vecinos de Chongos Bajo organizan faenas de limpieza para rescatar su histórico templo de 1750",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/peru/pobladores-limpian-capilla-copon-sismo-chongos-bajo-n495861",
+   "fecha": "2026-10-25T22:21:32Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chongos Bajo",
+     "ubigeo": "120903",
+     "precision": "distrito",
+     "provincia": "Chupaca",
+     "departamento": "Junín",
+     "lon": -75.26797,
+     "lat": -12.13382,
+     "confianza": 0.9,
      "principal": true
     }
    ]
@@ -2185,6 +2925,31 @@
      "departamento": "San Martín",
      "lon": -76.34648,
      "lat": -6.53072,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6aa902bd5603",
+   "titulo": "Rotary Club de Ilo impulsa vacunación contra la polio y atención médica gratuita",
+   "resumen": "Con el objetivo de prevenir enfermedades y promover la vacunación, el Rotary Club de Ilo desarrolló este sábado una campaña médica gratuita en el pasaje La Juventud, ubicado junto al mercado Pacocha, con apoyo de profesionales de la Red de Salud de Ilo. La jornada se inició a las 9:00 de la mañana…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/rotary-club-de-ilo-impulsa-vacunacion-contra-la-polio-y-atencion-medica-gratuita/",
+   "fecha": "2026-10-25T17:36:43Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
      "confianza": 0.7,
      "principal": true
     }
