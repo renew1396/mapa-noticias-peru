@@ -2,6 +2,477 @@
  "fecha": "2026-10-25",
  "noticias": [
   {
+   "id": "926b4d97d1c2",
+   "titulo": "Puno: Escenificación de Manco Cápac y Mama Ocllo empezará desde las 5:00 el 5 de noviembre",
+   "resumen": "Manco Cápac y Mama Ocllo emergerán del Titicaca el 5 de noviembre; la escenificación incluirá tres rituales ancestrales y reunirá entre 400 y 500 actores",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-escenificacion-de-manco-capac-y-mama-ocllo-empezara-desde-las-500-el-5-de-noviembre/",
+   "fecha": "2026-10-26T04:58:38Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Manco Capac",
+     "ubigeo": "211305",
+     "ccpp": "2113050024",
+     "precision": "centro_poblado",
+     "provincia": "Yunguyo",
+     "departamento": "Puno",
+     "lon": -69.01679,
+     "lat": -16.26208,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5ab92c149892",
+   "titulo": "Piura: Intensas lluvias inundan las calles y viviendas de Ayabaca [VIDEO]",
+   "resumen": "Las precipitaciones también incrementaron el caudal de riachuelos y quebradas en zonas altas de la región, lo que mantiene en alerta a las comunidades rurales.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/piura/piura-intensas-lluvias-inundan-las-calles-y-viviendas-de-ayabaca-video-noticia-1714470",
+   "fecha": "2026-10-26T04:52:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayabaca",
+     "ubigeo": "200200",
+     "precision": "provincia",
+     "provincia": "Ayabaca",
+     "departamento": "Piura",
+     "lon": -79.7153,
+     "lat": -4.6406,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b1fd7f97b595",
+   "titulo": "Puno si es el Perú: puneños disputan gobernar el macro sur y consolidan su influencia política",
+   "resumen": "Candidatos nacidos en Puno avanzan en las elecciones de Arequipa y Tacna; Jenry Huisa y Walter Anchapuri disputarán las gobernaciones en segunda vuelta",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-si-es-el-peru-punenos-disputan-gobernar-el-macro-sur-y-consolidan-su-influencia-politica/",
+   "fecha": "2026-10-26T04:19:22Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2a00fb3bc321",
+   "titulo": "Asesinan en el Callao a Romario Cartagena, animador y bailarín de Guajiro y su Sello de Primera",
+   "resumen": "El bailarín y profesor, reconocido en la escena tropical chalaca, murió tras un ataque ocurrido el domingo 25 de octubre en el jirón Loreto, mientras las autoridades no han precisado el móvil ni responsables",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/26/asesinan-en-el-callao-a-romario-cartagena-animador-y-bailarin-de-guajiro-y-su-sello-de-primera/",
+   "fecha": "2026-10-26T04:18:08Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "73e62fb1ec60",
+   "titulo": "Comando Unificado desbarata a “Los Terribles del Valle” por extorsión en La Libertad",
+   "resumen": "Siguiendo las disposiciones del Comando Unificado, la Policía Nacional del Perú (PNP) capturó en flagrancia a tres presuntos integrantes de la banda criminal “Los Terribles del Valle”, implicados en el delito de extorsión, durante una intervención realizada en el centro poblado de Cartavio…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-comando-unificado-desbarata-a-los-terribles-del-valle-extorsion-la-libertad-1097336.aspx",
+   "fecha": "2026-10-26T04:16:26Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cartavio",
+     "ubigeo": "130207",
+     "ccpp": "1302070005",
+     "precision": "centro_poblado",
+     "provincia": "Ascope",
+     "departamento": "La Libertad",
+     "lon": -79.22084,
+     "lat": -7.88376,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ebd933651c71",
+   "titulo": "Asesinan a conocido animador Romario Cartagena y a una mujer en el jirón Loreto a pocas cuadras de complejo policial en el Callao",
+   "resumen": "El ataque a balazos se produjo en la cuadra 9 del jirón Loreto, en pleno desarrollo de un evento en el que participaba Cartagena. Como consecuencia, una tercera persona resultó herida y permanece con pronóstico reservado en el hospital Daniel Alcides Carrión.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/25/asesinan-a-conocido-animador-romario-cartagena-y-a-una-mujer-en-el-jiron-loreto-a-pocas-cuadras-de-complejo-policial-en-el-callao-324050",
+   "fecha": "2026-10-26T03:57:09Z",
+   "temas": [
+    "seguridad",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Daniel Alcides Carrión",
+     "ubigeo": "190200",
+     "precision": "provincia",
+     "provincia": "Daniel Alcides Carrión",
+     "departamento": "Pasco",
+     "lon": -76.51627,
+     "lat": -10.49143,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5ee1c3746097",
+   "titulo": "Chosica se prepara para El Niño: vecinos forman brigadas y piden sacos ante huaicos",
+   "resumen": "Vecinos de Chosica organizan brigadas voluntarias y solicitan materiales para proteger sus viviendas ante posibles huaicos por el fenómeno El Niño 2026-2027. El ministro de Desarrollo y Riesgo advirtió que las temperaturas del mar superan las de eventos anteriores.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/politica/chosica-prepara-el-nino-brigadas-sacos-huaicos",
+   "fecha": "2026-10-26T03:51:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chosica",
+     "ubigeo": "150118",
+     "ccpp": "1501180001",
+     "precision": "centro_poblado",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.69709,
+     "lat": -11.93583,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "89bd062ee699",
+   "titulo": "Chosica teme nuevos huaicos por el fenómeno El Niño: vecinos se organizan en brigadas para alertar y evacuar ante una emergencia",
+   "resumen": "Las primeras precipitaciones reavivan el temor de quienes viven cerca de quebradas. Una vecina de 75 años advierte que los sacos que protegen su casa están deteriorados y solicita apoyo para afrontar una posible emergencia",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/26/chosica-teme-nuevos-huaicos-por-el-fenomeno-el-nino-vecinos-se-organizan-en-brigadas-para-alertar-y-evacuar-ante-una-emergencia/",
+   "fecha": "2026-10-26T03:05:43Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chosica",
+     "ubigeo": "150118",
+     "ccpp": "1501180001",
+     "precision": "centro_poblado",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.69709,
+     "lat": -11.93583,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "64a29bc67680",
+   "titulo": "Exoperador de Vladimiro Montesinos y un expolicía son señalados por el asesinato del excongresista Óscar Medelius",
+   "resumen": "La investigación policial vincula el doble crimen con una presunta red dedicada a la usurpación y comercialización de terrenos, que buscaba controlar una concesión minera de 580 hectáreas en Carabayllo",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/26/exoperador-de-vladimiro-montesinos-y-un-expolicia-son-senalados-por-el-asesinato-del-excongresista-oscar-medelius/",
+   "fecha": "2026-10-26T03:02:35Z",
+   "temas": [
+    "seguridad",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Carabayllo",
+     "ubigeo": "150106",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02695,
+     "lat": -11.89017,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e2659ba6d5e1",
+   "titulo": "Jorge Luna defiende el fichaje de Jean Deza en el Domingo Dianderas: \"Cada decisión que tomo tiene un solo propósito, salir campeones\"",
+   "resumen": "El comediante y presidente del club de Chincha Alta publicó un comunicado en sus historias de Instagram para responder a las críticas generadas por la contratación del delantero conocido como el 'Ratón'.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/26/jorge-luna-defiende-el-fichaje-de-jean-deza-en-el-domingo-dianderas-cada-decision-que-tomo-tiene-un-solo-proposito-salir-campeones/",
+   "fecha": "2026-10-26T03:01:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chincha Alta",
+     "ubigeo": "110201",
+     "precision": "distrito",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.13251,
+     "lat": -13.4182,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9761d7a65cb4",
+   "titulo": "Incendio en Mesa Redonda afecta dos puestos comerciales y una posible descarga eléctrica es investigada como causa del siniestro",
+   "resumen": "Personal de la Municipalidad Metropolitana de Lima y del Cuerpo General de Bomberos Voluntarios del Perú acudió a la zona, donde se estableció un perímetro de seguridad para facilitar las labores de atención",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/26/incendio-en-mesa-redonda-afecta-dos-puestos-comerciales-y-una-posible-descarga-electrica-es-investigada-como-causa-del-siniestro/",
+   "fecha": "2026-10-26T02:22:53Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e20db327c1c0",
+   "titulo": "Obra de recapeo en Chiclayo no tuvo sustento técnico suficiente, según la Contraloría",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/obra-de-recapeo-en-chiclayo-no-tuvo-sustento-tecnico-suficiente-segun-la-contraloria-noticia/",
+   "fecha": "2026-10-26T02:12:30Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7b57a8a7b8bf",
+   "titulo": "FF. AA. y PNP asestan golpe de más de S/ 20 millones a la minería ilegal en Madre de Dios",
+   "resumen": "Un contundente golpe contra la capacidad operativa y logística de la minería ilegal se ejecutó en Madre de Dios mediante operaciones conjuntas de interdicción desarrolladas los días 23 y 24 de octubre, que generaron una afectación económica estimada en S/ 20 432 470,00 a las actividades ilícitas…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-ff-aa-y-pnp-asestan-golpe-mas-s-20-millones-a-mineria-ilegal-madre-dios-1097328.aspx",
+   "fecha": "2026-10-26T02:04:44Z",
+   "temas": [
+    "mineria",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170203",
+     "precision": "distrito",
+     "provincia": "Manu",
+     "departamento": "Madre de Dios",
+     "lon": -70.39422,
+     "lat": -12.61849,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5efc922ee3d6",
+   "titulo": "Hallan un cráneo Wari con seis dientes artificiales de hueso de camélido en Cusco: por qué fueron colocados después de la muerte",
+   "resumen": "Un estudio examinó los restos encontrados en Cotocotuyoc y determinó que las piezas no buscaban recuperar la función masticatoria, sino que habrían cumplido un propósito ritual",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/26/hallan-un-craneo-wari-con-seis-dientes-artificiales-de-hueso-de-camelido-en-cusco-por-que-fueron-colocados-despues-de-la-muerte/",
+   "fecha": "2026-10-26T01:31:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3dd92feeab0f",
+   "titulo": "Misa del papa León XIV en Pucallpa tendrá un canto en idioma shipibo",
+   "resumen": "La misa que presidirá el papa León XIV en Pucallpa incluirá un canto en idioma shipibo como parte de las expresiones de fe y cultura amazónica preparadas para su visita a la ciudad. La liturgia se desarrollará en la explanada de la Videnita, situada en Pucallpa, región de Ucayali.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/misa-del-papa-leon-xiv-en-pucallpa-tendra-un-canto-en-idioma-shipibo-noticia/",
+   "fecha": "2026-10-26T01:29:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "grupo": "11e3d56b5050"
+  },
+  {
    "id": "ed1483785c70",
    "titulo": "Docente muere y cuatro quedan heridos en accidente de bus en Huancavelica",
    "resumen": "El vehículo de Unión Andina se despistó en el sector de Pacococha. Familiares de las víctimas piden apoyo para los heridos y que se esclarezcan las circunstancias del siniestro.",
@@ -295,6 +766,56 @@
    ]
   },
   {
+   "id": "dddb0b5ba15c",
+   "titulo": "Más de 100 poetas y estudiantes serán condecorados por su aporte cultural en el centenario de San Román",
+   "resumen": "La Casa del Poeta Peruano premiará a talentos locales y presentará una antología literaria del último siglo este miércoles 28. El presidente de la Casa del Poeta Peruano, Walter Jilapa, anunció que más de 100 poetas y estudiantes serán reconocidos. Ellos destacaron por su aporte a la literatura y…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/mas-de-100-poetas-y-estudiantes-seran-condecorados-por-su-aporte-cultural-en-el-centenario-de-san-roman/",
+   "fecha": "2026-10-26T00:01:52Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9bc2fc3f1f7c",
+   "titulo": "Niños críticos se quedan sin UCI Pediátrica en el hospital Carlos Monge Medrano de Juliaca",
+   "resumen": "El nosocomio reconoció la ausencia de la unidad especializada y anunció gestiones para su pronta habilitación bajo estándares nacionales. El hospital Carlos Monge Medrano de Juliaca ya no cuenta con una Unidad de Cuidados Intensivos Pediátricos. Anteriormente disponía de este servicio para atender…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/ninos-criticos-se-quedan-sin-uci-pediatrica-en-el-hospital-carlos-monge-medrano-de-juliaca/",
+   "fecha": "2026-10-25T23:57:30Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "86953cde088a",
    "titulo": "Putina: mujer fallece tras presunta caída durante fiesta matrimonial en Quilcapunco",
    "resumen": "Una mujer adulta de nombre Dorotea Cerdan de 50 años aproximadamente falleció en horas de la tarde luego de participar en una fiesta matrimonial en el distrito de Quilcapunco, tras el tradicional «recogo de padrino» y otra persona fue trasladado hacia el establecimiento de salud aparentemente por…",
@@ -316,6 +837,43 @@
      "lat": -14.91403,
      "confianza": 0.7,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3b983b40070c",
+   "titulo": "San Román celebra su centenario entre anuncios de obras y deudas históricas con Juliaca",
+   "resumen": "El alcalde Óscar Cáceres presentó su balance de gestión, destacando obras viales y videovigilancia frente a demandas pendientes de saneamiento. La provincia de San Román conmemoró sus 100 años de creación política el 24 de octubre, con una ceremonia central que reunió a autoridades nacionales…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/san-roman-celebra-su-centenario-entre-anuncios-de-obras-y-deudas-historicas-con-juliaca/",
+   "fecha": "2026-10-25T23:48:45Z",
+   "temas": [
+    "infraestructura",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.85,
+     "principal": false
     }
    ]
   },
