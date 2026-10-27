@@ -1,0 +1,63 @@
+{
+ "fecha": "2026-08-05",
+ "noticias": [
+  {
+   "id": "2f4fd80f6c00",
+   "titulo": "¡Es oficial! El Vaticano confirmó visita de León XIV a Perú en noviembre: recorrerá Lima, Chiclayo, Cusco y Pucallpa",
+   "resumen": "En su recorrido por Sudamérica, el sumo pontífice también visitará Uruguay y Argentina, según un comunicado oficial publicado por el Vaticano.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/leon-xiv-visita-el-peru-fecha-confirmada-y-detalles-de-la-llegada-del-papa-el-11-de-noviembre-noticia-1700167",
+   "fecha": "2026-08-05T10:05:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  }
+ ]
+}
