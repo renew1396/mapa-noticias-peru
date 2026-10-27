@@ -2,6 +2,1600 @@
  "fecha": "2026-10-26",
  "noticias": [
   {
+   "id": "62fc2c52eeea",
+   "titulo": "Lima 2027: Panam Sports y el Comité Olímpico Brasileño inspeccionan sedes del IPD para los Juegos Panamericanos",
+   "resumen": "Las delegaciones internacionales revisarán escenarios deportivos, alojamiento y servicios para la cita continental de 2027.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/multideportes/panamericanos/lima-2027-panam-sports-y-el-comite-olimpico-brasileno-inspeccionan-sedes-del-ipd-para-los-juegos-panamericanos-noticia-1714606",
+   "fecha": "2026-10-27T04:48:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "abf44be9e0dd",
+   "titulo": "La Convención: rescatan a ocho personas atrapadas por la crecida del río Kimbiri en Cusco",
+   "resumen": "La emergencia ha afectado al menos 30 viviendas rústicas en Santa Virginia, en el centro poblado de Kimbiri Alto.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/la-convencion-rescatan-a-ocho-personas-atrapadas-por-la-crecida-del-rio-kimbiri-en-cusco-noticia-1714609",
+   "fecha": "2026-10-27T04:40:55Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Kimbiri",
+     "ubigeo": "080907",
+     "precision": "distrito",
+     "provincia": "La Convención",
+     "departamento": "Cusco",
+     "lon": -73.78922,
+     "lat": -12.6201,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Convención",
+     "ubigeo": "080900",
+     "precision": "provincia",
+     "provincia": "La Convención",
+     "departamento": "Cusco",
+     "lon": -72.69333,
+     "lat": -12.86283,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Virginia",
+     "ubigeo": "100801",
+     "ccpp": "1008010041",
+     "precision": "centro_poblado",
+     "provincia": "Pachitea",
+     "departamento": "Huánuco",
+     "lon": -75.69654,
+     "lat": -10.08556,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "decb8fe7cd97",
+   "titulo": "Activación de quebradas genera emergencia en Santiago tras intensas lluvias",
+   "resumen": "La activación de quebradas y las intensas lluvias generan una nueva emergencia en Santiago de Chile. El corresponsal de Radio Uno, Rocky Vega, informó que sectores de Las Condes y Lo Barnechea vienen siendo afectados por el desborde de agua y barro proveniente de la cordillera. Según el reporte…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286821/activacion-de-quebradas-genera-emergencia-en-santiago-tras-intensas-lluvias/",
+   "fecha": "2026-10-27T04:30:24Z",
+   "temas": [
+    "desastres",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santiago",
+     "ubigeo": "080106",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.98314,
+     "lat": -13.5258,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "ef64641651e2",
+   "titulo": "Junín: sensibilizan a autoridades de anexos en prevención de incendios forestales",
+   "resumen": "Para coordinar acciones de prevención de incendios forestales y proteger la biodiversidad, el Servicio Nacional Forestal y de Fauna Silvestre (Serfor) y la Municipalidad de San Ramón desarrollaron una jornada de sensibilización dirigida a tenientes gobernadores y agentes municipales de los…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-junin-sensibilizan-a-autoridades-anexos-prevencion-incendios-forestales-1097442.aspx",
+   "fecha": "2026-10-27T04:30:00Z",
+   "temas": [
+    "medio_ambiente",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Ramón",
+     "ubigeo": "120305",
+     "precision": "distrito",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -75.35318,
+     "lat": -11.12048,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "19c0b08cd380",
+   "titulo": "La Libertad: colegio en el distrito de Virú suspende sus clases presenciales tras amenazas extorsivas",
+   "resumen": "Fueron los maestros del colegio María Caridad Agüero de Arresse quienes denunciaron que son víctimas de amenazas y que les exigen dinero para no atentar contra la escuela.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/la-libertad/la-libertad-colegio-en-el-distrito-de-viru-suspende-sus-clases-presenciales-tras-amenazas-extorsivas-noticia-1714602",
+   "fecha": "2026-10-27T04:28:32Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Virú",
+     "ubigeo": "131201",
+     "precision": "distrito",
+     "provincia": "Virú",
+     "departamento": "La Libertad",
+     "lon": -78.75273,
+     "lat": -8.41431,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "892d1bdb4ee7",
+   "titulo": "Omar Neyra: Estamos en la peor epidemia del dengue",
+   "resumen": "Omar Neyra , especialista en salud pública, advirtió que Lima registra todos los serotipos del virus en medio de la peor epidemia del país",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/omar-neyra-estamos-peor-epidemia-dengue-n495885",
+   "fecha": "2026-10-27T04:15:05Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "73a412da4762",
+   "titulo": "Madre de Dios: destruyen más de 30 campamentos de minería ilegal en Tambopata",
+   "resumen": "Las fuerzas del orden incautaron un equipo de radio que era utilizado por presuntos mineros ilegales para poder alertar sobre los desplazamientos del operativo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/madre-de-dios-destruyen-mas-de-30-campamentos-de-mineria-ilegal-en-tambopata-noticia-1714605",
+   "fecha": "2026-10-27T04:13:56Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tambopata",
+     "ubigeo": "170100",
+     "precision": "provincia",
+     "provincia": "Tambopata",
+     "departamento": "Madre de Dios",
+     "lon": -69.1768,
+     "lat": -12.59367,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Madre de Dios",
+     "lon": -69.1768,
+     "lat": -12.59367,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2a41a46211bb",
+   "titulo": "Callao: menor de 14 años recibe disparo en la mandíbula durante gresca entre policías y presuntos barristas",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/callao-menor-de-14-anos-recibe-disparo-en-la-mandibula-durante-gresca-entre-policias-y-presuntos-barristas-noticia/",
+   "fecha": "2026-10-27T04:00:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "085a50ec0ca6",
+   "titulo": "Cercado de Lima: reportan la desaparición de una menor de 16 años tras salir de su casa rumbo al colegio",
+   "resumen": "Rotafono de RPP | La adolescente desaparecida salió vestida con su buzo y polo de colegio, lugar a donde supuestamente se dirigía y quedaba en el Cercado de Lima, pero no llegó y su madre la busca incansablemente.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/rotafono/servicios-a-la-comunidad/cercado-de-lima-reportan-la-desaparicion-de-una-menor-de-16-anos-tras-salid-de-su-casa-rumbo-a-su-colegio-adolescente-perdida-noticia-1714600",
+   "fecha": "2026-10-27T04:00:02Z",
+   "temas": [
+    "educacion",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "90e08b579bc3",
+   "titulo": "Alto Purús: Sernanp fortalece la conservación y el desarrollo sostenible con comunidades",
+   "resumen": "Con el objetivo de fortalecer la gestión del Parque Nacional Alto Purús y promover alternativas económicas sostenibles, el Ministerio del Ambiente suscribió acuerdos de conservación con la Asociación de Productores Agropecuarios y de la Biodiversidad San Martín y la comunidad nativa Pankirentzy…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-alto-purus-sernanp-fortalece-conservacion-y-desarrollo-sostenible-comunidades-1097443.aspx",
+   "fecha": "2026-10-27T03:55:53Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Purús",
+     "ubigeo": "250401",
+     "precision": "distrito",
+     "provincia": "Purús",
+     "departamento": "Ucayali",
+     "lon": -70.70959,
+     "lat": -9.77214,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "cdca881493ff",
+   "titulo": "Papa León XVI en Perú: los 4 temas que abordará durante discurso en la catedral de Lima",
+   "resumen": "En el marco de los preparativos para la visita apostólica del papa León XIV al Perú, programada entre el 11 y el 16 de noviembre, el arzobispo de Lima y primado del Perú, cardenal Carlos Castillo, brindó detalles sobre la agenda y el mensaje pontificio.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xvi-peru-los-4-temas-abordara-durante-discurso-la-catedral-lima-1095811.aspx",
+   "fecha": "2026-10-27T03:34:54Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e2454c8b1df8",
+   "titulo": "El Niño: EsSalud implementará 6 unidades de vigilancia clínica y 103 camas en Piura",
+   "resumen": "Ante los riesgos sanitarios asociados al fenómeno El Niño (FEN), la presidenta ejecutiva de EsSalud, Zulema Tomas, anunció en Piura la implementación de seis unidades de vigilancia clínica (Uviclín) para el diagnóstico y tratamiento del dengue y la leptospirosis, así como la habilitación de 103…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-el-nino-essalud-implementara-6-unidades-vigilancia-clinica-y-103-camas-piura-1097441.aspx",
+   "fecha": "2026-10-27T03:34:50Z",
+   "temas": [
+    "salud",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9727d16c8a11",
+   "titulo": "Romario Cartagena: familiares y colegas dan el último adiós a animador asesinado en el Callao",
+   "resumen": "Cartagena fue víctima de un ataque armado durante una fiesta donde también murió una mujer y resultó herido otro hombre. La hipótesis de la policía apunta a que el reconocido animador no habría sido el objetivo del atentado.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/26/romario-cartagena-familiares-y-colegas-dan-el-ultimo-adios-a-animador-asesinado-en-el-callao-1462526",
+   "fecha": "2026-10-27T03:27:32Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c3d28db1068c",
+   "titulo": "Ruta del papa León XIV en Lima aún se ajusta: no está definido si usará el papamóvil desde su llegada",
+   "resumen": "Monseñor Guillermo Elías, coordinador de la comisión organizadora en Lima, señaló a Infobae Perú que continúan las coordinaciones sobre los desplazamientos del pontífice. La ruta exacta será informada cuando concluyan las revisiones de seguridad y logística",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/ruta-del-papa-leon-xiv-en-lima-aun-se-ajusta-no-esta-definido-si-usara-el-papamovil-desde-su-llegada/",
+   "fecha": "2026-10-27T03:22:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "752a7cd45667",
+   "titulo": "Milagros Jáuregui pide retirar huacos eróticos de la vía pública porque “confunden a los niños”",
+   "resumen": "La senadora de Renovación Popular, Milagros Jáuregui, solicitó al ministro de Cultura, Alberto Beingolea, retirar de los espacios públicos las esculturas inspiradas en el huaco de la fertilidad, ubicadas en el distrito de Moche, provincia de Trujillo. La legisladora propuso trasladarlas a museos…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/26/milagros-jauregui-pide-retirar-huacos-eroticos-de-la-via-publica-porque-confunden-a-los-ninos/",
+   "fecha": "2026-10-27T03:10:19Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moche",
+     "ubigeo": "130107",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.00918,
+     "lat": -8.17129,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d459ae77a94e",
+   "titulo": "Ayacucho: Sismo de magnitud 3.5 se registró este lunes en Lampa, informó el IGP",
+   "resumen": "Un sismo de magnitud 3.5 se registró a las 8:30 p. m. de este lunes 26 de octubre en la provincia de Páucar del Sara Sara, región Ayacucho. El Instituto Geofísico del Perú (IGP) informó que el movimiento telúrico tuvo una profundidad de 14 kilómetros y alcanzó una intensidad de II-III en Páucar…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/ayacucho/ayacucho-sismo-de-magnitud-35-se-registro-este-lunes-en-lampa-informo-el-igp-ultimas-noticia/",
+   "fecha": "2026-10-27T03:07:26Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lampa",
+     "ubigeo": "050804",
+     "precision": "distrito",
+     "provincia": "Páucar del Sara Sara",
+     "departamento": "Ayacucho",
+     "lon": -73.34904,
+     "lat": -15.18494,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Páucar del Sara Sara",
+     "ubigeo": "050800",
+     "precision": "provincia",
+     "provincia": "Páucar del Sara Sara",
+     "departamento": "Ayacucho",
+     "lon": -73.34415,
+     "lat": -15.27858,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Páucar",
+     "ubigeo": "190204",
+     "precision": "distrito",
+     "provincia": "Daniel Alcides Carrión",
+     "departamento": "Pasco",
+     "lon": -76.44344,
+     "lat": -10.37111,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4912078ba309",
+   "titulo": "Cusco: desborde del río Kimbiri arrasa viviendas en el VRAEM y obliga a evacuar a pobladores",
+   "resumen": "El evento tomó por sorpresa a pobladores de la zona y obligó a las autoridades a iniciar una evacuación de emergencia. De forma preliminar, se informó que algunas personas habrían quedado atrapadas en medio del río.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/26/cusco-desborde-del-rio-kimbiri-arrasa-viviendas-en-el-vraem-y-obliga-a-evacuar-a-pobladores-1288378",
+   "fecha": "2026-10-27T03:00:17Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Kimbiri",
+     "ubigeo": "080907",
+     "precision": "distrito",
+     "provincia": "La Convención",
+     "departamento": "Cusco",
+     "lon": -73.78922,
+     "lat": -12.6201,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "cec359e64d5e",
+   "titulo": "Fenómeno El Niño: ministro Vinelli pide no arrojar basura a ríos para evitar inundaciones",
+   "resumen": "El ministro Marco Vinelli pidió no arrojar basura ni desmonte a los ríos ante las lluvias por El Niño. Advirtió sobre riesgos de inundaciones y desbordes en Lima.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/fenomeno-el-nino-ministro-vinelli-pide-no-arrojar-basura-a-rios-para-evitar-inundaciones-noticia/",
+   "fecha": "2026-10-27T02:55:52Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d2585dc8efa2",
+   "titulo": "Río Rímac sorprendió con aguas marrones y numerosas gaviotas en Chosica, mientras vecinos reclamaban defensas para proteger las riberas",
+   "resumen": "Desde el puente Estela Montti se observa a las aves distribuidas sobre la superficie del río, en un sector donde también se realizan labores de descolmatación",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/rio-rimac-sorprendio-con-aguas-marrones-y-numerosas-gaviotas-en-chosica-mientras-vecinos-reclamaban-defensas-para-proteger-las-riberas/",
+   "fecha": "2026-10-27T02:46:51Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chosica",
+     "ubigeo": "150118",
+     "ccpp": "1501180001",
+     "precision": "centro_poblado",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.69709,
+     "lat": -11.93583,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Rímac",
+     "ubigeo": "150128",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02697,
+     "lat": -12.0422,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "82ed604a23fd",
+   "titulo": "Un interno fallece y otro resulta herido tras enfrentamiento en el penal de Chiclayo",
+   "resumen": "Un interno del establecimiento penitenciario de Chiclayo, ubicado en el distrito de Picsi, región Lambayeque, falleció y otro resultó herido tras un enfrentamiento registrado dentro del recinto. Así lo informó el Instituto Nacional Penitenciario (INPE) mediante un comunicado. El interno fallecido…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/26/un-interno-fallece-y-otro-resulta-herido-tras-enfrentamiento-en-el-penal-de-chiclayo/",
+   "fecha": "2026-10-27T02:43:21Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Picsi",
+     "ubigeo": "140111",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.77055,
+     "lat": -6.71832,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e92bce7aae1e",
+   "titulo": "Familiares de asesinados en protestas del 2023 condicionan reunión con ministro de Vivienda: \"Que pida disculpas por terruquear a Puno\"",
+   "resumen": "Ministro Mauricio Arnillas pidió diálogo a deudos y su dirigente Raúl Samillán dijo que primero se tiene que trabajar en un plan de reparaciones y sanción a todos los responsables.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/26/familiares-de-asesinados-en-protestas-del-2023-condicionan-reunion-con-ministro-de-vivienda-que-pida-disculpas-por-terruquear-a-puno-hnews-307398",
+   "fecha": "2026-10-27T02:34:44Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7c6dc46e24b6",
+   "titulo": "Milagros Jáuregui cuestiona la exhibición de huacos eróticos en Moche: “Despiertan una sexualidad no sana”",
+   "resumen": "La senadora de Renovación Popular dijo que estas piezas ubicadas en La Libertad vulneran “derechos de los menores” y planteó limitar su exhibición en recintos cerrados como museos.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/congreso/milagros-jauregui-senadora-cuestiona-exhibicion-de-huacos-eroticos-de-moche-porque-despiertan-una-sexualidad-no-sana-noticia-1714597",
+   "fecha": "2026-10-27T02:34:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moche",
+     "ubigeo": "130107",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.00918,
+     "lat": -8.17129,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e09071f9e782",
+   "titulo": "Christian Cueva lidera la remontada de Sport Boys",
+   "resumen": "Sport Boys venció por 4-2 a FC Cajamarca este domingo 25 de octubre, a las 3:30 p. m., en el estadio Miguel Grau del Callao, por la decimotercera jornada del Torneo Clausura de la Liga 1. El conjunto rosado consiguió una victoria importante ante su afición, con una actuación destacada de Christian…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286810/christian-cueva-lidera-la-remontada-de-sport-boys/",
+   "fecha": "2026-10-27T02:31:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "aaf5edaf5737",
+   "titulo": "Cantero salva a Alianza y mantiene viva la lucha por el Clausura",
+   "resumen": "Alianza Lima derrotó por 1-0 a Club Deportivo Moquegua este domingo 25 de octubre, en el estadio 25 de Noviembre de Moquegua, por la decimotercera jornada del Torneo Clausura de la Liga 1. El conjunto blanquiazul consiguió una victoria agónica como visitante gracias a un gol de Alan Cantero en los…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286807/cantero-salva-a-alianza-y-mantiene-viva-la-lucha-por-el-clausura/",
+   "fecha": "2026-10-27T02:30:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alianza",
+     "ubigeo": "220504",
+     "ccpp": "2205040003",
+     "precision": "centro_poblado",
+     "provincia": "Lamas",
+     "departamento": "San Martín",
+     "lon": -76.27508,
+     "lat": -6.11706,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "bfc68d289d1e",
+   "titulo": "Virgen de la Natividad queda contra las cuerdas en la Copa Perú",
+   "resumen": "Virgen de la Natividad de Tacna perdió por 4-0 ante Cruz de Chalpón de Lambayeque el pasado domingo 25 de octubre, a las 2:00 p. m., en el estadio Sebastián Vilela Purihuamán, por el encuentro de ida de los dieciseisavos de final de la Etapa Nacional de la Copa Perú 2026. El conjunto tacneño…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286804/virgen-de-la-natividad-queda-contra-las-cuerdas-en-la-copa-peru/",
+   "fecha": "2026-10-27T02:28:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Cruz De Chalpon",
+     "ubigeo": "140308",
+     "ccpp": "1403080202",
+     "precision": "centro_poblado",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -80.23167,
+     "lat": -5.91118,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "31670116d32f",
+   "titulo": "Petroperú recibió $ 475 millones que se gestionó para sostener la operación de la refinería de Talara",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/economia/petroperu-recibio-los-475-millones-que-se-gestiono-para-sostener-su-operacion-noticia/",
+   "fecha": "2026-10-27T02:27:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pariñas",
+     "ubigeo": "200701",
+     "precision": "distrito",
+     "provincia": "Talara",
+     "departamento": "Piura",
+     "lon": -81.26936,
+     "lat": -4.5795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b25b16f78c61",
+   "titulo": "Bentín vuelve al triunfo con agónico gol ante Alianza Universidad",
+   "resumen": "Bentín Tacna Heroica derrotó por 1-0 a Alianza Universidad este domingo 25 de octubre, a las 3:15 p. m., en el estadio Jorge Basadre Grohmann de Tacna, por la quinta jornada del Grupo Campeonato C de la fase final de la Liga 2. El conjunto tacneño consiguió una victoria importante ante su público…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286801/bentin-vuelve-al-triunfo-con-agonico-gol-ante-alianza-universidad/",
+   "fecha": "2026-10-27T02:27:28Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "20885ecf8c36",
+   "titulo": "Choque entre mototaxi y camioneta deja dos pasajeras heridas en Gregorio Albarracín",
+   "resumen": "Dos mujeres resultaron heridas tras la colisión entre una mototaxi y una camioneta en la intersección de la avenida Ecológica con la calle Ima Sumac, en el distrito de Gregorio Albarracín, en Tacna. Según informó Radio Uno, la mototaxi de placa 7645-JZ era conducida por Ubaldo Paco Maquera…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286795/choque-entre-mototaxi-y-camioneta-deja-dos-pasajeras-heridas-en-gregorio-albarracin/",
+   "fecha": "2026-10-27T02:23:20Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1602fb56c2a2",
+   "titulo": "La Libertad: JEE de Pataz anula elecciones en Urpay por hechos violentos del 4 de octubre",
+   "resumen": "El Jurado Electoral Especial (JEE) de Pataz decidió anular las Elecciones Regionales y Municipales en el distrito de Urpay, ubicado en la provincia de Pataz, región La Libertad, luego de que se acreditara que los hechos violentos registrados la noche del 4 de octubre alteraran de manera sensible…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-la-libertad-jee-pataz-anula-elecciones-urpay-hechos-violentos-del-4-octubre-1097437.aspx",
+   "fecha": "2026-10-27T02:15:30Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Urpay",
+     "ubigeo": "130813",
+     "precision": "distrito",
+     "provincia": "Pataz",
+     "departamento": "La Libertad",
+     "lon": -77.38952,
+     "lat": -8.34785,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Pataz",
+     "ubigeo": "130800",
+     "precision": "provincia",
+     "provincia": "Pataz",
+     "departamento": "La Libertad",
+     "lon": -77.29604,
+     "lat": -8.275,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b6b5690e3edc",
+   "titulo": "CFAM Moquegua realizará expoferia con concurso de cuyes y mascotas este 7 de noviembre",
+   "resumen": "El Centro de Formación Agrícola de Moquegua (CFAM) realizará este sábado 7 de noviembre una expoferia que incluirá concursos de cuyes y mascotas, exhibición de ganado y oferta gastronómica. La actividad se desarrollará desde las 8:00 a. m. hasta aproximadamente las 4:00 p. m., en las instalaciones…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286792/cfam-moquegua-realizara-expoferia-con-concurso-de-cuyes-y-mascotas-este-7-de-noviembre/",
+   "fecha": "2026-10-27T02:12:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "822e1be89ea6",
+   "titulo": "Arzobispado de Lima estima que 1.2 millones de fieles asistirán a misa del papa León XIV",
+   "resumen": "El Arzobispado de Lima estimó que alrededor de un millón 200 mil personas asistirán a la misa que celebrará el papa León XIV el próximo lunes 16 de noviembre en la base aérea de Las Palmas, en Lima. La ceremonia religiosa marcará el cierre de la visita apostólica del pontífice al Perú. Juan José…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/26/arzobispado-de-lima-estima-que-1-2-millones-de-fieles-asistiran-a-misa-del-papa-leon-xiv/",
+   "fecha": "2026-10-27T02:11:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "150502",
+     "ccpp": "1505020016",
+     "precision": "centro_poblado",
+     "provincia": "Cañete",
+     "departamento": "Lima",
+     "lon": -76.58043,
+     "lat": -12.77613,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d32a786bb677",
+   "titulo": "Animador Romario Cartagena no habría sido objetivo de balacera que le costó la vida, según la Policía",
+   "resumen": "La Policía investiga el ataque en el Callao que dejó dos muertos. Las pesquisas señalan a la red de 'Cholo Wara' y confirman un detenido.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/callao/romario-cartagena-policia-revela-que-animador-no-era-el-objetivo-en-balacera-del-callao-noticia-1714598",
+   "fecha": "2026-10-27T02:06:29Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e078f6e008fd",
+   "titulo": "INPE anuncia la muerte de un interno y otro herido dentro del penal de Chiclayo",
+   "resumen": "La autoridad penitenciaria informó que este suceso se dio debido a un enfrentamiento. El reo fallecido fue identificado como Jesús Alfredo Ramos.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/lambayeque/penal-de-chiclayo-inpe-anuncia-la-muerte-de-un-interno-y-otro-herido-dentro-del-recinto-penitenciario-noticia-1714590",
+   "fecha": "2026-10-27T02:05:54Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "db98a930dbb3",
+   "titulo": "Mario Hart explica cómo llegó al departamento de Shirley Arica: \"El que nada debe, nada teme\"",
+   "resumen": "El presentador aseguró que volvió brevemente a la vivienda de la modelo para recuperar su teléfono, luego de que las cámaras los captaran juntos de madrugada en Miraflores durante una despedida.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/mario-hart-explica-como-llego-al-departamento-de-shirley-arica-el-que-nada-debe-nada-teme/",
+   "fecha": "2026-10-27T01:58:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "150122",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02918,
+     "lat": -12.1218,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "041d3f4984a3",
+   "titulo": "Párroco de Zaña afirma que el papa León XIV “quiere visibilizar los lugares del Perú profundo” durante su visita a Chiclayo",
+   "resumen": "La visita del pontífice a Lambayeque genera expectativas sobre la atención a las poblaciones que suelen quedar al margen de la agenda pública. El padre David Farfán también adelantó los temas que podrían marcar el mensaje del Santo Padre",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/parroco-de-zana-afirma-que-el-papa-leon-xiv-quiere-visibilizar-los-lugares-del-peru-profundo-durante-su-visita-a-chiclayo/",
+   "fecha": "2026-10-27T01:57:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3240f671d54f",
+   "titulo": "Adulto mayor resulta herido tras incidente con auto amarillo en avenida Industrial",
+   "resumen": "Un adulto mayor de aproximadamente 70 años resultó herido en la cabeza tras un incidente registrado en la intersección de las avenidas Industrial y Tarata, en Tacna. Inicialmente, el hecho fue reportado como un atropello; sin embargo, imágenes de cámaras de seguridad muestran circunstancias que…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286788/adulto-mayor-resulta-herido-tras-incidente-con-auto-amarillo-en-avenida-industrial/",
+   "fecha": "2026-10-27T01:55:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tarata",
+     "ubigeo": "230400",
+     "precision": "provincia",
+     "provincia": "Tarata",
+     "departamento": "Tacna",
+     "lon": -70.03188,
+     "lat": -17.47506,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "122ab2cd386b",
+   "titulo": "Papa León XIV en Perú: misa en Las Palmas espera reunir a 1,2 millones de fieles el 16 de noviembre",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-en-peru-misa-en-las-palmas-espera-reunir-a-12-millones-de-fieles-el-16-de-noviembre-noticia/",
+   "fecha": "2026-10-27T01:55:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "150502",
+     "ccpp": "1505020016",
+     "precision": "centro_poblado",
+     "provincia": "Cañete",
+     "departamento": "Lima",
+     "lon": -76.58043,
+     "lat": -12.77613,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "2914dbd158ee",
+   "titulo": "SNMPE alerta sobre riesgos de minería ilegal en Cajamarca",
+   "resumen": "La Sociedad Nacional de Minería, Petróleo y Energía (SNMPE) hizo un llamado para incrementar la presencia del Estado en la región Cajamarca, advirtiendo sobre el peligro del avance de la minería ilegal.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-snmpe-alerta-sobre-riesgos-mineria-ilegal-cajamarca-1097435.aspx",
+   "fecha": "2026-10-27T01:39:31Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "09f303c50a0b",
+   "titulo": "Papa León XIV: Arzobispado estima que más de un millón de personas acudirán a la misa del pontífice en Lima",
+   "resumen": "Juan José Dioses, vocero de dicha institución, reiteró que la ceremonia es gratuita y los fieles podrán solicitar hasta ocho entradas para estar en la homilía.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/papa-leon-xiv-arzobispado-estima-que-mas-de-un-millon-de-personas-acudiran-a-la-misa-del-pontifice-en-lima-noticia-1714594",
+   "fecha": "2026-10-27T01:31:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ad45565a8b6e",
+   "titulo": "Expediente Judicial Electrónico Penal prevé operar en Lima durante el 2027",
+   "resumen": "El Expediente Judicial Electrónico Penal prevé iniciar operaciones en Lima durante el 2027, según el director ejecutivo del EJE Penal, Joel Segura Alania. El sistema, con soporte del BID, integrará módulos de mesa de partes, despacho penal y gestión de audiencias, y permitirá el acceso digital a…",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/nacional/expediente-judicial-electronico-penal-lima-2027",
+   "fecha": "2026-10-27T01:20:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e1158e4435a7",
+   "titulo": "Lambayeque: condenan a padrastro y madre por caso de violación sexual a menor",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-condenan-a-padrastro-y-madre-por-caso-de-violacion-sexual-a-menor-noticia/",
+   "fecha": "2026-10-27T01:20:23Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7f45b5558adb",
+   "titulo": "Agenda confirmada del papa León XIV en Pucallpa: horarios, misa y encuentro con los pueblos amazónicos",
+   "resumen": "El pontífice llegará a Ucayali el domingo 15 de noviembre, después de cumplir actividades en Cusco. Su paso por la ciudad incluirá un encuentro con misioneros y representantes de pueblos originarios y una misa en la Villa Deportiva Regional, en una región marcada por una amplia diversidad indígena…",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/agenda-confirmada-del-papa-leon-xiv-en-pucallpa-horarios-misa-y-encuentro-con-los-pueblos-amazonicos/",
+   "fecha": "2026-10-27T01:07:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1bd162d88276",
+   "titulo": "Lambayeque: dos investigados siguen prófugos tras operativo contra “Los Escorpiones”",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-dos-investigados-siguen-profugos-tras-operativo-contra-los-escorpiones-noticia/",
+   "fecha": "2026-10-27T01:05:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "19620634fb03",
+   "titulo": "Aeropuerto del Cusco suspenderá vuelos durante la visita de León XIV el 15 de noviembre",
+   "resumen": "El aeropuerto internacional Alejandro Velasco Astete, de la ciudad del Cusco suspenderá sus vuelos entre las 7:45 y 15:05 horas del 15 de noviembre para facilitar la llegada y salida del papa León XIV durante su visita a la capital incaica, informaron este lunes las autoridades locales.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/cusco/papa-leon-xiv-en-el-peru-aeropuerto-del-cusco-suspendera-vuelos-durante-la-visita-del-pontifice-el-15-de-noviembre-apuesplan-ultimas-noticia/",
+   "fecha": "2026-10-27T00:46:19Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Aeropuerto",
+     "ubigeo": "080801",
+     "ccpp": "0808010037",
+     "precision": "centro_poblado",
+     "provincia": "Espinar",
+     "departamento": "Cusco",
+     "lon": -71.45252,
+     "lat": -14.79151,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "595b8dafc8ce"
+  },
+  {
+   "id": "6131f922e9b8",
+   "titulo": "Papa León XIV: paso a paso para obtener entradas a la misa en la Base Aérea Las Palmas",
+   "resumen": "A pocas semanas de la visita apostólica del sumo pontífice, el Arzobispado de Lima informó cómo conseguir los boletos de ingreso a la Santa Misa que ofrecerá el 16 de noviembre en el recinto militar de Surco. Revisa todos los detalles en esta nota.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/26/papa-leon-xiv-paso-a-paso-para-obtener-entradas-a-la-misa-en-la-base-aerea-las-palmas-1756534",
+   "fecha": "2026-10-27T00:46:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f1ed94521858",
+   "titulo": "Lambayeque: conexión clandestina en el Oleoducto Norperuano provoca derrame de petróleo en Olmos",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-conexion-clandestina-en-el-oleoducto-norperuano-provoca-derrame-de-petroleo-en-olmos-noticia/",
+   "fecha": "2026-10-27T00:44:49Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Olmos",
+     "ubigeo": "140308",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.74748,
+     "lat": -5.98787,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "bad77d661a94",
+   "titulo": "Bolsa de Valores: desde 2027 peruanos podrán invertir directamente en acciones de Chile y Colombia",
+   "resumen": "Rafael Carranza, presidente de la Bolsa de Valores de Lima, anunció que la integración bursátil de Perú, Chile y Colombia avanza hacia su implementación. La interoperabilidad permitirá a los inversionistas acceder a valores de los tres mercados a través de sus sociedades agentes de bolsa.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/economia/economia/bolsa-de-valores-desde-2027-peruanos-podran-invertir-directamente-en-acciones-de-chile-y-colombia-noticia-1714591",
+   "fecha": "2026-10-27T00:42:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "398f0f4a2534",
+   "titulo": "‘¿Volverías con tu ex? 3’ se graba en Lima: Shirley Arica, Fabio Agostini, Facundo González y Oriana Marzoli entre los confirmados",
+   "resumen": "La cadena chilena Mega puso en marcha su tercera entrega tras postergar el rodaje por ajustes presupuestarios y visas, reuniendo a figuras mediáticas bajo un mismo techo durante tres meses continuos de competencia.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/volverias-con-tu-ex-3-se-graba-en-lima-shirley-arica-fabio-agostini-facundo-gonzalez-y-oriana-marzoli-entre-los-confirmados/",
+   "fecha": "2026-10-27T00:41:24Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a6329ef46df7",
+   "titulo": "CAJAMARCA: EXIGEN CLAUSURAR RESERVORIO DE CELENDÍN DONDE MURIERON AHOGADAS DOS HERMANITAS POR FALTA DE SEGURIDAD",
+   "resumen": "RCR, 26 de octubre 2026.-. En medio de la consternación por la muerte de dos hermanitas de 8 y 12 años, los pobladores del distrito de José Gálvez pidieron al Gobierno Regional de Cajamarca clausurar el reservorio donde las menores murieron ahogadas. La comunidad exige el cierre del reservorio…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/cajamarca-exigen-clausurar-reservorio-de-celendin-donde-murieron-ahogadas-dos-hermanitas-por-falta-de-seguridad/",
+   "fecha": "2026-10-27T00:39:17Z",
+   "temas": [
+    "agua",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "José Gálvez",
+     "ubigeo": "060306",
+     "precision": "distrito",
+     "provincia": "Celendín",
+     "departamento": "Cajamarca",
+     "lon": -78.13284,
+     "lat": -6.9255,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Celendín",
+     "ubigeo": "060300",
+     "precision": "provincia",
+     "provincia": "Celendín",
+     "departamento": "Cajamarca",
+     "lon": -78.14312,
+     "lat": -6.86695,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "2d59469e5efa",
    "titulo": "Lambayeque: piden ayuda para perrito al que le mutilaron las dos patas en Motupe",
    "resumen": "",
@@ -1236,6 +2830,31 @@
    ]
   },
   {
+   "id": "969d7f960cf1",
+   "titulo": "Javier Miranda: “Propuestas de la mesa técnica son disparatadas y absurdas”",
+   "resumen": "El ingeniero y analista político mollendino, Javier Miranda Córdoba, calificó duramente los resultados de la reciente mesa técnica en la provincia de Islay, tildando los acuerdos adoptados como opiniones «disparatadas y absurdas». Durante su evaluación sobre la crisis hídrica, Miranda cuestionó la…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/javier-miranda-propuestas-de-la-mesa-tecnica-son-disparatadas-y-absurdas/",
+   "fecha": "2026-10-26T23:06:38Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "dc138cd03f9d",
    "titulo": "Puno: Indecopi tardaría seis meses en resolver denuncia por concertación de pasajes",
    "resumen": "Indecopi demoraría seis meses en resolver la denuncia contra empresas de transporte urbano de Puno por presunta concertación de precios tras elevar el pasaje a S/ 1.50",
@@ -1391,6 +3010,32 @@
      "departamento": "La Libertad",
      "lon": -79.03054,
      "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "49cdf1c46ceb",
+   "titulo": "Richard Ale confirma que asistirá a mesas técnicas sobre problemática del agua",
+   "resumen": "El alcalde provincial de Islay, Richard Ale Cruz, garantizó su participación en las próximas sesiones de la mesa de trabajo con el Ejecutivo para asegurar los proyectos de saneamiento e infraestructura hídrica provincial. «Hay que comprometerse a sí asistir a las reuniones, a estar ahí, siquiera…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/richard-ale-confirma-que-asistira-a-mesas-tecnicas-sobre-problematica-del-agua/",
+   "fecha": "2026-10-26T22:33:27Z",
+   "temas": [
+    "agua",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Islay",
+     "ubigeo": "040704",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.09741,
+     "lat": -17.00083,
      "confianza": 0.7,
      "principal": true
     }
@@ -1960,6 +3605,42 @@
    ]
   },
   {
+   "id": "e6bdc1fe720c",
+   "titulo": "76 niños de Mariscal Nieto recibieron lentes tras evaluación visual",
+   "resumen": "Un total de 76 niños de entre 3 y 11 años de la provincia Mariscal Nieto recibieron lentes correctores como parte de una campaña de diagnóstico y tratamiento de errores refractivos impulsada por la Dirección Regional de Salud (DIRESA) y el Hospital Regional de Moquegua. La intervención incluyó…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/76-ninos-de-mariscal-nieto-recibieron-lentes-tras-evaluacion-visual/",
+   "fecha": "2026-10-26T21:30:52Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Mariscal Nieto",
+     "ubigeo": "180100",
+     "precision": "provincia",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "b66f8fe84af6",
    "titulo": "GOBIERNO INAUGURA OBRA DE ELECTRIFICACIÓN RURAL QUE LLEVARÁ ENERGÍA ELÉCTRICA A 1,540 POBLADORES DE MOQUEGUA",
    "resumen": "Fuente: Ministerio de Energía y Minas Presidenta de la República, Keiko Fujimori, y ministro de Energía y Minas, Guillermo Shinno, destacaron el proyecto ejecutado por la DGER en las Pampas de Clemesí. Lima, 26 de octubre de 2026.- La presidenta de la República, Keiko Fujimori, y el ministro de…",
@@ -2170,6 +3851,32 @@
    ]
   },
   {
+   "id": "0ffe2c9ba667",
+   "titulo": "Ministro Arnillas anuncia nueva mesa técnica, sería a fines de noviembre",
+   "resumen": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas González, ratificó el compromiso del Ejecutivo de articular acciones con las carteras de Agricultura, Energía y Minas, y Salud para ejecutar soluciones integrales en la provincia de Islay. “Espero que, en la próxima mesa…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/ministro-arnillas-anuncia-nueva-mesa-tecnica-seria-a-fines-de-noviembre/",
+   "fecha": "2026-10-26T21:08:48Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "af8bcca3ee5f",
    "titulo": "La Libertad: Detienen a un adulto y a un menor con 595 cartuchos de dinamita",
    "resumen": "Un adolescente de 17 años y un adulto de 28 fueron intervenidos en el barrio San Andrés, ubicado en el distrito de Quiruvilca, en la provincia de Santiago de Chuco, tras incautarles 595 cartuchos de dinamita.",
@@ -2322,6 +4029,42 @@
      "departamento": "Ayacucho",
      "lon": -74.1951,
      "lat": -13.55763,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f83d21d173a6",
+   "titulo": "Denuncian presunto maltrato animal en parque ecológico de Ciudad Nueva en Pacocha",
+   "resumen": "El estado de varios animales del parque ecológico de Ciudad Nueva, en el distrito de Pacocha, fue denunciado en redes sociales por una ciudadana que visitó el recinto junto a su familia y registró imágenes de los ejemplares. En el video se observa a varios ovinos, entre pequeños y adultos, con…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/denuncian-presunto-maltrato-animal-en-parque-ecologico-de-ciudad-nueva-en-pacocha/",
+   "fecha": "2026-10-26T20:55:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pacocha",
+     "ubigeo": "180303",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.34041,
+     "lat": -17.61073,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Ciudad Nueva",
+     "ubigeo": "230104",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.23814,
+     "lat": -17.98192,
      "confianza": 0.9,
      "principal": false
     }
@@ -4393,6 +6136,42 @@
      "lon": -80.45913,
      "lat": -3.571,
      "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ad7e506c7f05",
+   "titulo": "Serenazgo de Mariscal Nieto conmemora su 19.º aniversario con reconocimiento a sus agentes",
+   "resumen": "El Día del Sereno Municipal y el 19.º aniversario del Serenazgo de la Municipalidad Provincial de Mariscal Nieto fueron conmemorados con una ceremonia en la que se reconoció la labor de los agentes que participan en las acciones de prevención y seguridad ciudadana en Moquegua. La actividad incluyó…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/serenazgo-de-mariscal-nieto-conmemora-su-19-o-aniversario-con-reconocimiento-a-sus-agentes/",
+   "fecha": "2026-10-26T18:25:39Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Mariscal Nieto",
+     "ubigeo": "180100",
+     "precision": "provincia",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
      "principal": false
     }
    ]

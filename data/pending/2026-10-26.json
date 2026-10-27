@@ -2,6 +2,872 @@
  "fecha": "2026-10-26",
  "noticias": [
   {
+   "id": "6eaabcbcedc6",
+   "titulo": "Lula agradece felicitación de Fujimori y plantea fortalecer integración Perú-Brasil",
+   "resumen": "Lula da Silva agradeció a Keiko Fujimori su felicitación por su reelección y planteó fortalecer la integración regional con una agenda de desarrollo sostenible en la Amazonía, de cara a los 200 años de asociación entre Perú y Brasil en 2027.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/politica/lula-agradece-fujimori-integracion-peru-brasil",
+   "fecha": "2026-10-27T04:51:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "87be483d8306",
+   "titulo": "Partido de Flávio Bolsonaro reconoce la reelección del presidente Lula en Brasil",
+   "resumen": "El Partido Liberal del opositor Flávio Bolsonaro reconoció este lunes la reelección del presidente izquierdista Luiz Inácio Lula da Silva en Brasil, pese a que el candidato todavía no ha admitido la derrota.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-partido-flavio-bolsonaro-reconoce-reeleccion-del-presidente-lula-brasil-1097449.aspx",
+   "fecha": "2026-10-27T04:46:26Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8c09f5e1ffcc",
+   "titulo": "PCM alerta a 1,510 entidades públicas por fallas informáticas que amenazan datos",
+   "resumen": "La Presidencia del Consejo de Ministros (PCM), mediante el Centro Nacional de Seguridad Digital (CNSD), puso en marcha medidas preventivas ante dos vulnerabilidades informáticas de alcance global que podrían comprometer la seguridad de los sistemas digitales, exponer información confidencial y…",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/pcm-alerta-a-1510-entidades-publicas-por-fallas-informaticas-que-amenazan-datos-noticia/",
+   "fecha": "2026-10-27T04:45:00Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2eecc86f5bbb",
+   "titulo": "Keiko Fujimori: Gobierno autoriza viaje de ministros de Salud y del Interior a El Salvador",
+   "resumen": "El Gobierno de la presidenta Keiko Fujimori autorizó este lunes 26 de octubre el viaje de los ministros de Salud, Luis Dyer, y del Interior, César Astudillo, a El Salvador, como parte de la comitiva oficial, del 28 al 31 de este mes.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-gobierno-autoriza-viaje-de-ministros-de-salud-y-del-interior-a-el-salvador-nayib-bukele-luis-dyer-cesar-astudillo-ultimas-noticia/",
+   "fecha": "2026-10-27T04:43:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ba9f4d6801c4",
+   "titulo": "Gobierno establece medidas excepcionales y temporales por la visita del papa León XIV",
+   "resumen": "El Gobierno estableció, de manera excepcional y temporal, medidas en materia de contratación pública y gestión ambiental que permitan a los gobiernos regionales de Cajamarca, Ucayali y Lambayeque aplicar y ejecutar acciones directas en la prestación del servicio integral de residuos sólidos…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-gobierno-establece-medidas-excepcionales-y-temporales-por-visita-del-papa-leon-xiv-1097444.aspx",
+   "fecha": "2026-10-27T04:38:03Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.18,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "968b8cee09b5",
+   "titulo": "Minem rechaza que proyecto de ley MAPE del Ejecutivo sea una ampliación del Reinfo",
+   "resumen": "El ministro de Energía y Minas, Guillermo Shinno, rechazó que el proyecto de ley para la minería artesanal y de pequeña escala (MAPE), presentado por el Ejecutivo, constituya una ampliación del Registro Integral de Formalización Minera en el Perú (Reinfo).",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/minem-rechaza-que-proyecto-de-ley-mape-del-ejecutivo-sea-una-ampliacion-del-reinfo-noticia/",
+   "fecha": "2026-10-27T04:29:33Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9dab0a15eda0",
+   "titulo": "Precio del dólar en Perú hoy: cuál es el tipo de cambio del martes 27 de octubre",
+   "resumen": "Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, martes 27 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-2026-a-cuanto-el-tipo-de-cambio-del-martes-27-de-octubre-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
+   "fecha": "2026-10-27T04:29:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4c699428d485",
+   "titulo": "Fiscalía archiva investigación por esterilizaciones forzadas aplicando ley de prescripción promovida por Fuerza Popular",
+   "resumen": "La investigación apuntaba a 52 personas, entre las cuales se encuentra el senador fujimorista Alejandro Aguinaga. La resolución de la Cuarta Fiscalía Penal Supranacional Especializada en Derechos Humanos reconoce que hubo casos de esterilización sin con consentimiento libre e informado.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/26/fiscalia-archiva-investigacion-por-esterilizaciones-forzadas-aplicando-ley-de-prescripcion-promovida-por-fuerza-popular-hnews-2187354",
+   "fecha": "2026-10-27T04:28:24Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e2ce6f4efa81",
+   "titulo": "Perú, EE. UU. y las Naciones Unidas abordan acciones para la atención del fenómeno El Niño",
+   "resumen": "El canciller Carlos Espá se reunió con el embajador de los Estados Unidos, Bernie Navarro, y la Coordinadora Residente de las Naciones Unidas, Rossana Dudziak, con el objetivo de fortalecer la cooperación internacional ante el fenómeno El Niño (FEN) 2026-2027.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-peru-ee-uu-y-las-naciones-unidas-abordan-acciones-para-atencion-del-fenomeno-nino-1097448.aspx",
+   "fecha": "2026-10-27T04:27:44Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9ce075830672",
+   "titulo": "Padre Juan Bytton destaca que León XIV será el primer papa en celebrar una santa misa en la Amazonía peruana",
+   "resumen": "El secretario general de la visita papal detalló en Prueba de Fuego de RPP avances de la comisión de avanzada del Vaticano y la logística de entradas.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/papa-leon-xiv-en-peru-juan-bytton-confirma-misa-en-la-amazonia-y-detalles-de-su-visita-noticia-1714604",
+   "fecha": "2026-10-27T04:27:28Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "88a8e66b418c",
+   "titulo": "Golpe a la extorsión: PNP captura a 6 presuntos integrantes de la banda ‘Los Gallegos’",
+   "resumen": "Seis extranjeros que integrarían la banda delictiva ‘Los Gallegos’, una facción de la organización transnacional ‘Tren de Aragua’, fueron capturados por la Policía Nacional en un operativo ejecutado en un inmueble ubicado en la calle Los Jazmines F1, en la asociación de vivienda Primero de Enero…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-golpe-a-extorsion-pnp-captura-a-6-presuntos-integrantes-de-banda-los-gallegos-1097447.aspx",
+   "fecha": "2026-10-27T04:16:38Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5e1fa90a526a",
+   "titulo": "Peruana creó una plataforma con IA para aprender lengua de señas tras presenciar una escena que marcó su vida",
+   "resumen": "Lo que comenzó como una respuesta a las barreras que enfrenta la comunidad sorda hoy lleva a INCLUEDU a la final de Emprende en TikTok 2026. La startup también recibió el IEEE Entrepreneurship Award 2026",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/peruana-creo-una-plataforma-con-ia-para-aprender-lengua-de-senas-tras-presenciar-una-escena-que-marco-su-vida/",
+   "fecha": "2026-10-27T04:15:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a8b74fba4911",
+   "titulo": "Comitiva del Vaticano llegó al Perú para coordinar detalles previos a la llegada de León XIV",
+   "resumen": "La delegación del Vaticano llegó a Lima para coordinar la agenda del papa León XIV en el país, con visitas programadas a la capital, Cusco, Pucallpa, Chiclayo y Cajamarca.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/comitiva-del-vaticano-en-peru-agenda-e-itinerario-previo-a-la-visita-del-papa-leon-xiv-noticia-1714608",
+   "fecha": "2026-10-27T04:13:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.18,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ef3b9ecd3afb",
+   "titulo": "Midis refuerza padrones de hogares con data de Reniec, Sunat, Susalud y MTPE ante el FEN",
+   "resumen": "El Ministerio de Desarrollo e Inclusión Social (Midis), a través del Organismo de Focalización e Información Social (OFIS), trabaja en el fortalecimiento de los padrones de hogares y en el intercambio de información con diversas entidades del Estado, con el fin de identificar con precisión a las…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-midis-refuerza-padrones-hogares-data-reniec-sunat-susalud-y-mtpe-ante-fen-1097445.aspx",
+   "fecha": "2026-10-27T04:12:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "bc11c222281d",
+   "titulo": "Papa León XIV en Perú: la propuesta que el Vaticano dejó fuera de la agenda oficial",
+   "resumen": "En entrevista con Infobae Perú, monseñor Guillermo Elías contó cómo se fue definiendo el itinerario del pontífice y reveló que algunas propuestas iniciales tuvieron que ser modificadas durante las coordinaciones con la Santa Sede",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/papa-leon-xiv-en-peru-la-propuesta-que-el-vaticano-dejo-fuera-de-la-agenda-oficial/",
+   "fecha": "2026-10-27T04:12:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "403765008e0e",
+   "titulo": "Advierten paralización de doble vía a Boca del Río tras caída de medida cautelar",
+   "resumen": "La ejecución de la doble vía hacia Boca del Río vuelve a quedar en incertidumbre luego de que una resolución dejara sin efecto la medida cautelar que permitía al Consorcio Sama continuar con los trabajos. A esto se suma el retiro anunciado de la empresa Macontra, integrante del consorcio que…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286819/advierten-paralizacion-de-doble-via-a-boca-del-rio-tras-caida-de-medida-cautelar/",
+   "fecha": "2026-10-27T04:10:30Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c9b31b37402b",
+   "titulo": "Xiomy Kanashiro celebra los 42 años de Jefferson Farfán con cena y mensaje",
+   "resumen": "Xiomy Kanashiro festejó los 42 años de Jefferson Farfán con una cena familiar y un mensaje en redes sociales. La madre de la bailarina dijo que quiere ser abuela y el padre contó que conversó con el exfutbolista antes de aprobar la relación.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/entretenimiento/xiomy-kanashiro-celebra-42-anos-jefferson-farfan",
+   "fecha": "2026-10-27T03:50:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6e31c06a9242",
+   "titulo": "Normas legales: autorizan viaje de los ministros del Interior y de Salud a El Salvador",
+   "resumen": "El Poder Ejecutivo autorizó el viaje del ministro del Interior, César Astudillo, y el ministro de Salud, Luis Dyer, a la República de El Salvador, del 28 al 31 de octubre, para promover la cooperación en áreas de interés para el Perú, como la lucha contra la delincuencia y el reforzamiento de los…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-normas-legales-autorizan-viaje-los-ministros-del-interior-y-salud-a-salvador-1097440.aspx",
+   "fecha": "2026-10-27T03:38:58Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f51fd09e6e47",
+   "titulo": "Policía revela que balacera donde murió Romario Cartagena habría sido una venganza contra alias ‘Tamara’",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/policia-revela-que-balacera-donde-murio-romario-cartagena-habria-sido-una-venganza-contra-alias-tamara-noticia/",
+   "fecha": "2026-10-27T03:31:45Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b26eb6d6f8f2",
+   "titulo": "Senador Jorge Gavidia: No soy un tránsfuga, no soy un traidor",
+   "resumen": "El senador Jorge Gavidia fundamentó su renuncia al Partido del Buen Gobierno y descartó unirse a la bancada de Obras",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/senador-jorge-gavidia-no-soy-transfuga-no-soy-traidor-n495884",
+   "fecha": "2026-10-27T03:30:20Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8f10dbb342fa",
+   "titulo": "Visita del papa León XIV: ¿qué días no laborables habrá en Perú y quiénes podrán acceder?",
+   "resumen": "Por la visita del papa León XIV, Perú tendrá días no laborables del 11 al 16 de noviembre de 2026. Conoce las regiones, beneficiarios y cómo se recuperarán las horas.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/visita-del-papa-leon-xiv-que-dias-no-laborables-habra-en-peru-y-quienes-podran-acceder-noticia/",
+   "fecha": "2026-10-27T03:21:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b8132b067a3e",
+   "titulo": "Marco Vinelli estima que lluvias intensas por El Niño llegarían entre mediados y fines de noviembre",
+   "resumen": "El ministro de Desarrollo Agrario y Riego, Marco Vinelli, estimó que las lluvias intensas asociadas al fenómeno El Niño podrían comenzar entre mediados y finales de noviembre. La autoridad indicó que las instituciones especializadas mantienen el monitoreo de las condiciones climáticas ante el…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/26/marco-vinelli-estima-que-lluvias-intensas-por-el-nino-llegarian-entre-mediados-y-fines-de-noviembre/",
+   "fecha": "2026-10-27T03:18:55Z",
+   "temas": [
+    "desastres",
+    "agua"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "16b8ecb78505",
+   "titulo": "Corrupción en la administración pública implica un riesgo de lavado de activos",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/economia/corrupcion-en-la-administracion-publica-implica-un-riesgo-de-lavado-de-activos-noticia/",
+   "fecha": "2026-10-27T03:11:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "232891338894",
+   "titulo": "Programación y horarios de los partidos de la fecha 3 en Liga Peruana de Vóley 2026-27",
+   "resumen": "Este sábado iniciará una nueva fecha de la Liga Peruana de Vóley Betsson 2026-27, certamen que tiene a Alianza Lima como tricampeón.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/voley/mas-voley/liga-peruana-de-voley-2026-27-programacion-y-horarios-de-los-partidos-de-la-fecha-3-de-certamen-lpv-noticia-1714599",
+   "fecha": "2026-10-27T03:08:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9bfba3c28dd3",
+   "titulo": "Xiomy Kanashiro celebra los 42 años de Jefferson Farfán con una cena y un romántico mensaje",
+   "resumen": "La bailarina reunió a su familia en casa para festejar al exfutbolista peruano y publicó un collage de la velada con una dedicatoria llena de cariño para su pareja en redes.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/xiomy-kanashiro-celebra-los-42-anos-de-jefferson-farfan-con-una-cena-y-un-romantico-mensaje/",
+   "fecha": "2026-10-27T03:08:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "35522a79b9e9",
+   "titulo": "Perú, Mucho Gusto Lima 2026: cuánto costarán los platos, cómo llegar y qué actividades ofrecerá la feria gastronómica",
+   "resumen": "La feria reunirá a 145 expositores de las 25 regiones del país del 30 de octubre al 1 de noviembre en la Costa Verde. El ingreso será gratuito, pero habrá tarifas diferenciadas para las comidas y el estacionamiento",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/peru-mucho-gusto-lima-2026-cuanto-costaran-los-platos-como-llegar-y-que-actividades-ofrecera-la-feria-gastronomica/",
+   "fecha": "2026-10-27T03:06:50Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "469861ab59ed",
+   "titulo": "Elecciones 2026: ¿en qué distritos podría anularse la elección municipal?",
+   "resumen": "La quema de material electoral, actos de violencia y un alto ausentismo llevaron a los Jurados Electorales Especiales (JEE) a declarar nula la votación en algunos distritos. Los casos apelados aún deben ser resueltos por el JNE.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/elecciones/elecciones-2026-en-que-distritos-podria-anularse-la-eleccion-municipal-noticia-1714587",
+   "fecha": "2026-10-27T03:06:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "673ebe67f001",
+   "titulo": "ProInversión destina US$ 475 millones para asegurar operación de Petroperú",
+   "resumen": "La Agencia de Promoción de la Inversión Privada (ProInversión) informó que los 475 millones de dólares del crédito puente gestionados a favor de PetroPerú a fueron desembolsados y serán utilizados para sostener la operación de la petrolera, asegurar la compra de crudo y combustibles y atender…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-proinversion-destina-475-millones-para-asegurar-operacion-petroperu-1097433.aspx",
+   "fecha": "2026-10-27T03:00:00Z",
+   "temas": [
+    "infraestructura",
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6f7c257a297e",
+   "titulo": "¿Se podrán reservar las entradas para la misa del Papa León XIV? Esto dice Ticketmaster",
+   "resumen": "Los pases gratuitos para la celebración en la Base Aérea Las Palmas estarán disponibles entre el 5 y el 8 de noviembre. Los fieles pueden crear desde ahora su cuenta en la ticketera, pero deberán completar el proceso cuando las entradas sean habilitadas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/se-podran-reservar-las-entradas-para-la-misa-del-papa-leon-xiv-esto-dice-ticketmaster/",
+   "fecha": "2026-10-27T02:58:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "fe289945d394",
+   "titulo": "Lula da Silva agradece a Keiko Fujimori y propone fortalecer la integración entre Perú y Brasil",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/lula-da-silva-agradece-a-keiko-fujimori-y-propone-fortalecer-la-integracion-entre-peru-y-brasil-noticia/",
+   "fecha": "2026-10-27T02:57:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8a48bf3bf812",
+   "titulo": "Central de Virgilio Martínez es elegido el mejor restaurante de vegetales del mundo por la We’re Smart Green Guide",
+   "resumen": "La fundación belga reservó para el restaurante peruano la distinción de “We’re Smart Untouchable”, categoría exclusiva para el primer lugar del ranking",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/central-de-virgilio-martinez-es-elegido-el-mejor-restaurante-de-vegetales-del-mundo-por-la-were-smart-green-guide/",
+   "fecha": "2026-10-27T02:49:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "fe493f89348e",
+   "titulo": "¡Antonelli conquista Austin y se acerca al título mundial!",
+   "resumen": "El piloto italiano Kimi Antonelli ganó el Gran Premio de Estados Unidos de Fórmula 1 este domingo 25 de octubre, en el Circuito de las Américas de Austin, Texas. El representante de Mercedes partió desde la pole position y logró mantener el control de la carrera hasta cruzar la meta, consiguiendo…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286816/antonelli-conquista-austin-y-se-acerca-al-titulo-mundial/",
+   "fecha": "2026-10-27T02:34:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5a707566e8f8",
+   "titulo": "¡Mbappé silencia el Camp Nou y Real Madrid gana el Clásico!",
+   "resumen": "Real Madrid derrotó por 2-1 al Barcelona este domingo 25 de octubre, en el estadio Spotify Camp Nou, por la décima jornada de LaLiga española. El conjunto madridista se llevó una victoria de gran importancia ante su máximo rival gracias a un doblete de Kylian Mbappé, resultado que puso fin al…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286813/mbappe-silencia-el-camp-nou-y-real-madrid-gana-el-clasico/",
+   "fecha": "2026-10-27T02:32:50Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "81f62e86b539",
+   "titulo": "Minsa y EsSalud se unen para vacunar contra el dengue y el VHP",
+   "resumen": "Para ampliar el acceso a la vacunación contra el dengue y proteger a la población de las zonas priorizadas, el Ministerio de Salud (Minsa) actualizó la norma técnica que regula esta intervención. La medida permitirá incorporar más puntos de vacunación, fortalecer el trabajo de las brigadas y…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-minsa-y-essalud-se-unen-para-vacunar-contra-dengue-y-vhp-1097438.aspx",
+   "fecha": "2026-10-27T02:27:34Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "764b96b00408",
+   "titulo": "Gerentes no responden por todas las deudas de una empresa: cuándo su patrimonio sí puede quedar expuesto",
+   "resumen": "La separación patrimonial protege, en principio, los bienes personales de los ejecutivos frente a las obligaciones de una compañía. Sin embargo, la legislación peruana contempla responsabilidades propias cuando existen conductas dolosas atribuibles directamente a la administración",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/gerentes-no-responden-por-todas-las-deudas-de-una-empresa-cuando-su-patrimonio-si-puede-quedar-expuesto/",
+   "fecha": "2026-10-27T02:24:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "98feebd983b6",
+   "titulo": "Ministro de Vivienda acudirá mañana al Congreso para informar sobre prevención ante el Fenómeno El Niño",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/ministro-de-vivienda-acudira-manana-al-congreso-para-informar-sobre-prevencion-ante-el-fenomeno-el-nino-noticia/",
+   "fecha": "2026-10-27T02:21:49Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8c91306768b8",
+   "titulo": "Lula responde a Keiko Fujimori y la invita a fortalecer la integración regional con un “modelo sostenible” para la Amazonía",
+   "resumen": "El líder brasileño agradeció las felicitaciones de la presidenta y expresó su expectativa de celebrar en 2027 el bicentenario de las relaciones bilaterales",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/lula-responde-a-keiko-fujimori-y-la-invita-a-fortalecer-la-integracion-regional-con-un-modelo-sostenible-para-la-amazonia/",
+   "fecha": "2026-10-27T02:18:45Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4c8af5767739",
+   "titulo": "Luiz Inácio Lula da Silva plantea fortalecer la integración Perú Brasil",
+   "resumen": "El presidente de Brasil, Luiz Inácio Lula da Silva, expresó su agradecimiento a la mandataria peruana, Keiko Fujimori, quien le envió ayer domingo un mensaje de felicitación tras conocerse su victoria en las elecciones generales en dicho país.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-luiz-inacio-lula-da-silva-plantea-fortalecer-integracion-peru-brasil-1097436.aspx",
+   "fecha": "2026-10-27T02:13:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7cdb55e09004",
+   "titulo": "Lula da Silva agradece a Keiko Fujimori sus felicitaciones por su victoria en las elecciones en Brasil",
+   "resumen": "El presidente de Brasil, Lula da Silva, agradeció a su homóloga de Perú, Keiko Fujimori, por sus felicitaciones tras su reciente victoria en la segunda vuelta de las elecciones generales en ese país, donde se impuso al opositor Flávio Bolsonaro, hijo del exjefe de Estado Javier Bolsonaro.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/gobierno/lula-da-silva-agradece-a-keiko-fujimori-sus-felicitaciones-por-su-victoria-en-la-segunda-vuelta-de-las-elecciones-en-brasil-flavio-bolsonaro-ultimas-noticia/",
+   "fecha": "2026-10-27T02:01:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8f847a11b408",
+   "titulo": "Minem promueve uso eficiente de energía en colegios",
+   "resumen": "En el marco del Día Nacional del Ahorro de Energía, el viceministro de Electricidad, Luis Santillán, destacó que el Ministerio de Energía y Minas (Minem) impulsa la formación de una cultura de eficiencia energética desde las instituciones educativas, promoviendo hábitos responsables de consumo que…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-minem-promueve-uso-eficiente-energia-colegios-1097431.aspx",
+   "fecha": "2026-10-27T02:00:00Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e4d78df1d017",
+   "titulo": "We're Smart Green Guide: \"Y el mejor restaurante es...: ¡Central, de Virgilio Martínez!\"",
+   "resumen": "La plataforma We're Smart World publica anualmente una clasificación de los 100 mejores restaurantes del mundo que centran su propuesta en los vegetales y en las frutas. Y sí, tal como se lo imagina cada vez que se habla de gastronomía, el Perú ocupó la cima de la lista, además de obtener otras…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-were-smart-green-guide-y-mejor-restaurante-es-central-virgilio-martinez-1097432.aspx",
+   "fecha": "2026-10-27T01:56:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "226bddefdcfc",
+   "titulo": "Perú promueve inversiones en Nueva York: Cuba y Velarde se reúnen con fondos globales",
+   "resumen": "El ministro de Economía, Elmer Cuba, y el presidente del BCRP, Julio Velarde, presentaron las fortalezas macroeconómicas del Perú en el roadshow inPerú en Nueva York. Se reunieron con gestores de inversión como BlackRock, Morgan Stanley y JP Morgan para atraer capitales.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/economia/peru-promueve-inversiones-nueva-york-cuba-velarde",
+   "fecha": "2026-10-27T01:50:58Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c5b19625f1e2",
+   "titulo": "Feriado del 1 de noviembre cae domingo: ¿habrá descanso el lunes 2 y cómo se paga si trabajas?",
+   "resumen": "El Día de Todos los Santos mantiene su condición de feriado nacional en Perú, pero este 2026 coincidirá con el descanso dominical de muchos trabajadores. La legislación establece reglas distintas para quienes no laboren, quienes tengan turnos ese día y quienes reciban un descanso sustitutorio",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/feriado-del-1-de-noviembre-cae-domingo-habra-descanso-el-lunes-2-y-como-se-paga-si-trabajas/",
+   "fecha": "2026-10-27T01:50:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "496d9d69b412",
+   "titulo": "Últimos feriados de 2026 en Perú: estos son los días festivos que quedan en noviembre y diciembre para los trabajadores",
+   "resumen": "A diferencia de los feriados nacionales, las jornadas no laborables pueden exigir la recuperación de horas en el sector público y privado, según lo acuerden empleadores y trabajadores",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/ultimos-feriados-de-2026-en-peru-estos-son-los-dias-festivos-que-quedan-en-noviembre-y-diciembre-para-los-trabajadores/",
+   "fecha": "2026-10-27T01:47:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f1f0cf25d6cd",
+   "titulo": "Magistrado del TC plantea \"conferencias intercámaras\" y comisiones bicamerales para resolver disputas en el Congreso",
+   "resumen": "César Ochoa analizó la controversia entre la dos cámaras del Congreso tras la aprobación del pedido de facultades en el pleno del Senado.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/congreso/magistrado-del-tc-plantea-conferencias-intercamaras-y-comisiones-bicamerales-para-resolver-disputas-en-el-congreso-noticia-1714596",
+   "fecha": "2026-10-27T01:46:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d21e80389b47",
+   "titulo": "Comando Unificado: Gobierno incauta antenas clandestinas en alrededores de cuatro penales",
+   "resumen": "El Gobierno, a través del Ministerio de Transportes y Comunicaciones (MTC), ejecutó un megaoperativo para desmantelar estaciones radioeléctricas no autorizadas en inmediaciones de los establecimientos penitenciarios Ancón I, Piedras Gordas II, Sarita Colonia (Callao) y Andahuaylas (Apurímac).",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-comando-unificado-gobierno-incauta-antenas-clandestinas-alrededores-cuatro-penales-1097434.aspx",
+   "fecha": "2026-10-27T01:32:00Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Andahuaylas",
+     "ubigeo": "030201",
+     "precision": "distrito",
+     "provincia": "Andahuaylas",
+     "departamento": "Apurímac",
+     "lon": -73.38973,
+     "lat": -13.65603,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Ancón",
+     "ubigeo": "150102",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.17625,
+     "lat": -11.77376,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "89bb395becbf",
+   "titulo": "Tornado causa daños en viviendas y colegio en Chile",
+   "resumen": "Un tornado de categoría EF2 afectó a las comunas de Rengo y Requínoa, en la región de O’Higgins, Chile, dejando viviendas dañadas, techumbres arrancadas y afectaciones en infraestructura educativa. El fenómeno estuvo acompañado de fuertes lluvias, tormentas eléctricas y granizo. En comunicación…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/286785/tornado-causa-danos-en-viviendas-y-colegio-en-chile/",
+   "fecha": "2026-10-27T01:30:04Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8f0c2b283e6e",
+   "titulo": "Marco Vinelli advierte que lluvias intensas por El Niño iniciarían entre mediados y fines de noviembre",
+   "resumen": "El ministro descartó en Las cosas como son de RPP que, a la fecha, exista un desabastecimiento de alimentos en los mercados por efectos de 'El Niño' y detalló las medidas de respuesta ante el inicio de las lluvias intensas.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/gobierno/el-nino-en-peru-2026-marco-vinelli-advierte-que-lluvias-intensas-iniciarian-entre-mediados-y-fines-de-noviembre-noticia-1714595",
+   "fecha": "2026-10-27T01:23:04Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a475c09aa638",
+   "titulo": "SALUDPOL AMPLÍA LA COBERTURA MÉDICA DE POLICÍAS Y SUS FAMILIAS EN TODO EL PAÍS",
+   "resumen": "Fuente: SALUDPOL Los asegurados podrán acceder a consultas, exámenes médicos, intervenciones quirúrgicas y tratamientos especializados a través de establecimientos públicos de salud, incluidos centros hospitalarios de alta complejidad. Lima, 26 de octubre 2026.- El Fondo de Aseguramiento en Salud…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/saludpol-amplia-la-cobertura-medica-de-policias-y-sus-familias-en-todo-el-pais/",
+   "fecha": "2026-10-27T01:19:59Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0e443ade693a",
+   "titulo": "Senado: Renovación Popular propone servicio militar obligatorio “excepcional” en zonas bajo emergencia por El Niño",
+   "resumen": "La iniciativa se suma a otros planteamientos presentados en el Congreso para restablecer el reclutamiento obligatorio, eliminado en 1999 con la adopción del sistema voluntario",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/senado-renovacion-popular-propone-servicio-militar-obligatorio-excepcional-en-zonas-bajo-emergencia-por-el-nino/",
+   "fecha": "2026-10-27T01:17:33Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d6bd62b5e4a4",
+   "titulo": "Minedu recibirá hasta el martes 27 aportes sobre nuevos lineamientos de disciplina escolar",
+   "resumen": "El Ministerio de Educación (Minedu) recibirá hasta este martes 27 de octubre los comentarios, aportes y sugerencias de las entidades públicas y privadas, así como de la ciudadanía en general, sobre el proyecto de Lineamientos para la gestión de la disciplina escolar en la Educación Básica, cuyo…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-minedu-recibira-hasta-martes-27-aportes-sobre-nuevos-lineamientos-disciplina-escolar-1097430.aspx",
+   "fecha": "2026-10-27T01:14:15Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "cf8cfd3f31fb",
+   "titulo": "Harry Kane gana su primer Balón de Oro y supera a Mbappé y Lamine Yamal",
+   "resumen": "El delantero inglés Harry Kane, jugador del Bayern de Múnich y de la selección de Inglaterra, ganó el Balón de Oro 2026 durante una ceremonia realizada en Londres. El atacante obtuvo por primera vez este reconocimiento y se convirtió en el sexto futbolista inglés en recibir el galardón. Kane se…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/26/harry-kane-gana-su-primer-balon-de-oro-y-supera-a-mbappe-y-lamine-yamal/",
+   "fecha": "2026-10-27T00:59:13Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3f51c94569bc",
+   "titulo": "Días no laborables por la visita del papa León XIV: ¿tu empresa puede obligarte a trabajar y sancionarte si faltas?",
+   "resumen": "El Gobierno estableció fechas diferenciadas por regiones del 11 al 16 de noviembre. Conoce qué ocurre si tu empresa decide mantener la jornada habitual y qué debes tener en cuenta antes de ausentarte",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/dias-no-laborables-por-la-visita-del-papa-leon-xiv-tu-empresa-puede-obligarte-a-trabajar-y-sancionarte-si-faltas/",
+   "fecha": "2026-10-27T00:56:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3b72b6265025",
+   "titulo": "Midagri comprará 19 helibaldes y 500 trajes de protección para combatir incendios forestales",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/midagri-comprara-19-helibaldes-y-500-trajes-de-proteccion-para-combatir-incendios-forestales-en-peru-noticia/",
+   "fecha": "2026-10-27T00:54:37Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "aa00c61ab1bc",
+   "titulo": "Incendios forestales en Perú: Sernanp y FAP refuerzan entrenamiento para operaciones aéreas de emergencia",
+   "resumen": "Combatientes de los parques Huascarán, Sierra del Divisor y Cordillera Azul participan de la formación junto a especialistas en gestión de riesgos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/27/incendios-forestales-en-peru-sernanp-y-fap-refuerzan-entrenamiento-para-operaciones-aereas-de-emergencia/",
+   "fecha": "2026-10-27T00:54:25Z",
+   "temas": [
+    "medio_ambiente",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "cafa1cf7d2fc",
+   "titulo": "Guillermo Shinno: Estamos en contra de la extensión del Reinfo",
+   "resumen": "Guillermo Shinno, ministro de Energía y Minas, aseguró que el Ejecutivo tiene como propuesta terminar con el Reinfo el 31 de diciembre",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/guillermo-shinno-estamos-contra-extension-reinfo-n495883",
+   "fecha": "2026-10-27T00:48:58Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
    "id": "e1e168172921",
    "titulo": "Destacan rol de instituciones e inteligencia artificial frente al lavado de activos",
    "resumen": "La primera jornada de la Semana de Prevención del Lavado de Activos 2026 (SPLA 2026) destacó la importancia de fortalecer las instituciones y utilizar herramientas como la inteligencia artificial para mejorar la prevención y detección del lavado de activos en el país.",
@@ -470,6 +1336,19 @@
    "fecha": "2026-10-26T22:12:54Z",
    "temas": [
     "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1e3b4cef7a32",
+   "titulo": "Harry Kane conquista el Balón de Oro tras una temporada de récord con el Bayern Múnich",
+   "resumen": "El delantero inglés del Bayern Múnich, Harry Kane, recibió este lunes en Londres el Balón de Oro, el máximo galardón individual del fútbol mundial, gracias a una temporada 2025-2026 de cifras extraordinarias. El capitán de la selección de Inglaterra sucede en el palmarés al francés Ousmane…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/harry-kane-conquista-el-balon-de-oro-tras-una-temporada-de-record-con-el-bayern-munich/",
+   "fecha": "2026-10-26T22:11:10Z",
+   "temas": [
+    "mineria"
    ],
    "lugares": []
   },
@@ -1987,6 +2866,20 @@
     "otros"
    ],
    "lugares": []
+  },
+  {
+   "id": "27f7bd51e18a",
+   "titulo": "Carlos Ramos Vera asume la gerencia del Proyecto Pasto Grande",
+   "resumen": "El ingeniero civil Carlos Alberto Ramos Vera asume la gerencia general del Proyecto Especial Regional Pasto Grande (PERPG) por un periodo de dos meses y cinco días, en reemplazo de Rennier Álvaro Moreno Arias. Su designación fue oficializada mediante la Resolución Ejecutiva Regional N.°…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/carlos-ramos-vera-asume-la-gerencia-del-proyecto-pasto-grande/",
+   "fecha": "2026-10-26T17:32:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [],
+   "grupo": "adf70e55e3c8"
   },
   {
    "id": "773573e9b330",
