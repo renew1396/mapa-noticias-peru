@@ -1,0 +1,95 @@
+{
+ "fecha": "2026-10-28",
+ "noticias": [
+  {
+   "id": "731f2caac237",
+   "titulo": "Adrián Villar cambia su versión sobre la muerte de Lizeth Marzano: “Puse mi pie en el acelerador y ahí todo es muy confuso”",
+   "resumen": "En una declaración policial, el joven relató que sufría problemas estomacales y que sintió dos impactos tras acelerar en Camino Real, San Isidro. Gino Marzano cuestionó su versión y pidió que se evalúen las pruebas antes del 25 de noviembre",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/28/adrian-villar-cambia-su-version-sobre-la-muerte-de-lizeth-marzano-puse-mi-pie-en-el-acelerador-y-ahi-todo-es-muy-confuso/",
+   "fecha": "2026-10-28T05:28:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Camino Real",
+     "ubigeo": "110113",
+     "ccpp": "1101130010",
+     "precision": "centro_poblado",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.69892,
+     "lat": -14.14463,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "ce7b323d8e48",
+   "titulo": "Familia pide traslado de paciente con derrame cerebral en San Juan de Lurigancho",
+   "resumen": "Edward Antonio Poblet Pino, de 54 años, sufrió un derrame cerebral tras jugar fútbol el domingo 25 de octubre y está en UCI del Hospital San Juan de Lurigancho. Su familia pide traslado a un hospital de mayor complejidad porque el INCN y el Dos de Mayo no aceptaron la referencia.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/sociedad/paciente-derrame-cerebral-sjl-requiere-traslado",
+   "fecha": "2026-10-28T05:20:06Z",
+   "temas": [
+    "medio_ambiente",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan de Lurigancho",
+     "ubigeo": "150132",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.01003,
+     "lat": -12.02963,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dd46529bf72d",
+   "titulo": "Universidad Nacional de Música ofrecerá tres noches de conciertos corales gratuitos en Lima",
+   "resumen": "El Festival Coral Taki se realizará del 27 al 29 de octubre en el Convento de San Francisco, con la participación de elencos corales infantiles, juveniles y universitarios. El ingreso será libre, sujeto al aforo",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/cultura/concierto-universidad-nacional-de-musica-ofrecera-tres-noches-de-conciertos-corales-gratuitos-en-lima-musica-festival-taki-noticia/",
+   "fecha": "2026-10-28T05:19:08Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Francisco",
+     "ubigeo": "150106",
+     "ccpp": "1501060087",
+     "precision": "centro_poblado",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.98577,
+     "lat": -11.76395,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  }
+ ]
+}
