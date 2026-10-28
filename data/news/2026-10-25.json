@@ -3096,6 +3096,42 @@
    ]
   },
   {
+   "id": "5fa72620a77a",
+   "titulo": "Arequipa: Demanda de préstamos para conductores creció un 128%",
+   "resumen": "Un sismo de magnitud 4.5 se registró este domingo 25 de octubre en Caravelí, Arequipa, a las 12:11 p. m. El IGP reportó una profundidad de 78 kilómetros.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-demanda-de-prestamos-para-conductores-crecio-un-128-noticia/",
+   "fecha": "2026-10-25T18:25:08Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Caravelí",
+     "ubigeo": "040300",
+     "precision": "provincia",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -73.36575,
+     "lat": -15.77255,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "bcaf9c144558",
    "titulo": "Bombero ecuatoriano viajó 28 horas en bus para llegar al casting de ‘Yo Soy’ y sorprende al jurado con imitación de Victor Manuelle",
    "resumen": "Steven de la Torre recorrió por tierra el trayecto entre Guayaquil, Piura y Lima. El concursante de 36 años relató que combina su carrera musical con su labor como bombero voluntario.",
