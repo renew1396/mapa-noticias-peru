@@ -1,18 +1,18 @@
 {
- "ultima_ejecucion": "2026-10-28T18:57:40Z",
- "ultima_noticia_nueva": "2026-10-28T18:57:40Z",
- "nuevas": 298,
- "ubicadas": 138,
- "pendientes": 160,
+ "ultima_ejecucion": "2026-10-28T23:22:04Z",
+ "ultima_noticia_nueva": "2026-10-28T23:22:04Z",
+ "nuevas": 201,
+ "ubicadas": 92,
+ "pendientes": 109,
  "medios": {
   "rpp": {
    "nombre": "RPP",
    "ok": true,
    "error": null,
    "items_en_feed": 60,
-   "nuevas": 16,
-   "ubicadas": 6,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 18,
+   "ubicadas": 9,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "elcomercio": {
@@ -20,9 +20,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 100,
-   "nuevas": 21,
-   "ubicadas": 4,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 12,
+   "ubicadas": 5,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "larepublica-sociedad": {
@@ -30,19 +30,19 @@
    "ok": true,
    "error": null,
    "items_en_feed": 66,
-   "nuevas": 8,
-   "ubicadas": 4,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 7,
+   "ubicadas": 6,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "larepublica-politica": {
    "nombre": "La República",
    "ok": true,
    "error": null,
-   "items_en_feed": 39,
-   "nuevas": 6,
+   "items_en_feed": 41,
+   "nuevas": 7,
    "ubicadas": 1,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "correo": {
@@ -50,9 +50,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 100,
-   "nuevas": 51,
-   "ubicadas": 43,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 24,
+   "ubicadas": 14,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "gestion": {
@@ -60,9 +60,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 100,
-   "nuevas": 16,
-   "ubicadas": 2,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 13,
+   "ubicadas": 3,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "infobae": {
@@ -70,9 +70,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 100,
-   "nuevas": 45,
-   "ubicadas": 15,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 33,
+   "ubicadas": 14,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "andina": {
@@ -81,8 +81,8 @@
    "error": null,
    "items_en_feed": 20,
    "nuevas": 19,
-   "ubicadas": 11,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "ubicadas": 4,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "canaln": {
@@ -91,8 +91,8 @@
    "error": null,
    "items_en_feed": 33,
    "nuevas": 5,
-   "ubicadas": 1,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "ubicadas": 3,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "rcr": {
@@ -100,9 +100,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 10,
-   "nuevas": 8,
-   "ubicadas": 2,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 10,
+   "ubicadas": 6,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "elbuho": {
@@ -110,9 +110,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 20,
-   "nuevas": 19,
-   "ubicadas": 9,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 0,
+   "ubicadas": 0,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "elpueblo": {
@@ -120,9 +120,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 10,
-   "nuevas": 10,
-   "ubicadas": 2,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 0,
+   "ubicadas": 0,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "losandes": {
@@ -130,9 +130,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 10,
-   "nuevas": 8,
-   "ubicadas": 6,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 4,
+   "ubicadas": 0,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "pachamama": {
@@ -142,7 +142,7 @@
    "items_en_feed": 16,
    "nuevas": 0,
    "ubicadas": 0,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "ondaazul": {
@@ -150,9 +150,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 10,
-   "nuevas": 4,
-   "ubicadas": 2,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 9,
+   "ubicadas": 6,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "radiouno": {
@@ -160,9 +160,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 20,
-   "nuevas": 5,
-   "ubicadas": 4,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 10,
+   "ubicadas": 6,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "prensaregional": {
@@ -170,9 +170,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 50,
-   "nuevas": 2,
-   "ubicadas": 1,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 0,
+   "ubicadas": 0,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "sinfronteras": {
@@ -180,9 +180,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 10,
-   "nuevas": 7,
-   "ubicadas": 4,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 5,
+   "ubicadas": 2,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "jornada": {
@@ -191,8 +191,8 @@
    "error": null,
    "items_en_feed": 10,
    "nuevas": 10,
-   "ubicadas": 5,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "ubicadas": 7,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "ahora": {
@@ -200,9 +200,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 50,
-   "nuevas": 2,
-   "ubicadas": 0,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 1,
+   "ubicadas": 1,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "eltiempo": {
@@ -210,9 +210,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 10,
-   "nuevas": 2,
-   "ubicadas": 1,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 1,
+   "ubicadas": 0,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "cutivalu": {
@@ -220,9 +220,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 1,
-   "nuevas": 1,
-   "ubicadas": 1,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 0,
+   "ubicadas": 0,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "maranon": {
@@ -230,9 +230,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 10,
-   "nuevas": 1,
-   "ubicadas": 1,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 0,
+   "ubicadas": 0,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "chimbote": {
@@ -242,7 +242,7 @@
    "items_en_feed": 10,
    "nuevas": 0,
    "ubicadas": 0,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "satelite": {
@@ -250,9 +250,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 10,
-   "nuevas": 0,
+   "nuevas": 1,
    "ubicadas": 0,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "proycontra": {
@@ -260,9 +260,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 50,
-   "nuevas": 8,
-   "ubicadas": 6,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 0,
+   "ubicadas": 0,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "laregion": {
@@ -272,7 +272,7 @@
    "items_en_feed": 5,
    "nuevas": 0,
    "ubicadas": 0,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "ser": {
@@ -282,7 +282,7 @@
    "items_en_feed": 10,
    "nuevas": 0,
    "ubicadas": 0,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "actualidadambiental": {
@@ -290,9 +290,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 12,
-   "nuevas": 1,
-   "ubicadas": 0,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 4,
+   "ubicadas": 3,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "mongabay": {
@@ -300,9 +300,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 30,
-   "nuevas": 5,
+   "nuevas": 3,
    "ubicadas": 0,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "rumbominero": {
@@ -310,9 +310,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 10,
-   "nuevas": 7,
-   "ubicadas": 0,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 5,
+   "ubicadas": 2,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "cooperaccion": {
@@ -320,9 +320,9 @@
    "ok": true,
    "error": null,
    "items_en_feed": 12,
-   "nuevas": 11,
-   "ubicadas": 7,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "nuevas": 0,
+   "ubicadas": 0,
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   },
   "dar": {
@@ -332,7 +332,7 @@
    "items_en_feed": 10,
    "nuevas": 0,
    "ubicadas": 0,
-   "ultimo_ok": "2026-10-28T18:57:40Z",
+   "ultimo_ok": "2026-10-28T23:22:04Z",
    "fallos_seguidos": 0
   }
  }
