@@ -2,6 +2,824 @@
  "fecha": "2026-10-28",
  "noticias": [
   {
+   "id": "11018b7f2d20",
+   "titulo": "Señor de los Milagros cumple su cuarto recorrido por Lima y visita dos hospitales",
+   "resumen": "El Señor de los Milagros realizó este miércoles 28 de octubre su cuarto recorrido procesional desde el Santuario de las Nazarenas, con paradas en los hospitales San Bartolomé y Arzobispo Loayza. La Municipalidad de Lima dispuso cierres progresivos de calles y la ATU modificó el servicio del…",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/sociedad/senor-de-los-milagros-cuarto-recorrido-lima",
+   "fecha": "2026-10-29T04:50:06Z",
+   "temas": [
+    "transporte",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Bartolomé",
+     "ubigeo": "150717",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.52914,
+     "lat": -11.91197,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "92a915a7224a",
+   "titulo": "Huánuco: Hallan sin vida a dos hermanos reportados como víctimas de secuestro en Puerto Inca",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-hallan-sin-vida-a-dos-hermanos-reportados-como-victimas-de-secuestro-en-puerto-inca-noticia/",
+   "fecha": "2026-10-29T04:32:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puerto Inca",
+     "ubigeo": "100900",
+     "precision": "provincia",
+     "provincia": "Puerto Inca",
+     "departamento": "Huánuco",
+     "lon": -74.96592,
+     "lat": -9.37883,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "de1f4ca384be",
+   "titulo": "Sernanp firma acuerdos de conservación con dos organizaciones del Alto Purús",
+   "resumen": "El Sernanp firmó dos acuerdos de conservación en el Parque Nacional Alto Purús: uno para huasaí sostenible con la Asociación APAB y otro para shihuahuaco con la comunidad nativa Pankirentzy. Las iniciativas buscan generar ingresos familiares sin dañar el bosque amazónico.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/politica/sernanp-acuerdos-conservacion-alto-purus",
+   "fecha": "2026-10-29T04:20:08Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Purús",
+     "ubigeo": "250401",
+     "precision": "distrito",
+     "provincia": "Purús",
+     "departamento": "Ucayali",
+     "lon": -70.70959,
+     "lat": -9.77214,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3049eebf0416",
+   "titulo": "Poder Judicial condena a 25 años de cárcel a hombre que abusó sexualmente de una niña de 12 años en Surquillo",
+   "resumen": "La sentencia contra el individuo establece que efectúe el pago de S/20 000 por reparación civil contra la víctima.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/poder-judicial-dicta-condena-de-25-anos-contra-hombre-por-violar-a-menor-de-edad-en-surquillo-noticia-1714949",
+   "fecha": "2026-10-29T04:20:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Surquillo",
+     "ubigeo": "150141",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02159,
+     "lat": -12.11848,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "63f4c0b92b7a",
+   "titulo": "Minsa amplía vacunación contra el dengue desde los 10 a 20 años en Carabayllo y SJL",
+   "resumen": "El Ministerio de Salud (Minsa) amplió la estrategia de vacunación contra el dengue en Lima Metropolitana para personas de 10 a 20 años, incorporando a Carabayllo y logrando la cobertura total de San Juan de Lurigancho. Al tratarse de una intervención focalizada, las dosis se aplicarán únicamente a…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-minsa-amplia-vacunacion-contra-dengue-desde-los-10-a-20-anos-carabayllo-y-sjl-1097741.aspx",
+   "fecha": "2026-10-29T04:12:32Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Carabayllo",
+     "ubigeo": "150106",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02695,
+     "lat": -11.89017,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Juan de Lurigancho",
+     "ubigeo": "150132",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.01003,
+     "lat": -12.02963,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b048d3b50afc",
+   "titulo": "Detienen a hombre acusado de agredir a dos personas frente al Poder Judicial de Tacna",
+   "resumen": "Un incidente violento protagonizado por tres personas movilizó a efectivos policiales la noche de este miércoles en la calle Víctor Andía, frente al Poder Judicial de Tacna. El hecho ocurrió en una zona donde funcionan diversos estudios de abogados y generó preocupación entre los vecinos, quienes…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287023/detienen-a-hombre-acusado-de-agredir-a-dos-personas-frente-al-poder-judicial-de-tacna/",
+   "fecha": "2026-10-29T03:41:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e48021db1a4b",
+   "titulo": "Alerta epidemiológica en Tumbes: confirman 2.394 contagios de dengue impulsados por lluvias de El Niño",
+   "resumen": "La Dirección Regional de Salud ha señalado que los distritos de Corrales, Tumbes, San Juan de la Virgen y Papayal son los más críticos, requiriendo medidas de vigilancia y prevención.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/28/alerta-epidemiologica-en-tumbes-confirman-2394-contagios-de-dengue-impulsados-por-lluvias-de-el-nino-990500",
+   "fecha": "2026-10-29T03:38:21Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Corrales",
+     "ubigeo": "240102",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.48058,
+     "lat": -3.60152,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Alerta",
+     "ubigeo": "170303",
+     "ccpp": "1703030004",
+     "precision": "centro_poblado",
+     "provincia": "Tahuamanu",
+     "departamento": "Madre de Dios",
+     "lon": -69.23503,
+     "lat": -11.65636,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "San Juan de la Virgen",
+     "ubigeo": "240106",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.43356,
+     "lat": -3.62768,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Papayal",
+     "ubigeo": "240304",
+     "precision": "distrito",
+     "provincia": "Zarumilla",
+     "departamento": "Tumbes",
+     "lon": -80.23502,
+     "lat": -3.57132,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "9cd0903de08b",
+   "titulo": "De Roma a Monsefú: panadero elabora réplica de Basílica de San Pedro en homenaje al papa",
+   "resumen": "Esta vez, el homenaje al papa León XIV, que en noviembre visitará el Perú, nace en un horno de panadería del distrito de Monsefú, donde el panificador Víctor Pisfil ha transformado la masa fermentada de pan en una réplica tridimensional de la emblemática Basílica de San Pedro, de la Ciudad del…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-de-roma-a-monsefu-panadero-elabora-replica-basilica-san-pedro-homenaje-al-papa-1097739.aspx",
+   "fecha": "2026-10-29T03:35:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Monsefú",
+     "ubigeo": "140108",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.87242,
+     "lat": -6.8781,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "171b1e072249",
+   "titulo": "Piura: Fiscalía pide prisión preventiva para el agresor de la modelo Karolay Saldarriaga por tentativa de feminicidio",
+   "resumen": "La víctima del ataque machista será incorporada a la Unidad de Asistencia a Víctimas y Testigos, mientras Jesús Vilela permanece detenido a la espera de que se evalúe el pedido de prisión preventiva",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/29/piura-fiscalia-pide-prision-preventiva-por-tentativa-de-feminicidio-para-el-agresor-de-la-modelo-karolay-saldarriaga/",
+   "fecha": "2026-10-29T03:31:14Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ee66866fe06d",
+   "titulo": "Aduanas incauta US$ 439.100 ocultos en camioneta intervenida en Vila Vila",
+   "resumen": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) incautó US$ 439.100 que eran transportados en una camioneta Toyota Hilux intervenida en el puesto de control aduanero de Vila Vila, ubicado a unos 56 kilómetros al sur de Tacna. El dinero estaba oculto en una mochila…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287021/aduanas-incauta-us-439-100-ocultos-en-camioneta-intervenida-en-vila-vila/",
+   "fecha": "2026-10-29T03:28:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Vila Vila",
+     "ubigeo": "230109",
+     "ccpp": "2301090020",
+     "precision": "centro_poblado",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.72516,
+     "lat": -18.11628,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "500403509656",
+   "titulo": "'La Bella Luz' anuncia escenario al mismo estilo de los BTS para su aniversario por sus 32 años",
+   "resumen": "El conjunto tropical presentó el croquis para su trigésimo segundo aniversario en Los Olivos y desató comentarios en redes debido a la evidente similitud técnica con el recital del fenómeno asiático en Lima.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/29/la-bella-luz-anuncia-escenario-al-mismo-estilo-de-los-bts-para-su-aniversario-por-sus-32-anos/",
+   "fecha": "2026-10-29T03:22:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Los Olivos",
+     "ubigeo": "150117",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.0707,
+     "lat": -11.99134,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "16fada1a215a",
+   "titulo": "MusiCri celebrará su tercer aniversario con homenaje a Charito Mistral y Julio Becerra",
+   "resumen": "La Asociación MusiCri realizará este viernes 30 de octubre un recital gratuito de música criolla en el Centro de Convenciones Charito Mistral, en Tacna, para conmemorar el Día de la Canción Criolla, celebrar sus tres años de creación y rendir homenaje póstumo a dos referentes de este género…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287018/musicri-celebrara-su-tercer-aniversario-con-homenaje-a-charito-mistral-y-julio-becerra/",
+   "fecha": "2026-10-29T03:16:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "38327c2d2fa7",
+   "titulo": "Más de 150 fieles fueron atendidos en procesión del Señor de los Milagros, informó EsSalud",
+   "resumen": "La fe movilizó a miles de devotos por las calles del Cercado de Lima durante el cuarto recorrido procesional del Señor de los Milagros. En medio de la multitud y las altas temperaturas registradas en la capital, el Seguro Social de Salud (EsSalud) brindó más de 150 atenciones médicas a los fieles…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-mas-150-fieles-fueron-atendidos-procesion-del-senor-los-milagros-informo-essalud-1097738.aspx",
+   "fecha": "2026-10-29T03:13:29Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3ddc0d64a881",
+   "titulo": "Junín: retiran más de 8 toneladas de residuos de la faja marginal del río Mantaro",
+   "resumen": "Más de ocho toneladas de residuos sólidos y desmonte fueron retiradas de 2,000 metros cuadrados de la faja marginal del río Mantaro, entre los puentes La Breña y Los Ángeles, jurisdicción de los distritos de El Tambo y Pilcomayo, región Junín, durante la jornada de limpieza organizada por La…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-junin-retiran-mas-8-toneladas-residuos-de-faja-marginal-del-rio-mantaro-1097736.aspx",
+   "fecha": "2026-10-29T03:09:53Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mantaro",
+     "ubigeo": "120903",
+     "ccpp": "1209030012",
+     "precision": "centro_poblado",
+     "provincia": "Chupaca",
+     "departamento": "Junín",
+     "lon": -75.25573,
+     "lat": -12.1386,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Breña",
+     "ubigeo": "150105",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04598,
+     "lat": -12.05877,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "El Tambo",
+     "ubigeo": "120114",
+     "precision": "distrito",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.22127,
+     "lat": -12.05016,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Pilcomayo",
+     "ubigeo": "120125",
+     "precision": "distrito",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.25063,
+     "lat": -12.04953,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "22ec60083701",
+   "titulo": "Local de comida rápida fue clausurado tras intoxicación masiva que dejó 80 personas afectadas en Ate",
+   "resumen": "La mayoría de los afectados presentan un cuadro de rotavirus por comer hamburguesas y pollo broaster en dicho establecimiento.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/local-de-comida-rapida-fue-clausurado-tras-intoxicacion-masiva-que-dejo-80-personas-afectadas-en-ate-noticia-1714944",
+   "fecha": "2026-10-29T03:09:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ate",
+     "ubigeo": "150103",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.92126,
+     "lat": -12.02637,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4ba918025c6d",
+   "titulo": "Tacna: Abogada dona sus órganos para salvar seis vidas",
+   "resumen": "Una tacneña generosa y desprendida se convirtió en un ángel salvador de seis vidas en la tarde de ayer (martes 27), al donar sus órganos antes de morir luego de tener un derrame cerebral y su recuperación era inviable en el hospital de EsSalud “Daniel A. Carrión” en el distrito de Calana a donde…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tacna/tacna-abogada-dona-sus-organos-para-salvar-seis-vidas-noticia/",
+   "fecha": "2026-10-29T03:09:09Z",
+   "temas": [
+    "salud",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Calana",
+     "ubigeo": "230103",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.18844,
+     "lat": -17.94326,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "653346a63216",
+   "titulo": "“Un mismo sabor, mil cocinas”: chefs y expertos se reunirán en Lima para debatir sobre identidad, tradición e innovación",
+   "resumen": "La FAO participará en un espacio técnico sobre transparencia y sostenibilidad en la cadena de valor alimentaria",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/29/un-mismo-sabor-mil-cocinas-chefs-y-expertos-se-reuniran-en-lima-para-debatir-sobre-identidad-tradicion-e-innovacion/",
+   "fecha": "2026-10-29T03:00:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "167c84b1e837",
+   "titulo": "Moquegua presentará programa oficial por sus 485 años de fundación española",
+   "resumen": "La Municipalidad Provincial Mariscal Nieto presentará este viernes 30 de octubre, a las 7:00 p. m., el programa oficial de festejos por los 485 años de fundación española de Moquegua. La actividad se desarrollará en la Plaza de Armas de la ciudad. Durante la ceremonia también serán presentadas las…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287014/moquegua-presentara-programa-oficial-por-sus-485-anos-de-fundacion-espanola/",
+   "fecha": "2026-10-29T02:59:43Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Mariscal Nieto",
+     "ubigeo": "180100",
+     "precision": "provincia",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1efe7dd9873b",
+   "titulo": "Midis y Gore Puno suman esfuerzos para mitigar impacto de El Niño en población vulnerable",
+   "resumen": "La ministra de Desarrollo e Inclusión Social, Maritza Canales, se reunió con el gobernador de Puno, Richard Hancco, y representantes del Centro de Operaciones de Emergencia Regional (COER), para incorporar al equipo territorial del Midis a los esfuerzos que se encuentra coordinando con la región…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-midis-y-gore-puno-suman-esfuerzos-para-mitigar-impacto-de-nino-poblacion-vulnerable-1097733.aspx",
+   "fecha": "2026-10-29T02:57:03Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e0dd955089e0",
+   "titulo": "Feria del Libro de Huancayo busca revertir déficit de lectura",
+   "resumen": "La feria se realizará del 6 al 15 de noviembre en Huamanmarca y espera recibir a más de 100 mil visitantes con más de 130 actividades.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huancayo/feria-del-libro-de-huancayo-busca-revertir-deficit-de-lectura-noticia/",
+   "fecha": "2026-10-29T02:51:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huamanmarca",
+     "ubigeo": "120121",
+     "ccpp": "1201210002",
+     "precision": "centro_poblado",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.21532,
+     "lat": -12.12231,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Huancayo",
+     "ubigeo": "120100",
+     "precision": "provincia",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7f3589d3c261",
+   "titulo": "Keiko Fujimori llegó a El Salvador en visita oficial [VIDEO]",
+   "resumen": "La mandataria arribó a San Salvador tras la invitación del presidente Nayib Bukele para cumplir una agenda enfocada en seguridad, salud y educación.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/gobierno/keiko-fujimori-llego-a-el-salvador-en-visita-oficial-noticia-1714946",
+   "fecha": "2026-10-29T02:48:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Salvador",
+     "ubigeo": "080406",
+     "precision": "distrito",
+     "provincia": "Calca",
+     "departamento": "Cusco",
+     "lon": -71.77862,
+     "lat": -13.49196,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a0418ca26b95",
+   "titulo": "Municipalidad de Huancayo: “Se acabó la sensibilización y vienen las clausuras de giros especiales”",
+   "resumen": "Por ordenanza municipal que fija horarios hasta las 00:00 en zonas residenciales y 01:30 en zona comercial céntrica, saldrán fiscalizadores. Operativos se realizarán del 30 de octubre al 1 de noviembre",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huancayo/municipalidad-de-huancayo-se-acabo-la-sensibilizacion-y-vienen-las-clausuras-de-giros-especiales-noticia/",
+   "fecha": "2026-10-29T02:47:26Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huancayo",
+     "ubigeo": "120100",
+     "precision": "provincia",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c8153393d78e",
+   "titulo": "Motociclista resulta herido tras despiste en Gregorio Albarracín",
+   "resumen": "Un motociclista resultó con golpes leves tras sufrir un despiste en el cruce de las avenidas Bohemia Tacneña y Los Escritores, en el distrito de Gregorio Albarracín, en Tacna. El conductor fue identificado como Brian Quispe Quispe, quien manejaba la motocicleta de placa de rodaje 9345-IZ cuando…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287011/motociclista-resulta-herido-tras-despiste-en-gregorio-albarracin/",
+   "fecha": "2026-10-29T02:46:51Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "aa590d7e7ec3",
+   "titulo": "Clases por la mañana y preparación por la tarde: el esfuerzo de 16 escolares de Ventanilla que ingresaron a San Marcos",
+   "resumen": "Los estudiantes organizaron sus horarios para prepararse para el examen de admisión 2027-I. La institución reconoció sus resultados en una ceremonia con familiares, profesores y compañeros",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/29/clases-por-la-manana-y-preparacion-por-la-tarde-el-esfuerzo-de-16-escolares-de-ventanilla-que-ingresaron-a-san-marcos/",
+   "fecha": "2026-10-29T02:45:54Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ventanilla",
+     "ubigeo": "070106",
+     "precision": "distrito",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.12782,
+     "lat": -11.87721,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e54af3a24be4",
+   "titulo": "Especialista advierte que Tacna no está preparada para afrontar el fenómeno El Niño",
+   "resumen": "El especialista en gestión del riesgo de desastres Carlos Vildoso advirtió que Tacna no estaría preparada para afrontar los posibles efectos del fenómeno El Niño y cuestionó la falta de acciones preventivas por parte de las autoridades. Señaló que la región podría enfrentar dos escenarios: déficit…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287007/especialista-advierte-que-tacna-no-esta-preparada-para-afrontar-el-fenomeno-el-nino/",
+   "fecha": "2026-10-29T02:39:28Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "186c6cdf613e",
    "titulo": "Colegio Rosa Dominga Pérez Liendo registra 96 % de avance, pero falta equipamiento para culminar la obra",
    "resumen": "La directora de la institución educativa Rosa Dominga Pérez Liendo, María Victoria Juárez, expresó su preocupación por la demora en la culminación de la obra de infraestructura del plantel y advirtió que los estudiantes continúan recibiendo clases en ambientes prestados. Según indicó en entrevista…",
@@ -458,6 +1276,31 @@
    ]
   },
   {
+   "id": "a49dcbe6da8c",
+   "titulo": "Plaza Mariscal Nieto de Ilo permanece a oscuras desde hace casi dos meses",
+   "resumen": "La Plaza Mariscal Nieto, ubicada en pleno centro de Ilo, permanece sin alumbrado público desde hace casi dos meses, situación que genera preocupación entre vecinos y visitantes debido a la falta de iluminación durante las noches. Según información proporcionada por residentes del sector, algunos…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/plaza-mariscal-nieto-de-ilo-permanece-a-oscuras-desde-hace-casi-dos-meses/",
+   "fecha": "2026-10-29T01:10:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "fdfb1aefa7d9",
    "titulo": "Chefs debatirán mañana en foro gratuito cómo preservar saberes de la gastronomía peruana",
    "resumen": "Destacados chefs, investigadores y periodistas gastronómicos se reunirán el próximo 29 de octubre en Lima para reflexionar sobre los desafíos de la gastronomía peruana y analizar cómo preservar su identidad, revalorar los productos regionales e impulsar prácticas sostenibles e innovadoras, sin…",
@@ -477,6 +1320,31 @@
      "departamento": "Lima",
      "lon": -77.03092,
      "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "14a4cec613df",
+   "titulo": "Hermandad del Señor de los Milagros redujo uso de pirotécnicos durante procesión en Ilo",
+   "resumen": "La Hermandad del Señor de los Milagros de Ilo redujo el uso de pirotécnicos durante el recorrido procesional por la ciudad, informó Marco Huamolle, capataz de la organización, quien respondió a las críticas difundidas en redes sociales por el uso de estos elementos durante las actividades…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/hermandad-del-senor-de-los-milagros-redujo-uso-de-pirotecnicos-durante-procesion-en-ilo/",
+   "fecha": "2026-10-29T01:05:24Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
      "confianza": 0.7,
      "principal": true
     }
@@ -675,6 +1543,31 @@
      "lat": -12.04533,
      "confianza": 0.9,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "14d51b0601b5",
+   "titulo": "Piden regular el uso de pirotécnicos por afectación a personas y animales",
+   "resumen": "El dirigente vecinal Jorge Arpita expresó su disconformidad con el uso de artefactos pirotécnicos en Ilo, al señalar que las detonaciones afectan a los animales domésticos y a las personas con condiciones especiales, quienes pueden experimentar mayor sensibilidad ante los ruidos fuertes. Ante esta…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/piden-regular-el-uso-de-pirotecnicos-por-afectacion-a-personas-y-animales/",
+   "fecha": "2026-10-29T00:28:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
     }
    ]
   },
@@ -1153,6 +2046,31 @@
      "lon": -70.02806,
      "lat": -15.84026,
      "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9b982ab97a0a",
+   "titulo": "Estudiantes de secundaria participan en taller de oratoria y liderazgo",
+   "resumen": "Estudiantes de cuarto y quinto de secundaria de diversas instituciones educativas participan en el taller de Oratoria y Liderazgo Juvenil que se desarrolla en el Centro Cultural de Moquegua, con el objetivo de fortalecer sus habilidades de comunicación y desenvolvimiento ante el público. El…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/estudiantes-de-secundaria-participan-en-taller-de-oratoria-y-liderazgo/",
+   "fecha": "2026-10-28T23:47:06Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
      "principal": true
     }
    ]
@@ -1990,6 +2908,33 @@
      "principal": true
     }
    ]
+  },
+  {
+   "id": "43525717b685",
+   "titulo": "Santos Villegas entregará informe de gestión al alcalde electo de San Antonio",
+   "resumen": "El alcalde del distrito de San Antonio, Santos Villegas Mamani, anunció que entregará al burgomaestre electo, Ricardo Ordóñez, un informe detallado sobre el estado de la gestión municipal, que incluirá perfiles y expedientes técnicos, liquidaciones, obras y programas en ejecución o pendientes de…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/santos-villegas-entregara-informe-de-gestion-al-alcalde-electo-de-san-antonio/",
+   "fecha": "2026-10-28T22:27:44Z",
+   "temas": [
+    "politica_local",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Antonio",
+     "ubigeo": "180107",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -71.0247,
+     "lat": -17.32109,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
   },
   {
    "id": "3656d00f5dca",

@@ -1,0 +1,903 @@
+{
+ "fecha": "2026-10-29",
+ "noticias": [
+  {
+   "id": "ed9aad061b56",
+   "titulo": "Un sismo de magnitud 4.6 remeció la región Ucayali esta madrugada",
+   "resumen": "El epicentro del sismo se ubicó a 27 kilómetros al sureste de Pucallpa, reportó el Instituto Geofísico del Perú.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/ucayali/ucayali-sismo-de-magnitud-46-remecio-la-region-esta-madrugada-noticia-1714962",
+   "fecha": "2026-10-29T10:05:33Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8b3353609764",
+   "titulo": "Corte de agua en Lima hoy 29 de octubre: Distritos y horarios afectados",
+   "resumen": "EN VIVO Consulta aquí los distritos de Lima y horarios afectados por el corte de agua programado por el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) para hoy.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-29-de-octubre-distritos-y-horarios-afectados-noticia-1714961",
+   "fecha": "2026-10-29T10:00:38Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ],
+   "grupo": "240735556a8d"
+  },
+  {
+   "id": "ae4312fa7539",
+   "titulo": "«Por favor, no me dejen morir»: Un testigo relata los últimos minutos de Edison Mera Pérez",
+   "resumen": "Un asistente a la fiesta de Malauchaca, en Pasco, cuenta en exclusiva a Diario Ahora cómo el reclamo por un micrófono terminó con la muerte del sonidista huanuqueño Según su relato, el agresor amenazó a todos con una pistola, escondía un cuchillo y nadie de seguridad llegó a tiempo",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/por-favor-no-me-dejen-morir-un-testigo-relata-los-ultimos-minutos-de-edison-mera",
+   "fecha": "2026-10-29T09:01:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2e7334233f98",
+   "titulo": "Intervienen a dos menores por presunta sustracción de celular en Tingo María",
+   "resumen": "Una joven los señaló tras el hecho ocurrido frente a su vivienda, en la cuadra nueve de la Alameda Perú.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/intervienen-a-dos-menores-por-presunta-sustraccion-de-celular-en-tingo-maria",
+   "fecha": "2026-10-29T09:01:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rupa-Rupa",
+     "ubigeo": "100601",
+     "precision": "distrito",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.00056,
+     "lat": -9.29799,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3632b5268c34",
+   "titulo": "Hombre muere durante evacuación desde Jesús y familia denuncia presunta negligencia",
+   "resumen": "La información preliminar señala una posible demora en la aceptación de su referencia al Hospital Regional Hermilio Valdizán.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/hombre-muere-durante-evacuacion-desde-jesus-y-familia-denuncia-presunta",
+   "fecha": "2026-10-29T09:01:42Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Hermílio Valdizán",
+     "ubigeo": "100603",
+     "precision": "distrito",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -75.83593,
+     "lat": -9.20557,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d7f794b2473c",
+   "titulo": "«Si no hay justicia, la haremos nosotros»: Familia de Javier Nieto tras sepultarlo",
+   "resumen": "Los deudos del joven de 23 años reclamaron respuestas en Pillco Marca y cuestionaron la atención de la posta de Aparicio Pomares y de la Policía",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/si-no-hay-justicia-la-haremos-nosotros-familia-de-javier-nieto-tras-sepultarlo",
+   "fecha": "2026-10-29T09:01:39Z",
+   "temas": [
+    "seguridad",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pillco Marca",
+     "ubigeo": "100111",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.24913,
+     "lat": -9.96072,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Aparicio Pomares",
+     "ubigeo": "101104",
+     "precision": "distrito",
+     "provincia": "Yarowilca",
+     "departamento": "Huánuco",
+     "lon": -76.64799,
+     "lat": -9.74791,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "24be993c1315",
+   "titulo": "Sindicatos rechazan concesión de Talara y advierten pérdida del control estatal",
+   "resumen": "ProInversión prepara un modelo de gestión privada para enero de 2027, mientras gremios exigen garantías sobre el abastecimiento y las decisiones operativas.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/economia/sindicatos-rechazan-concesion-de-talara-y-advierten-perdida-del-control-estatal",
+   "fecha": "2026-10-29T09:01:28Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pariñas",
+     "ubigeo": "200701",
+     "precision": "distrito",
+     "provincia": "Talara",
+     "departamento": "Piura",
+     "lon": -81.26936,
+     "lat": -4.5795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3c8d9f821b5e",
+   "titulo": "Lluvias extremas mantienen en alerta al norte y Lima enfrenta intenso calor",
+   "resumen": "Piura y Tumbes afrontan precipitaciones peligrosas, mientras la capital registra temperaturas elevadas y una sensación térmica cercana a los 32 °C",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/nacional/lluvias-extremas-mantienen-en-alerta-al-norte-y-lima-enfrenta-intenso-calor",
+   "fecha": "2026-10-29T09:01:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8068da0221a9",
+   "titulo": "Falta de lluvias y calor extremo agravan escasez de agua en Huánuco",
+   "resumen": "El Senamhi advierte que el déficit de precipitaciones afecta a la agricultura y ganadería. Las temperaturas alcanzaron los 32,1 °C y la escasez de lluvias podría continuar hasta diciembre.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/falta-de-lluvias-y-calor-extremo-agravan-escasez-de-agua-en-huanuco",
+   "fecha": "2026-10-29T09:01:16Z",
+   "temas": [
+    "agua",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e47d1ecc16d0",
+   "titulo": "Sequías amenazan cultivos de camu camu en la Amazonía peruana",
+   "resumen": "El IIAP advierte signos de marchitez en plantas de Ucayali y Loreto, y recomienda nuevas prácticas agrícolas para conservar la humedad del suelo y evitar pérdidas.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/sequias-amenazan-cultivos-de-camu-camu-en-la-amazonia-peruana",
+   "fecha": "2026-10-29T09:01:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "160600",
+     "precision": "provincia",
+     "provincia": "Ucayali",
+     "departamento": "Loreto",
+     "lon": -75.0096,
+     "lat": -7.35055,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "0f605972d4f1",
+   "titulo": "Aparicio Pomares se suma al paro del 4 de noviembre y reclama por un anillo vial que no avanza",
+   "resumen": "Al menos cinco comités del asentamiento acatarán la medida contra Seda Huánuco La dirigente Josefa Usuliaga atribuye el retraso de la obra a la falta de factibilidad de saneamiento, algo que la propia empresa ha reconocido",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/aparicio-pomares-se-suma-al-paro-del-4-de-noviembre-y-reclama-por-un-anillo-vial",
+   "fecha": "2026-10-29T09:01:02Z",
+   "temas": [
+    "conflicto_social",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Aparicio Pomares",
+     "ubigeo": "101104",
+     "precision": "distrito",
+     "provincia": "Yarowilca",
+     "departamento": "Huánuco",
+     "lon": -76.64799,
+     "lat": -9.74791,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5768dc9861b0",
+   "titulo": "César Vallejo y Las Mercedes se suman al concurso ambiental «Recicla y Aprende»",
+   "resumen": "Ambos colegios de Huánuco formalizaron su inscripción entregando tapitas plásticas. La competencia busca promover el reciclaje entre estudiantes y ofrece premios de hasta S/ 2,000 en efectivo, según sus organizadores.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/cesar-vallejo-y-las-mercedes-se-suman-al-concurso-ambiental-recicla-y-aprende",
+   "fecha": "2026-10-29T09:00:54Z",
+   "temas": [
+    "medio_ambiente",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cesar Vallejo",
+     "ubigeo": "100307",
+     "ccpp": "1003070071",
+     "precision": "centro_poblado",
+     "provincia": "Dos de Mayo",
+     "departamento": "Huánuco",
+     "lon": -76.6553,
+     "lat": -9.66233,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Las Mercedes",
+     "ubigeo": "100604",
+     "ccpp": "1006040024",
+     "precision": "centro_poblado",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.1269,
+     "lat": -8.89225,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "61b7e0072085",
+   "titulo": "SENAMHI: Pronóstico del clima hoy jueves 29 de octubre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-jueves-29-de-octubre-2026-noticia-1714959",
+   "fecha": "2026-10-29T09:00:45Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "d8d5c86fd4c0"
+  },
+  {
+   "id": "78d66ebdc809",
+   "titulo": "Por sequía, producción de leche cae a la mitad en Huánuco Pampa, ganaderos piden ayuda",
+   "resumen": "El ganadero de Dos de Mayo bajó de 120 o 130 litros de leche a 60. Pide pasto, vitaminas y un inseminador para los ganaderos de su zona.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/por-sequia-produccion-de-leche-cae-a-la-mitad-en-huanuco-pampa-ganaderos-piden",
+   "fecha": "2026-10-29T09:00:43Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huanuco Pampa",
+     "ubigeo": "100301",
+     "ccpp": "1003010020",
+     "precision": "centro_poblado",
+     "provincia": "Dos de Mayo",
+     "departamento": "Huánuco",
+     "lon": -76.80704,
+     "lat": -9.8829,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1500e8db1ebd",
+   "titulo": "Futuros policías de Huánuco se preparan en derecho penal con el Colegio de Abogados",
+   "resumen": "El diplomado arranca este sábado 31 de octubre y está dirigido a los alumnos de la EESTP Huánuco. Diez abogados de la región estarán a cargo de las clases.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/futuros-policias-de-huanuco-se-preparan-en-derecho-penal-con-el-colegio-de",
+   "fecha": "2026-10-29T09:00:40Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a857cad6bdce",
+   "titulo": "La Unión ya trata su desagüe, la I.E. Yarowilca tiene techo y Huayopampa espera inauguración",
+   "resumen": "La planta vierte agua clorada al río Vizcarra, más de 400 escolares hacen educación física bajo techo y el polideportivo de Amarilis espera fecha.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/la-union-ya-trata-su-desague-la-i-e-yarowilca-tiene-techo-y-huayopampa-espera",
+   "fecha": "2026-10-29T09:00:32Z",
+   "temas": [
+    "agua",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yarowilca",
+     "ubigeo": "101100",
+     "precision": "provincia",
+     "provincia": "Yarowilca",
+     "departamento": "Huánuco",
+     "lon": -76.60884,
+     "lat": -9.85877,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Amarilis",
+     "ubigeo": "100102",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.2405,
+     "lat": -9.94006,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "20c8b02e4654",
+   "titulo": "Dos exdirectivos, una misma alerta: el sedimentador de San Luis sigue sin solución",
+   "resumen": "La estructura tiene más de tres décadas y funciona con una geomembrana por dentro Detrás hay un proyecto de 170 millones que nunca se concretó, una ladera en peligro alto y una disputa entre EMAPA y la municipalidad de Amarilis.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/dos-exdirectivos-una-misma-alerta-el-sedimentador-de-san-luis-sigue-sin-solucion",
+   "fecha": "2026-10-29T09:00:25Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Amarilis",
+     "ubigeo": "100102",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.2405,
+     "lat": -9.94006,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bbef1c54dc51",
+   "titulo": "Impiden ingreso a Parque Ecológico de Pacocha para verificar estado de animales",
+   "resumen": "Un grupo de personas acudió, acompañado de un efectivo policial, al Parque Ecológico del distrito de Pacocha con la finalidad de constatar las condiciones en que se encuentran los animales que alberga este recinto. Sin embargo, se les impidió el ingreso. El guardián de turno, señaló que tenía…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/impiden-ingreso-a-parque-ecologico-de-pacocha-para-verificar-estado-de-animales/",
+   "fecha": "2026-10-29T09:00:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pacocha",
+     "ubigeo": "180303",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.34041,
+     "lat": -17.61073,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "163ec4fe4c42",
+   "titulo": "Incendio en zona agrícola de Samanco deja varias ovejas muertas",
+   "resumen": "Agricultores y vecinos utilizaron baldes con agua y herramientas rústicas para controlar las llamas y rescatar a algunos animales. Un incendio registrado en el sector agrícola El Limón, en el anexo de Huambacho La Huaca,...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/29/incendio-en-zona-agricola-de-samanco-deja-varias-ovejas-muertas/",
+   "fecha": "2026-10-29T08:16:01Z",
+   "temas": [
+    "agua",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Samanco",
+     "ubigeo": "021807",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.49594,
+     "lat": -9.26227,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Huambacho",
+     "ubigeo": "021805",
+     "ccpp": "0218050037",
+     "precision": "centro_poblado",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.17968,
+     "lat": -9.15085,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "La Huaca",
+     "ubigeo": "200505",
+     "precision": "distrito",
+     "provincia": "Paita",
+     "departamento": "Piura",
+     "lon": -80.96133,
+     "lat": -4.91016,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3c1fd6291f23",
+   "titulo": "A.H. Los Pinos del Sur tendrá moderno Parque Recreacional",
+   "resumen": "Tras 14 años de espera: Después de 14 años de espera, los vecinos del asentamiento humano Los Pinos del Sur, en Nuevo Chimbote, comenzaron a ver concretado el anhelo de contar con un parque recreacional....",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/29/a-h-los-pinos-del-sur-tendra-moderno-parque-recreacional/",
+   "fecha": "2026-10-29T08:15:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Nuevo Chimbote",
+     "ubigeo": "021809",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.53072,
+     "lat": -9.12851,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ad81b7c636a2",
+   "titulo": "Autoridades de Chimbote y Nuevo Chimbote participaron en homenaje al Señor de los Milagros",
+   "resumen": "En una jornada de fe y devoción, autoridades de Chimbote y Nuevo Chimbote, representantes de la Policía Nacional y del Ministerio Público participaron en actividades religiosas en honor al Señor de los Milagros, con motivo...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/29/autoridades-de-chimbote-y-nuevo-chimbote-participaron-en-homenaje-al-senor-de-los-milagros/",
+   "fecha": "2026-10-29T08:15:27Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chimbote",
+     "ubigeo": "021801",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.60768,
+     "lat": -9.04169,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Nuevo Chimbote",
+     "ubigeo": "021809",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.53072,
+     "lat": -9.12851,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "010e3fb0ba4b",
+   "titulo": "Confirman 28 años de cárcel para sujeto que abusó sexualmente de una menor",
+   "resumen": "Hechos ocurrieron en Cambio Puente: La Primera Sala Penal de Apelaciones de la Corte del Santa declaró infundado el recurso presentado por el sentenciado. También deberá pagar S/ 20 mil de reparación civil. La Primera...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/29/confirman-28-anos-de-carcel-para-sujeto-que-abuso-sexualmente-de-una-menor/",
+   "fecha": "2026-10-29T08:15:18Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cambio Puente",
+     "ubigeo": "021801",
+     "ccpp": "0218010049",
+     "precision": "centro_poblado",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.55577,
+     "lat": -8.99797,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ae27b8c59c7e",
+   "titulo": "MVSC transfiere más de 71 mil m2 de terrenos para modernizar el puerto de Chimbote",
+   "resumen": "El Ministerio de Vivienda, Construcción y Saneamiento (MVCS), a través de la Superintendencia Nacional de Bienes Estatales (SBN), aprobó la transferencia gratuita de 71 346,74 m² de terrenos estatales a favor del Ministerio de Transportes...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/29/mvsc-transfiere-mas-de-71-mil-m2-de-terrenos-para-modernizar-el-puerto-de-chimbote/",
+   "fecha": "2026-10-29T08:15:04Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chimbote",
+     "ubigeo": "021801",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.60768,
+     "lat": -9.04169,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ],
+   "grupo": "125492732d3f"
+  },
+  {
+   "id": "08aac8788de4",
+   "titulo": "Exigen informe sobre agresión a profesional de salud en Nvo. Chimbote",
+   "resumen": "Colegio de Enfermeros: El Colegio de Enfermeros del Perú, Consejo Regional XIX Áncash Costa, solicitó a la Red Integrada de Salud Pacífico Sur información sobre las acciones institucionales adoptadas tras la presunta agresión física contra...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/29/exigen-informe-sobre-agresion-a-profesional-de-salud-en-nvo-chimbote/",
+   "fecha": "2026-10-29T08:14:53Z",
+   "temas": [
+    "educacion",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chimbote",
+     "ubigeo": "021801",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.60768,
+     "lat": -9.04169,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2290ac26fbfb",
+   "titulo": "Se jugó partido entre viejas glorias por aniversario 75 de José Gálvez",
+   "resumen": "Con motivo del 75 Aniversario del club José Gálvez FBC, los ex jugadores del cuadro galvista organizaron una tarde deportiva que sirvió de reencuentro de las viejas glorias del fútbol chimbotano. El partido por el...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/10/29/se-jugo-partido-entre-viejas-glorias-por-aniversario-75-de-jose-galvez/",
+   "fecha": "2026-10-29T08:14:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "José Gálvez",
+     "ubigeo": "060306",
+     "precision": "distrito",
+     "provincia": "Celendín",
+     "departamento": "Cajamarca",
+     "lon": -78.13284,
+     "lat": -6.9255,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "aeeaa0715584",
+   "titulo": "Transportistas fluviales de Punchana exigen habilitación de puerto ante riesgo de accidentes",
+   "resumen": "Transportistas fluviales menores del distrito de Punchana, en Iquitos, solicitaron a las autoridades competentes la habilitación de un puerto que les permita desarrollar sus actividades de embarque y desembarque de pasajeros y mercancías en condiciones seguras. Los trabajadores denunciaron que…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/transportistas-fluviales-de-punchana-exigen-habilitacion-de-puerto-ante-riesgo-de-accidentes/",
+   "fecha": "2026-10-29T05:20:00Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Punchana",
+     "ubigeo": "160108",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24192,
+     "lat": -3.72866,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "daa71ace2fc6",
+   "titulo": "Corte de Loreto capacita a escolares del colegio MAAC en prevención de violencia familiar",
+   "resumen": "La Corte Superior de Justicia de Loreto llevó a cabo una importante jornada de capacitación dirigida a los estudiantes de quinto año de secundaria del Colegio Mariscal Andrés Avelino Cáceres, en la ciudad de Iquitos, los temas tratados fueron menores infractores, bullyng, flagrancia, infracción…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/corte-de-loreto-capacita-a-escolares-del-colegio-maac-en-prevencion-de-violencia-familiar/",
+   "fecha": "2026-10-29T05:18:00Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6cf6cab0dcc9",
+   "titulo": "Falta de mantenimiento de drenajes pluviales afecta más de cinco cuadras de la avenida La Marina",
+   "resumen": "La falta de mantenimiento y limpieza de los sistemas de drenaje pluvial vuelve a generar preocupación en el distrito de Punchana, donde más de cinco cuadras de la avenida La Marina permanecen inundadas por la acumulación de aguas de lluvia. Esta situación afecta una de las principales vías de…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/falta-de-mantenimiento-de-drenajes-pluviales-afecta-mas-de-cinco-cuadras-de-la-avenida-la-marina/",
+   "fecha": "2026-10-29T05:17:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Punchana",
+     "ubigeo": "160108",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24192,
+     "lat": -3.72866,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bb675e289d67",
+   "titulo": "Vecinos de Los Olivos llevan tres días sin luz y denuncian presunto uso indebido de más de 16 mil soles",
+   "resumen": "Vecinos del asentamiento humano Los Olivos, ubicado en el kilómetro 3 de la carretera Iquitos-Nauta, distrito de San Juan Bautista, realizaron ayer, miércoles 28 de octubre, una protesta frente a la vivienda de su dirigente María Arriaga Padilla, a quien acusan del presunto uso indebido de los…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/vecinos-de-los-olivos-llevan-tres-dias-sin-luz-y-denuncian-presunto-uso-indebido-de-mas-de-16-mil-soles/",
+   "fecha": "2026-10-29T05:17:00Z",
+   "temas": [
+    "conflicto_social",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Los Olivos",
+     "ubigeo": "150117",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.0707,
+     "lat": -11.99134,
+     "confianza": 0.59,
+     "principal": true
+    },
+    {
+     "nombre": "San Juan Bautista",
+     "ubigeo": "160113",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.28029,
+     "lat": -3.77025,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  }
+ ]
+}
