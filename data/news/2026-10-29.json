@@ -2,6 +2,589 @@
  "fecha": "2026-10-29",
  "noticias": [
   {
+   "id": "6bafcffc0af3",
+   "titulo": "Loreto: MVCS inaugura obra de agua potable y saneamiento por más de S/23.8 millones",
+   "resumen": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, llegó a la comunidad nativa Shawi de Nueva Esperanza, en el distrito de Balsapuerto, provincia de Alto Amazonas, región Loreto, “para hacer realidad el anhelo del agua potable y saneamiento” para sus 974 habitantes.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-loreto-mvcs-inaugura-obra-agua-potable-y-saneamiento-mas-s238-millones-1097876.aspx",
+   "fecha": "2026-10-30T04:15:19Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Nueva Esperanza",
+     "ubigeo": "160202",
+     "ccpp": "1602020029",
+     "precision": "centro_poblado",
+     "provincia": "Alto Amazonas",
+     "departamento": "Loreto",
+     "lon": -76.47935,
+     "lat": -5.74935,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Shawi",
+     "ubigeo": "190206",
+     "ccpp": "1902060117",
+     "precision": "centro_poblado",
+     "provincia": "Daniel Alcides Carrión",
+     "departamento": "Pasco",
+     "lon": -76.28909,
+     "lat": -10.54801,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Balsapuerto",
+     "ubigeo": "160202",
+     "precision": "distrito",
+     "provincia": "Alto Amazonas",
+     "departamento": "Loreto",
+     "lon": -76.55964,
+     "lat": -5.83334,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Alto Amazonas",
+     "ubigeo": "160200",
+     "precision": "provincia",
+     "provincia": "Alto Amazonas",
+     "departamento": "Loreto",
+     "lon": -76.12805,
+     "lat": -5.88426,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8dee2686d61b",
+   "titulo": "MML: más de 80 personas recibieron atención por golpe de calor durante procesión",
+   "resumen": "La Municipalidad de Lima brindó atención a 79 personas que presentaron síntomas asociados a golpes de calor durante el cuarto recorrido procesional del Señor de los Milagros, realizado el miércoles 28 de octubre. La intervención estuvo a cargo del personal de la Gerencia de Gestión del Riesgo de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-mml-mas-80-personas-recibieron-atencion-golpe-calor-durante-procesion-1097875.aspx",
+   "fecha": "2026-10-30T04:13:15Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7c6459090d72",
+   "titulo": "INPE realizó operativos simultáneos en penales declarados en emergencia",
+   "resumen": "El Instituto Nacional Penitenciario (INPE) ejecutó operativos simultáneos en cinco establecimientos penitenciarios a nivel nacional.Entre los operativos destacan los realizados en los penales Ancón I y Miguel Castro Castro, donde, en coordinación con la Policía Nacional del Perú (PNP) y el…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/inpe-realizo-operativos-simultaneos-en-penales-declarados-en-estado-de-emergencia-ultimas-noticia/",
+   "fecha": "2026-10-30T04:04:31Z",
+   "temas": [
+    "seguridad",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ancón",
+     "ubigeo": "150102",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.17625,
+     "lat": -11.77376,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "456f3f898b9f",
+   "titulo": "‘Barranqueando a nuestro modo’: Diosdado Gaitán Castro ofrecerá concierto en Barranco",
+   "resumen": "El reconocido cantautor ayacuchano Diosdado Gaitán Castro se alista para ofrecer al público una noche inolvidable de canto, emoción y peruanidad con su esperado concierto ‘Barranqueando a nuestro modo’.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-barranqueando-a-nuestro-modo-diosdado-gaitan-castro-ofrecera-concierto-barranco-1097872.aspx",
+   "fecha": "2026-10-30T03:53:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Barranco",
+     "ubigeo": "150104",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02179,
+     "lat": -12.14916,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "e9b5152b3b65",
+   "titulo": "Agenda cultural de Lima del 30 de octubre al 6 de noviembre: Hombres G, Av. Larco El Musical, jarana criolla y diversión infantil",
+   "resumen": "El concierto de la banda española, el homenaje al rock peruano de los 80 y 90, los festejos por el Día de la Canción Criolla y planes para niños por Halloween destacan entre las propuestas de los próximos días en la capital.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/30/agenda-cultural-de-lima-del-30-de-octubre-al-6-de-noviembre-hombres-g-av-larco-el-musical-jarana-criolla-y-diversion-infantil/",
+   "fecha": "2026-10-30T03:42:38Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "282882fe5218",
+   "titulo": "Juliaca: Hallan a 40 escolares en videocines durante horario de clases",
+   "resumen": "Alarmante situación. Unos 40 escolares fueron hallados dentro de videocines de Juliaca, durante el horario de clases. La mayoría vestía uniforme y llevaba sus mochilas, pese a que debía estar en sus centros educativos. El hallazgo puso en evidencia los riesgos a los que están expuestos los menores…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/10/29/juliaca-hallan-a-40-escolares-en-videocines-durante-horario-de-clases/",
+   "fecha": "2026-10-30T03:38:10Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "975db530381e",
+   "titulo": "Internos del penal de Lurigancho producen más de 1200 artículos alusivos al papa León XIV",
+   "resumen": "En el marco del fortalecimiento de los programas de resocialización que impulsa el sector Justicia, los internos del penal de Lurigancho han producido más de 1200 artículos alusivos a la llegada del papa León XIV a nuestro país como cerámicas, polos, bolsos tejidos, entre otros.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-internos-del-penal-lurigancho-producen-mas-1200-articulos-alusivos-al-papa-leon-xiv-1097870.aspx",
+   "fecha": "2026-10-30T03:37:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lurigancho",
+     "ubigeo": "150118",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.69709,
+     "lat": -11.93583,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f6e22081f2e7",
+   "titulo": "Lluvia sorprende a Lima esta noche: ¿qué pasará con las temperaturas y hasta cuándo continuarán las precipitaciones?",
+   "resumen": "Las precipitaciones se registraron el jueves 29 de octubre, pese a que el pronóstico anticipaba máximas de hasta 29 °C y una baja posibilidad de ocurrencia para la jornada en la capital",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/30/lluvia-sorprende-a-lima-esta-noche-que-pasara-con-las-temperaturas-y-hasta-cuando-continuaran-las-precipitaciones/",
+   "fecha": "2026-10-30T03:26:42Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "30625786e530",
+   "titulo": "La gastronomía peruana ante los ojos del mundo: cómo Maido y Central posicionaron a Lima y abrieron nuevas oportunidades para el turismo",
+   "resumen": "Los reconocimientos obtenidos por ambos restaurantes y la próxima edición de The World’s 50 Best Restaurants refuerzan la proyección internacional de la gastronomía peruana",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/30/la-gastronomia-peruana-ante-los-ojos-del-mundo-como-maido-y-central-posicionaron-a-lima-y-abrieron-nuevas-oportunidades-para-el-turismo/",
+   "fecha": "2026-10-30T03:14:19Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "deb1e50a63f3",
+   "titulo": "Callao: atacan a balazos a una cúster y un colectivo en menos de dos horas de diferencia",
+   "resumen": "Los atentados ocurrieron en las inmediaciones de las avenidas Pérez Salmón y Colonial. Los conductores de ambas unidades resultaron heridos y fueron trasladados al hospital Daniel Alcides Carrión.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/29/callao-atacan-a-balazos-a-una-custer-y-un-colectivo-en-menos-de-dos-horas-de-diferencia-2378290",
+   "fecha": "2026-10-30T03:14:00Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Daniel Alcides Carrión",
+     "ubigeo": "190200",
+     "precision": "provincia",
+     "provincia": "Daniel Alcides Carrión",
+     "departamento": "Pasco",
+     "lon": -76.51627,
+     "lat": -10.49143,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d67202c2c810",
+   "titulo": "Castillo de Chancay anuncia ingreso gratuito por Halloween: requisitos para visitar el recinto este 31 de octubre y 1 de noviembre",
+   "resumen": "El complejo turístico de Huaral prepara una celebración especial con actividades para toda la familia. La promoción estará dirigida a un grupo específico de visitantes y tendrá condiciones para acceder al beneficio",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/30/castillo-de-chancay-anuncia-ingreso-gratuito-por-halloween-requisitos-para-visitar-el-recinto-este-31-de-octubre-y-1-de-noviembre/",
+   "fecha": "2026-10-30T03:12:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chancay",
+     "ubigeo": "150605",
+     "precision": "distrito",
+     "provincia": "Huaral",
+     "departamento": "Lima",
+     "lon": -77.27052,
+     "lat": -11.56295,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Huaral",
+     "ubigeo": "150600",
+     "precision": "provincia",
+     "provincia": "Huaral",
+     "departamento": "Lima",
+     "lon": -77.20682,
+     "lat": -11.49537,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "393307949596",
+   "titulo": "Papa León XIV en el Cusco: Descartan instalar helipuerto en Sacsayhuamán para el ‘Papacóptero’",
+   "resumen": "Este jueves 29 de octubre la comitiva del Vaticano, enviada al país a fin de inspeccionar los lugares por donde pasará el papa León XIV en su periplo peruano, llegó hasta el Cusco a fin de revisar los sitios que visitará el sumo pontífice.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/cusco/papa-leon-xiv-en-el-cusco-descartan-instalar-helipuerto-en-sacsayhuaman-para-el-papacoptero-apuesplan-ultimas-noticia/",
+   "fecha": "2026-10-30T02:54:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "462a19fcf021",
+   "titulo": "San Martín de Porres: asesinan a hombre mientras compraba repuestos para su auto en la avenida Perú",
+   "resumen": "Los atacantes, que se desplazaban en una camioneta roja, dispararon en múltiples ocasiones, dejando a la víctima con ocho impactos de bala. El agraviado fue identificado como David Joel Millones Huamaní, de 35 años.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/29/san-martin-de-porres-asesinan-a-hombre-mientras-compraba-repuestos-para-su-auto-en-la-avenida-peru-381669",
+   "fecha": "2026-10-30T02:46:33Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "aeb9ba800c7f",
+   "titulo": "Nueva alerta roja en Piura y Tumbes por lluvias extremas: Senamhi advierte riesgo de inundaciones en el norte del país",
+   "resumen": "Siete provincias del norte permanecen bajo vigilancia por precipitaciones de moderada a extrema intensidad durante las próximas 24 horas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/30/nueva-alerta-roja-en-piura-y-tumbes-por-lluvias-extremas-senamhi-advierte-riesgo-de-inundaciones-en-el-norte-del-pais/",
+   "fecha": "2026-10-30T02:44:24Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "300e72636515",
+   "titulo": "Fenómeno El Niño: Ministerio de Cultura destina S/2 millones para proteger el patrimonio cultural",
+   "resumen": "El Ministerio de Cultura destinó S/ 2 millones para implementar acciones de prevención y protección del patrimonio cultural de Lambayeque ante los posibles efectos del Fenómeno El Niño.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/lambayeque/fenomeno-el-nino-ministerio-de-cultura-destino-2-millones-de-soles-para-implementar-acciones-de-prevencion-y-proteccion-del-patrimonio-cultural-de-lambayeque-ultimas-noticia/",
+   "fecha": "2026-10-30T02:43:48Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "51ba10913da1",
+   "titulo": "Madre de Dios: 57 escolares participan en el encuentro ‘Nuestras voces por el ambiente’",
+   "resumen": "La Dirección Regional de Educación de Madre de Dios reunió este jueves a 57 escolares de 14 instituciones educativas en el encuentro de líderes y brigadistas ‘Nuestras voces por el ambiente’, una jornada que puso en valor el compromiso de los jóvenes estudiantes con el cuidado de su entorno.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-madre-dios-57-escolares-participan-el-encuentro-nuestras-voces-por-ambiente-1097867.aspx",
+   "fecha": "2026-10-30T02:35:49Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Madre de Dios",
+     "lon": -69.1768,
+     "lat": -12.59367,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "28920c05f51c",
+   "titulo": "Trinquetes Políticos: Ordóñez se desmarca del “Dr. Chejo”",
+   "resumen": "POR: RONY FLOR COAYLA En las redes se mostró una imagen donde el electo alcalde de San Antonio, Ricardo Ordóñez, aparece con una persona identificada con Somos Perú y se deja entrever que él apoyaría la candidatura regional de Juan Luis Herrera Chejo. Sin embargo, no tardó en aclarar que esa fue…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/trinquetes-politicos-ordonez-se-desmarca-del-dr-chejo/",
+   "fecha": "2026-10-30T02:30:48Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Antonio",
+     "ubigeo": "180107",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -71.0247,
+     "lat": -17.32109,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "f7b5cb75fce5",
+   "titulo": "Luis Galarreta sobre su posible salida de la PCM: \"Yo no comento sobre chismes\"",
+   "resumen": "Durante su visita a Tumbes, Galarreta indicó que el gabinete está enfocado en enfrentar la criminalidad y el Fenómeno de El Niño, sin comentar sobre las versiones que señalan que su estadía como primer ministro estaría próxima a acabar.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/29/luis-galarreta-sobre-su-posible-salida-de-la-pcm-yo-no-comento-sobre-chismes-hnews-2138663",
+   "fecha": "2026-10-30T02:29:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "47178d15d2eb",
+   "titulo": "La historia de la iglesia peruana que León XIV ayudó a construir con la herencia que recibió tras la muerte de su padre",
+   "resumen": "Una nueva biografía reconstruye un episodio poco conocido de los años de Robert Prevost como misionero en Trujillo y el vínculo que mantuvo con una comunidad que buscaba levantar su propio templo",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/30/la-historia-de-la-iglesia-peruana-que-leon-xiv-ayudo-a-construir-con-la-herencia-que-recibio-tras-la-muerte-de-su-padre/",
+   "fecha": "2026-10-30T02:28:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c7ddf7c87c06",
+   "titulo": "Marinera limeña, ceviche y cine peruano: la feria gratuita que ofrecerá cuatro días de cultura en el Centro Histórico de Lima",
+   "resumen": "El encuentro cultural tendrá ingreso libre y comenzará desde las 10 a.m. durante cuatro jornadas. Entre sus principales atractivos figuran las presentaciones de música criolla y afroperuana, las experiencias gastronómicas y la exhibición de una película peruana",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/30/marinera-limena-ceviche-y-cine-peruano-la-feria-gratuita-que-ofrecera-cuatro-dias-de-cultura-en-el-centro-historico-de-lima/",
+   "fecha": "2026-10-30T02:13:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "c5489b756013",
    "titulo": "La IV Fiesta del libro y la cultura en Tacna reunirá a más de 8 mil personas",
    "resumen": "",
@@ -1372,6 +1955,42 @@
    ]
   },
   {
+   "id": "cff82f13a27d",
+   "titulo": "Comitiva del Vaticano realiza inspección en Pucallpa por papa León XIV",
+   "resumen": "Delegación examinó el bulevar de Yarinacocha donde el pontífice se reunirá con comunidades indígenas",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/peru/comitiva-vaticano-realiza-inspeccion-pucallpa-papa-leon-xiv-n495952",
+   "fecha": "2026-10-29T23:39:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Yarinacocha",
+     "ubigeo": "250105",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.57573,
+     "lat": -8.35549,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "d86e7c4c9613",
    "titulo": "Museo Ferroviario realizará tarde de cuentos, misterio y magia por Halloween",
    "resumen": "El Museo Ferroviario de Tacna abrirá sus puertas este sábado 31 de octubre para presentar «Reales Encantados», una propuesta cultural y recreativa dirigida a niños, adolescentes y personas que conservan el espíritu infantil. La actividad se desarrollará de 4:00 p. m. a 8:00 p. m., con ingreso…",
@@ -1674,6 +2293,43 @@
      "lat": -18.00181,
      "confianza": 0.6,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "28d7f4149733",
+   "titulo": "Presentan proyecto de seguridad ciudadana por S/ 1.7 millones para Moquegua",
+   "resumen": "El Fondo de Desarrollo Moquegua (FDM) y la Municipalidad Provincial de Mariscal Nieto presentaron el proyecto de implementación del sistema de seguridad ciudadana, que contempla una inversión de S/ 1 788 500,58 para ampliar la vigilancia en el distrito de Moquegua. La propuesta incluye la…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/presentan-proyecto-de-seguridad-ciudadana-por-s-1-7-millones-para-moquegua/",
+   "fecha": "2026-10-29T23:23:23Z",
+   "temas": [
+    "politica_local",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Mariscal Nieto",
+     "ubigeo": "180100",
+     "precision": "provincia",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
+     "principal": false
     }
    ]
   },
@@ -2342,6 +2998,31 @@
      "lat": -12.04533,
      "confianza": 0.85,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "403cf49664b0",
+   "titulo": "Municipio coordina acciones para entierro sanitario de ballena varada en Deán Valdivia",
+   "resumen": "La responsable de Medio Ambiente de la Municipalidad Distrital de Deán Valdivia, Katy Alejandro Pérez, informó sobre las coordinaciones y acciones dispuestas para el entierro sanitario de la ballena de aleta varada en las costas del distrito, cuyo deceso se confirmó la mañana de este jueves. La…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/municipio-coordina-acciones-para-entierro-sanitario-de-ballena-varada-en-dean-valdivia/",
+   "fecha": "2026-10-29T22:31:07Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Dean Valdivia",
+     "ubigeo": "040703",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -71.82666,
+     "lat": -17.14486,
+     "confianza": 0.9,
+     "principal": true
     }
    ]
   },
