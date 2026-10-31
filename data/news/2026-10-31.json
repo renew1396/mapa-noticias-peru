@@ -1,0 +1,167 @@
+{
+ "fecha": "2026-10-31",
+ "noticias": [
+  {
+   "id": "645f8bad6452",
+   "titulo": "Operativo en Chanchamayo deja cinco detenidos por minería ilegal",
+   "resumen": "Un operativo de interdicción contra la minería ilegal en el río Autiki, distrito de Pichanaqui (Chanchamayo, Junín), dejó cinco personas detenidas en flagrancia y la destrucción de una excavadora, zarandas y motobombas.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/operativo-mineria-ilegal-chanchamayo-cinco-detenidos",
+   "fecha": "2026-10-31T05:10:07Z",
+   "temas": [
+    "mineria",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pichanaqui",
+     "ubigeo": "120303",
+     "precision": "distrito",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -74.87286,
+     "lat": -10.9263,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Chanchamayo",
+     "ubigeo": "120300",
+     "precision": "provincia",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -75.32752,
+     "lat": -11.05667,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "7cd0f13ded28"
+  },
+  {
+   "id": "6992f0cadecc",
+   "titulo": "Cementerios de Cayma quedaron listos para fiesta de Todos Santos y Difuntos",
+   "resumen": "Cementerios en Cayma recibierá miles de personas que visitarán a sus difuntos. Municipalidad Distrital de",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/10/31/cementerios-de-cayma-quedaron-listos-para-fiesta-de-todos-santos-y-difuntos/",
+   "fecha": "2026-10-31T05:10:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cayma",
+     "ubigeo": "040103",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.54409,
+     "lat": -16.36253,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "26bd8bcb1983",
+   "titulo": "Intensificarán vacunación contra sarampión en colegios de Arequipa",
+   "resumen": "Vacunación contra el sarampión solo alcanzó el 40%. La Geresa reforzará las jornadas de inmunización",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/10/31/intensificaran-vacunacion-contra-sarampion-en-colegios-de-arequipa/",
+   "fecha": "2026-10-31T05:08:00Z",
+   "temas": [
+    "salud",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8a8231184314",
+   "titulo": "Escenificará salida de Manco Cápac y Mama Ocllo del Titicaca con más de 500 actores",
+   "resumen": "La representación se realizará el 5 de noviembre como parte de las celebraciones por los",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/10/31/escenificara-salida-de-manco-capac-y-mama-ocllo-del-titicaca-con-mas-de-500-actores/",
+   "fecha": "2026-10-31T05:06:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Manco Capac",
+     "ubigeo": "211305",
+     "ccpp": "2113050024",
+     "precision": "centro_poblado",
+     "provincia": "Yunguyo",
+     "departamento": "Puno",
+     "lon": -69.01679,
+     "lat": -16.26208,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1eb05a10c11b",
+   "titulo": "Allison reconoce resultados y afirma que si JNE da credenciales a López Aliaga lo buscará para desearle suerte",
+   "resumen": "Resultados de ONPE al 100%. Francis Allison reconoce que no ganó la Alcaldía de Lima, cuestiona al JNE por la incertidumbre sobre la proclamación y afirma que felicitará a Rafael López Aliaga si recibe las credenciales. El candidato de Avanza País también plantea revisar el sistema electoral y la…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/onpe-al-100-francis-allison-de-avanza-pais-reconoce-resultados-y-dice-que-si-jne-da-credenciales-a-rafael-lopez-aliaga-de-renovacion-popular-lo-buscara-y-desearle-suerte-alcaldia-e-lima-dapuesplan-noticia/",
+   "fecha": "2026-10-31T05:01:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  }
+ ]
+}

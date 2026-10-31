@@ -2,6 +2,1218 @@
  "fecha": "2026-10-30",
  "noticias": [
   {
+   "id": "5bc9049eb5c7",
+   "titulo": "Cajamarca: dos viviendas afectadas por lluvia intensa de 30 minutos en Contumazá",
+   "resumen": "La provincia de Contumazá, ubicada en el suroeste de la región Cajamarca, soportó una lluvia intensa esta tarde y dejó dos viviendas afectadas. Ante esta situación, la municipalidad provincial brindó apoyo a las familias damnificadas con calaminas, plásticos y frazadas tras el empadronamiento.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cajamarca-dos-viviendas-afectadas-lluvia-intensa-30-minutos-contumaza-1098010.aspx",
+   "fecha": "2026-10-31T04:41:29Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Contumazá",
+     "ubigeo": "060500",
+     "precision": "provincia",
+     "provincia": "Contumazá",
+     "departamento": "Cajamarca",
+     "lon": -78.80536,
+     "lat": -7.36656,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "235051c32b54",
+   "titulo": "El Agustino: hallan 231 celulares robados y capturan a tres presuntos miembros de red criminal",
+   "resumen": "La Policía Nacional del Perú (PNP), pertenecientes al Escuadrón Terna, lograron la captura de tres integrantes de una banda criminal en un inmueble multifamiliar del distrito de El Agustino. Entre los intervenidos se encuentran dos varones y una mujer en estado de gestación.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/el-agustino-hallan-231-celulares-robados-y-captura-a-tres-presuntos-miembros-de-red-criminal-ultimas-noticia/",
+   "fecha": "2026-10-31T04:40:10Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "El Agustino",
+     "ubigeo": "150111",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.00056,
+     "lat": -12.04822,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ad9d02536db4",
+   "titulo": "La hackatón de la NASA llega a Lima y otras ciudades del Perú: cómo inscribirse gratis y quiénes pueden participar",
+   "resumen": "Durante dos días, participantes de distintas disciplinas podrán desarrollar proyectos para enfrentar desafíos relacionados con la Tierra y el espacio. La convocatoria está abierta a estudiantes, profesionales y personas interesadas en la innovación",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/31/la-hackaton-de-la-nasa-llega-a-lima-y-otras-ciudades-del-peru-como-inscribirse-gratis-y-quienes-pueden-participar/",
+   "fecha": "2026-10-31T04:06:20Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0ecd3c37a29b",
+   "titulo": "Ayacucho: encuentran gorgojos en ‘wawas’ puestas a la venta por festividad de Todos los Santos",
+   "resumen": "Autoridades detectaron e incautaron una gran cantidad de tradicionales bizcochos “wawas” infestados con gorgojos, los cuales fueron destruidos de inmediato para evitar su comercialización",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/ayacucho/ayacucho-encuentran-gorgojos-en-wawas-puestas-a-la-venta-por-festividad-de-todos-los-santos-ultimas-noticia/",
+   "fecha": "2026-10-31T04:04:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "05757ffd1dcf",
+   "titulo": "Amazonas: 64 estudiantes sufren intoxicación tras consumir alimentos de comedor universitario",
+   "resumen": "Según el Hospital Regional Virgen de Fátima, los estudiantes presentaron síntomas como diarrea, náuseas, dolor abdominal, fiebre, dolor de cabeza y malestar general.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/amazonas-64-estudiantes-sufren-intoxicacion-tras-consumir-alimentos-de-comedor-universitario-noticia-1715298",
+   "fecha": "2026-10-31T04:00:55Z",
+   "temas": [
+    "educacion",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Amazonas",
+     "ubigeo": "010000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Amazonas",
+     "lon": -77.87281,
+     "lat": -6.22955,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2ab791e7f262",
+   "titulo": "León XIV: aeropuertos de Cusco y Pucallpa operarán 24 horas los días 14 y 16 de noviembre",
+   "resumen": "Los aeropuertos de las ciudades de Cusco y Pucallpa (Ucayali) operarán las 24 horas los días 14 y 16 de noviembre, para no afectar a los turistas que han previsto sus viajes a estas dos localidades a las que el papa León XIV visitará el domingo 15 de dicho mes.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-leon-xiv-aeropuertos-cusco-y-pucallpa-operaran-24-horas-los-dias-14-y-16-noviembre-1098009.aspx",
+   "fecha": "2026-10-31T03:56:11Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "255040951779",
+   "titulo": "Resultados ONPE: Al 99.989% de actas contabilizadas en Lima Metropolitana",
+   "resumen": "Solo tres actas quedan pendientes en el conteo de votos de Lima.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/onpe-alcanza-el-99989-de-actas-contabilizadas-en-lima-metropolitana-renovacion-popular-avanza-pais-noticia/",
+   "fecha": "2026-10-31T03:47:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "89d6bd6d8042",
+   "titulo": "Jesús María: vecinos realizan plantón para denunciar tala de árboles en obra del Campo de Marte [VIDEO]",
+   "resumen": "Según los denunciantes, se han talado hasta cuatro árboles y por ello exigen una respuesta de Invermet, entidad adscrita a la Municipalidad Metropolitana de Lima.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/jesus-maria-vecinos-realizan-planton-para-denunciar-tala-de-arboles-en-obra-del-campo-de-marte-noticia-1715293",
+   "fecha": "2026-10-31T03:35:35Z",
+   "temas": [
+    "conflicto_social",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jesús María",
+     "ubigeo": "150113",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04327,
+     "lat": -12.07561,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "bce79699ff37",
+   "titulo": "Corte de agua en Piura: EPS Grau asegura que el cierre del canal por 3 días no afectará el servicio",
+   "resumen": "El director de la EPS Grau, Jorge Campos, aseguró que el cierre de compuertas del canal Daniel Escobar por tres días no significará un corte de agua potable en las viviendas de Piura. La medida fue solicitada por el Proyecto Especial Chira Piura (PECHP) para evaluar el estado de la…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/corte-agua-piura-eps-grau-canal-daniel-escobar-3-dias/",
+   "fecha": "2026-10-31T03:33:55Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3353c009e71e",
+   "titulo": "Arequipa: colocarán vallas metálicas para proteger áreas verdes de la plaza de armas",
+   "resumen": "La Municipalidad Provincial de Arequipa colocará vallas metálicas desde la mañana de este sábado 31 de octubre en las áreas verdes de la plaza de armas para proteger estos espacios ante la concentración de cientos de personas en el centro histórico por las celebraciones del Día de la Canción…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-arequipa-colocaran-vallas-metalicas-para-proteger-areas-verdes-de-plaza-armas-1098008.aspx",
+   "fecha": "2026-10-31T03:33:36Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040100",
+     "precision": "provincia",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "05bc47520205",
+   "titulo": "Última procesión del Señor de los Milagros: conoce las alternativas de transporte público",
+   "resumen": "Los ciudadanos que este domingo 1 de noviembre acudan al Centro de Lima para participar en el quinto y último recorrido procesional del Señor de los Milagros contarán con diversas alternativas de transporte público para llegar a la iglesia Las Nazarenas y desplazarse por los alrededores de la…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-ultima-procesion-del-senor-los-milagros-conoce-las-alternativas-transporte-publico-1097916.aspx",
+   "fecha": "2026-10-31T03:27:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Nazarenas",
+     "ubigeo": "050115",
+     "ccpp": "0501150001",
+     "precision": "centro_poblado",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.21255,
+     "lat": -13.15409,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b230a7377d0a",
+   "titulo": "Minería ilegal: PNP afecta bienes por más de S/ 6.2 millones en operativos en Junín y Madre de Dios",
+   "resumen": "La Policía Nacional del Perú (PNP) afectó bienes utilizados en actividades de minería ilegal valorizados por más de S/ 6.2 millones, tras ejecutar operativos en Junín y Madre de Dios, como parte de las acciones del Comando Unificado.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/mineria-ilegal-pnp-afecta-bienes-por-mas-de-s-62-millones-en-operativos-en-junin-y-madre-de-dios-noticia/",
+   "fecha": "2026-10-31T03:20:59Z",
+   "temas": [
+    "seguridad",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170203",
+     "precision": "distrito",
+     "provincia": "Manu",
+     "departamento": "Madre de Dios",
+     "lon": -70.39422,
+     "lat": -12.61849,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "882df384dfbd",
+   "titulo": "El Agustino: La Policía interviene una vivienda donde se guardaban celulares robados",
+   "resumen": "En el operativo policial realizado en el jirón Jorge Basadre también se detuvo a tres personas, dos hombres y una mujer embarazada.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/policiales/el-agustino-la-policia-interviene-una-vivienda-donde-se-guardaban-celulares-robados-en-puente-nuevo-y-nocheto-noticia-1715292",
+   "fecha": "2026-10-31T03:00:40Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "El Agustino",
+     "ubigeo": "150111",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.00056,
+     "lat": -12.04822,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b914dd0ed8d5",
+   "titulo": "Trujillo: más de 250 personas vivieron una noche de misterio en el cementerio Miraflores",
+   "resumen": "El Cementerio General Miraflores, la última morada de aquellos que tropezaron con la muerte, es también el lugar donde nacieron algunas de las historias más oscuras, tenebrosas y emocionantes de Trujillo, en la región La Libertad.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-trujillo-mas-250-personas-vivieron-una-noche-misterio-el-cementerio-miraflores-1097981.aspx",
+   "fecha": "2026-10-31T03:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "150122",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02918,
+     "lat": -12.1218,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "00a37ae28842",
+   "titulo": "Señor de los Milagros: Mapa del último recorrido procesional de este domingo 1 de noviembre",
+   "resumen": "El anda del Cristo Moreno realizará su última salida del 2026, y recorrerá el Centro de Lima para despedirse de sus fieles devotos hasta el próximo año",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/31/senor-de-los-milagros-mapa-del-ultimo-recorrido-procesional-de-este-domingo-1-de-noviembre/",
+   "fecha": "2026-10-31T02:39:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "626fcb30236a",
+   "titulo": "El squash en la cima: Diego Elías es el campeón del SmartCentres Canada Cup 2026",
+   "resumen": "El peruano Diego Elías, integrante del programa Lima 2027 del Instituto Peruano del Deporte (IPD), se coronó campeón del SmartCentres Canada Cup 2026, con lo cual sumó su sexto título en lo que va del año.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-el-squash-la-cima-diego-elias-es-campeon-del-smartcentres-canada-cup-2026-1098004.aspx",
+   "fecha": "2026-10-31T02:29:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f0a6cb09cb11",
+   "titulo": "Fallece monseñor Richard Daniel Alarcón Urrutia, arzobispo metropolitano de Cusco",
+   "resumen": "Desde la confirmación del deceso, decenas de feligreses se convocaron espontáneamente entre emotivos cánticos y oraciones para despedir y rendir homenaje a la labor pastoral de la autoridad religiosa",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/cusco/fallece-monsenor-richard-daniel-alarcon-urrutia-arzobispo-del-cusco-ultimas-noticia/",
+   "fecha": "2026-10-31T02:21:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4ae7e3de23db",
+   "titulo": "PNP afecta bienes de minería ilegal por S/ 6.2 millones en Madre de Dios y Junín",
+   "resumen": "La PNP ejecutó dos operaciones contra la minería ilegal en Madre de Dios y Junín, con bienes afectados por más de S/ 6.2 millones. En Pichanaqui se detuvo a cinco presuntos integrantes de 'Los Auríferos de Huantinini'.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/pnp-mineria-ilegal-6-2-millones-madre-dios-junin",
+   "fecha": "2026-10-31T02:20:09Z",
+   "temas": [
+    "mineria",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170203",
+     "precision": "distrito",
+     "provincia": "Manu",
+     "departamento": "Madre de Dios",
+     "lon": -70.39422,
+     "lat": -12.61849,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Huantinini",
+     "ubigeo": "120303",
+     "ccpp": "1203030044",
+     "precision": "centro_poblado",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -74.76176,
+     "lat": -10.93331,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "b230a7377d0a"
+  },
+  {
+   "id": "3fca58be0f36",
+   "titulo": "Los blindaban en cajas de aluminio para burlar el GPS: hallan 231 celulares robados y captura a tres presuntos miembros de red criminal en búnker de El Agustino",
+   "resumen": "La PNP investiga la posible red dedicada al acopio y comercialización de estos equipos. Se buscan identificar a los responsables de los robos y la posible salida de celulares al extranjero.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/30/los-blindaban-en-cajas-de-aluminio-para-burlar-el-gps-hallan-231-celulares-robados-y-captura-a-tres-presuntos-miembros-de-red-criminal-en-bunker-de-el-agustino-2506740",
+   "fecha": "2026-10-31T02:12:07Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "El Agustino",
+     "ubigeo": "150111",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.00056,
+     "lat": -12.04822,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "06b56a9a92d7",
+   "titulo": "Chiclayo: panadero elabora réplica de la Basílica de San Pedro en homenaje al papa León XIV",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-panadero-elabora-replica-de-la-basilica-de-san-pedro-en-homenaje-al-papa-leon-xiv-noticia/",
+   "fecha": "2026-10-31T02:10:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Pedro",
+     "ubigeo": "140107",
+     "ccpp": "1401070018",
+     "precision": "centro_poblado",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.71604,
+     "lat": -7.05285,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140100",
+     "precision": "provincia",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3dd5e65af57d",
+   "titulo": "Masacre en Chiclayito: general PNP dice que fue un homicidio por encargo y que una línea es la venganza",
+   "resumen": "El jefe de la Región Policial Piura, general PNP Daniel Reyes Reyme, afirmó que el ataque armado que dejó tres muertos y un herido grave en el asentamiento humano Chiclayito, en Castilla, sería un homicidio por encargo y que una de las líneas de investigación es la venganza. La autoridad policial…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/masacre-castilla-chiclayito-general-pnp-homicidio-por-encargo/",
+   "fecha": "2026-10-31T02:08:49Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Castilla",
+     "ubigeo": "200104",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.62279,
+     "lat": -5.20147,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "37df0e5739cc",
+   "titulo": "Señor de los Milagros: cómo funcionará el transporte público este domingo 1 de noviembre en Lima por la última procesión",
+   "resumen": "La ATU informó que el Metropolitano, los corredores Azul y Morado y las rutas convencionales modificarán sus trayectos por el último recorrido del Cristo Moreno",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/31/senor-de-los-milagros-como-funcionara-el-transporte-publico-este-domingo-1-de-noviembre-en-lima-por-la-ultima-procesion/",
+   "fecha": "2026-10-31T02:05:42Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "527f61c075d5",
+   "titulo": "Keiko Fujimori descarta salida de Luis Galarreta de la PCM tras versiones de cambios: \"Es un simple chisme\"",
+   "resumen": "El pronunciamiento desde El Salvador llega después de varios días de especulaciones sobre la continuidad del jefe del Gabinete. El propio premier había respondido a las versiones durante una visita oficial a Tumbes",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/31/keiko-fujimori-descarta-salida-de-luis-galarreta-de-la-pcm-tras-versiones-de-cambios-es-un-simple-chisme/",
+   "fecha": "2026-10-31T02:04:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "971105ebfbf6",
+   "titulo": "Produce destaca innovación y tecnología ante fenómeno El Niño",
+   "resumen": "El Ministerio de la Producción (Produce) participó en el CEO SUMMIT 2026, desarrollado en Piura, encuentro que reunió a representantes del sector público y privado para analizar los principales desafíos de la región norte frente al Fenómeno El Niño (FEN) y promover acciones orientadas a reducir…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-produce-destaca-innovacion-y-tecnologia-ante-fenomeno-nino-1097997.aspx",
+   "fecha": "2026-10-31T02:00:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1482ba66ab53",
+   "titulo": "Arzobispo metropolitano de Cusco, Richard Daniel Alarcón, fallece a los 74 años",
+   "resumen": "El arzobispo metropolitano de Cusco, monseñor Richard Daniel Alarcón Urrutia, falleció este viernes a los 74 años, confirmó la institución religiosa a través de sus redes sociales.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-arzobispo-metropolitano-cusco-richard-daniel-alarcon-fallece-a-los-74-anos-1098002.aspx",
+   "fecha": "2026-10-31T01:50:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "f0a6cb09cb11"
+  },
+  {
+   "id": "e18584a9389e",
+   "titulo": "Comando Unificado: operativos afectan bienes de minería ilegal por S/6.2 millones",
+   "resumen": "En el marco de las acciones del Comando Unificado contra el crimen organizado, la Policía Nacional ejecutó dos operaciones contra la minería ilegal en Madre de Dios y Junín, que permitieron afectar bienes e infraestructura utilizados para esta actividad ilícita por un valor superior a los 6.2…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-comando-unificado-operativos-afectan-bienes-mineria-ilegal-s62-millones-1097999.aspx",
+   "fecha": "2026-10-31T01:47:48Z",
+   "temas": [
+    "mineria",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170203",
+     "precision": "distrito",
+     "provincia": "Manu",
+     "departamento": "Madre de Dios",
+     "lon": -70.39422,
+     "lat": -12.61849,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "95f932a75542",
+   "titulo": "Arzobispo del Cusco, Richard Alarcón, falleció este viernes debido a problemas de salud",
+   "resumen": "Alarcón estuvo coordinando con la comisión del Vaticano para recibir al papa León XlV en la ciudad imperial.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/cusco/papa-leon-xiv-arzobispo-del-cusco-richard-alarcon-fallecio-debido-a-problemas-de-salud-noticia-1715288",
+   "fecha": "2026-10-31T01:30:50Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5d317fb06366",
+   "titulo": "Fuertes granizadas y lluvias intensas causan graves daños en el distrito de Obas",
+   "resumen": "Naturaleza desata su furia",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/fuertes-granizadas-y-lluvias-intensas-causan-graves-danos-en-el-distrito-de-obas-noticia/",
+   "fecha": "2026-10-31T01:28:56Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Obas",
+     "ubigeo": "101106",
+     "precision": "distrito",
+     "provincia": "Yarowilca",
+     "departamento": "Huánuco",
+     "lon": -76.66592,
+     "lat": -9.79539,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b7e137d5dbbe",
+   "titulo": "El costo oculto de una foto con animales silvestres en Iquitos: documental revela la ruta del tráfico ilegal en la Amazonía",
+   "resumen": "El rescate no siempre significa libertad. En Loreto, las intervenciones contra este negocio son apenas el comienzo de un complejo proceso que puede determinar el futuro de los animales recuperados",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/31/el-costo-oculto-de-una-foto-con-animales-silvestres-en-iquitos-documental-revela-la-ruta-del-trafico-ilegal-en-la-amazonia/",
+   "fecha": "2026-10-31T01:27:57Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "35bc48e6984b",
+   "titulo": "Granizada causa daños en más de 10 mil hectáreas de cultivos en Yarowilca",
+   "resumen": "El Niño está causando estragos en el agro",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/granizada-causa-danos-en-mas-de-10-mil-hectareas-de-cultivos-en-yarowilca-noticia/",
+   "fecha": "2026-10-31T01:24:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yarowilca",
+     "ubigeo": "101100",
+     "precision": "provincia",
+     "provincia": "Yarowilca",
+     "departamento": "Huánuco",
+     "lon": -76.60884,
+     "lat": -9.85877,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "142622d4f4ce",
+   "titulo": "Falleció monseñor Richard Daniel Alarcón Urrutia, arzobispo emérito de Cusco",
+   "resumen": "El religioso franciscano, nacido en Lima en 1952, dirigió la arquidiócesis desde 2015 y participaba en las coordinaciones para la próxima visita del papa León XIV a la ciudad imperial",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/31/fallecio-monsenor-richard-daniel-alarcon-urrutia-arzobispo-emerito-de-cusco/",
+   "fecha": "2026-10-31T01:24:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "grupo": "f0a6cb09cb11"
+  },
+  {
+   "id": "ab8c938d0213",
+   "titulo": "Pagó una corona de flores para el Día de los Muertos con un billete falso y terminó delatando a toda su banda criminal en Arequipa",
+   "resumen": "Los sospechosos, que pertenecerían a la banda ‘Los Lavanderos del Colca’, fueron hallados en un automóvil. Las investigaciones buscan determinar si hubo más intentos de estafa con billetes falsos.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/10/30/pago-una-corona-de-flores-para-el-dia-de-los-muertos-con-un-billete-falso-y-termino-delatando-a-toda-su-banda-criminal-en-arequipa-647640",
+   "fecha": "2026-10-31T01:22:29Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Caylloma",
+     "ubigeo": "040500",
+     "precision": "provincia",
+     "provincia": "Caylloma",
+     "departamento": "Arequipa",
+     "lon": -71.60361,
+     "lat": -15.64024,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "648a061f6319",
+   "titulo": "Arequipa: Dos años de prisión para investigado por robo de dos celulares",
+   "resumen": "Antonio H. Quispe fue condenado a dos años, seis meses y 26 días de pena privativa de la libertad con el carácter de efectiva, por el delito contra el patrimonio, en la modalidad de hurto agravado. La medida fue conseguida por la Primera Fiscalía Provincial Penal Corporativa Especializada en…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-dos-anos-de-prision-para-investigado-por-robo-de-dos-celulares-noticia/",
+   "fecha": "2026-10-31T01:21:26Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4f252896394d",
+   "titulo": "Sentencian a 20 años de prisión a sujeto que violó y embarazo a una adolescente en Huánuco",
+   "resumen": "Le espera una dura condena",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/sentencian-a-20-anos-de-prision-a-sujeto-que-violo-y-embarazo-a-una-adolescente-en-huanuco-noticia/",
+   "fecha": "2026-10-31T01:15:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "43eff81ec925",
+   "titulo": "Golpe duro al cibercrimen: Policía Nacional desarticula una peligrosa red internacional",
+   "resumen": "La intervención se ejecutó de manera simultánea en cuatro inmuebles de Lima y Callao, donde se concretó la detención preliminar judicial de Miguel Ángel Apagüeño Guayaba (44), alias ‘Charapa’, y Sharon Arumi Ventura Ortiz (27), alias ‘Ñañita’.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/golpe-duro-al-cibercrimen-policia-nacional-desarticula-una-peligrosa-red-internacional-ultimas-noticia/",
+   "fecha": "2026-10-31T01:14:31Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "0f3168cb3584",
+   "titulo": "Huánuco: prisión preventiva para investigado por homicidio",
+   "resumen": "Investigan a sospechoso de crimen",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-prision-preventiva-para-investigado-por-homicidio-noticia/",
+   "fecha": "2026-10-31T01:10:17Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "544e27275970",
+   "titulo": "Diez países impulsan en Lima prevención del embarazo adolescente",
+   "resumen": "Las autoridades ministeriales y representantes de diez países de la región, junto con organismos internacionales y líderes juveniles, suscribieron cinco compromisos de acción integral para fortalecer la salud sexual y reproductiva, prevenir el embarazo adolescente y reducir la mortalidad materna.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-diez-paises-impulsan-lima-prevencion-del-embarazo-adolescente-1097998.aspx",
+   "fecha": "2026-10-31T01:09:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7f01616727aa",
+   "titulo": "Arequipa: Detienen a persona con lagartijas, culebras y restos de fauna silvestre",
+   "resumen": "V. C. H. fue detenida por su presunta vinculación con delitos contra los recursos naturales, en la modalidad de depredación de flora y fauna silvestre. La intervención ocurrió en el distrito de Cerro Colorado, en Arequipa.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-detienen-a-persona-con-lagartijas-culebras-y-restos-de-fauna-silvestre-noticia/",
+   "fecha": "2026-10-31T01:05:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cerro Colorado",
+     "ubigeo": "040104",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.56088,
+     "lat": -16.37626,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "68fa3b240609",
+   "titulo": "Lambayeque suma 701 casos de violencia escolar y ocupa el segundo lugar a nivel nacional",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-suma-701-casos-de-violencia-escolar-y-ocupa-el-segundo-lugar-a-nivel-nacional-noticia/",
+   "fecha": "2026-10-31T00:59:23Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2cb9218c0dc5",
+   "titulo": "Papa León XIV en Perú: MTC confirma que los aeropuertos de Cusco y Pucallpa suspenderán vuelos el 15 de noviembre",
+   "resumen": "El ministro de Transportes y Comunicaciones, José Angello Tangherlini, indicó que la medida fue coordinada con las aerolíneas y pidió informar oportunamente a los pasajeros sobre cambios en sus itinerarios",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/31/papa-leon-xiv-en-peru-mtc-confirma-que-los-aeropuertos-de-cusco-y-pucallpa-suspenderan-vuelos-el-15-de-noviembre/",
+   "fecha": "2026-10-31T00:54:50Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
    "id": "5bcbcf56876b",
    "titulo": "Fallece arzobispo de Cusco a poco de la visita del papa León XIV a la ciudad",
    "resumen": "El monseñor Richard Alarcón, realizaba los preparativos para el arribo del papa a la Ciudad Imperial, cuando falleció víctima de una penosa enfermedad",
@@ -68,6 +1280,42 @@
      "departamento": "Puno",
      "lon": -70.02806,
      "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "bd9ef03d4316",
+   "titulo": "Niños de Ilo recibieron lentes correctores gratuitos tras campaña visual",
+   "resumen": "Un total de 44 niños de entre 3 y 11 años de la provincia de Ilo recibieron lentes correctores gratuitos tras participar en una campaña de diagnóstico y tratamiento de problemas visuales que alcanzó a 120 menores en la región Moquegua. Los otros 76 beneficiarios pertenecen a la Red de Salud…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/ninos-de-ilo-recibieron-lentes-correctores-gratuitos-tras-campana-visual/",
+   "fecha": "2026-10-31T00:09:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
      "confianza": 0.85,
      "principal": false
     }
@@ -333,6 +1581,68 @@
    ]
   },
   {
+   "id": "09bf9b41becb",
+   "titulo": "Radio Onda Azul realizará XIV romería para rescatar la memoria de los personajes ilustres de Puno",
+   "resumen": "La actividad reunirá a estudiantes e instituciones culturales este sábado 31 de octubre, en un recorrido hacia el cementerio de Laykakota para rendir homenaje a quienes dejaron huella en la historia puneña Radio Onda Azul realizará este sábado 31 de octubre la décima cuarta romería en homenaje a…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/radio-onda-azul-realizara-xiv-romeria-para-rescatar-la-memoria-de-los-personajes-ilustres-de-puno/",
+   "fecha": "2026-10-30T23:34:19Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "45de40bcb9e8",
+   "titulo": "¡Puno exige soluciones al Congreso! Crisis hídrica, contaminación y más de 260 obras paralizadas estarán en agenda",
+   "resumen": "La sesión descentralizada se realizará el 6 de noviembre en Puno y Juliaca. Organizaciones sociales podrán exponer sus demandas sobre agua, infraestructura educativa y proyectos pendientes La escasez de agua, la contaminación de las principales cuencas, las deficiencias en infraestructura…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/puno-exige-soluciones-al-congreso-crisis-hidrica-contaminacion-y-mas-de-260-obras-paralizadas-estaran-en-agenda/",
+   "fecha": "2026-10-30T23:34:17Z",
+   "temas": [
+    "medio_ambiente",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "e3b32e41f930",
    "titulo": "Cementerios de Moquegua están listos para recibir a visitantes este 1 de noviembre",
    "resumen": "Los tres cementerios administrados por la Sociedad de Beneficencia de Moquegua están habilitados para recibir a los visitantes durante la celebración del Día de Todos los Santos, informó su presidenta, Mg. Lupe Maquera Cuayla. La funcionaria señaló que se realizaron trabajos de mantenimiento…",
@@ -353,6 +1663,31 @@
      "lon": -70.93332,
      "lat": -17.19418,
      "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "aae9ee23d228",
+   "titulo": "¡Serenazgo recupera motocicleta robada a docente en Yunguyo! Cuestionan demora en atención policial",
+   "resumen": "La profesora denunció que no recibió el apoyo inmediato que esperaba de la PNP. Vecinos también expresan preocupación por el incremento de hechos delictivos en la ciudad Una docente de la ciudad de Yunguyo recuperó su motocicleta lineal gracias a la intervención del personal de Serenazgo, luego de…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/recupera-motocicleta-robada-a-docente-en-yunguyo-cuestionan-demora-en-atencion-policial/",
+   "fecha": "2026-10-30T23:34:09Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yunguyo",
+     "ubigeo": "211301",
+     "precision": "distrito",
+     "provincia": "Yunguyo",
+     "departamento": "Puno",
+     "lon": -69.09551,
+     "lat": -16.2267,
+     "confianza": 0.7,
      "principal": true
     }
    ]
@@ -503,6 +1838,58 @@
      "principal": true
     }
    ]
+  },
+  {
+   "id": "1dfc09e8d199",
+   "titulo": "Adultos mayores de San Román esperan nuevo local: regidor exige acelerar trámites municipales",
+   "resumen": "El terreno destinado al Centro Integral de Atención al Adulto Mayor se encuentra en evaluación, mientras el trámite administrativo lleva más de un año sin concretarse El regidor Javier Chura Esperilla informó que continúa el proceso administrativo para concretar la asignación de un terreno…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/adultos-mayores-de-san-roman-esperan-nuevo-local-regidor-exige-acelerar-tramites-municipales/",
+   "fecha": "2026-10-30T23:22:48Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6ddf0cd77d56",
+   "titulo": "Contaminación en la cuenca de Llallimayo: anuncian reunión para informar avances de la remediación",
+   "resumen": "Pobladores esperan que los compromisos asumidos por el Gobierno central se traduzcan en estudios técnicos y acciones concretas para recuperar la calidad de los recursos hídricos El presidente del Frente de Defensa de los Recursos Hídricos de la Cuenca de Llallimayo, Marcelino Surco, informó que…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/contaminacion-en-la-cuenca-de-llallimayo-anuncian-reunion-para-informar-avances-de-la-remediacion/",
+   "fecha": "2026-10-30T23:18:28Z",
+   "temas": [
+    "agua",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cuenca",
+     "ubigeo": "090105",
+     "precision": "distrito",
+     "provincia": "Huancavelica",
+     "departamento": "Huancavelica",
+     "lon": -75.0389,
+     "lat": -12.43294,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
   },
   {
    "id": "4521f8e5588b",
@@ -910,6 +2297,58 @@
    ]
   },
   {
+   "id": "54ba10fd4a8d",
+   "titulo": "Familia busca desesperadamente a hombre de 61 años desaparecido en Juliaca",
+   "resumen": "Melitón Chambi Ticona desapareció el 23 de octubre tras salir a comprar materiales de construcción. Sus familiares piden apoyo para encontrarlo Una semana de angustia viven los familiares de Melitón Chambi Ticona (61), quien desapareció el viernes 23 de octubre luego de salir a comprar materiales…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/familia-busca-desesperadamente-a-hombre-de-61-anos-desaparecido-en-juliaca/",
+   "fecha": "2026-10-30T22:52:05Z",
+   "temas": [
+    "seguridad",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f2973d239328",
+   "titulo": "¡Alerta por presuntas estafas! “Los Yaritos y su Bella Chinita” denuncian uso de nombre similar",
+   "resumen": "Músicos advierten que personas estarían ofreciendo presentaciones con una denominación parecida y cobrando adelantos económicos a organizadores de eventos Los integrantes de la agrupación musical “Los Yaritos y su Bella Chinita” se pronunciaron públicamente para alertar sobre el presunto uso de un…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/alerta-por-presuntas-estafas-los-yaritos-y-su-bella-chinita-denuncian-uso-de-nombre-similar/",
+   "fecha": "2026-10-30T22:52:03Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alerta",
+     "ubigeo": "170303",
+     "ccpp": "1703030004",
+     "precision": "centro_poblado",
+     "provincia": "Tahuamanu",
+     "departamento": "Madre de Dios",
+     "lon": -69.23503,
+     "lat": -11.65636,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "9bb648859cb1",
    "titulo": "Ni diputados ni senadores se sienten seguros: desde Arequipa parlamentarios admiten temor por la inseguridad",
    "resumen": "Ni con policías de Seguridad del Estado a su lado se sienten seguros. Desde Arequipa, el senador Daniel Barragán dijo que teme por él y sus hijos.",
@@ -1086,6 +2525,43 @@
    ]
   },
   {
+   "id": "ea02f13c4b42",
+   "titulo": "Obra del malecón Ratti estaría lista para marzo de 2027",
+   "resumen": "Las labores de remodelación del malecón Ratti en Mollendo registran un avance del 20 % y se proyecta que la infraestructura quede totalmente culminada para marzo del próximo año, según informó el alcalde provincial de Islay, Richard Ale Cruz. «En el malecón Ratti registramos casi un 20 % de avance…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/obra-del-malecon-ratti-estaria-lista-para-marzo-de-2027/",
+   "fecha": "2026-10-30T22:38:37Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "71df2fa1d97b",
    "titulo": "Municipalidad de Huamanga bajo investigación fiscal por presunto direccionamiento de licitación de S/ 4.8 millones",
    "resumen": "Investigan presuntas irregularidades en una licitación de S/ 4.8 millones de la Municipalidad de Huamanga por requisitos que limitarían la competencia.",
@@ -1106,6 +2582,32 @@
      "departamento": "Ayacucho",
      "lon": -74.22515,
      "lat": -13.16032,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3f26848d3010",
+   "titulo": "Señalan que drenaje pluvial de Juliaca sigue sin claridad sobre expediente técnico y presupuesto",
+   "resumen": "Dirigente del drenaje pluvial de Juliaca exige a la municipalidad y al PNSU informar sobre la aprobación del expediente técnico y el presupuesto de la obra Raúl Huaricallo, presidente del Comité de Gestión del proyecto del drenaje pluvial de Juliaca, señalo que aún hay falta de información sobre…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/senalan-que-drenaje-pluvial-de-juliaca-sigue-sin-claridad-sobre-expediente-tecnico-y-presupuesto/",
+   "fecha": "2026-10-30T22:32:29Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
      "confianza": 0.9,
      "principal": true
     }
@@ -3225,6 +4727,43 @@
      "lat": -12.04533,
      "confianza": 0.7,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0ef9b39785c5",
+   "titulo": "MINEM aprueba beneficio tributario para exploración minera del proyecto Tassa en Ubinas",
+   "resumen": "El Ministerio de Energía y Minas (MINEM) aprobó la relación de bienes y servicios cuya adquisición permitirá a Colque Perú S.A.C. acceder a la devolución del Impuesto General a las Ventas (IGV) y del Impuesto de Promoción Municipal (IPM) durante la fase de exploración del proyecto minero Tassa…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/minem-aprueba-beneficio-tributario-para-exploracion-minera-del-proyecto-tassa-en-ubinas/",
+   "fecha": "2026-10-30T19:33:56Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tassa",
+     "ubigeo": "180210",
+     "ccpp": "1802100011",
+     "precision": "centro_poblado",
+     "provincia": "General Sánchez Cerro",
+     "departamento": "Moquegua",
+     "lon": -70.69828,
+     "lat": -16.1815,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Ubinas",
+     "ubigeo": "180210",
+     "precision": "distrito",
+     "provincia": "General Sánchez Cerro",
+     "departamento": "Moquegua",
+     "lon": -70.85567,
+     "lat": -16.38653,
+     "confianza": 0.9,
+     "principal": false
     }
    ]
   },
