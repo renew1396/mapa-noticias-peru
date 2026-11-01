@@ -2,6 +2,705 @@
  "fecha": "2026-10-31",
  "noticias": [
   {
+   "id": "ae13ce3437b8",
+   "titulo": "Comité de Lucha por el Agua exige salida del OTASS de Seda Huánuco y convoca movilización para el 4",
+   "resumen": "El Comité de Lucha por el Agua de Huánuco exigió la salida del OTASS de Seda Huánuco y convocó una movilización para el 4 de noviembre. Sus voceros también informaron de una denuncia contra el gobernador Antonio Pulgar, sin precisar sus alcances.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/comite-lucha-agua-otass-seda-huanuco-movilizacion",
+   "fecha": "2026-11-01T02:20:07Z",
+   "temas": [
+    "conflicto_social",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "062565deee4c"
+  },
+  {
+   "id": "158237afb840",
+   "titulo": "Chiclayo: montaje de estrado principal para misa del papa León XIV registra avance del 35 %",
+   "resumen": "El papa León XIV estará de regreso en Chiclayo el próximo 13 y 14 de noviembre, ciudad donde realizó una importante laboral pastoral.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/chiclayo-montaje-de-estrado-principal-para-misa-del-papa-leon-xiv-registra-avance-del-35-noticia-1715418",
+   "fecha": "2026-11-01T02:15:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7b6b3286a8f5",
+   "titulo": "Vacancia de oficinas prime en Lima cae a 7.4% entre julio y setiembre",
+   "resumen": "El mercado de oficinas Prime en Lima llegó a un punto poco habitual: hay cada vez menos espacio disponible y ningún edificio nuevo desde inicios del 2025.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-vacancia-oficinas-prime-lima-cae-a-74-entre-julio-y-setiembre-1098101.aspx",
+   "fecha": "2026-11-01T02:00:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "77ac0bd7c0ab",
+   "titulo": "Huánuco: foro plantea medidas urgentes ante la crisis del agua",
+   "resumen": "Preocupación por desabastecimiento hídrico",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-foro-plantea-medidas-urgentes-ante-la-crisis-del-agua-noticia/",
+   "fecha": "2026-11-01T01:50:54Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "858b01f75a66",
+   "titulo": "Señor de los Milagros: Instalan puestos médicos para atender a fieles en última procesión",
+   "resumen": "Último recorrido contará con dos ambulancias, personal especializado y puntos de atención en el Centro Histórico de Lima para atender posibles emergencias",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/senor-de-los-milagros-instalaran-puestos-medicos-para-atender-a-fieles-en-ultima-procesion-noticia/",
+   "fecha": "2026-11-01T01:50:35Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "062565deee4c",
+   "titulo": "Huánuco: Comité de Lucha por el Agua exige la salida del OTASS y anuncia movilización para el 4",
+   "resumen": "Descontento con prestaciones cuestionadas",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-comite-de-lucha-por-el-agua-exige-la-salida-del-otass-y-anuncia-movilizacion-para-el-4-noticia/",
+   "fecha": "2026-11-01T01:39:01Z",
+   "temas": [
+    "conflicto_social",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4614d5629f69",
+   "titulo": "Intensifican acciones para prevenir el dengue en Tingo María",
+   "resumen": "Sensibilizan para prevenir el dengue",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/intensifican-acciones-para-prevenir-el-dengue-en-tingo-maria-noticia/",
+   "fecha": "2026-11-01T01:34:09Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rupa-Rupa",
+     "ubigeo": "100601",
+     "precision": "distrito",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.00056,
+     "lat": -9.29799,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3fe7a78e3d6b",
+   "titulo": "Lluvias y neblina generan restricciones en la carretera Tingo María–Huánuco",
+   "resumen": "Mal tiempo comienza a causar estragos",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/lluvias-y-neblina-generan-restricciones-en-la-carretera-tingo-mariahuanuco-noticia/",
+   "fecha": "2026-11-01T01:27:39Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rupa-Rupa",
+     "ubigeo": "100601",
+     "precision": "distrito",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.00056,
+     "lat": -9.29799,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "fa4ca8eb2965",
+   "titulo": "Ministro de Vivienda supervisó en Piura operatividad de equipos de drenaje ante El Niño",
+   "resumen": "El ministro de Vivienda, Construcción y Saneamiento, Mauricio Arnillas, llegó a la región Piura para supervisar la operatividad del equipamiento de drenaje fluvial y de la maquinaria de su sector, así como verificar el avance de la obra de agua potable y alcantarillado de Catacaos y poner la…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-ministro-vivienda-superviso-piura-operatividad-equipos-drenaje-ante-nino-1098117.aspx",
+   "fecha": "2026-11-01T01:27:21Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Catacaos",
+     "ubigeo": "200105",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.67242,
+     "lat": -5.26727,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c7c37dc0e579",
+   "titulo": "Puno: Choque frontal en la vía Juliaca-Lampa deja un fallecido y tres heridos",
+   "resumen": "Otro accidente de tránsito cobró la vida del conductor de una moto lineal tras impactar frontalmente contra un automóvil",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/puno/puno-choque-frontal-en-la-via-juliaca-lampa-deja-un-fallecido-y-tres-heridos-noticia/",
+   "fecha": "2026-11-01T01:17:50Z",
+   "temas": [
+    "transporte",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Choque",
+     "ubigeo": "210407",
+     "ccpp": "2104070071",
+     "precision": "centro_poblado",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.19401,
+     "lat": -16.57774,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "64baa78cc4c8",
+   "titulo": "Universitario de 22 años muere atropellado por patrullero de la PNP en Lambayeque",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/universitario-de-22-anos-muere-atropellado-por-patrullero-de-la-pnp-en-lambayeque-noticia/",
+   "fecha": "2026-11-01T01:16:19Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b0b27df8186a",
+   "titulo": "Presidenta Keiko Fujimori retoma agenda de trabajo luego de visita oficial a El Salvador",
+   "resumen": "Tras retornar a Lima luego de su visita oficial a El Salvador, la presidenta de la república, Keiko Fujimori, retomó su agenda de trabajo en Palacio de Gobierno, donde sostuvo una serie de reuniones con representantes diplomáticos peruanos acreditados en el exterior y ante organismos…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-presidenta-keiko-fujimori-retoma-agenda-trabajo-luego-visita-oficial-a-salvador-1098118.aspx",
+   "fecha": "2026-11-01T01:01:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "397fa43c702d",
+   "titulo": "Lambayeque: menor muere tras sufrir dos crisis convulsivas en colegio de Pítipo",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-menor-muere-tras-sufrir-dos-crisis-convulsivas-en-colegio-de-pitipo-noticia/",
+   "fecha": "2026-11-01T00:35:12Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pítipo",
+     "ubigeo": "140205",
+     "precision": "distrito",
+     "provincia": "Ferreñafe",
+     "departamento": "Lambayeque",
+     "lon": -79.78074,
+     "lat": -6.56596,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0bb45c99ab1e",
+   "titulo": "Centro Cultural de Bellas Artes reúne la obra de Milner Cajahuaringa en una muestra sobre geometría, color y memoria",
+   "resumen": "La exposición sobre el artista huarochirano Milner Cajahuaringa revisa su vínculo con las formas geométricas, el color y la memoria andina. Podrá visitarse hasta el 14 de noviembre en el Centro Histórico de Lima, de lunes a sábado y con ingreso libre",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/01/el-centro-cultural-de-bellas-artes-presenta-geometria-color-y-memoria-visiones-contemporaneas-de-milner-cajahuaringa/",
+   "fecha": "2026-11-01T00:05:00Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "507eae08f0ea",
+   "titulo": "EE. UU. advierte sobre fallas graves en PHP, lenguaje presente en millones de sitios web",
+   "resumen": "Alerta: si tu web usa PHP, podrías estar a un paso de un peligro grave — y conviene actuar ya. Un aviso oficial que no conviene ignorar Autoridades de Estados Unidos han emitido una advertencia sobre vulnerabilidades críticas en PHP, el lenguaje de programación que mueve una gran parte de la web.…",
+   "medio": "Diario Satélite",
+   "medio_id": "satelite",
+   "url": "https://satelite.pe/ee-uu-advierte-sobre-fallas-graves-en-php-lenguaje-presente-en-millones-de-sitios-web",
+   "fecha": "2026-10-31T23:56:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alerta",
+     "ubigeo": "170303",
+     "ccpp": "1703030004",
+     "precision": "centro_poblado",
+     "provincia": "Tahuamanu",
+     "departamento": "Madre de Dios",
+     "lon": -69.23503,
+     "lat": -11.65636,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2dcae8d50bbc",
+   "titulo": "Cae presunto cabecilla de Los Chukis de Siberia 2.0 en el Callao, banda que estaría involucrada en extorsiones a transportistas",
+   "resumen": "Agentes del Grecco realizaron la intervención en el pasaje La Perla, donde incautaron municiones, cartuchos explosivos y cerca de un kilo de cannabis",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/10/31/cae-presunto-cabecilla-de-los-chukis-de-siberia-20-en-el-callao-banda-que-estaria-involucrada-en-extorsiones-a-transportistas/",
+   "fecha": "2026-10-31T23:48:47Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "486fd4d88acb",
+   "titulo": "Trujillo: Mejorarán las avenidas Nicolás de Piérola y José Gabriel Condorcanqui",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/mejoraran-las-avenidas-nicolas-de-pierola-y-jose-gabriel-condorcanqui-trujillo-la-libertad-peru-noticia/",
+   "fecha": "2026-10-31T23:36:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Nicolás de Piérola",
+     "ubigeo": "040205",
+     "precision": "distrito",
+     "provincia": "Camaná",
+     "departamento": "Arequipa",
+     "lon": -72.71588,
+     "lat": -16.57314,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5b69d72395f1",
+   "titulo": "Cercado de Lima: pasajero falleció en paradero Huancavelica del Corredor Azul",
+   "resumen": "El mencionado paradero del corredor azul había sido suspendido por la ATU tras la muerte del ciudadano.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/pasajero-fallece-en-paradero-del-corredor-azul-por-presunto-desvanecimiento-en-cercado-de-lima-noticia-1715409",
+   "fecha": "2026-10-31T23:26:09Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Huancavelica",
+     "ubigeo": "090101",
+     "precision": "distrito",
+     "provincia": "Huancavelica",
+     "departamento": "Huancavelica",
+     "lon": -74.97132,
+     "lat": -12.78703,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "fb5c80247944",
+   "titulo": "Destacan la trayectoria de Mariano H. Cornejo, el elocuente orador puneño conocido como el «Cicerón Peruano»",
+   "resumen": "Efraín Quispe destaca el legado intelectual, político y oratorio de Mariano H. Cornejo, reconocido como el “Cicerón peruano” y una de las figuras más representativas de Puno En el espacio cultural de Radio Onda Azul, Efraín Quispe, expresidente del Instituto Americano de Arte de Puno, recordó la…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/destacan-la-trayectoria-de-mariano-h-cornejo-el-elocuente-orador-puneno-conocido-como-el-ciceron-peruano/",
+   "fecha": "2026-10-31T23:16:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0aad2320426a",
+   "titulo": "Día de los Difuntos: cementerio La Apacheta de Arequipa recibirá 60 mil personas",
+   "resumen": "Gran afluencia de público se registra desde hoy en los camposantos de Arequipa a pocas horas de celebrarse el Día de los Difuntos. La gente visita la tumba de sus seres queridos llevando las tradicionales coronas de papel.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-dia-los-difuntos-cementerio-apacheta-arequipa-recibira-60-mil-personas-1098092.aspx",
+   "fecha": "2026-10-31T23:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8159a4d511b4",
+   "titulo": "Mujeres rurales de Arequipa llevarán su voz a las políticas climáticas mediante nuevo comité regional",
+   "resumen": "El COREMUCC busca que los conocimientos y las propuestas de las mujeres de las ocho provincias se incorporen en las decisiones regionales sobre cambio climático, desarrollo agrario sostenible y seguridad hídrica.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/10/mujeres-rurales-de-arequipa-llevaran-su-voz-a-las-politicas-climaticas-mediante-nuevo-comite-regional/",
+   "fecha": "2026-10-31T22:44:26Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e718b9103556",
+   "titulo": "Inundaciones en Kimbiri: Fiscalía de Prevención del Delito supervisa auxilio a los damnificados",
+   "resumen": "Inundaciones en Kimbiri: Fiscalía de Prevención del Delito supervisa auxilio a los damnificados",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/inundaciones-en-kimbiri-fiscalia-de-prevencion-del-delito-supervisa-auxilio-a-los-damnificados-ultimas-noticia/",
+   "fecha": "2026-10-31T22:44:01Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Kimbiri",
+     "ubigeo": "080907",
+     "precision": "distrito",
+     "provincia": "La Convención",
+     "departamento": "Cusco",
+     "lon": -73.78922,
+     "lat": -12.6201,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f64fad183384",
+   "titulo": "Resultados ONPE región Loreto al 96.389 %: revisa aquí el conteo oficial de las Elecciones Regionales y Municipales 2026",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/elecciones/resultados-en-loreto-de-las-elecciones-regionales-y-municipales-2026-segun-conteo-oficial-de-la-onpe-erm-2026-noticia/",
+   "fecha": "2026-10-31T22:39:26Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3c7ddd778d04",
+   "titulo": "Ignacio Buse dio detalles de la exhibición que iba a disputar con Gael Monfils: \"Tenía ganas de venir a Perú\" [VIDEO]",
+   "resumen": "Ignacio Buse reveló que el experimentado jugador tenía ilusión de visitar Machu Picchu durante su estadía en Perú.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/tenis/mas-tenis/ignacio-buse-dio-detalles-de-la-exhibicion-que-iba-a-disputar-con-gael-monfils-tenia-ganas-de-venir-a-peru-video-noticia-1715404",
+   "fecha": "2026-10-31T22:38:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Machupicchu",
+     "ubigeo": "081304",
+     "precision": "distrito",
+     "provincia": "Urubamba",
+     "departamento": "Cusco",
+     "lon": -72.52567,
+     "lat": -13.15421,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3e33c93fdb85",
+   "titulo": "Resultados ONPE en región Piura al 99.563 %: revisa aquí el conteo oficial de las Elecciones Regionales y Municipales 2026",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/elecciones/resultados-en-piura-de-las-elecciones-regionales-y-municipales-2026-segun-conteo-oficial-de-la-onpe-erm-2026-noticia/",
+   "fecha": "2026-10-31T22:38:34Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ],
+   "grupo": "f64fad183384"
+  },
+  {
    "id": "a713b8bf37dd",
    "titulo": "Nueve municipalidades esperan transferencias de la política regional «Incluir para Crecer»",
    "resumen": "Nueve municipalidades distritales de Ayacucho continúan a la espera de los recursos comprometidos por el Gobierno Regional de Ayacucho (GRA) para financiar proyectos contra la anemia y la desnutrición crónica infantil, en el marco de la política regional Incluir para Crecer. El alcalde de Quinua…",
@@ -37,6 +736,32 @@
      "principal": false
     }
    ]
+  },
+  {
+   "id": "dc6e4aac0e2c",
+   "titulo": "Resultados ONPE en Villa María del Triunfo al 99.676 %: aquí el conteo oficial de las Elecciones Regionales y Municipales 2026",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/elecciones/resultados-en-villa-maria-del-triunfo-de-las-elecciones-regionales-y-municipales-2026-segun-conteo-oficial-de-la-onpe-erm-2026-ultimas-noticia/",
+   "fecha": "2026-10-31T22:37:19Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa María del Triunfo",
+     "ubigeo": "150143",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.94361,
+     "lat": -12.16248,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ],
+   "grupo": "f64fad183384"
   },
   {
    "id": "d2cf87f36893",
@@ -1629,6 +2354,32 @@
    ]
   },
   {
+   "id": "2642d7d9074a",
+   "titulo": "Recomiendan evitar floreros con agua en cementerios para prevenir el dengue",
+   "resumen": "Ante la concurrencia de familias a los cementerios por la celebración de Todos los Santos, este 1 de noviembre, la Red Integrada de Salud Ilo recomendó adoptar medidas de prevención para evitar la reproducción del zancudo Aedes aegypti, transmisor del dengue. Entre las principales recomendaciones…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/recomiendan-evitar-floreros-con-agua-en-cementerios-para-prevenir-el-dengue/",
+   "fecha": "2026-10-31T18:41:56Z",
+   "temas": [
+    "salud",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "26737fbdeebb",
    "titulo": "Ica: alertan invasión en el sitio arqueológico Ranchería, en el distrito de San José de los Molinos",
    "resumen": "",
@@ -1661,6 +2412,31 @@
      "lat": -14.06356,
      "confianza": 0.6,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a96508937023",
+   "titulo": "Advierten error en padrón electoral de centros poblados en Tarata",
+   "resumen": "A pocas horas de las elecciones de autoridades en centros poblados, programadas para este domingo 1 de noviembre, surgieron cuestionamientos por presuntas irregularidades en el padrón electoral del centro poblado de Kallapuma, en la provincia de Tarata. Desde la provincia altoandina, indican que…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287232/advierten-error-en-padron-electoral-de-centros-poblados-en-tarata/",
+   "fecha": "2026-10-31T18:30:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tarata",
+     "ubigeo": "230400",
+     "precision": "provincia",
+     "provincia": "Tarata",
+     "departamento": "Tacna",
+     "lon": -70.03188,
+     "lat": -17.47506,
+     "confianza": 0.85,
+     "principal": true
     }
    ]
   },
@@ -1758,6 +2534,31 @@
      "lon": -77.03092,
      "lat": -12.04533,
      "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "18d100319dc0",
+   "titulo": "Ofrecen flores y coronas de todo precio por el Día de los Difuntos",
+   "resumen": "A pocos días de conmemorarse el Día de Todos los Santos y de los Difuntos, el 1 y 2 de noviembre, cientos de ciudadanos y familias acuden al Cementerio General de Tacna para visitar y rendir homenaje a sus seres queridos. En los exteriores y a lo largo de la calle Arias Aragüéz, comerciantes y […]…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287226/ofrecen-flores-y-coronas-de-todo-precio-por-el-dia-de-los-difuntos/",
+   "fecha": "2026-10-31T18:15:19Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
      "principal": true
     }
    ]
@@ -4346,6 +5147,32 @@
      "lat": -12.06318,
      "confianza": 0.6,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "dfeb9f1897c0",
+   "titulo": "Refuerzan control de criaderos ante presencia del mosquito del dengue en regiones vecinas",
+   "resumen": "La Unidad de Salud Ambiental de la Red Integrada de Salud Ilo viene adoptando medidas preventivas en viviendas y cementerios para evitar la acumulación de agua y la proliferación del mosquito transmisor del dengue. El director de la Red Integrada de Salud Ilo, Reynaldo Paredes Quispe, señaló que…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/refuerzan-control-de-criaderos-ante-presencia-del-mosquito-del-dengue-en-regiones-vecinas/",
+   "fecha": "2026-10-31T13:01:07Z",
+   "temas": [
+    "salud",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.6,
+     "principal": true
     }
    ]
   },
