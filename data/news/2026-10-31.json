@@ -1033,6 +1033,32 @@
    ]
   },
   {
+   "id": "216faa8d616f",
+   "titulo": "Realizan maratón canina y vacunación antirrábica",
+   "resumen": "Más de 200 perros participaron junto a sus dueños en la primera maratón canina organizada en Arequipa. La actividad, desarrollada por el gobierno regional y la municipalidad provincial, promovió la tenencia responsable y permitió inmunizar a más de 70 mascotas contra la rabia. COMPETENCIA POR…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/realizan-maraton-canina-y-vacunacion-antirrabica/",
+   "fecha": "2026-10-31T23:14:46Z",
+   "temas": [
+    "salud",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "0aad2320426a",
    "titulo": "Día de los Difuntos: cementerio La Apacheta de Arequipa recibirá 60 mil personas",
    "resumen": "Gran afluencia de público se registra desde hoy en los camposantos de Arequipa a pocas horas de celebrarse el Día de los Difuntos. La gente visita la tumba de sus seres queridos llevando las tradicionales coronas de papel.",
@@ -1654,6 +1680,31 @@
      "departamento": "Cusco",
      "lon": -71.97676,
      "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c163dcb30ec5",
+   "titulo": "Siembran 40 molles para proteger el sitio arqueológico Chen Chen M1",
+   "resumen": "Un total de 40 plantones de molle fueron sembrados en el sitio arqueológico Chen Chen M1, como parte de una jornada de forestación orientada a delimitar y proteger este espacio patrimonial de Moquegua. La actividad fue organizada por la Dirección Desconcentrada de Cultura (DDC) de Moquegua y la…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/siembran-40-molles-para-proteger-el-sitio-arqueologico-chen-chen-m1/",
+   "fecha": "2026-10-31T21:39:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
      "confianza": 0.6,
      "principal": true
     }
