@@ -2,6 +2,414 @@
  "fecha": "2026-10-31",
  "noticias": [
   {
+   "id": "4a5ebb0b8f04",
+   "titulo": "Lambayeque: balean a una panadería que era extorsionada en Monsefú",
+   "resumen": "Según los dueños del local, los delincuentes, a través de mensajes, les exigían S/15 000 para no atentar contra su vida.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/panaderia-baleada-era-victima-de-extorsion-monsefu-lambayeque-noticia-1715421",
+   "fecha": "2026-11-01T04:37:06Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Monsefú",
+     "ubigeo": "140108",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.87242,
+     "lat": -6.8781,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5de13e14f8e3",
+   "titulo": "SAMU Puno atiende emergencias las 24 horas en Halloween",
+   "resumen": "SAMU Puno activa atención gratuita las 24 horas durante Halloween y habilita el 942 847 482 para atender accidentes y emergencias médicas",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/samu-puno-atiende-emergencias-las-24-horas-en-halloween/",
+   "fecha": "2026-11-01T04:17:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dea099fe262a",
+   "titulo": "Caso Agro Rural: PJ abre juicio oral contra Marco Vinelli por presunta corrupción y Fiscalía pide más de 5 años de cárcel",
+   "resumen": "El Poder Judicial admitió la acusación contra el ministro de Desarrollo Agrario y Riego, Marco Vinelli, por presuntos favorecimientos en una obra de S/23 millones en Huánuco.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/10/31/caso-agro-rural-pj-abre-juicio-oral-contra-marco-vinelli-por-presunta-corrupcion-y-fiscalia-pide-mas-de-5-anos-de-carcel-hnews-1518163",
+   "fecha": "2026-11-01T04:03:03Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "713ab548d55f",
+   "titulo": "Disputa histórica sobre la fundación de Puno dio origen a la celebración del 04 de noviembre",
+   "resumen": "Intelectuales y políticos debatieron en 1922 si celebrar el departamento de 1822 o la entrega de la ciudad en 1824, lo que originó un concurso en Puno",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/disputa-historica-sobre-la-fundacion-de-puno-dio-origen-a-la-celebracion-del-04-de-noviembre/",
+   "fecha": "2026-11-01T03:55:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3f7f9c6786b6",
+   "titulo": "ONPE orienta elecciones en 13 municipalidades provinciales de Puno para elegir alcaldes y regidores de los centros poblados",
+   "resumen": "Trece municipalidades provinciales de Puno desarrollan elecciones en centros poblados este 1 de noviembre para elegir alcaldes y regidores con asistencia técnica de la ONPE",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/onpe-orienta-elecciones-en-13-municipalidades-provinciales-de-puno-para-elegir-alcaldes-y-regidores-de-los-centros-poblados/",
+   "fecha": "2026-11-01T03:46:19Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "431386a7bc59",
+   "titulo": "Cientos de limeños llegan al Parque Kennedy de Miraflores para celebrar Halloween entre disfraces y creatividad",
+   "resumen": "Entre los personajes más aclamados y fotografiados de la noche figuraron clásicos del cine de terror como Freddy Krueger y Jack el destripador, junto a creativos disfraces de la cultura popular como la emblemática marca Acme, además de superhéroes y figuras de la animación.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/halloween-cientos-de-limenos-llegan-al-parque-kennedy-de-miraflores-para-celebrar-entre-disfraces-y-creatividad-ultimas-noticia/",
+   "fecha": "2026-11-01T03:44:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "150122",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02918,
+     "lat": -12.1218,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "6657e4b80830",
+   "titulo": "Macusani: Usuarios rechazan a empresa que subió pasaje a 18 soles",
+   "resumen": "Usuarios de Macusani denuncian que una empresa elevó los pasajes de S/ 15 a S/ 17 y S/ 18, incumpliendo el acuerdo y afectando a pasajeros",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/macusani-usuarios-rechazan-a-empresa-que-subio-pasaje-a-18-soles/",
+   "fecha": "2026-11-01T03:40:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Macusani",
+     "ubigeo": "210301",
+     "precision": "distrito",
+     "provincia": "Carabaya",
+     "departamento": "Puno",
+     "lon": -70.43111,
+     "lat": -14.06854,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "de967f41c064",
+   "titulo": "Áncash: menor de 11 años falleció tras presentar síntomas de dengue en Casma",
+   "resumen": "Con este deceso, la región de Áncash registra su primera víctima mortal por dengue en lo que va del año.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/ancash-menor-de-11-anos-fallece-tras-presentar-sintomas-de-dengue-en-casma-noticia-1715420",
+   "fecha": "2026-11-01T03:23:06Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Casma",
+     "ubigeo": "020800",
+     "precision": "provincia",
+     "provincia": "Casma",
+     "departamento": "Áncash",
+     "lon": -78.30639,
+     "lat": -9.47584,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "cb4b375214d3",
+   "titulo": "Todos los Santos: una tradición que mantiene viva la memoria de los seres queridos",
+   "resumen": "Antropólogo José Antonio Núñez Mendiguri explica el significado de Todos los Santos en la cosmovisión andina, una tradición que mantiene viva la memoria de los difuntos y fortalece los lazos familiares y sociales El antropólogo José Antonio Núñez Mendiguri destacó que, la celebración de Todos los…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/todos-los-santos-una-tradicion-que-mantiene-viva-la-memoria-de-los-seres-queridos/",
+   "fecha": "2026-11-01T03:07:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Todos Los Santos",
+     "ubigeo": "120206",
+     "ccpp": "1202060010",
+     "precision": "centro_poblado",
+     "provincia": "Concepción",
+     "departamento": "Junín",
+     "lon": -75.06882,
+     "lat": -11.65692,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ded07bb84679",
+   "titulo": "Disfraces toman el centro de Tacna en el Día de la Canción Criolla y Halloween",
+   "resumen": "Niños, jóvenes, adultos y familias enteras tomaron las principales calles del centro de Tacna este sábado 31 de octubre, Día de la Canción Criolla y Halloween. La masiva concurrencia en horas de la tarde y noche obligó al cierre de la avenida San Martín y Centro Cívico. Imágenes captadas desde un…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287243/disfraces-toman-el-centro-de-tacna-en-el-dia-de-la-cancion-criolla-y-halloween/",
+   "fecha": "2026-11-01T03:03:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "998627f9eb15",
+   "titulo": "UNA Puno flexibiliza plazos para la culminación del año académico 2026",
+   "resumen": "Vicerrector académico de la UNA Puno informa que el segundo semestre 2026 culminará a fines de diciembre debido a retrasos en el cronograma; además, cuestiona la creación de nuevas universidades sin presupuesto garantizado Javier Mamani, Vicerrector Académico de la UNA Puno, informó que, la…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/una-puno-flexibiliza-plazos-para-la-culminacion-del-ano-academico-2026/",
+   "fecha": "2026-11-01T02:59:13Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ce6cc391d2d5",
+   "titulo": "Miraflores: Parque Kennedy se llena de disfraces y visitantes por Halloween (FOTOS)",
+   "resumen": "Cientos de personas llegaron hasta el parque Kennedy, en el distrito de Miraflores, por Halloween. Niños, jóvenes y adultos lucieron llamativos disfraces",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/miraflores-parque-kennedy-se-llena-de-disfraces-y-visitantes-por-halloween-noticia/",
+   "fecha": "2026-11-01T02:58:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "150122",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02918,
+     "lat": -12.1218,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "76338813cb0f",
+   "titulo": "Historiador destaca las raíces milenarias y el legado cultural de Puno",
+   "resumen": "Historiador René Calsín destaca la riqueza histórica y cultural de Puno y exhorta a las nuevas generaciones a revalorar su patrimonio arqueológico, artístico e intelectual El historiador René Calsín resaltó la importancia de recuperar y difundir la historia local y regional, recordando que, Puno…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/historiador-destaca-las-raices-milenarias-y-el-legado-cultural-de-puno/",
+   "fecha": "2026-11-01T02:47:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a664c0c3d4ff",
+   "titulo": "Callao: PNP captura a tres presuntos integrantes de bandas criminales con armas, explosivos y droga",
+   "resumen": "Los operativos policiales se llevaron a cabo en los distritos de Ventanilla (Callao) y San Miguel (Lima).",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/pnp-captura-a-tres-presuntos-integrantes-de-bandas-criminales-con-armas-explosivos-y-droga-noticia-1715419",
+   "fecha": "2026-11-01T02:46:27Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ventanilla",
+     "ubigeo": "070106",
+     "precision": "distrito",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.12782,
+     "lat": -11.87721,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "San Miguel",
+     "ubigeo": "150136",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.07933,
+     "lat": -12.0923,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "ae13ce3437b8",
    "titulo": "Comité de Lucha por el Agua exige salida del OTASS de Seda Huánuco y convoca movilización para el 4",
    "resumen": "El Comité de Lucha por el Agua de Huánuco exigió la salida del OTASS de Seda Huánuco y convocó una movilización para el 4 de noviembre. Sus voceros también informaron de una denuncia contra el gobernador Antonio Pulgar, sin precisar sus alcances.",
@@ -1354,6 +1762,32 @@
      "lon": -79.03054,
      "lat": -8.10012,
      "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b6e6f5000031",
+   "titulo": "Policía en presunto estado de ebriedad protagoniza cuádruple choque en Moquegua",
+   "resumen": "Cuatro vehículos resultaron con daños materiales tras protagonizar un choque múltiple en la vía transversal del Educentro, por el Malecón Ribereño. Entre los involucrados se encontraría Wilmer Salazar H., quien sería integrante de la Policía Nacional y habría estado de civil y presuntamente bajo…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/policia-en-presunto-estado-de-ebriedad-protagoniza-cuadruple-choque-en-moquegua/",
+   "fecha": "2026-10-31T21:15:03Z",
+   "temas": [
+    "seguridad",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
      "principal": true
     }
    ]
@@ -3131,6 +3565,31 @@
      "lat": -13.70987,
      "confianza": 0.7,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "9d0a1d94f35b",
+   "titulo": "Advierten responsabilidad de empresa contratista en muerte de obrero que cayó de andamio",
+   "resumen": "Moquegua.- La empresa contratista encargada de ejecutar los trabajos de instalación de una cobertura solar en la Institución Educativa José Carlos Mariátegui habría incurrido en graves incumplimientos de seguridad laboral que estarían relacionados con la muerte del obrero Juan Julio Ñaca Flores…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287239/advierten-responsabilidad-de-empresa-contratista-en-muerte-de-obrero-que-cayo-de-andamio/",
+   "fecha": "2026-10-31T17:14:04Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
     }
    ]
   },
