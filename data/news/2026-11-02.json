@@ -1,0 +1,131 @@
+{
+ "fecha": "2026-11-02",
+ "noticias": [
+  {
+   "id": "e6fecb641af2",
+   "titulo": "Pichanaqui: destruyen maquinaria de minería ilegal valorizada en S/ 4.5 millones",
+   "resumen": "La Policía Nacional y la Fiscalía Especializada en Materia Ambiental destruyeron maquinaria de minería ilegal valorizada en S/ 4.5 millones en el sector Huantinini, Pichanaqui, Chanchamayo. Cinco personas fueron detenidas, entre ellas un ciudadano boliviano, por el presunto delito de minería ilegal.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/pichanaqui-destruyen-maquinaria-mineria-ilegal",
+   "fecha": "2026-11-02T05:50:06Z",
+   "temas": [
+    "mineria",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huantinini",
+     "ubigeo": "120303",
+     "ccpp": "1203030044",
+     "precision": "centro_poblado",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -74.76176,
+     "lat": -10.93331,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Pichanaqui",
+     "ubigeo": "120303",
+     "precision": "distrito",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -74.87286,
+     "lat": -10.9263,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Chanchamayo",
+     "ubigeo": "120300",
+     "precision": "provincia",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -75.32752,
+     "lat": -11.05667,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "831e2f8eec88"
+  },
+  {
+   "id": "1a807bbafc83",
+   "titulo": "¿Qué hizo especial la campaña de Verónika?",
+   "resumen": "POR: ANDY PHILLIPS ZEBALLOS Este artículo no pretende analizar las razones de la victoria en primera vuelta de Verónika Mendoza (VM) en la región Cusco, sino subrayar los elementos diferenciadores de su campaña respecto de cómo se venían desarrollando las campañas regionales en los últimos años.…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/que-hizo-especial-la-campana-de-veronika/",
+   "fecha": "2026-11-02T05:10:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5bd3380ab4f5",
+   "titulo": "Lluvias en Tumbes y el norte del Perú EN VIVO: precipitaciones intensas por el Fenómeno El Niño inundan calles y activan quebradas",
+   "resumen": "Las precipitaciones ocasionan acumulaciones de agua en calles y vías rurales desde la noche del domingo. Senamhi pronosticó nuevos episodios de lluvia intensa en la costa norte y otras regiones del país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/02/lluvias-en-tumbes-y-el-norte-del-peru-precipitaciones-intensas-por-el-fenomeno-el-nino-inundan-calles-y-activan-quebradas-en-la-region/",
+   "fecha": "2026-11-02T05:08:02Z",
+   "temas": [
+    "desastres",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a2eea8340829",
+   "titulo": "Dos oficiales y un técnico en retiro de la FAP son investigados por la presunta desaparición de 2 300 unidades de material militar",
+   "resumen": "Este hecho, según reveló el programa Punto Final, se habría dado en la Base Aérea Científica de Punta Lobos, ubicada en Pucusana. La Fuerza Aérea precisó que sí hay una investigación en curso, pero evitó dar más detalles.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/fap-dos-oficiales-y-un-tecnico-en-retiro-investigados-por-desaparicion-de-2300-unidades-de-material-militar-noticia-1715510",
+   "fecha": "2026-11-02T05:02:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pucusana",
+     "ubigeo": "150124",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.79741,
+     "lat": -12.48178,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  }
+ ]
+}

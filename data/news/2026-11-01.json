@@ -2,6 +2,997 @@
  "fecha": "2026-11-01",
  "noticias": [
   {
+   "id": "54775c490c8b",
+   "titulo": "Equipos técnicos buscan una salida para poder edificar un penal de máxima seguridad en un año, dice Ernesto Álvarez",
+   "resumen": "El Ministerio de Justicia evalúa la vía modular para acelerar obras penitenciarias y reducir de tres a un año la construcción de una cárcel de máxima seguridad, reveló el ministro en Panorama.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/gobierno/minjus-evalua-construccion-modular-de-penal-de-maxima-seguridad-en-un-ano-noticia-1715507",
+   "fecha": "2026-11-02T04:44:56Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Panorama",
+     "ubigeo": "100802",
+     "ccpp": "1008020103",
+     "precision": "centro_poblado",
+     "provincia": "Pachitea",
+     "departamento": "Huánuco",
+     "lon": -75.9049,
+     "lat": -9.4793,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "100c500235c7",
+   "titulo": "Denuncian que gestión del alcalde de Ate, Franco Vidal, gastó más de S/34 millones en eventos y conciertos: Contraloría detecta presuntos pagos indebidos",
+   "resumen": "La Contraloría General de la República recomendó a la Procuraduría Pública Anticorrupción formular las denuncias penales ante la Fiscalía Especializada en Corrupción de Funcionarios contra los responsables en el trámite de las órdenes de servicio.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/denuncian-que-gestion-del-alcalde-de-ate-franco-vidal-gasto-mas-de-s-34-millones-en-eventos-y-conciertos-contraloria-detecta-presuntos-pagos-indebidos-noticia-1715504",
+   "fecha": "2026-11-02T04:41:08Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ate",
+     "ubigeo": "150103",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.92126,
+     "lat": -12.02637,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "831e2f8eec88",
+   "titulo": "Chanchamayo: Destruyen maquinaria de minería ilegal en Pichanaqui",
+   "resumen": "Policía Nacional destruyó maquinaria usada por mineros ilegales valorizada en S/ 4.5 millones en Chanchamayo",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/peru/chanchamayo-destruyen-maquinaria-mineria-ilegal-pichanaqui-n495989",
+   "fecha": "2026-11-02T04:14:46Z",
+   "temas": [
+    "mineria",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pichanaqui",
+     "ubigeo": "120303",
+     "precision": "distrito",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -74.87286,
+     "lat": -10.9263,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Chanchamayo",
+     "ubigeo": "120300",
+     "precision": "provincia",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -75.32752,
+     "lat": -11.05667,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "698ee5e46805",
+   "titulo": "PNP desarticula bandas de extorsionadores en Trujillo y Piura",
+   "resumen": "Un megaoperativo policial en Trujillo, Virú y Piura deja 13 detenidos vinculados a La Nueva Jauría",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/peru/pnp-desarticula-bandas-extorsionadores-trujillo-y-piura-n495988",
+   "fecha": "2026-11-02T04:09:40Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "200208",
+     "ccpp": "2002080034",
+     "precision": "centro_poblado",
+     "provincia": "Ayabaca",
+     "departamento": "Piura",
+     "lon": -80.00429,
+     "lat": -4.79218,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Virú",
+     "ubigeo": "131200",
+     "precision": "provincia",
+     "provincia": "Virú",
+     "departamento": "La Libertad",
+     "lon": -78.75273,
+     "lat": -8.41431,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "06e7a2611c79",
+   "titulo": "Recapturan a \"Goku\", presunto lugarteniente de La Gran Alianza",
+   "resumen": "Recapturan en Pataz a alias \" Goku \", lugarteniente de La Gran Alianza , junto a 19 personas",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/peru/recapturan-goku-presunto-lugarteniente-gran-alianza-n495987",
+   "fecha": "2026-11-02T03:56:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alianza",
+     "ubigeo": "220504",
+     "ccpp": "2205040003",
+     "precision": "centro_poblado",
+     "provincia": "Lamas",
+     "departamento": "San Martín",
+     "lon": -76.27508,
+     "lat": -6.11706,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Pataz",
+     "ubigeo": "130809",
+     "precision": "distrito",
+     "provincia": "Pataz",
+     "departamento": "La Libertad",
+     "lon": -77.59384,
+     "lat": -7.785,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "11588ca4a3cb",
+   "titulo": "Fenómeno El Niño impulsa la venta de ventiladores en Lima: demanda crece 40 % y precios llegan a S/459",
+   "resumen": "El calor extremo en Lima impulsa un aumento del 40 % en la venta de ventiladores. Comerciantes del jirón Cusco reportan una gran demanda de estos equipos ante el Fenómeno El Niño.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/01/fenomeno-el-nino-impulsa-la-venta-de-ventiladores-en-lima-demanda-crece-40-y-precios-llegan-a-s459-78144",
+   "fecha": "2026-11-02T03:46:58Z",
+   "temas": [
+    "desastres",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f2375d8b54d3",
+   "titulo": "Ministro de Salud viaja a Tumbes para instalar hospitales de campaña ante fenómeno El Niño",
+   "resumen": "El ministro de Salud, Luis Dyer, viajó esta noche a Tumbes, ciudad que soporta fuertes lluvias, para instalar un hospital de campaña como parte de la preparación para enfrentar el impacto que tendrá el fenómeno El Niño en esta parte del país.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-ministro-salud-viaja-a-tumbes-para-instalar-hospitales-campana-ante-fenomeno-nino-1098208.aspx",
+   "fecha": "2026-11-02T03:09:30Z",
+   "temas": [
+    "desastres",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1c3f589098de",
+   "titulo": "Machu Picchu cambia las condiciones para recorrer sus rutas alternas: nuevos horarios para montañas y una ruta adicional desde enero de 2027",
+   "resumen": "El Ministerio de Cultura oficializó modificaciones al reglamento de visita turística que incluyen límites de ingreso y retorno para Waynapicchu y Montaña Machu Picchu. La ruta de la Gran Caverna también se incorporará durante la temporada alta",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/02/machu-picchu-cambia-las-condiciones-para-recorrer-sus-rutas-alternas-nuevos-horarios-para-montanas-y-una-ruta-adicional-desde-enero-de-2027/",
+   "fecha": "2026-11-02T03:03:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Machupicchu",
+     "ubigeo": "081304",
+     "precision": "distrito",
+     "provincia": "Urubamba",
+     "departamento": "Cusco",
+     "lon": -72.52567,
+     "lat": -13.15421,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f43baf69d7a1",
+   "titulo": "Lluvias intensas activaron la quebrada Corralitos en Tumbes",
+   "resumen": "Las precipitaciones provocaron el escurrimiento de agua por vías vehiculares en Casitas, mientras el Senamhi mantiene el monitoreo por lluvias de variable intensidad en la región.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/tumbes/lluvias-en-tumbes-activan-quebrada-corralitos-en-casitas-y-senamhi-emite-alerta-noticia-1715499",
+   "fecha": "2026-11-02T03:03:18Z",
+   "temas": [
+    "desastres",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Casitas",
+     "ubigeo": "240202",
+     "precision": "distrito",
+     "provincia": "Contralmirante Villar",
+     "departamento": "Tumbes",
+     "lon": -80.6511,
+     "lat": -3.94232,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "697000cf6de5",
+   "titulo": "Áncash: rescatan a seis jóvenes que cayeron por una pendiente del cerro de la Juventud en Chimbote",
+   "resumen": "Según las autoridades, el accidente se produjo cuando se tomaban fotografías en una zona de alta peligrosidad.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/ancash/ancash-rescatan-a-seis-jovenes-que-cayeron-del-cerro-de-la-juventud-en-chimbote-noticia-1715498",
+   "fecha": "2026-11-02T03:02:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chimbote",
+     "ubigeo": "021801",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.60768,
+     "lat": -9.04169,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "bcd221f9f82b",
+   "titulo": "Módulos médicos de casi US$17 millones permanecen abandonados en Lima y Piura",
+   "resumen": "Un grupo de 10 módulos móviles del Ministerio de Salud (Minsa) ubicados en Lima y Piura, valorizados en 16´828,988.57 dólares, se encuentran en abandono en un contexto de emergencia por el Fenómeno El Niño, según reveló Cuarto Poder.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/modulos-medicos-de-casi-us17-millones-permanecen-abandonados-en-lima-y-piura-noticia/",
+   "fecha": "2026-11-02T03:02:44Z",
+   "temas": [
+    "salud",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f7be245d23fe",
+   "titulo": "Alcalde streamer Franco Vidal gastó casi S/ 35 millones en fiestas y eventos: Contraloría detectó pagos por servicios que no se realizaron",
+   "resumen": "El órgano de control identificó presuntas irregularidades en contrataciones de la Municipalidad de Ate para celebraciones, inauguraciones y actividades deportivas entre 2024 y 2025",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/02/alcalde-streamer-franco-vidal-gasto-casi-s-35-millones-en-fiestas-y-eventos-contraloria-detecto-pagos-por-servicios-que-no-se-realizaron/",
+   "fecha": "2026-11-02T02:51:58Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ate",
+     "ubigeo": "150103",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.92126,
+     "lat": -12.02637,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2784c79bfbca",
+   "titulo": "Tumbes: intensa lluvia se registra por segundo día consecutivo en varios distritos de la región",
+   "resumen": "Una intensa lluvia se viene registrando en varios distritos de la región Tumbes, provocando calles anegadas y en medio del contexto del Fenómeno El Niño, informó el Servicio Nacional de Meteorología e Hidrología (Senamhi).",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/tumbes/tumbes-intensa-lluvia-se-registra-por-segundo-dia-consecutivo-en-varios-distritos-de-la-region-fenomeno-el-nino-senamhi-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-02T02:36:36Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "834e459821e4",
+   "titulo": "Fuerzas Armadas desplegarán su unidad de élite para enfrentar extorsionadores, sicarios y bandas criminales en Lima",
+   "resumen": "La unidad FEC, integrada por efectivos del Ejército, la Marina y la Fuerza Aérea, ya ejecuta ejercicios de asalto y rescate de rehenes bajo supervisión del ministro de Defensa",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/02/fuerzas-armadas-desplegaran-su-unidad-de-elite-para-enfrentar-extorsionadores-sicarios-y-bandas-criminales-en-lima/",
+   "fecha": "2026-11-02T02:30:46Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "99048cf852e2",
+   "titulo": "Tumbes bajo intensas lluvias: Reportan activación de quebrada y precipitaciones en zonas urbanas",
+   "resumen": "Las precipitaciones se concentran en distintos puntos de la región, incluida la Plaza Mayor de Tumbes y el caserío de Higuerón, en San Jacinto",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tumbes/tumbes-soporta-lluvias-intensas-se-activa-quebrada-corralitos-en-el-distrito-de-casitas-videos-noticia/",
+   "fecha": "2026-11-02T02:21:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Higueron",
+     "ubigeo": "240105",
+     "ccpp": "2401050012",
+     "precision": "centro_poblado",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.4606,
+     "lat": -3.76256,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "San Jacinto",
+     "ubigeo": "240105",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.4452,
+     "lat": -3.64096,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f8b28a2a263a",
+   "titulo": "Lambayeque: inauguran hospital de contingencia de Ferreñafe sin grupo electrógeno",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-inauguran-hospital-de-contingencia-de-ferrenafe-sin-grupo-electrogeno-noticia/",
+   "fecha": "2026-11-02T01:54:23Z",
+   "temas": [
+    "salud",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ferreñafe",
+     "ubigeo": "140200",
+     "precision": "provincia",
+     "provincia": "Ferreñafe",
+     "departamento": "Lambayeque",
+     "lon": -79.78837,
+     "lat": -6.63894,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ca7d114d9291",
+   "titulo": "Trujillo: Situación en penal El Milagro se encuentra controlada, precisa INPE",
+   "resumen": "El Instituto Nacional Penitenciario (INPE) informó que la situación en el centro penitenciario de varones El Milagro, en Trujillo, se encuentra controlada y que los internos involucrados en una reyerta fueron aislados para prevenir nuevos enfrentamientos.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-trujillo-situacion-penal-milagro-se-encuentra-controlada-precisa-inpe-1098207.aspx",
+   "fecha": "2026-11-02T01:54:15Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "El Milagro",
+     "ubigeo": "130104",
+     "ccpp": "1301040004",
+     "precision": "centro_poblado",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.06665,
+     "lat": -8.02344,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "688fafabbaac",
+   "titulo": "Tumbes y Piura en alerta roja por lluvias extremas: por qué las precipitaciones podrían superar los 100 mm",
+   "resumen": "Las tres provincias de Tumbes y las ocho de Piura están comprendidas en la alerta roja vigente hasta el lunes 2 de noviembre. El Gobierno moviliza recursos ante la emergencia y la presidenta Keiko Fujimori canceló su viaje a España.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/piura/tumbes-y-piura-en-alerta-roja-por-lluvias-extremas-por-que-las-precipitaciones-podrian-superar-los-100-mm-apuesplan-noticia/",
+   "fecha": "2026-11-02T01:43:50Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240100",
+     "precision": "provincia",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.59,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "245c61379e76",
+   "titulo": "Trujillo: tres internos fallecieron en reyerta desatada en el penal El Milagro",
+   "resumen": "El Inpe dispuso la intervención de un equipo especializado para evaluar lo sucedido y contribuir al esclarecimiento de los hechos. Además, comunicó el caso al Ministerio Público para las investigaciones correspondientes.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/trujillo-tres-internos-fallecieron-en-reyerta-desatada-en-el-penal-el-milagro-noticia-1715491",
+   "fecha": "2026-11-02T01:38:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "El Milagro",
+     "ubigeo": "130104",
+     "ccpp": "1301040004",
+     "precision": "centro_poblado",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.06665,
+     "lat": -8.02344,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "2555325cba8a",
+   "titulo": "Arequipa: Atacan con explosivo garita del penal de Socabaya",
+   "resumen": "Dos sujetos lanzaron un artefacto que detonó cerca del puesto de control y dejó heridos a un trabajador del INPE y una visitante",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-atacan-con-explosivo-garita-del-penal-de-socabaya-noticia/",
+   "fecha": "2026-11-02T01:32:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Socabaya",
+     "ubigeo": "040122",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52852,
+     "lat": -16.46754,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a13ba1df4c15",
+   "titulo": "Fabián Bustos tras el triunfo de Universitario: \"El resultado quedó corto por lo que hicieron los jugadores\"",
+   "resumen": "Fabián Bustos analizó la victoria de Universitario de Deportes ante Atlético Grau en Trujillo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/voley/mas-voley/universitario-fabian-bustos-tras-el-triunfo-ante-atletico-grau-el-resultado-quedo-corto-por-lo-que-hicieron-los-jugadores-noticia-1715492",
+   "fecha": "2026-11-02T01:30:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "421e84295e25",
+   "titulo": "San Martín de Porres: rotura de tuberías en la avenida Universitaria inunda casas de la zona [VIDEO]",
+   "resumen": "Rotafono de RPP | Una ciudadana comentó que el primer piso de su casa, en San Martín de Porres se inundó y pide apoyo a Sedapal para que se haga responsable de todo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/rotafono/servicios-publicos/san-martin-de-porres-rotura-de-tuberias-en-la-cuadra-6-de-la-avenida-universitaria-inunda-casas-de-la-zona-sedapal-video-noticia-1715493",
+   "fecha": "2026-11-02T01:29:54Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1624c941207d",
+   "titulo": "Cecilia Bracamonte recuerda su reencuentro con Liliana, su esposa, tras casi cuatro décadas: “Yo pensé que nunca más la iba a ver”",
+   "resumen": "La cantante criolla de 76 años describió el instante en que confirmó la presencia de su actual esposa en el público durante uno de sus espectáculos en Lima. Narró el episodio en conversación con Magaly Medina.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/02/cecilia-bracamonte-recuerda-su-reencuentro-con-liliana-su-esposa-tras-casi-cuatro-decadas-yo-pense-que-nunca-mas-la-iba-a-ver/",
+   "fecha": "2026-11-02T01:28:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "09d97815c94b",
+   "titulo": "Ica: joven de 23 años muere tras caer a pozo de 30 metros en hotel de San Juan Bautista",
+   "resumen": "Carlos Leonardo Ramos Valencia, de 23 años, murió tras caer a un pozo de unos 30 metros en el Hotel Hacienda San Juan, en el distrito de San Juan Bautista, Ica. Bomberos y policías acudieron al rescate; el joven aún pedía ayuda desde el interior. Su tía confirmó el fallecimiento y pidió justicia.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/ica-joven-muere-pozo-hotel-hacienda-san-juan",
+   "fecha": "2026-11-02T01:20:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan Bautista",
+     "ubigeo": "110110",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.73536,
+     "lat": -14.01132,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Valencia",
+     "ubigeo": "110204",
+     "ccpp": "1102040032",
+     "precision": "centro_poblado",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.15205,
+     "lat": -13.51753,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "San Juan",
+     "ubigeo": "160113",
+     "ccpp": "1601130001",
+     "precision": "centro_poblado",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.28029,
+     "lat": -3.77025,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ],
+   "grupo": "dcf8f0e749df"
+  },
+  {
+   "id": "a3ae2bb37456",
+   "titulo": "Trujillo: Reyerta en el penal El Milagro deja tres internos muertos, informa el INPE",
+   "resumen": "Una reyerta registrada dentro del penal El Milagro de Trujillo este domingo 1 de noviembre dejó como saldo tres internos muertos, informó el Instituto Nacional Penitenciario (INPE).",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/la-libertad/trujillo-reyerta-en-el-penal-el-milagro-deja-tres-internos-muertos-informa-el-inpe-ultimas-noticia/",
+   "fecha": "2026-11-02T01:17:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "El Milagro",
+     "ubigeo": "130104",
+     "ccpp": "1301040004",
+     "precision": "centro_poblado",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.06665,
+     "lat": -8.02344,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ef1768d2c383",
+   "titulo": "Beto Mamani es elegido alcalde del centro poblado de Jayllihuaya para el periodo 2027-2030",
+   "resumen": "Con una cantidad de 1,459 electores empadronados, Beto Mamani fue nominado como alcalde de Jayllihuaya. El paradisíaco centro poblado Jayllihuaya fue sede de la contienda electoral para elegir al próximo alcalde para la temporada 2027 – 2030. Luego de un reñido conteo de votos, la victoria…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/01/beto-mamani-es-elegido-alcalde-del-centro-poblado-de-jayllihuaya-para-el-periodo-2027-2030/",
+   "fecha": "2026-11-02T01:06:54Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jayllihuaya",
+     "ubigeo": "210101",
+     "ccpp": "2101010049",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.98416,
+     "lat": -15.88125,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7d597ec0b09e",
+   "titulo": "Denuncian entre 10 y 11 robos de celulares durante fiesta de Halloween en ex Rancho San Antonio",
+   "resumen": "Al menos 10 jóvenes habrían sido víctimas del robo de sus teléfonos celulares durante una fiesta de Halloween realizada la noche del sábado 31 de octubre en los ambientes del exlocal Rancho San Antonio, en Tacna. Los agraviados y sus familiares acudieron hasta la Comisaría Central para denunciar…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287267/denuncian-entre-10-y-11-robos-de-celulares-durante-fiesta-de-halloween-en-ex-rancho-san-antonio/",
+   "fecha": "2026-11-02T01:00:58Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "53e98f102f38",
+   "titulo": "Flores y música en Día de Todos los Santos: Así se vivió en cementerio de Comas (FOTOS)",
+   "resumen": "Cientos de personas llegaron este domingo al cementerio de Belaunde, en Comas, para recordar a sus seres queridos. Los visitantes llevaron arreglos florales, globos y recuerdos para el homenaje a sus difuntos.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/flores-y-musica-en-dia-de-todos-los-santos-asi-se-vivio-en-cementerio-de-comas-fotos-muertos-noticia/",
+   "fecha": "2026-11-02T00:57:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Comas",
+     "ubigeo": "150110",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04942,
+     "lat": -11.95716,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Todos Los Santos",
+     "ubigeo": "120206",
+     "ccpp": "1202060010",
+     "precision": "centro_poblado",
+     "provincia": "Concepción",
+     "departamento": "Junín",
+     "lon": -75.06882,
+     "lat": -11.65692,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "114669266b99",
+   "titulo": "Lima Metropolitana podría registrar lluvias intensas como en 1970, advierte jefe del Cenepred",
+   "resumen": "El jefe del Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres (Cenepred), Miguel Yamasaki, advirtió que Lima Metropolitana podría registrar lluvias similares a las de 1970 si continúa el incremento de las temperaturas del mar y del aire.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/lima-metropolitana-podria-registrar-lluvias-intensas-como-en-1970-advierte-jefe-del-cenepred-fenomeno-el-nino-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-02T00:52:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "aeabf2e0a1fe",
+   "titulo": "Atentado con explosivos en penal de Socabaya dejó dos heridos y activó una alerta policial por un posible segundo artefacto en Arequipa",
+   "resumen": "El ataque ocurrió alrededor de las 11:24 horas del domingo 1 de noviembre. El INPE incorporó cuatro agentes penitenciarios adicionales y suspendió temporalmente las visitas como medida preventiva",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/02/atentado-con-explosivos-en-penal-de-socabaya-dejo-dos-heridos-y-activo-una-alerta-policial-por-un-posible-segundo-artefacto-en-arequipa/",
+   "fecha": "2026-11-02T00:51:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Socabaya",
+     "ubigeo": "040122",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52852,
+     "lat": -16.46754,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "68e61d7d7ed5",
    "titulo": "Fuertes lluvias comienzan a registrarse en Tumbes: reportan precipitaciones en el caserío de Higuerón, en San Jacinto",
    "resumen": "La Comisión Nacional de Gestión del Riesgo aconseja a la población tomar precauciones, evitar áreas inundables y seguir los reportes oficiales ante la intensa lluvia en Tumbes.",
