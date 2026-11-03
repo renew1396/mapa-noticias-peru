@@ -1,0 +1,266 @@
+{
+ "fecha": "2026-11-03",
+ "noticias": [
+  {
+   "id": "478fb6720dcf",
+   "titulo": "MTC despliega nueve máquinas para restablecer tránsito entre Huánuco y Ucayali",
+   "resumen": "Provías Nacional trabaja en dos frentes, desde Ucayali y desde Tingo María, para despejar el deslizamiento que interrumpió la carretera entre Huánuco y Ucayali. El MTC habilitó una ruta alterna por Puerto Bermúdez, Villa Rica y Tarma para el transporte de carga.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/mtc-nueve-maquinas-transito-huanuco-ucayali",
+   "fecha": "2026-11-03T09:20:06Z",
+   "temas": [
+    "transporte",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa Rica",
+     "ubigeo": "100605",
+     "ccpp": "1006050045",
+     "precision": "centro_poblado",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -75.87984,
+     "lat": -9.29494,
+     "confianza": 0.18,
+     "principal": true
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "Rupa-Rupa",
+     "ubigeo": "100601",
+     "precision": "distrito",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.00056,
+     "lat": -9.29799,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Puerto Bermúdez",
+     "ubigeo": "190306",
+     "precision": "distrito",
+     "provincia": "Oxapampa",
+     "departamento": "Pasco",
+     "lon": -74.93718,
+     "lat": -10.29906,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Tarma",
+     "ubigeo": "120700",
+     "precision": "provincia",
+     "provincia": "Tarma",
+     "departamento": "Junín",
+     "lon": -75.68802,
+     "lat": -11.41998,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "99380c8c17fd",
+   "titulo": "Temblor en Perú hoy EN VIVO, martes 3 de noviembre: último sismo, magnitud y epicentro según el IGP",
+   "resumen": "Consulta dónde ocurrió el último temblor hoy en Perú, su magnitud, epicentro, profundidad y hora, según el reporte oficial del IGP de este martes 3 de noviembre.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/02/temblor-en-peru-hoy-en-vivo-martes-3-de-noviembre-ultimo-sismo-magnitud-y-epicentro-segun-el-igp-122050",
+   "fecha": "2026-11-03T09:00:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "41a34b9544a5",
+   "titulo": "Dictan 9 meses de prisión preventiva para seis investigados por minería ilegal",
+   "resumen": "En Pallasca: Seis personas investigadas por el presunto delito de minería ilegal deberán cumplir nueve meses de prisión preventiva, luego de que la Fiscalía Provincial Especializada en Materia Ambiental del Santa (FEMA Santa) consiguiera que...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/03/dictan-9-meses-de-prision-preventiva-para-seis-investigados-por-mineria-ilegal/",
+   "fecha": "2026-11-03T07:48:14Z",
+   "temas": [
+    "mineria",
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f1c5ef0a5ce2",
+   "titulo": "Serenos salvan a joven de 25 años con intoxicación alcohólica",
+   "resumen": "En Chimbote: Un joven de 25 años fue auxiliado oportunamente por personal de Serenazgo de la Municipalidad Provincial del Santa, luego de ser encontrado tendido en plena vía pública, con fuertes malestares y aparentes síntomas...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/03/serenos-salvan-a-joven-de-25-anos-con-intoxicacion-alcoholica/",
+   "fecha": "2026-11-03T07:47:47Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ccee5de50765",
+   "titulo": "Cuatro centros poblados del Santa ya tienen virtualmente a sus nuevos alcaldes",
+   "resumen": "Elecciones en centros poblados: Cuatro centros poblados de la provincia del Santa ya tienen virtualmente elegidos a sus nuevos alcaldes, tras las elecciones de autoridades municipales realizadas el domingo 1 de noviembre. Se trata de...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/03/cuatro-centros-poblados-del-santa-ya-tienen-virtualmente-a-sus-nuevos-alcaldes/",
+   "fecha": "2026-11-03T07:45:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "69cfbbb81764",
+   "titulo": "Más de 20 puestos cerrados agravan situación del Mercado San Felipe",
+   "resumen": "Comercio en crisis: Más de 20 puestos comerciales del Mercado San Felipe permanecen cerrados desde hace meses e incluso años, reflejando la preocupante situación que atraviesa este centro de abastos, donde la actividad comercial ha...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/03/mas-de-20-puestos-cerrados-agravan-situacion-del-mercado-san-felipe/",
+   "fecha": "2026-11-03T07:45:07Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "46d91a71e591",
+   "titulo": "Ante eliminación de Sport Áncash y Alianza Arenal nos quedamos sin representantes en la Copa Perú",
+   "resumen": "Nos quedamos sin representantes en la Etapa Nacional de la Copa Perú ante la eliminación simultánea de Alianza Arenal en Cajabamba y Sport Ancash, en Arequipa. El cuadro de Moro empeñó su futuro en la...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/03/ante-eliminacion-de-sport-ancash-y-alianza-arenal-nos-quedamos-sin-representantes-en-la-copa-peru/",
+   "fecha": "2026-11-03T07:43:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alianza",
+     "ubigeo": "220504",
+     "ccpp": "2205040003",
+     "precision": "centro_poblado",
+     "provincia": "Lamas",
+     "departamento": "San Martín",
+     "lon": -76.27508,
+     "lat": -6.11706,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Arenal",
+     "ubigeo": "200503",
+     "precision": "distrito",
+     "provincia": "Paita",
+     "departamento": "Piura",
+     "lon": -81.02644,
+     "lat": -4.88352,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cajabamba",
+     "ubigeo": "060200",
+     "precision": "provincia",
+     "provincia": "Cajabamba",
+     "departamento": "Cajamarca",
+     "lon": -78.04598,
+     "lat": -7.6231,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "157177051c81",
+   "titulo": "Separata Judicial – Martes 03 de noviembre de 2026",
+   "resumen": "",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/separata-judicial-martes-03-de-noviembre-de-2026/",
+   "fecha": "2026-11-03T05:57:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "08b1059f11e5",
+   "titulo": "Viceministro de electricidad vinculado al consorcio CYL habría presionado para retirar a funcionario que observó su contrato de 3.9 millones de soles",
+   "resumen": "Ahora, una denuncia señala presuntas irregularidades en las valorizaciones del servicio y comunicaciones a altos funcionarios que habrían terminado con la salida del jefe de Control de Pérdidas. La grave denuncia involucra al sector eléctrico nacional y pone bajo cuestionamiento los vínculos…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/viceministro-de-electricidad-vinculado-al-consorcio-cyl-habria-presionado-para-retirar-a-funcionario-que-observo-su-contrato-de-3-9-millones-de-soles/",
+   "fecha": "2026-11-03T05:20:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "827c00e08a4d",
+   "titulo": "La laguna de Aricota, una maravilla natural para el mundo entero",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tacna/tacna-laguna-de-aricota-se-pone-en-vitrina-con-nuevos-bungalows-noticia/",
+   "fecha": "2026-11-03T05:11:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9a4f5c3c76eb",
+   "titulo": "Presidenta dará inicio a las obras y modernización del proyecto Torre Trecca de EsSalud",
+   "resumen": "La presidenta de la república, Keiko Fujimori liderará hoy el acto de inicio de las obras y la modernización del proyecto Torre Trecca de EsSalud, que contempla una inversión superior a los S/ 486 millones para recuperar el emblemático edificio y habilitar más de 100 consultorios y 300 equipos…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-presidenta-dara-inicio-a-las-obras-y-modernizacion-del-proyecto-torre-trecca-essalud-1098338.aspx",
+   "fecha": "2026-11-03T05:01:15Z",
+   "temas": [
+    "salud",
+    "infraestructura"
+   ],
+   "lugares": []
+  }
+ ]
+}

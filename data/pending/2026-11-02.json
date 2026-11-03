@@ -2,6 +2,309 @@
  "fecha": "2026-11-02",
  "noticias": [
   {
+   "id": "c2768bea42d6",
+   "titulo": "Precio del dólar en Perú: consulta la cotización en compra y venta del martes 3 de noviembre",
+   "resumen": "Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, martes 3 de noviembre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-a-cuanto-esta-el-dolar-este-martes-3-de-noviembre-2026-tipo-de-cambio-segun-bcrp-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
+   "fecha": "2026-11-03T04:53:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c87f348a513d",
+   "titulo": "Trump asegura que EE.UU. tiene \"control total\" sobre Venezuela y 50 % del petróleo mundial",
+   "resumen": "El presidente de Estados Unidos, Donald Trump, afirmó este lunes que su país tiene \"control total\" sobre Venezuela y aseguró haber conseguido \"el 50 % del petróleo mundial\", durante dos entrevistas con Fox News, a pocas horas de la apertura de los colegios electorales para las elecciones de medio…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-trump-asegura-eeuu-tiene-control-total-sobre-venezuela-y-50-del-petroleo-mundial-1098347.aspx",
+   "fecha": "2026-11-03T04:41:47Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f03d962fbcab",
+   "titulo": "ANA solo ha gastado el 8 % del presupuesto para obras de prevención por “El Niño”",
+   "resumen": "La Autoridad Nacional del Agua (ANA) solo ha gastado el 8 % del presupuesto destinado a obras de prevención por el fenómeno El Niño, según alertó la Contraloría General de la República (CGR). El Ejecutivo calificó de “realmente dramático” el escenario 2026 por el posible desborde de ríos y…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/02/ana-solo-ha-gastado-el-8-del-presupuesto-para-obras-de-prevencion-por-el-nino/",
+   "fecha": "2026-11-03T04:09:38Z",
+   "temas": [
+    "infraestructura",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a6fe85d53c69",
+   "titulo": "Diputado Jair Manrique pide al Minedu implementar evaluaciones psicológicas periódicas a los docentes",
+   "resumen": "El pedido fue formulado mediante una carta dirigida al titular del Minedu tras los 432 docentes investigados administrativamente por presuntos casos de violencia sexual contra escolares, según reveló un reportaje de Punto Final.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/02/diputado-jair-manrique-pide-al-minedu-implementar-evaluaciones-psicologicas-periodicas-a-los-docentes-hnews-98706",
+   "fecha": "2026-11-03T03:57:49Z",
+   "temas": [
+    "educacion",
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "567e5b0df32a",
+   "titulo": "Indeci: extinguen cuatro incendios forestales en distritos de Puno, Cusco y Apurímac",
+   "resumen": "El Instituto Nacional de Defensa Civil (Indeci), a través del Centro de Operaciones de Emergencia Nacional (COEN), informó este lunes que cuatro incendios forestales registrados en los distritos de Santa Lucía (Puno); Limatambo y Coporaque (Cusco); así como Curahuasi (Apurímac) fueron extinguidos.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-indeci-extinguen-cuatro-incendios-forestales-distritos-puno-cusco-y-apurimac-1098345.aspx",
+   "fecha": "2026-11-03T03:52:46Z",
+   "temas": [
+    "desastres",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.18,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Centro",
+     "ubigeo": "080302",
+     "ccpp": "0803020056",
+     "precision": "centro_poblado",
+     "provincia": "Anta",
+     "departamento": "Cusco",
+     "lon": -72.30361,
+     "lat": -13.4829,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Lucía",
+     "ubigeo": "210709",
+     "precision": "distrito",
+     "provincia": "Lampa",
+     "departamento": "Puno",
+     "lon": -70.6063,
+     "lat": -15.69943,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Limatambo",
+     "ubigeo": "080306",
+     "precision": "distrito",
+     "provincia": "Anta",
+     "departamento": "Cusco",
+     "lon": -72.4429,
+     "lat": -13.47962,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Coporaque",
+     "ubigeo": "080803",
+     "precision": "distrito",
+     "provincia": "Espinar",
+     "departamento": "Cusco",
+     "lon": -71.53156,
+     "lat": -14.80034,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Curahuasi",
+     "ubigeo": "030104",
+     "precision": "distrito",
+     "provincia": "Abancay",
+     "departamento": "Apurímac",
+     "lon": -72.69601,
+     "lat": -13.5413,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7db784b216f9",
+   "titulo": "Choque entre automóvil y camioneta deja daños materiales en Gregorio Albarracín",
+   "resumen": "Un accidente de tránsito entre un automóvil y una camioneta se registró en la intersección de las avenidas Bohemia Tacneña y Los Molles, en el distrito de Gregorio Albarracín Lanchipa. De acuerdo con el reporte periodístico, el automóvil de placa Z4B-117, conducido por Marco Antonio Abril Aratea…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287358/choque-entre-automovil-y-camioneta-deja-danos-materiales-en-gregorio-albarracin/",
+   "fecha": "2026-11-03T03:52:34Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f78101e03a10",
+   "titulo": "Presupuesto de Salud tendría recorte de S/ 680 millones y afectaría a pacientes con cáncer",
+   "resumen": "El presupuesto del sector Salud para 2027 tendría una reducción de 680 millones de soles, lo que podría afectar la compra de medicamentos, equipos médicos y la atención de pacientes con cáncer. Especialistas advierten que este recorte comprometería tratamientos que requieren continuidad. Los…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/02/presupuesto-de-salud-tendria-recorte-de-s-680-millones-y-afectaria-a-pacientes-con-cancer/",
+   "fecha": "2026-11-03T03:35:06Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1ab755eff9d3",
+   "titulo": "Cierran 25 puertos del litoral peruano por oleajes hasta el 6 de noviembre",
+   "resumen": "El departamento de Oceanografía de la Marina informó que 25 puertos del litoral peruano permanecen cerrados debido a la presencia de oleajes de ligera intensidad.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/cierran-25-puertos-del-litoral-peruano-por-oleajes-hasta-el-6-de-noviembre-noticia/",
+   "fecha": "2026-11-03T03:28:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e238bb065a56",
+   "titulo": "Ucrania acusa a Rusia de frustrar las esperanzas de paz tras ataque que dejó 26 muertos",
+   "resumen": "Ucrania afirmó el lunes que varios ataques rusos contra una escuela donde se distribuía ayuda humanitaria causaron al menos 26 muertos y acabaron con las frágiles esperanzas de lograr \"avances hacia la paz\", después de que una tregua local expirara en el sur del país.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-ucrania-acusa-a-rusia-frustrar-las-esperanzas-paz-tras-ataque-dejo-26-muertos-1098344.aspx",
+   "fecha": "2026-11-03T03:08:57Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "bd6f6c14783b",
+   "titulo": "Perú y Japón dialogan sobre oportunidades de inversión en el sector minero-energético",
+   "resumen": "El ministro de Energía y Minas, Guillermo Shinno, sostuvo una reunión con el presidente de la Cámara de Comercio e Industria Peruano Japonesa (CCIPJ), Yutaka Uno, y el titular de su Comité de Minería, Yoshihiro Kojima, con quienes dialogó sobre el potencial del sector minero-energético peruano…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-peru-y-japon-dialogan-sobre-oportunidades-inversion-el-sector-mineroenergetico-1098339.aspx",
+   "fecha": "2026-11-03T03:00:00Z",
+   "temas": [
+    "mineria",
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "24e67ad95fdc",
+   "titulo": "Luciana Fuster cuestiona edición de su entrevista en ‘Magaly TV La Firme’: “Todo lo que yo diga siempre es sacado de contexto”",
+   "resumen": "La modelo y directora del Miss Grand Perú cuestionó públicamente la difusión de su entrevista en el programa de Magaly Medina. Afirmó que recortaron sus respuestas y sus agradecimientos durante la conversación.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/03/luciana-fuster-cuestiona-edicion-de-su-entrevista-en-magaly-tv-la-firme-todo-lo-que-yo-diga-siempre-es-sacado-de-contexto/",
+   "fecha": "2026-11-03T02:50:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b06da888baf6",
+   "titulo": "Transportistas de carga pesada preparan paro nacional de tres días por costo de combustibles",
+   "resumen": "El dirigente Martín Ojeda señaló que la paralización está prevista para los días 16, 17 y 18 de noviembre, en protesta por el incremento del precio del diésel. No obstante, indicó que esperan que el Ministerio de Transportes abra un espacio de diálogo.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/transportistas-de-carga-pesada-preparan-paro-nacional-de-tres-dias-por-costo-de-combustibles-noticia/",
+   "fecha": "2026-11-03T02:43:46Z",
+   "temas": [
+    "conflicto_social",
+    "transporte"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "919e76570fd5",
+   "titulo": "Reniec restablece todos sus servicios a nivel nacional tras incendio en sus servidores",
+   "resumen": "El organismo de identificación restableció el funcionamiento de sus sistemas informáticos luego de que una sobrecarga eléctrica ocasionara el incendio.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/reniec-restablece-todos-sus-servicios-a-nivel-nacional-tras-incendio-en-sus-servidores-noticia/",
+   "fecha": "2026-11-03T02:07:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f230861874c6",
+   "titulo": "Perú Compras aprueba listado de 268 bienes y servicios para homologación en 2027",
+   "resumen": "La Central de Compras Públicas (Perú Compras) aprobó el listado de 268 objetos de contratación, entre bienes y servicios, que tienen potencial para ser homologados por los ministerios durante el 2027, con el objetivo de promover la estandarización de los requerimientos de las entidades públicas y…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-peru-compras-aprueba-listado-268-bienes-y-servicios-para-homologacion-2027-1098337.aspx",
+   "fecha": "2026-11-03T02:06:42Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6ebd727c1897",
+   "titulo": "CNE organiza encuentro nacional para acreditación de programas de estudio de Educación",
+   "resumen": "El Consejo Nacional de Educación (CNE) organiza este martes 3 de noviembre el I Encuentro Nacional para la Acreditación de los Programas de Estudio de las Facultades de Educación.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cne-organiza-encuentro-nacional-para-acreditacion-programas-estudio-educacion-1098336.aspx",
+   "fecha": "2026-11-03T01:58:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "108484e0316c",
+   "titulo": "Resultados Gana Diario: números ganadores de este 1 de noviembre del 2026",
+   "resumen": "Esta lotería peruana realiza un sorteo todos los días a las 20:30 horas. Conozca si fue el afortunado ganador del premio mayor",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/03/resultados-gana-diario-numeros-ganadores-de-este-1-de-noviembre-del-2026/",
+   "fecha": "2026-11-03T01:45:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
    "id": "cf7055d8922b",
    "titulo": "Lavado correcto de manos con agua y jabón ayuda a prevenir enfermedades asociadas a Fenómeno El Niño",
    "resumen": "El lavado constante de manos es la mejor arma para prevenir enfermedades diarreicas agudas (EDA) y afecciones respiratorias (IRA), cuyo riesgo aumenta durante la temporada de lluvias y altas temperaturas asociadas al Fenómeno El Niño, que ya llegó a nuestro país.",
@@ -727,6 +1030,19 @@
    "fecha": "2026-11-02T22:13:19Z",
    "temas": [
     "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "594027d80131",
+   "titulo": "Residente de obra descarta cierre total del malecón costero y anuncia trabajos por tramos",
+   "resumen": "El ingeniero Christian Quispe, responsable del mantenimiento de la vía del malecón costero, aclaró que no se cerrará toda la avenida durante 90 días, como se había interpretado inicialmente, sino que las intervenciones se realizarán por sectores y durante periodos más cortos. “Creo que hubo un…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/residente-de-obra-descarta-cierre-total-del-malecon-costero-y-anuncia-trabajos-por-tramos/",
+   "fecha": "2026-11-02T22:12:04Z",
+   "temas": [
+    "infraestructura"
    ],
    "lugares": []
   },

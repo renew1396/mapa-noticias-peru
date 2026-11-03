@@ -1,0 +1,444 @@
+{
+ "fecha": "2026-11-03",
+ "noticias": [
+  {
+   "id": "63a2724614f4",
+   "titulo": "Gobierno anuncia reordenamiento y reclasificación de la población penal a nivel nacional",
+   "resumen": "El Ejecutivo dispuso un reordenamiento y reclasificación de la población penal en todo el país, con traslados de líderes criminales a Challapalca y renovación de direcciones en penales como El Milagro de Trujillo.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/reordenamiento-reclasificacion-poblacion-penal",
+   "fecha": "2026-11-03T09:40:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "El Milagro",
+     "ubigeo": "130104",
+     "ccpp": "1301040004",
+     "precision": "centro_poblado",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.06665,
+     "lat": -8.02344,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "3ae0284bdc3f",
+   "titulo": "Entregan bienes a productores de palta de Los Ángeles",
+   "resumen": "La Asociación de Productores Agropecuarios Industriales Las Tres Peñas, dedicada al cultivo de palta en el sector de Estuquiña, centro poblado Los Ángeles, recibió bienes valorizados en más de S/ 199 mil como parte del programa PROCOMPITE de la Municipalidad Provincial de Mariscal Nieto. La…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/entregan-bienes-a-productores-de-palta-de-los-angeles/",
+   "fecha": "2026-11-03T09:30:48Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mariscal Nieto",
+     "ubigeo": "180100",
+     "precision": "provincia",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1041042a9ec0",
+   "titulo": "SENAMHI: Pronóstico del clima hoy martes 03 de noviembre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-martes-03-de-noviembre-2026-noticia-1715682",
+   "fecha": "2026-11-03T09:00:45Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "d88d596e581f"
+  },
+  {
+   "id": "53a45169318d",
+   "titulo": "Detienen a agente de seguridad investigado por presunta violación sexual a menor",
+   "resumen": "Una adolescente de 13 años habría sido víctima de violación sexual en el centro poblado de Chen Chen, en Moquegua. Por este caso, la Policía detuvo a un hombre de 26 años, quien se desempeña como agente de seguridad y es investigado como presunto autor del delito. De acuerdo con el reporte…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/detienen-a-agente-de-seguridad-investigado-por-presunta-violacion-sexual-a-menor/",
+   "fecha": "2026-11-03T09:00:38Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "462e24950656",
+   "titulo": "Transportistas de carga pesada anuncian paro de 72 horas por alza del precio del diésel",
+   "resumen": "Un sector de transportistas de carga pesada anunció que realizará un paro de 72 horas para el 16, 17 y 18 de noviembre en Lima y otras regiones, por el alza del diésel y la falta de medidas del Gobierno contra la informalidad.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/transportistas-de-carga-pesada-anuncian-paro-de-72-horas-por-alza-del-precio-del-diesel-noticia/",
+   "fecha": "2026-11-03T08:00:00Z",
+   "temas": [
+    "conflicto_social",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5cc9e0e6f27b",
+   "titulo": "ÚLTIMO ADIÓS A NIÑO QUE MURIÓ POR DENGUE",
+   "resumen": "Patrick Alegre Gonzáles, de 11 años, se convirtió en la primera víctima mortal del dengue en Áncash en lo que va del 2026. Familiares, amigos y compañeros de colegio lo despidieron entre lágrimas en el...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/03/ultimo-adios-a-nino-que-murio-por-dengue/",
+   "fecha": "2026-11-03T07:55:46Z",
+   "temas": [
+    "salud",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f46b3bccfcd0",
+   "titulo": "Fumigarán 12 sectores de Casma para frenar avance del dengue",
+   "resumen": "Lucha contra el dengue: El Hospital de Apoyo San Ignacio de Casma anunció el inicio de una campaña intensiva de fumigación en los 12 sectores de la ciudad, con el objetivo de prevenir y controlar...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/03/fumigaran-12-sectores-de-casma-para-frenar-avance-del-dengue/",
+   "fecha": "2026-11-03T07:46:35Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Casma",
+     "ubigeo": "020801",
+     "precision": "distrito",
+     "provincia": "Casma",
+     "departamento": "Áncash",
+     "lon": -78.30639,
+     "lat": -9.47584,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "de2886f3bc3b",
+   "titulo": "Contraloría alerta deficiencias en Colegio Antonio Raymondi de Casma pese a que la obra fue liquidada",
+   "resumen": "La Contraloría General de la República alertó deficiencias técnicas de calidad y riesgos para la seguridad en la obra de mejoramiento de la institución educativa N.° 88212 Antonio Raymondi, en la provincia de Casma, pese...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/03/contraloria-alerta-deficiencias-en-colegio-antonio-raymondi-de-casma-pese-a-que-la-obra-fue-liquidada/",
+   "fecha": "2026-11-03T07:44:51Z",
+   "temas": [
+    "educacion",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Casma",
+     "ubigeo": "020800",
+     "precision": "provincia",
+     "provincia": "Casma",
+     "departamento": "Áncash",
+     "lon": -78.30639,
+     "lat": -9.47584,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Antonio Raymondi",
+     "ubigeo": "020300",
+     "precision": "provincia",
+     "provincia": "Antonio Raymondi",
+     "departamento": "Áncash",
+     "lon": -77.01703,
+     "lat": -9.10097,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4fd8881fc124",
+   "titulo": "CHINECAS avanza gestión para formalizar y titular predios de Santa Rosa en Samanco",
+   "resumen": "Avanza formalización de predios: La formalización y titulación de los terrenos del anexo Santa Rosa, en el distrito de Samanco, estaría cada vez más cerca de concretarse, luego de los avances en las gestiones para...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/03/chinecas-avanza-gestion-para-formalizar-y-titular-predios-de-santa-rosa-en-samanco/",
+   "fecha": "2026-11-03T07:44:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Rosa",
+     "ubigeo": "021807",
+     "ccpp": "0218070011",
+     "precision": "centro_poblado",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.42081,
+     "lat": -9.26977,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Samanco",
+     "ubigeo": "021807",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.49594,
+     "lat": -9.26227,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6a21ec73c903",
+   "titulo": "Inician ampliación del Centro de Salud Santa para mejorar atención a 20 mil habitantes",
+   "resumen": "Inversión en infraestructura sanitaria: Con la colocación de la primera piedra, se inició la obra de ampliación de ambientes del Centro de Salud del distrito de Santa, proyecto que busca mejorar las condiciones de atención...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/03/inician-ampliacion-del-centro-de-salud-santa-para-mejorar-atencion-a-20-mil-habitantes/",
+   "fecha": "2026-11-03T07:43:49Z",
+   "temas": [
+    "salud",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa",
+     "ubigeo": "021808",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.61296,
+     "lat": -8.98771,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "58bc0768b76c",
+   "titulo": "Senamhi prevé que lluvias de gran intensidad se prolonguen en Tumbes y otras regiones del norte hasta el 7 de noviembre",
+   "resumen": "Angie Flores, especialista del Senamhi advirtió que las lluvias extremas podrían extenderse en la macronorte hasta el 7 de noviembre en el marco de 'El Niño'. Además previó lloviznas en Lima en las próximas horas.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/senamhi-preve-que-lluvias-de-gran-intensidad-se-prolonguen-en-tumbes-y-otras-regiones-del-norte-hasta-el-7-de-noviembre-noticia-1715679",
+   "fecha": "2026-11-03T05:20:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7e667311b7d5",
+   "titulo": "Presentan libro que narra el desarrollo e hitos de la pesca sostenible del paiche en Puinahua",
+   "resumen": "Con una emotiva y concurrida velada se presentó el libro «El paiche sostenible del Pacaya Samiria», una publicación que recoge los avances, hitos e historias de la pesca sostenible de esta emblemática especie. La iniciativa impulsa el desarrollo económico y social de decenas de familias del…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/presentan-libro-que-narra-el-desarrollo-e-hitos-de-la-pesca-sostenible-del-paiche-en-puinahua/",
+   "fecha": "2026-11-03T05:18:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puinahua",
+     "ubigeo": "160506",
+     "precision": "distrito",
+     "provincia": "Requena",
+     "departamento": "Loreto",
+     "lon": -74.34544,
+     "lat": -5.25568,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d86e7c3ca038",
+   "titulo": "Corte de Loreto consolida el civismo institucional con el izamiento semanal del Pabellón Nacional",
+   "resumen": "La Corte Superior de Justicia de Loreto, bajo la dirección de su presidente, el magistrado Reynaldo Elías Cajamarca Porras, reafirma de manera constante su compromiso con la identidad nacional y el respeto a los símbolos patrios. Fiel a esta política institucional, la máxima autoridad de la región…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/corte-de-loreto-consolida-el-civismo-institucional-con-el-izamiento-semanal-del-pabellon-nacional-3/",
+   "fecha": "2026-11-03T05:18:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f4fc0565bccd",
+   "titulo": "Presidente de la Corte de Loreto participó en la Sesión Regional Anticorrupción N° 04-2026 para fortalecer la integridad y la transparencia en la gestión pública",
+   "resumen": "El presidente de la Corte Superior de Justicia de Loreto, Dr. Reynaldo Elías Cajamarca Porras, participó activamente en la Sesión Regional Anticorrupción N° 04-2026 de la Comisión Regional Anticorrupción de Loreto (CRAL). El encuentro tuvo como objetivo principal la coordinación de actividades…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/presidente-de-la-corte-de-loreto-participo-en-la-sesion-regional-anticorrupcion-n-04-2026-para-fortalecer-la-integridad-y-la-transparencia-en-la-gestion-publica/",
+   "fecha": "2026-11-03T05:18:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "176463d2359c",
+   "titulo": "Mientras que en el hospital Iquitos hubo cortocircuitos, en el área de esterilización del hospital regional cayó parte del cielo raso",
+   "resumen": "Se supone que los millones de soles del presupuesto del gobierno regional sirve para que Loreto cuente con buenas obras. Obras duraderas, como se construía en el Perú hace varias décadas. Pero ahora, son obras que no duran y cuestan millones de soles.Cómo explicarse qué, se supone, a más…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/mientras-que-en-el-hospital-iquitos-hubo-cortocircuitos-en-el-area-de-esterilizacion-del-hospital-regional-cayo-parte-del-cielo-raso/",
+   "fecha": "2026-11-03T05:17:00Z",
+   "temas": [
+    "salud",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  }
+ ]
+}
