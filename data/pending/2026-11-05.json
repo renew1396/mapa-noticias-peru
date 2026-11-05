@@ -1,0 +1,922 @@
+{
+ "fecha": "2026-11-05",
+ "noticias": [
+  {
+   "id": "64d9c7a200c8",
+   "titulo": "Precio del GNV, GLP, diésel y gasolina en Perú para hoy, jueves 5 de noviembre de 2026",
+   "resumen": "Los transportistas y conductores pueden revisar en Facilito los valores declarados por los grifos, comparar alternativas por distrito y confirmar la disponibilidad antes de cargar combustible",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/precio-del-gnv-glp-diesel-y-gasolina-en-peru-para-hoy-jueves-5-de-noviembre-de-2026/",
+   "fecha": "2026-11-05T11:13:02Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "45d34f2bef4c",
+   "titulo": "Ley MAPE: Iván Arenas analiza el futuro del Reinfo ante el próximo debate en el Congreso",
+   "resumen": "El consultor minero señaló que la Comisión de Energía y Minas retomaría la discusión la próxima semana, en medio de posiciones políticas a favor y en contra de extender el proceso de formalización. El proyecto de ley de la Pequeña Minería y Minería Artesanal (MAPE), presentado por el ministro de…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/ley-mape-ivan-arenas-analiza-el-futuro-del-reinfo-ante-el-proximo-debate-en-el-congreso/",
+   "fecha": "2026-11-05T11:12:00Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "10a894f33504",
+   "titulo": "Felipe Cantuarias pide reformar sistema de regalías y permisos para recuperar inversión en hidrocarburos",
+   "resumen": "El presidente de la Sociedad Peruana de Hidrocarburos sostuvo que el marco regulatorio peruano debe considerar los costos de producción y las fluctuaciones internacionales de los precios del petróleo y gas natural. El presidente de la Sociedad Peruana de Hidrocarburos (SPH), Felipe Cantuarias…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/hidrocarburos/felipe-cantuarias-regalias-y-permisos-inversion-en-hidrocarburos/",
+   "fecha": "2026-11-05T11:11:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a39fd12576e3",
+   "titulo": "IIMP advierte deficiencias en proyecto de Ley MAPE y pide precisiones al Congreso",
+   "resumen": "Gustavo De Vinatea consideró que la propuesta del Ejecutivo requiere ajustes para eliminar expresamente los mecanismos de impunidad y garantizar una fiscalización efectiva. El gerente general del Instituto de Ingenieros de Minas del Perú (IIMP), Gustavo De Vinatea, advirtió que el proyecto de Ley…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/mineria/iimp-deficiencias-proyecto-ley-mape-precisiones-al-congreso/",
+   "fecha": "2026-11-05T11:10:00Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d0db7ad9693f",
+   "titulo": "Carlos Garibaldi plantea que Perú adopte modelo similar al RIGI para atraer inversiones energéticas",
+   "resumen": "El secretario ejecutivo de ARPEL señaló que un régimen de garantías como el argentino podría fortalecer la seguridad jurídica y promover inversiones de largo plazo en el sector energético peruano. El secretario ejecutivo de la Asociación de Empresas de Petróleo, Gas y Energía Renovable de América…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/noticias-energia/carlos-garibaldi-peru-modelo-rigi-atraer-inversiones-energeticas/",
+   "fecha": "2026-11-05T11:10:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "cbeefe2798a5",
+   "titulo": "Lluvias extremas y decenas de litros de agua por metro cuadrado: Piura y Tumbes en emergencia y Lima superó una marca histórica",
+   "resumen": "Las precipitaciones alcanzarán su mayor intensidad prevista este miércoles 4 y jueves 5 de noviembre, antes de disminuir el viernes 6. Mientras tanto, las lloviznas en Lima provocaron nuevos aniegos en Villa María del Triunfo y el colapso de desagües en Villa El Salvador. Especialistas advierten…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/piura-y-tumbes-bajo-alerta-roja-que-tan-intensas-seran-las-lluvias-y-que-se-espera-para-lima-apuesplan-noticia/",
+   "fecha": "2026-11-05T11:06:02Z",
+   "temas": [
+    "agua",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa María del Triunfo",
+     "ubigeo": "150143",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.94361,
+     "lat": -12.16248,
+     "confianza": 0.27,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Villa",
+     "ubigeo": "210105",
+     "ccpp": "2101050061",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.8168,
+     "lat": -15.70619,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "94019253a431",
+   "titulo": "Precio del dólar Perú y tipo de cambio hoy 05 de noviembre del 2026",
+   "resumen": "En Perú, el tipo de cambio para hoy jueves 05 de noviembre es de S/3.45 según el Banco Central de Reserva Del Perú.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-05-de-noviembre-del-2026-noticia-1716025",
+   "fecha": "2026-11-05T11:05:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "086fe06378af",
+   "titulo": "Magaly Medina advierte a Karla Tarazona por disfrazarse de las mentiras de Christian Domínguez: “No deberías burlarte, podría regresar”",
+   "resumen": "La conductora llevó mensajes como “Confía en mí” y “Estás imaginando cosas”, ligados en el informe a su historia con Christian Domínguez, una elección que dividió a los usuarios durante la celebración y provocó cuestionamientos televisivos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/magaly-medina-advierte-a-karla-tarazona-por-disfrazarse-de-las-mentiras-de-christian-dominguez-no-deberias-burlarte-podria-regresar/",
+   "fecha": "2026-11-05T11:03:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "36d55d147007",
+   "titulo": "La Tinka del miércoles 4 de noviembre: ¿Salió el pozo acumulado de más de 9 millones de soles?",
+   "resumen": "Revisa aquí la combinación oficial de La Tinka del miércoles 4 de noviembre. Conoce si hubo ganador de los S/ 9.8 millones, los resultados del Sí o Sí, la Boliyapa y el millonario monto acumulado para el domingo",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/la-tinka-del-miercoles-4-de-noviembre-salio-el-pozo-acumulado-de-mas-de-9-millones-de-soles/",
+   "fecha": "2026-11-05T11:03:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c5f9b6908266",
+   "titulo": "Florcita Polo terminó en emergencia tras segundo enfrentamiento con Luiggi Yarasca: habría sufrido accidente con escaleras y hermana lo acusa",
+   "resumen": "El equipo de Magaly Medina ubicó a la hija de Susy Díaz en una clínica de Surquillo, donde permanecía acompañada por su hermana y bajo supervisión médica tras el episodio reportado en su vivienda",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/florcita-polo-termino-en-emergencia-tras-segundo-enfrentamiento-con-luiggi-yarasca-reportero-revelo-que-habria-sufrido-accidente-con-escaleras/",
+   "fecha": "2026-11-05T11:03:00Z",
+   "temas": [
+    "conflicto_social",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1f9724abfa27",
+   "titulo": "Keiko Fujimori cumple 100 días de gobierno con dos frentes que marcan su agenda: la criminalidad y la amenaza de El Niño",
+   "resumen": "El Ejecutivo ha priorizado el combate contra las organizaciones criminales, el endurecimiento de las medidas de seguridad y las obras de prevención ante posibles inundaciones y lluvias intensas en el norte del país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-con-dos-frentes-que-marcan-su-agenda-la-criminalidad-y-la-amenaza-de-el-nino/",
+   "fecha": "2026-11-05T11:03:00Z",
+   "temas": [
+    "desastres",
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "116ce59a6115",
+   "titulo": "Aída Martínez cuenta cómo reaccionó Mario Hart cuando rechazó intimar con él: “Se enojó un ratito”",
+   "resumen": "La modelo relató en Café con la Chevez que, tras una celebración y llegar al departamento del expiloto, prefirió dormir por el cansancio en lugar de prolongar el acercamiento entre ambos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/aida-martinez-cuenta-como-reacciono-mario-hart-cuando-rechazo-intimar-con-el-se-enojo-un-ratito/",
+   "fecha": "2026-11-05T11:02:48Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1319dbe187c9",
+   "titulo": "Keiko Fujimori, Pedro Castillo y PPK: los 100 primeros días de los últimos presidentes electos",
+   "resumen": "A 100 días de la gestión de Keiko Fujimori, un contraste con los inicios de Pedro Castillo y Pedro Pablo Kuczynski muestra prioridades, choques con el Congreso y diferencias en la aprobación ciudadana.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-pedro-castillo-y-ppk-los-100-primeros-dias-de-los-ultimos-presidentes-electos/",
+   "fecha": "2026-11-05T11:02:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9ef85f92967a",
+   "titulo": "¿Qué hizo Keiko Fujimori en sus primeros 100 días de gobierno? Las cifras de su gestión presidencial",
+   "resumen": "Desde el 28 de julio, el Gobierno impulsó medidas para enfrentar la inseguridad ciudadana, atender los efectos del Fenómeno El Niño y promover inversiones",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/que-hizo-keiko-fujimori-en-sus-primeros-100-dias-de-gobierno-las-cifras-de-su-gestion-presidencial/",
+   "fecha": "2026-11-05T11:01:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "995510b2489b",
+   "titulo": "Se facilitaría permisos a Reinfo para explotar, pero gran minería enfrentaría este riesgo",
+   "resumen": "Una nueva disposición del Minem facilitará el camino para que estos mineros en formalización aceleren su obtención de permisos. Pero quienes se asocien con ellos deberán tomar mayores precauciones por este cambio regulatorio. Aquí los detalles.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/oro-se-facilitaria-permisos-a-reinfo-para-explotar-pero-gran-mineria-enfrentaria-este-riesgo-en-peru-noticia/",
+   "fecha": "2026-11-05T11:00:55Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3c59c0bfee50",
+   "titulo": "JNJ evalúa tercera destitución de la ex fiscal Delia Espinoza | Al Vuelo",
+   "resumen": "Entérate además que se cumplen 100 días del gobierno de Keiko Fujimori pero solo tuvo avances en 6 de sus 68 ofrecimientos para ese plazo",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/jnj-evalua-tercera-destitucion-de-la-ex-fiscal-delia-espinoza-al-vuelo/",
+   "fecha": "2026-11-05T11:00:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1c1a65d7466c",
+   "titulo": "Enrique Stiglich, rector de UTEC: “Nos reconocen como una opción para reclutar talento en tecnología”",
+   "resumen": "El 15% de sus egresados trabaja en grandes empresas del exterior y participa en proyectos de tecnología de frontera. La universidad también busca ampliar su impacto más allá de las aulas, con iniciativas orientadas a atender desafíos del país, como los efectos del fenómeno de El Niño.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/enrique-stiglich-rector-de-utec-nos-reconocen-como-una-opcion-para-reclutar-talento-en-tecnologia-noticia/",
+   "fecha": "2026-11-05T11:00:01Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6162a71760da",
+   "titulo": "Nuevas fronteras de la cirugía estética: de la grasa propia a los tejidos de donantes",
+   "resumen": "Las autoridades y especialistas tendrán que considerar la seguridad, las condiciones de uso y los antecedentes clínicos de estas herramientas, cuya disponibilidad en otros mercados no garantiza su adopción local",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/nuevas-fronteras-de-la-cirugia-estetica-de-la-grasa-propia-a-los-tejidos-de-donantes/",
+   "fecha": "2026-11-05T11:00:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3a76ef6ee3cd",
+   "titulo": "Keiko Fujimori cumple 100 días de gobierno: entre el discurso del orden, las redes sociales y la percepción ciudadana",
+   "resumen": "De una comunicación cercana en redes sociales a un discurso más enfocado en la autoridad y el orden, Keiko Fujimori ha modificado su estrategia desde su llegada a Palacio de Gobierno. El desafío está en conectar esa narrativa con las expectativas ciudadanas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-entre-el-discurso-del-orden-las-redes-sociales-y-la-percepcion-ciudadana/",
+   "fecha": "2026-11-05T11:00:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "02aa95a3719d",
+   "titulo": "¿Cómo proteger a las mascotas frente a las altas temperaturas asociadas al Fenómeno El Niño?",
+   "resumen": "Los perros y gatos regulan su organismo mediante el jadeo y pueden llegar al colapso cuando ese mecanismo resulta insuficiente, una condición que especialistas consideran prevenible con vigilancia y cuidados oportunos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/como-proteger-a-las-mascotas-frente-a-las-altas-temperaturas-asociadas-al-fenomeno-el-nino/",
+   "fecha": "2026-11-05T11:00:01Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c12438573d09",
+   "titulo": "Rafael López Aliaga: ¿Cómo se han pronunciado los JEE sobre casos de presunta reelección encubierta?",
+   "resumen": "Los Jurados Electorales Especiales (JEE) de Áncash, Ica, Junín, La Libertad y Lima Norte proclamaron como regidores a seis candidatos que buscaban volver a ejercer como alcaldes, en casos que involucran una presunta reelección encubierta. En cambio, los JEE de San Martín y Amazonas optaron por…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/elecciones/rafael-lopez-aliaga-como-se-han-pronunciado-los-jee-sobre-casos-de-presunta-reeleccion-encubierta-apuesplan-noticia/",
+   "fecha": "2026-11-05T11:00:00Z",
+   "temas": [
+    "salud",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "150110",
+     "ccpp": "1501100001",
+     "precision": "centro_poblado",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04942,
+     "lat": -11.95716,
+     "confianza": 0.15,
+     "principal": true
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "San Martín",
+     "ubigeo": "220000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "San Martín",
+     "lon": -76.97427,
+     "lat": -6.03473,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "Amazonas",
+     "ubigeo": "010000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Amazonas",
+     "lon": -77.87281,
+     "lat": -6.22955,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8a0118c6b68b",
+   "titulo": "BCR advierte que ciberataques son un gran riesgo para el sistema financiero digital",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/economia/bcr-advierte-que-ciberataques-son-un-gran-riesgo-para-el-sistema-financiero-digital-noticia/",
+   "fecha": "2026-11-05T11:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "55545057b389",
+   "titulo": "Felaban: Perú es cuna de la experiencia microfinanciera más avanzada y madura del mundo",
+   "resumen": "El Perú es cuna de la experiencia microfinanciera más avanzada y madura del mundo, destacó el director general de la Fundación Microfiannzas BBVA (FMBBVA), Javier M, Flores, en la 60ª Asamblea Anual de la Federación Latinoamericana de Bancos (Felaban 2026) que se desarrolla en el Perú.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-felaban-peru-es-cuna-de-experiencia-microfinanciera-mas-avanzada-y-madura-del-mundo-1098687.aspx",
+   "fecha": "2026-11-05T11:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3dc41f17a983",
+   "titulo": "Décimo quinto friaje: temperatura nocturna descendería cerca a los 17 °C en la selva sur",
+   "resumen": "La selva peruana registrará lluvias, descargas eléctricas, incremento de la velocidad del viento y descenso de las temperaturas diurnas (máximas) y nocturnas (mínimas) debido al ingreso del décimo quinto friaje del año, desde la mañana del domingo 8 hasta el lunes 9 de noviembre, informó el…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-decimo-quinto-friaje-temperatura-nocturna-descenderia-cerca-a-los-17-%C2%B0c-la-selva-sur-1098689.aspx",
+   "fecha": "2026-11-05T11:00:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0e0e11610a28",
+   "titulo": "El Niño interrumpiría obras durante el verano, ¿qué “salvaría” la construcción en 2027?",
+   "resumen": "El impacto de El Niño en la construcción se concentraría inicialmente en la ejecución de obras en las zonas más expuestas, particularmente en el norte del país.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/el-nino-interrumpiria-obras-durante-el-verano-en-peru-que-salvaria-la-construccion-en-2027-noticia/",
+   "fecha": "2026-11-05T10:58:17Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9ceae083ba90",
+   "titulo": "Simulacro de sismo y tsunami activó alerta Sismate en el litoral peruano",
+   "resumen": "El Simulacro por Sismo seguido de Tsunami 'Elige Prepararte' se ejecutó el miércoles 4 de noviembre en distritos costeros del Perú. A las 10:05 a. m., el Sismate emitió una alerta sonora de tsunami en celulares. El ejercicio buscó fortalecer la preparación ante desastres.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/nacional/simulacro-sismo-tsunami-sismate-litoral-peruano",
+   "fecha": "2026-11-05T10:50:05Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "02ebd5f5224d",
+   "titulo": "Temblor en Perú hoy EN VIVO, jueves 5 de noviembre: último sismo, magnitud y epicentro según el IGP",
+   "resumen": "Consulta dónde ocurrió el último temblor hoy en Perú, su magnitud, epicentro, profundidad y hora, según el reporte oficial del IGP de este jueves 5 de noviembre.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/05/temblor-en-peru-hoy-en-vivo-jueves-5-de-noviembre-ultimo-sismo-magnitud-y-epicentro-segun-el-igp-391452",
+   "fecha": "2026-11-05T10:47:15Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "de93df40cf3f",
+   "titulo": "Dólar y petróleo caen tras derrota de Trump: ¿tipo de cambio romperá S/ 3.40?",
+   "resumen": "Dolar revierte tendencia y petróleo Brent retrocedió 8% a US$ 94 por barril, mientras que el oro y plata rebotaron más 3% y bolsas repuntaron. Cambio en la correlación de fuerzas entre el Gobierno y Congreso de EE.UU. traerá cola.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/tu-dinero/dolar-y-petroleo-caen-tras-derrota-de-trump-tipo-de-cambio-rompera-s-340-noticia/",
+   "fecha": "2026-11-05T10:35:00Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a0f016edf34a",
+   "titulo": "Julio Velarde: “Van venir ataques más poderosos”, ¿qué personal urge a SBS contratar?",
+   "resumen": "El sistema financiero debe gestionar diferentes riesgos, y uno que trasciende las coyunturas es la ciberseguridad, manifestaron autoridades estatales durante la edición 60 de la Asamblea Anual de la Federación Latinoamericana de Bancos (Felaban 2026), organizada junto con la Asociación de Bancos…",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/tu-dinero/julio-velarde-van-venir-ataques-mas-poderosos-que-personal-urge-a-sbs-contratar-noticia/",
+   "fecha": "2026-11-05T10:30:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "fdee4b551235",
+   "titulo": "Arca Continental crece a doble dígito en Perú y mira los próximos meses: ¿qué anticipa ante El Niño?",
+   "resumen": "Arca Continental, embotelladora de Coca-Cola e Inca Kola en Perú, registró un crecimiento de 24.4% en el volumen de ventas del mercado peruano durante el tercer trimestre de 2026, frente al mismo periodo del año anterior. El resultado marcó un récord trimestral para la operación desde que la…",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/empresas/arca-continental-embotelladora-de-coca-cola-e-inca-kola-crecio-244-en-peru-y-mira-los-proximos-meses-que-anticipa-ante-el-nino-noticia/",
+   "fecha": "2026-11-05T10:15:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ae5bb8f0bc99",
+   "titulo": "El Niño amenaza con hacer más difícil el primer empleo formal de los jóvenes",
+   "resumen": "El 73,2% de los jóvenes peruanos ocupados de 18 a 25 años trabaja en la informalidad, y El Niño amenaza con presionar aún más un mercado laboral que no recupera los niveles prepandemia. Expertos plantean medidas para abrir paso al primer empleo formal.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/7-de-cada-10-jovenes-trabajan-en-la-informalidad-el-nino-agravara-el-panorama-laboral-noticia/",
+   "fecha": "2026-11-05T09:56:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e80695ffbb74",
+   "titulo": "Vigilia de jóvenes con León XIV: ¿dónde estarán los seis accesos y cómo funcionarán los tres anillos de seguridad?",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/vigilia-de-jovenes-con-leon-xiv-donde-estaran-los-seis-accesos-y-como-funcionaran-los-tres-anillos-de-seguridad-apuesplan-noticia/",
+   "fecha": "2026-11-05T09:31:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "47421df96123",
+   "titulo": "Un patrullero se retira ante un niño tendido",
+   "resumen": "Un niño quedó tendido en el suelo frente a Seda Huánuco, en el jirón Abtao con Dámaso Beraún, durante el paro regional por el agua del miércoles 4.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/un-patrullero-se-retira-ante-un-nino-tendido",
+   "fecha": "2026-11-05T09:01:37Z",
+   "temas": [
+    "conflicto_social",
+    "agua"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2dadfe082ccf",
+   "titulo": "Visita del papa León XIV movería más de S/300 millones en Perú",
+   "resumen": "Mincetur prevé desplazamientos de turistas nacionales y extranjeros y anuncia orientación para los viajeros que asistirán a las actividades religiosas.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/economia/visita-del-papa-leon-xiv-moveria-mas-de-s-300-millones-en-peru",
+   "fecha": "2026-11-05T09:01:20Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9684cb68bed0",
+   "titulo": "El Niño Costero alcanzaría su máxima intensidad entre diciembre y enero",
+   "resumen": "Senamhi advierte que el calentamiento podría prolongarse hasta febrero, mientras el norte afrontaría mayores precipitaciones durante el verano",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/nacional/el-nino-costero-alcanzaria-su-maxima-intensidad-entre-diciembre-y-enero",
+   "fecha": "2026-11-05T09:01:17Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a03cd565790b",
+   "titulo": "Roger Hidalgo inicia un parque de 60 días; le quedan 56 en la alcaldía",
+   "resumen": "El alcalde Roger Hidalgo Panduro inició el martes 3 el Parque Las Piritas, valorizado en más de un millón de soles, y entrega el cargo el 31 de diciembre.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/roger-hidalgo-inicia-un-parque-de-60-dias-le-quedan-56-en-la-alcaldia",
+   "fecha": "2026-11-05T09:00:50Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "306ac06e9e1b",
+   "titulo": "Canal de Canchán: Comisión técnica propone tubería en vez del canal",
+   "resumen": "El arquitecto Walter Bruno dijo a Diario Ahora que la comisión halló 15 puntos críticos y pide medidas provisionales para un par de meses.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/canal-de-canchan-comision-tecnica-propone-tuberia-en-vez-del-canal",
+   "fecha": "2026-11-05T09:00:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3f26ab9ecabe",
+   "titulo": "Simulacro por sismo y tsunami activó alerta Sismate en celulares del litoral peruano",
+   "resumen": "El Simulacro por Sismo seguido de Tsunami 'Elige Prepararte' se realizó el miércoles 4 de noviembre a las 10:00 a. m. en distritos costeros del Perú. El Sismate emitió una alerta de tsunami cinco minutos después del inicio del ejercicio, con mensaje de evacuación inmediata.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/simulacro-sismo-tsunami-sismate-4-noviembre",
+   "fecha": "2026-11-05T08:30:10Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "67bbbfce1fff",
+   "titulo": "“La Lima que queremos al 2026″: Asociación A Movernos y El Comercio realizarán conversatorio abierto sobre movilidad y seguridad vial",
+   "resumen": "El encuentro reunirá a representantes del sector público, empresas y sociedad civil para discutir los principales desafíos del transporte y presentar una propuesta normativa.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/la-lima-que-queremos-al-2026-el-comercio-y-a-movernos-realizaran-conversatorio-sobre-movilidad-y-seguridad-vial-noticia/",
+   "fecha": "2026-11-05T08:22:50Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b06ba125025e",
+   "titulo": "Precio del dólar en Perú hoy, jueves 5 de noviembre: cuál es el tipo de cambio del día",
+   "resumen": "Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, jueves 29 de octubre. Revisa los movimientos de la moneda estadounidense en el mercado nacional.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-hoy-jueves-5-de-noviembre-a-cuanto-esta-el-dolar-y-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
+   "fecha": "2026-11-05T08:02:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "69301ca086ca",
+   "titulo": "CADE Ejecutivos 2026 debatirá cómo impulsar el turismo regional",
+   "resumen": "Entre enero y septiembre de 2026, el Perú recibió 2.539.579 turistas internacionales, según cifras del Ministerio de Comercio Exterior y Turismo (Mincetur). Cómo fortalecer la competitividad del sector y aprovechar su potencial para generar más empleo e inversión en las regiones será uno de los…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cade-ejecutivos-2026-debatira-como-impulsar-turismo-regional-1098680.aspx",
+   "fecha": "2026-11-05T08:00:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5d8f7c6e711a",
+   "titulo": "Denuncian bullying y hostigamiento contra servidora judicial en Unidad de Flagrancia",
+   "resumen": "Acusan a cinco trabajadores: Una grave denuncia por presuntos actos de bullying, hostigamiento psicológico y humillaciones fue presentada por una servidora judicial de la Unidad de Flagrancia de la Corte Superior de Justicia del Santa,...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/05/denuncian-bullying-y-hostigamiento-contra-servidora-judicial-en-unidad-de-flagrancia/",
+   "fecha": "2026-11-05T07:20:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "536a399b0dc8",
+   "titulo": "Inauguran hoy Centro de Emergencia Mujer y Familia",
+   "resumen": "Funcionará las 24 horas: Hoy, jueves 5 de noviembre, a las 9:30 de la mañana, se inaugurará el Centro de Emergencia Mujer y Familia (CEM) 24 horas en la sede de la Unidad de Flagrancia...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/05/inauguran-hoy-centro-de-emergencia-mujer-y-familia/",
+   "fecha": "2026-11-05T07:19:22Z",
+   "temas": [
+    "desastres",
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1d56e91ed704",
+   "titulo": "En reunión de emergencia acuerdan fortalecer hospitales para enfrentar el dengue",
+   "resumen": "Hospital Regional reporta 20 pacientes: Ante el incremento de casos de dengue en la provincia del Santa, autoridades regionales y representantes del sector Salud sostuvieron una reunión de emergencia en el Hospital Regional Eleazar Guzmán...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/05/en-reunion-de-emergencia-acuerdan-fortalecer-hospitales-para-enfrentar-el-dengue/",
+   "fecha": "2026-11-05T07:18:50Z",
+   "temas": [
+    "salud",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "656634d498c9",
+   "titulo": "Ecuador alerta por fuertes lluvias de El Niño y advierte riesgo de nuevas inundaciones",
+   "resumen": "El Comité de Operaciones de Emergencia (COE) Nacional de Ecuador pidió a la población extremar las precauciones ante el pronóstico de fuertes lluvias durante la noche del miércoles 4 de noviembre. Las precipitaciones están asociadas al fenómeno climático de El Niño y podrían generar nuevas…",
+   "medio": "Los Andes",
+   "medio_id": "losandes",
+   "url": "https://losandes.com.pe/ecuador-alerta-por-fuertes-lluvias-de-el-nino-y-advierte-riesgo-de-nuevas-inundaciones/",
+   "fecha": "2026-11-05T06:38:48Z",
+   "temas": [
+    "desastres",
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "91bc97246872",
+   "titulo": "Gobierno destina S/ 3 millones contra la anemia y fija meta de reducirla a la mitad en cinco años",
+   "resumen": "El Gobierno presentó el Pacto Nacional contra la Anemia Infantil con una inyección de S/ 3 millones para cinco regiones prioritarias y la meta de reducir la anemia a la mitad en cinco años. El Midis anunció un plan piloto de información nominal en 19 distritos y una cartera preliminar de proyectos…",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/sociedad/gobierno-s3-millones-anemia-pacto-nacional",
+   "fecha": "2026-11-05T06:10:06Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5bf6932e36ce",
+   "titulo": "Julio Velarde: La Prueba PISA es “realmente un horror” para Perú y la región",
+   "resumen": "En la última Prueba PISA (del 2025), Perú retrocedió, principalmente en comprensión lectora, matemáticas y ciencias.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/tu-dinero/julio-velarde-la-prueba-pisa-es-realmente-un-horror-para-peru-y-la-region-noticia/",
+   "fecha": "2026-11-05T05:56:24Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b40741793bdc",
+   "titulo": "Separata Judicial – Jueves 05 de noviembre de 2026",
+   "resumen": "",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/separata-judicial-jueves-05-de-noviembre-de-2026/",
+   "fecha": "2026-11-05T05:46:28Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "94daa660257e",
+   "titulo": "Resultados ganadores del Gana Diario del miércoles 4 de noviembre",
+   "resumen": "¿Se rompió el pozo millonario este miércoles? Verifique si fue el afortunado ganador del premio mayor",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/resultados-ganadores-del-gana-diario-del-miercoles-4-de-noviembre/",
+   "fecha": "2026-11-05T05:46:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9efe8ba8ed06",
+   "titulo": "Felaban: fintech crecen rápidamente en número de clientes y rentabilidad a nivel global",
+   "resumen": "Las fintech, empresas que utilizan la tecnología para ofrecer servicios financieros o conocidos como bancos digitales, cada vez se convierten en competidores importantes de los bancos tradicionales, creciendo rápidamente en participación de mercado e ingresos, señaló Jorge Garate, socio de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-felaban-fintech-crecen-rapidamente-numero-clientes-y-rentabilidad-a-nivel-global-1098686.aspx",
+   "fecha": "2026-11-05T05:41:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "41dffcb14e02",
+   "titulo": "Minsa seguirá a cada niño y gestante con anemia hasta su recuperación",
+   "resumen": "El Minsa anunció que hará seguimiento a cada niño y gestante con anemia hasta su recuperación, durante la firma del Pacto Multisectorial contra la Anemia liderado por la presidenta Keiko Fujimori. El sector destinará S/ 3 millones a Loreto, Puno, Cajamarca, Ayacucho y Lima Metropolitana.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/sociedad/minsa-seguimiento-ninos-gestantes-anemia",
+   "fecha": "2026-11-05T05:40:07Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.18,
+     "principal": true
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7cba07c2fb7d",
+   "titulo": "Sismate alertó a celulares de la costa durante simulacro por tsunami",
+   "resumen": "El simulacro por sismo seguido de tsunami 'Elige Prepararte' se ejecutó el 4 de noviembre con alerta masiva del Sismate a las 10:05. En Áncash participaron nueve distritos costeros. Indeci precisó que el sistema no anticipa sismos y que se busca integrarlo con el SASPe.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/simulacro-sismo-tsunami-sismate-alerta",
+   "fecha": "2026-11-05T05:30:09Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c009bd076d04",
+   "titulo": "Pedagógico Requena entregaba títulos profesionales a personas que no siguieron clases ahí",
+   "resumen": "Fue en la sesión ordinaria del consejo regional, donde el consejero dio a conocer que después de una paciente fiscalización había conseguido datos realmente graves de lo acontecido en ese Instituto Pedagógico, lo que de todas maneras tendría que ingresar al ministerio público.“En estos momentos en…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/pedagogico-requena-entregaba-titulos-profesionales-a-personas-que-no-siguieron-clases-ahi/",
+   "fecha": "2026-11-05T05:20:00Z",
+   "temas": [
+    "educacion",
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e49d433036a8",
+   "titulo": "Familias de la frontera Perú-Colombia tendrán nuevas oportunidades productivas con proyecto binacional",
+   "resumen": "Familias dedicadas a la agricultura y la actividad pesquera en la frontera de Perú y Colombia accederán a nuevas oportunidades económicas mediante un proyecto binacional que busca transformar residuos agrícolas y pesqueros en productos comercializables.La iniciativa, financiada por el Banco…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/familias-de-la-frontera-peru-colombia-tendran-nuevas-oportunidades-productivas-con-proyecto-binacional/",
+   "fecha": "2026-11-05T05:17:00Z",
+   "temas": [
+    "medio_ambiente",
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9ff8e6b27f08",
+   "titulo": "Ministros debatirán los primeros tres decretos legislativos: ¿Cuáles serán los alcances?",
+   "resumen": "En la próxima sesión del Consejo de Ministros, que se dará entre el jueves y el viernes, se someterá a debate tres decretos legislativos sobre la reforma del sistema penitenciario, en amparo de las facultades que otorgó el Congreso bicameral al gobierno de Keiko Fujimori. Así lo informó el titular…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/ministros-debatiran-los-primeros-tres-decretos-legislativos-cuales-seran-los-alcances-noticia/",
+   "fecha": "2026-11-05T05:01:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  }
+ ]
+}

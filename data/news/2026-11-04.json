@@ -2,6 +2,686 @@
  "fecha": "2026-11-04",
  "noticias": [
   {
+   "id": "574d7ed27a97",
+   "titulo": "Villa El Salvador: aniegos y colapso de alcantarillado tras llovizna nocturna",
+   "resumen": "Persisten aniegos en Villa El Salvador y Villa María del Triunfo tras intensas garúas. El colapso del alcantarillado dificulta el tránsito en Lima Sur.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/villa-el-salvador-aniegos-y-colapso-de-alcantarillado-tras-garua-nocturna-lluvias-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-05T04:52:48Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa",
+     "ubigeo": "210105",
+     "ccpp": "2101050061",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.8168,
+     "lat": -15.70619,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Villa María del Triunfo",
+     "ubigeo": "150143",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.94361,
+     "lat": -12.16248,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1eb22d1c2946",
+   "titulo": "Intensas lloviznas en Lima Sur provocan aniegos en Villa María del Triunfo y colapso de desagüe en Villa El Salvador",
+   "resumen": "La persistente llovizna registrada en la capital provocó inundaciones en vías de Villa María del Triunfo y el rebalse de aguas servidas en viviendas de Villa El Salvador.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/lloviznas-en-lima-sur-provocan-aniegos-en-villa-maria-del-triunfo-y-villa-el-salvador-noticia-1716004",
+   "fecha": "2026-11-05T04:52:07Z",
+   "temas": [
+    "agua",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa María del Triunfo",
+     "ubigeo": "150143",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.94361,
+     "lat": -12.16248,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Villa",
+     "ubigeo": "210105",
+     "ccpp": "2101050061",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.8168,
+     "lat": -15.70619,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "51d4d87a5bf2",
+   "titulo": "Asador Etxebarri fue elegido el mejor restaurante del mundo en The 50 Best 2026",
+   "resumen": "El restaurante Asador Etxebarri, ubicado en el País Vasco (España) y liderado por el chef Bittor Arginzoniz, fue elegido el mejor del mundo en The 50 Best Restaurants 2026, cuya ceremonia se realizó en el Teatro Municipal de Lima. El segundo y tercer lugar fueron ocupados por Gaggan, de Tailandia…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-asador-etxebarri-fue-elegido-mejor-restaurante-del-mundo-the-50-best-2026-1098683.aspx",
+   "fecha": "2026-11-05T04:34:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "485853e55bf0",
+   "titulo": "Madre de Dios: FF.AA. destruyen bienes y logística de la minería ilegal valorizados en más de S/ 8 millones",
+   "resumen": "Durante el operativo se incautó trece balsas traca, diecisiete motores sumergidores, un motor adicional, diez pozas, tres tolvas de madera, dieciséis campamentos rústicos, tres motocicletas lineales, tres motosierras y 2 mil 250 galones de combustible.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/madre-de-dios/madre-de-dios-fuerzas-armadas-destruyen-bienes-y-logistica-de-la-mineria-ilegal-valorizados-en-mas-de-s-8-millones-ultimas-noticia/",
+   "fecha": "2026-11-05T04:25:29Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170203",
+     "precision": "distrito",
+     "provincia": "Manu",
+     "departamento": "Madre de Dios",
+     "lon": -70.39422,
+     "lat": -12.61849,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3766a4415ea1",
+   "titulo": "La “U” empata 2-2 con Sport Boys en los descuentos, pero no alcanza la punta del Clausura",
+   "resumen": "A punta de garra, Universitario de Deportes empató esta noche a dos goles con el Sport Boys del Callao, en los descuentos de un partido que perdía por 2-0 hasta el minuto 88, en el estadio Monumental de Ate.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-la-u-empata-22-sport-boys-los-descuentos-pero-no-alcanza-punta-del-clausura-1098682.aspx",
+   "fecha": "2026-11-05T04:17:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ate",
+     "ubigeo": "150103",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.92126,
+     "lat": -12.02637,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "010e59dfd519",
+   "titulo": "VMT: Baipás Nueva Esperanza vuelve a inundarse tras intensas lloviznas",
+   "resumen": "El paso a desnivel de Nueva Esperanza se inundó nuevamente",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/baipas-nueva-esperanza-vuelve-a-inundarse-tras-intensas-lloviznas-en-villa-maria-del-triunfo-noticia/",
+   "fecha": "2026-11-05T04:11:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa María del Triunfo",
+     "ubigeo": "150143",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.94361,
+     "lat": -12.16248,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Nueva Esperanza",
+     "ubigeo": "030215",
+     "ccpp": "0302150010",
+     "precision": "centro_poblado",
+     "provincia": "Andahuaylas",
+     "departamento": "Apurímac",
+     "lon": -73.53355,
+     "lat": -13.65233,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "baff8b2033f1",
+   "titulo": "Máncora registra 15 viviendas afectadas por las lluvias y gestiona ayuda humanitaria",
+   "resumen": "Un total de 15 viviendas resultaron afectadas por las recientes lluvias registradas en Máncora, informó el director del Indeci Piura, Omar Ramírez. El funcionario precisó que la municipalidad distrital coordinó con el gobierno regional el recojo de bienes de ayuda humanitaria en el Centro de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-mancora-registra-15-viviendas-afectadas-las-lluvias-y-gestiona-ayuda-humanitaria-1098679.aspx",
+   "fecha": "2026-11-05T03:51:49Z",
+   "temas": [
+    "politica_local",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Máncora",
+     "ubigeo": "200706",
+     "precision": "distrito",
+     "provincia": "Talara",
+     "departamento": "Piura",
+     "lon": -81.05376,
+     "lat": -4.10702,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fa0688189290",
+   "titulo": "TC admite la demanda contra ley de pensiones para maestros",
+   "resumen": "El Tribunal Constitucional ( TC ) admitió a trámite la demanda de inconstitucionalidad presentada por el Colegio de Economistas de Lima",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/tc-admite-demanda-contra-ley-pensiones-maestros-n496069",
+   "fecha": "2026-11-05T03:34:23Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a0f16256e73a",
+   "titulo": "Tacna: Defensoría registra 700 casos de acoso y violencia en colegios de la región",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tacna/tacna-defensoria-registra-700-casos-de-acoso-y-violencia-en-colegios-de-la-region-noticia/",
+   "fecha": "2026-11-05T03:31:08Z",
+   "temas": [
+    "conflicto_social",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0113c5eab0be",
+   "titulo": "Fuerte lluvia acompañada de truenos y relámpagos se registra esta noche en Tumbes",
+   "resumen": "Lluvias de fuerte intensidad se registran esta noche en la región Tumbes, acompañada de tormentas eléctricas, truenos y relámpagos.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-fuerte-lluvia-acompanada-truenos-y-relampagos-se-registra-esta-noche-tumbes-1098678.aspx",
+   "fecha": "2026-11-05T03:22:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bd2ffad28fa8",
+   "titulo": "Maido sigue entre los mejores restaurantes del mundo: el reconocimiento que recibió en 2026 tras convertirse en el número uno de The World’s 50 Best",
+   "resumen": "El restaurante de Mitsuharu Tsumura volvió a figurar en la ceremonia internacional celebrada en Lima. Tras conseguir el primer puesto en 2025, integra el exclusivo grupo Best of the Best, reservado para antiguos ganadores",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/maido-sigue-entre-los-mejores-restaurantes-del-mundo-el-reconocimiento-que-recibio-en-2026-tras-convertirse-en-el-numero-uno-de-the-worlds-50-best/",
+   "fecha": "2026-11-05T03:15:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f53f26217cfd",
+   "titulo": "Internos habrían utilizado teléfonos públicos del penal El Milagro para realizar extorsiones",
+   "resumen": "Una investigación policial reveló que presuntos integrantes de la organización criminal La Nueva Jauría de Virú habrían utilizado los teléfonos públicos instalados en el penal El Milagro, en Trujillo, para coordinar extorsiones desde el interior del establecimiento penitenciario. Esta agrupación…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/04/internos-habrian-utilizado-telefonos-publicos-del-penal-el-milagro-para-realizar-extorsiones/",
+   "fecha": "2026-11-05T03:15:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "El Milagro",
+     "ubigeo": "130104",
+     "ccpp": "1301040004",
+     "precision": "centro_poblado",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.06665,
+     "lat": -8.02344,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Virú",
+     "ubigeo": "131200",
+     "precision": "provincia",
+     "provincia": "Virú",
+     "departamento": "La Libertad",
+     "lon": -78.75273,
+     "lat": -8.41431,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "7a16c13f8b3b",
+   "titulo": "Óscar Reto pide fortalecer articulación para atender impacto ante fenómeno El Niño",
+   "resumen": "El presidente de la Cámara de Diputados, Óscar Reto, fiscalizó en Piura las acciones de prevención y respuesta ante el fenómeno El Niño y exhortó a las autoridades de los tres niveles de gobierno a fortalecer la coordinación para atender las posibles emergencias en la región.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-oscar-reto-pide-fortalecer-articulacion-para-atender-impacto-ante-fenomeno-nino-1098630.aspx",
+   "fecha": "2026-11-05T03:08:54Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "33258c65b13b",
+   "titulo": "Mincetur impulsa competitividad exportadora de concha de abanico",
+   "resumen": "El Ministerio de Comercio Exterior y Turismo (Mincetur) impulsa acciones para fortalecer la competitividad exportadora de la cadena acuícola de concha de abanico en Piura, mediante la identificación de brechas productivas y comerciales, así como de oportunidades para mejorar su acceso a los…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-mincetur-impulsa-competitividad-exportadora-concha-abanico-1098676.aspx",
+   "fecha": "2026-11-05T03:00:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8dddb7e2ae7a",
+   "titulo": "Betssy Chávez reaparece desde México: “Estamos en una época en la que se debe de resistir”",
+   "resumen": "La sentenciada y asilada ex primera ministra de Pedro Castillo envió un mensaje por el aniversario de Puno. Desde México, Betssy Chávez aseguró que siente \"nostalgia\" y que \"es momento de resistir\".",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/04/betssy-chavez-reaparece-desde-mexico-estamos-en-una-epoca-en-la-que-se-debe-de-resistir-hnews-74904",
+   "fecha": "2026-11-05T02:59:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "5e823e3a0deb"
+  },
+  {
+   "id": "7f4e9996f2c1",
+   "titulo": "Tres restaurantes de Lima entre los 50 mejores del mundo: Kjolle, Mérito y Mayta brillan en el ranking gastronómico de 2026",
+   "resumen": "Los restaurantes dirigidos por Pía León, Juan Luis Martínez y Jaime Pesaque llevaron ingredientes de distintas regiones del país a una selección internacional que reconoce la innovación y diversidad de la cocina peruana",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/tres-restaurantes-de-lima-entre-los-50-mejores-del-mundo-kjolle-merito-y-mayta-brillan-en-el-ranking-gastronomico-de-2026/",
+   "fecha": "2026-11-05T02:54:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c206a5be2894",
+   "titulo": "Midis iniciará plan piloto contra la anemia en 19 distritos prirorizados del país",
+   "resumen": "El Ministerio de Desarrollo e Inclusión Social (Midis) coordinará un plan piloto contra la anemia en 19 distritos de Puno, Loreto, Cajamarca, Ayacucho y la periferia de Lima. La intervención atenderá a niños, niñas y gestantes, y reunirá en los mismos territorios acciones de acceso a agua potable…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-midis-iniciara-plan-piloto-contra-anemia-19-distritos-prirorizados-del-pais-1098677.aspx",
+   "fecha": "2026-11-05T02:53:21Z",
+   "temas": [
+    "salud",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a458d76d9f2b",
+   "titulo": "FBI de Estados Unidos y PNP capturan a 12 integrantes de ‘Alcaeda’: banda criminal que extorsionaba a transportistas",
+   "resumen": "Las autoridades realizaron intervenciones en Lima, Callao y otras regiones, donde capturaron a una mujer señalada como jefa de la organización, acusada también de homicidio y tenencia ilegal de armas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/fbi-de-estados-unidos-y-pnp-capturan-a-12-integrantes-de-alcaeda-banda-criminal-que-extorsionaba-a-transportistas/",
+   "fecha": "2026-11-05T02:49:33Z",
+   "temas": [
+    "seguridad",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f52b89455a19",
+   "titulo": "Tumbes soporta intensas lluvias: Senamhi advierte aumento de caudal del río",
+   "resumen": "Senamhi reportó precipitaciones intensas, descargas eléctricas y ráfagas de viento. La estación Cabo Inga registró 74,4 milímetros de lluvia en tres horas",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tumbes/fenomeno-el-nino-tumbes-soporta-intensas-lluvias-senamhi-advierte-aumento-del-caudal-del-rio-noticia/",
+   "fecha": "2026-11-05T02:46:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8cbc08f2b304",
+   "titulo": "Arequipa: conoce los 83 distritos declarados en emergencia por lluvias asociadas a El Niño",
+   "resumen": "El Ejecutivo declaró en estado de emergencia 83 de los 109 distritos de las ocho provincias de la región Arequipa, por peligro inminente ante intensas precipitaciones pluviales asociadas al fenómeno El Niño 2026-2027.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-arequipa-conoce-los-83-distritos-declarados-emergencia-lluvias-asociadas-a-nino-1098672.aspx",
+   "fecha": "2026-11-05T02:42:53Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fbff78722e2b",
+   "titulo": "Papa León XIV: Inician instalación de escenario en Sacsayhuamán",
+   "resumen": "El recinto arqueológico de Sacsayhuaman en Cusco será escenario de un encuentro con los fieles el domingo 15 de noviembre, como parte de las actividades programadas durante su visita al Perú.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/cusco/papa-leon-xiv-inician-instalacion-de-escenario-en-sacsayhuaman-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-05T02:41:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "ed49c575d4bd"
+  },
+  {
    "id": "1d8f07931190",
    "titulo": "Mark Vito sorprende con romántica propuesta de matrimonio a Leslie Echevarría: “¿Me permitirías pasar toda mi vida contigo?”",
    "resumen": "El creador estadounidense fingió grabar un video para redes sociales y, durante una visita al mirador de Tarma, se arrodilló con un anillo ante la empresaria huancaína, quien aceptó emocionada frente a las cámaras.",
@@ -120,6 +800,32 @@
      "lat": -12.07561,
      "confianza": 0.85,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "60bf82c25c40",
+   "titulo": "Alcalde de Piura pide al Gobierno brindar recursos para culminar obras pendientes en la región: \"Queremos cerrar brechas\"",
+   "resumen": "Juan Francisco Cevallos contó que el ministro de Vivienda le señaló que los recursos para terminar esas obras serán priorizadas en un segundo crédito suplementario.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/piura/piura-alcalde-pide-al-gobierno-brindar-los-recursos-para-culminar-obras-pendientes-en-la-region-noticia-1715982",
+   "fecha": "2026-11-05T02:06:20Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200100",
+     "precision": "provincia",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.6,
+     "principal": true
     }
    ]
   },
@@ -621,6 +1327,42 @@
      "lon": -79.85062,
      "lat": -6.76685,
      "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5915cc84903e",
+   "titulo": "Caja Arequipa dona mil libros a la Biblioteca Nacional",
+   "resumen": "Con el objetivo de ampliar el acceso masivo a la lectura en diversos sectores de la ciudadanía, la Biblioteca Nacional del Perú (BNP) fue escenario de la entrega formal de mil ejemplares donados por Caja Arequipa. El acto protocolar se desarrolló en la sede principal de la entidad cultural situada…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/caja-arequipa-dona-mil-libros-a-la-biblioteca-nacional/",
+   "fecha": "2026-11-05T00:40:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Caja",
+     "ubigeo": "090204",
+     "precision": "distrito",
+     "provincia": "Acobamba",
+     "departamento": "Huancavelica",
+     "lon": -74.46576,
+     "lat": -12.91735,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
      "principal": false
     }
    ]
@@ -2493,6 +3235,31 @@
    ]
   },
   {
+   "id": "b781b4380f9c",
+   "titulo": "Conocido vendedor de cachangas resulta herido tras ser atropellado",
+   "resumen": "José Luis Ochochoque, conocido por la venta de sus tradicionales cachangas, resultó herido tras ser impactado por un automóvil en la calle Guatemala, entre el grifo Neyor y el Malecón Costero de Ilo. Según información recogida en el lugar, el hombre quedó tendido sobre la pista, consciente, pero…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/conocido-vendedor-de-cachangas-resulta-herido-tras-ser-atropellado/",
+   "fecha": "2026-11-04T22:00:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "bd8ece61fa16",
    "titulo": "Gobierno proyecta dos megapenales en Huacho para 24 mil internos",
    "resumen": "El ministro de Justicia, Ernesto Álvarez, anunció la construcción de dos megapenales en Huacho para enfrentar la inseguridad ciudadana y reducir el hacinamiento penitenciario. Uno tendrá capacidad para 14 mil reos primarios y el otro para 10 mil líderes y operadores de organizaciones criminales.…",
@@ -3113,6 +3880,42 @@
      "lat": -13.16032,
      "confianza": 0.6,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9fd677bbc0d4",
+   "titulo": "Expediente de la sede judicial de Mollendo estará listo a fin de mes",
+   "resumen": "La elaboración del expediente técnico para la construcción de la nueva sede judicial en Mollendo, provincia de Islay, estará concluida el próximo 30 de noviembre, fecha establecida en el cronograma de trabajo oficial. El plazo fue anunciado durante una reciente reunión de coordinación liderada por…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/expediente-de-la-sede-judicial-de-mollendo-estara-listo-a-fin-de-mes/",
+   "fecha": "2026-11-04T21:21:09Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": false
     }
    ]
   },
@@ -5469,6 +6272,31 @@
      "lon": -76.23985,
      "lat": -9.93008,
      "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "749301230c1c",
+   "titulo": "Dos emergencias marítimas movilizan rescate de pescadores en Ilo",
+   "resumen": "Dos emergencias marítimas registradas en el litoral de Ilo pusieron en riesgo la vida de varios pescadores, luego de que sus respectivas embarcaciones sufrieran percances en el mar. En ambos casos, fue necesaria la intervención de los equipos de rescate de la Capitanía de Puerto de Ilo. PESCADORES…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/dos-emergencias-maritimas-movilizan-rescate-de-pescadores-en-ilo/",
+   "fecha": "2026-11-04T18:25:03Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
      "principal": true
     }
    ]
