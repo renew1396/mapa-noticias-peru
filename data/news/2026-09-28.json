@@ -49,6 +49,64 @@
      "principal": false
     }
    ]
+  },
+  {
+   "id": "9671fc4b22f7",
+   "titulo": "¿Cómo identificar conexiones eléctricas clandestinas y qué riesgos pueden generar?",
+   "resumen": "El hurto de energía genera un impacto significativo. Según Pluz Energía, se estiman pérdidas de S/103 millones anuales, equivalentes a 207 GWh, energía suficiente para abastecer durante un mes a distritos como San Juan de Lurigancho, Lima Cercado, San Martín de Porres, Callao y Comas.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/campanas/valor-compartido/como-identificar-conexiones-electricas-clandestinas-y-que-riesgos-pueden-generar-noticia-1709695",
+   "fecha": "2026-09-28T08:43:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan de Lurigancho",
+     "ubigeo": "150132",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.01003,
+     "lat": -12.02963,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
   }
  ]
 }
