@@ -1,0 +1,400 @@
+{
+ "fecha": "2026-11-06",
+ "noticias": [
+  {
+   "id": "3e634a48877e",
+   "titulo": "CTS: conoce en qué casos puede ser embargada o retenida",
+   "resumen": "Aunque los depósitos de la Compensación por Tiempo de Servicios (CTS) y sus intereses son intangibles e inembargables, la legislación contempla excepciones que permiten su embargo, retención o afectación en garantía bajo determinadas condiciones, informó la Cámara de Comercio de Lima (CCL).",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cts-conoce-que-casos-puede-ser-embargada-o-retenida-1098839.aspx",
+   "fecha": "2026-11-06T08:00:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a5bd00fc48f7",
+   "titulo": "Colegio Juan Pablo II de VES suspende clases presenciales por inundaciones en Lima Sur",
+   "resumen": "Las lloviznas entre el miércoles 4 y el jueves 5 de noviembre inundaron Lima Sur. El colegio Juan Pablo II de Villa El Salvador suspendió clases presenciales y pasó a virtual. La Municipalidad de Lima reportó 65 puntos de inundación.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/colegio-juan-pablo-ii-suspende-clases-inundaciones-ves",
+   "fecha": "2026-11-06T07:10:05Z",
+   "temas": [
+    "educacion",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa El Salvador",
+     "ubigeo": "150142",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.93709,
+     "lat": -12.21326,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2ab7659b3f4e",
+   "titulo": "Cae presunto integrante de “Los Herederos del Santa”",
+   "resumen": "Tenía videos y fotografías de amenazas extorsivas en sus celulares: Un presunto integrante de la organización criminal “Los Herederos del Santa”, investigada por su presunta participación en extorsiones y sicariatos en Chimbote y Nuevo Chimbote,...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/06/cae-presunto-integrante-de-los-herederos-del-santa/",
+   "fecha": "2026-11-06T06:49:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chimbote",
+     "ubigeo": "021801",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.60768,
+     "lat": -9.04169,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Nuevo Chimbote",
+     "ubigeo": "021809",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.53072,
+     "lat": -9.12851,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5213717b03b1",
+   "titulo": "Contraloría advierte deficiencias y deterioro en Puente Coishco pese a trabajos de mantenimiento de Provías",
+   "resumen": "La Contraloría General de la República advirtió deficiencias y signos de deterioro en el puente modular Coishco, ubicado en la carretera Panamericana Norte (PE-1N), pese a los trabajos de reemplazo y mantenimiento ejecutados por Provías...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/06/contraloria-advierte-deficiencias-y-deterioro-en-puente-coishco-pese-a-trabajos-de-mantenimiento-de-provias/",
+   "fecha": "2026-11-06T06:48:47Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Coishco",
+     "ubigeo": "021803",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.61615,
+     "lat": -9.02316,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Puente",
+     "ubigeo": "210112",
+     "ccpp": "2101120049",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.77395,
+     "lat": -15.88683,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3baa9cb62ef1",
+   "titulo": "Alza de GLP genera malestar a transportistas de Chimbote",
+   "resumen": "Subió a S/8 el galón: El precio del galón de gas licuado de petróleo (GLP) continúa incrementándose en los grifos de Chimbote y ha generado preocupación entre los transportistas, principalmente entre los conductores que utilizan...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/06/alza-de-glp-genera-malestar-a-transportistas-de-chimbote/",
+   "fecha": "2026-11-06T06:48:34Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chimbote",
+     "ubigeo": "021801",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.60768,
+     "lat": -9.04169,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b07bd89668e3",
+   "titulo": "FONDEPES informó que el Derecho de Uso Acuático del desembarcadero lo debe tramitar el GORE Áncash",
+   "resumen": "La visita del Ministro de la Producción Juan Carlos Requejo a nuestra ciudad ha dejado una serie de circunstancias como por ejemplo el hecho que el Desembarcadero Pesquero Artesanal, no cuenta con permiso para desembarcar...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/06/fondepes-informo-que-el-derecho-de-uso-acuatico-del-desembarcadero-lo-debe-tramitar-el-gore-ancash/",
+   "fecha": "2026-11-06T06:48:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7f251b860dec",
+   "titulo": "Vacunan contra el dengue a escolares de Nuevo Chimbote",
+   "resumen": "Buscan proteger a población: La Red de Salud Pacífico Sur continúa desarrollando jornadas de vacunación contra el dengue en instituciones educativas de Nuevo Chimbote, con el objetivo de proteger a la población escolar y prevenir...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/06/vacunan-contra-el-dengue-a-escolares-de-nuevo-chimbote/",
+   "fecha": "2026-11-06T06:48:00Z",
+   "temas": [
+    "salud",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Nuevo Chimbote",
+     "ubigeo": "021809",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.53072,
+     "lat": -9.12851,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "85364fac5e75",
+   "titulo": "Cae sujeto con 240 ketes de PBC en P.J San Pedro en Chimbote",
+   "resumen": "Intervino Grupo Terna: Un sujeto de 26 años, conocido con el alias de “Charapo”, fue detenido por efectivos del Grupo TERNA de la Policía Nacional durante un operativo realizado en el pueblo joven San Pedro,...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/06/cae-sujeto-con-240-ketes-de-pbc-en-p-j-san-pedro-en-chimbote/",
+   "fecha": "2026-11-06T06:47:30Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chimbote",
+     "ubigeo": "021801",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.60768,
+     "lat": -9.04169,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "af3d62cf72d3",
+   "titulo": "Huánuco acata paro total por falta de agua y exige planta de tratamiento y salida del OTASS",
+   "resumen": "Huánuco acató un paro total por el desabastecimiento de agua potable que afecta a la ciudad desde hace unos dos meses. Gremios y vecinos exigen la construcción de una planta de tratamiento y la salida del OTASS de Seda Huánuco.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/huanuco-paro-total-falta-agua-otass",
+   "fecha": "2026-11-06T06:10:06Z",
+   "temas": [
+    "conflicto_social",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "570bebcfee51"
+  },
+  {
+   "id": "de08d8cf4253",
+   "titulo": "CCL rechaza proyecto que regula ingreso de agua y alimentos a conciertos",
+   "resumen": "La Cámara de Comercio de Lima rechazó el Proyecto de Ley N.° 00116-2026-2031-CD que regula el ingreso de agua, alimentos y bebidas a eventos masivos, al considerar que permite el ingreso de alcohol y no precisa parámetros de hidratación.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/politica/ccl-rechaza-proyecto-agua-alimentos-conciertos",
+   "fecha": "2026-11-06T05:40:06Z",
+   "temas": [
+    "agua",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "efc1a0114c46",
+   "titulo": "‘Ruega por nosotras’: Daniel Monzón retrata los reformatorios femeninos del franquismo",
+   "resumen": "Daniel Monzón estrena ‘Ruega por nosotras’, drama carcelario sobre el Patronato de Protección a la Mujer y el reformatorio de San Fernando de Henares, activo hasta 1984.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/cultura/ruega-por-nosotras-monzon-reformatorios-franquistas",
+   "fecha": "2026-11-06T05:20:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Fernando",
+     "ubigeo": "250107",
+     "ccpp": "2501070001",
+     "precision": "centro_poblado",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.54125,
+     "lat": -8.40034,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "e75a4d9bcdd3",
+   "titulo": "La Policía incauta 248 celulares robados tras un operativo en una galería de Las Malvinas",
+   "resumen": "En el operativo policial realizado la noche de este jueves se detuvo a seis personas, incluidos dos venezolanos.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/las-malvinas-policia-incauta-248-celulares-robados-tras-un-operativo-en-una-galeria-comercial-noticia-1716232",
+   "fecha": "2026-11-06T05:10:25Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Malvinas",
+     "ubigeo": "200109",
+     "ccpp": "2001090022",
+     "precision": "centro_poblado",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.71633,
+     "lat": -5.36263,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "28bdfa4faf47"
+  },
+  {
+   "id": "010df1d7042b",
+   "titulo": "Latina lanza Alertaniño, web gratuita para medir riesgo de huaicos e inundaciones",
+   "resumen": "Latina Noticias presentó Alertaniño, plataforma gratuita que muestra el riesgo de huaicos e inundaciones por distrito con datos del Cenepred e Ingemmet. El diagnóstico nacional registra 602 distritos en riesgo alto o muy alto, entre ellos 41 de Huánuco.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/latina-alertanino-herramienta-riesgo-huaicos-inundaciones",
+   "fecha": "2026-11-06T05:10:08Z",
+   "temas": [
+    "desastres",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "12b9248853f1",
+   "titulo": "Keiko Fujimori lidera hoy firma del Pacto contra la Anemia en Palacio",
+   "resumen": "La presidenta Keiko Fujimori encabeza este miércoles la suscripción del Pacto contra la Anemia, un acuerdo multisectorial entre el Gobierno central, regiones, sector privado y sociedad civil para enfrentar la anemia infantil.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/politica/keiko-fujimori-firma-pacto-contra-anemia",
+   "fecha": "2026-11-06T05:10:07Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Palacio",
+     "ubigeo": "020104",
+     "ccpp": "0201040033",
+     "precision": "centro_poblado",
+     "provincia": "Huaraz",
+     "departamento": "Áncash",
+     "lon": -77.88274,
+     "lat": -9.7381,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  }
+ ]
+}
