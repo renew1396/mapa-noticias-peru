@@ -1,0 +1,589 @@
+{
+ "fecha": "2026-11-07",
+ "noticias": [
+  {
+   "id": "e73a93ce88df",
+   "titulo": "Suboficial PNP y campeón del Mundialito de El Porvenir muere al chocar su moto contra una cúster en Comas",
+   "resumen": "El suboficial PNP Joel André Bustamante Cano, de 33 años y campeón del Mundialito de El Porvenir, murió al chocar su moto contra una cúster en Comas.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/suboficial-pnp-campeon-mundialito-muere-comas",
+   "fecha": "2026-11-07T08:10:06Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Comas",
+     "ubigeo": "150110",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04942,
+     "lat": -11.95716,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "5dd87f3f033d",
+   "titulo": "Sunass orienta a vecinos de Lima Sur afectados por aniegos para reclamar daños",
+   "resumen": "Sunass monitorea la atención a vecinos afectados por aniegos tras lluvias en Lima Sur y los orienta para formalizar denuncias y activar la póliza de seguros de Sedapal.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/sunass-orienta-vecinos-afectados-aniegos-lima-sur",
+   "fecha": "2026-11-07T07:00:12Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1038386bda97",
+   "titulo": "Policía interviene a tres sospechosos de intentar asaltar camión repartidor",
+   "resumen": "En la Panamericana Norte: Tres personas, entre ellas un adolescente de 17 años, fueron intervenidas por agentes de la División de Investigación Criminal (Divincri) de Chimbote, tras ser sindicadas de presuntamente intentar asaltar un camión...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/07/policia-interviene-a-tres-sospechosos-de-intentar-asaltar-camion-repartidor/",
+   "fecha": "2026-11-07T06:47:45Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chimbote",
+     "ubigeo": "021801",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.60768,
+     "lat": -9.04169,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9efbf170cf03",
+   "titulo": "Protesta por falta de agua en Huánuco termina con gases lacrimógenos y dos ancianos afectados",
+   "resumen": "Una protesta por el desabastecimiento de agua potable, los elevados cobros y la presunta distribución de agua no apta para consumo humano se realizó este miércoles en Huánuco. La Policía lanzó bombas lacrimógenas frente a las instalaciones de Seda Huánuco y al menos dos adultos mayores resultaron…",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/protesta-agua-huanuco-gases-lacrimogenos-ancianos-afectados",
+   "fecha": "2026-11-07T06:40:07Z",
+   "temas": [
+    "agua",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "f2ed25705fc3"
+  },
+  {
+   "id": "9b6908517308",
+   "titulo": "Hospital Regional reporta 21 pacientes hospitalizados por dengue",
+   "resumen": "Aumentan los casos: El Hospital Regional Eleazar Guzmán Barrón de Nuevo Chimbote registra actualmente 21 pacientes hospitalizados por dengue, situación que mantiene en alerta a los servicios de salud y ha motivado el fortalecimiento de...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/07/hospital-regional-reporta-21-pacientes-hospitalizados-por-dengue/",
+   "fecha": "2026-11-07T06:39:43Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Eleazar Guzmán Barrón",
+     "ubigeo": "021303",
+     "precision": "distrito",
+     "provincia": "Mariscal Luzuriaga",
+     "departamento": "Áncash",
+     "lon": -77.24383,
+     "lat": -8.90226,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Nuevo Chimbote",
+     "ubigeo": "021809",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.53072,
+     "lat": -9.12851,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1c820fecfa84",
+   "titulo": "Bebé de 13 días permanece hospitalizada por dengue",
+   "resumen": "Su evolución es favorable: Una recién nacida de apenas 13 días de vida permanece hospitalizada en el Hospital Regional Eleazar Guzmán Barrón de Nuevo Chimbote, luego de ser diagnosticada con dengue. Pese a su corta...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/07/bebe-de-13-dias-permanece-hospitalizada-por-dengue/",
+   "fecha": "2026-11-07T06:39:28Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Eleazar Guzmán Barrón",
+     "ubigeo": "021303",
+     "precision": "distrito",
+     "provincia": "Mariscal Luzuriaga",
+     "departamento": "Áncash",
+     "lon": -77.24383,
+     "lat": -8.90226,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Nuevo Chimbote",
+     "ubigeo": "021809",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.53072,
+     "lat": -9.12851,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "63ba61ec0ac5",
+   "titulo": "Mujer con aneurisma espera traslado a hospital de Lima",
+   "resumen": "Familia pide ayuda urgente: Momentos de angustia vive una familia que pide ayuda urgente para conseguir el traslado de una mujer de 56 años, diagnosticada con un aneurisma, quien permanece internada en el área de...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/07/mujer-con-aneurisma-espera-traslado-a-hospital-de-lima/",
+   "fecha": "2026-11-07T06:39:13Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5c8997d4fc51",
+   "titulo": "Intervienen a adolescente de 17 años cerca del mercado San Pedro",
+   "resumen": "Tenía tres cartuchos de explosivos: Un adolescente de 17 años fue intervenido por agentes del Grupo Terna de Chimbote, luego de ser sorprendido presuntamente portando tres cartuchos de material explosivo en inmediaciones del mercado San...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/07/intervienen-a-adolescente-de-17-anos-cerca-del-mercado-san-pedro/",
+   "fecha": "2026-11-07T06:35:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chimbote",
+     "ubigeo": "021801",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.60768,
+     "lat": -9.04169,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e84ad3c4493f",
+   "titulo": "Convenio permitirá culminar construcción del Coliseo Cerrado Gran Chavín",
+   "resumen": "Registra un avance de 45%: La Subregión Pacífico asumirá el financiamiento y la ejecución del saldo de obra de la infraestructura deportiva, que registra un avance físico del 45 %. El recinto tendrá capacidad para...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/07/convenio-permitira-culminar-construccion-del-coliseo-cerrado-gran-chavin/",
+   "fecha": "2026-11-07T06:30:48Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chavín",
+     "ubigeo": "110203",
+     "precision": "distrito",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -75.91301,
+     "lat": -13.07635,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b6835f24a4ce",
+   "titulo": "Perú: se registró un sismo de magnitud 4.3 en Panao",
+   "resumen": "Perú se encuentra en la placa tectónica sudamericana que colisiona frontalmente con la placa de Nazca",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/07/peru-se-registro-un-sismo-de-magnitud-43-en-panao/",
+   "fecha": "2026-11-07T06:01:19Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Panao",
+     "ubigeo": "100801",
+     "precision": "distrito",
+     "provincia": "Pachitea",
+     "departamento": "Huánuco",
+     "lon": -75.9941,
+     "lat": -9.89738,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110301",
+     "precision": "distrito",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "421bda65e2ce",
+   "titulo": "Operativo en Tambopata halla 20 dragas y 18 campamentos de minería ilegal",
+   "resumen": "Un operativo conjunto de la FEMA y la Marina de Guerra del Perú halló 20 dragas y al menos 18 campamentos mineros en casi 20 kilómetros de la Reserva Nacional Tambopata, en Madre de Dios. El fiscal Frank Almanza sostuvo que la minería ilegal lejos de disminuir está en aumento.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/tambopata-operativo-dragas-campamentos-mineria-ilegal",
+   "fecha": "2026-11-07T05:50:05Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tambopata",
+     "ubigeo": "170100",
+     "precision": "provincia",
+     "provincia": "Tambopata",
+     "departamento": "Madre de Dios",
+     "lon": -69.1768,
+     "lat": -12.59367,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Madre de Dios",
+     "lon": -69.1768,
+     "lat": -12.59367,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8ef881abee15",
+   "titulo": "Expovida Huánuco 2026 reunirá a 40 organizaciones y emprendimientos",
+   "resumen": "Expovida Huánuco 2026 reunirá a 40 organizaciones de productores y emprendimientos del 12 al 15 de noviembre en la Plaza de Armas de Huánuco. La feria incluye degustaciones, cóctel empresarial y una subasta de cafés especiales, impulsada por Devida.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/expovida-huanuco-2026-40-organizaciones",
+   "fecha": "2026-11-07T05:40:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6fd5146b5551",
+   "titulo": "ANA limpia ríos y quebradas en seis regiones ante El Niño con S/ 179 millones",
+   "resumen": "La Autoridad Nacional del Agua ejecuta trabajos de limpieza y descolmatación en seis regiones del país con un presupuesto cercano a S/ 179 millones. Hasta ahora retiró 2.64 millones de metros cúbicos de material y destinó más de S/ 50 millones a barreras dinámicas en Lima y Huarochirí.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/sociedad/ana-limpieza-rios-quebradas-fenomeno-nino-179-millones",
+   "fecha": "2026-11-07T05:20:05Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huarochirí",
+     "ubigeo": "150700",
+     "precision": "provincia",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.38615,
+     "lat": -11.84493,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "252ae3efa17c",
+   "titulo": "Comunidades indígenas de Andoas exigen culminación de centro de salud paralizado desde hace más de dos años",
+   "resumen": "Las comunidades indígenas del distrito de Andoas, en la provincia de Datem del Marañón, realizaron una movilización pacífica para exigir la culminación del módulo de contingencia del establecimiento de salud de Nueva Andoas, cuya construcción permanece inconclusa desde hace más de dos años. Los…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/comunidades-indigenas-de-andoas-exigen-culminacion-de-centro-de-salud-paralizado-desde-hace-mas-de-dos-anos/",
+   "fecha": "2026-11-07T05:20:00Z",
+   "temas": [
+    "salud",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Andoas",
+     "ubigeo": "160706",
+     "precision": "distrito",
+     "provincia": "Datem del Marañón",
+     "departamento": "Loreto",
+     "lon": -76.43373,
+     "lat": -3.47553,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Datem del Marañón",
+     "ubigeo": "160700",
+     "precision": "provincia",
+     "provincia": "Datem del Marañón",
+     "departamento": "Loreto",
+     "lon": -76.55492,
+     "lat": -4.83111,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "78e906a18921",
+   "titulo": "Defensoría del Pueblo advierte deficiencias en nuevo hospital de Iquitos que impedirían un correcto funcionamiento",
+   "resumen": "La Defensoría del Pueblo en Loreto advirtió que la nueva infraestructura del Hospital de Apoyo Iquitos “César Garayar García”, presenta deficiencias que deben ser subsanadas antes de su puesta en funcionamiento, principalmente la falta de abastecimiento de agua, un sistema contra incendios que aún…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/defensoria-del-pueblo-advierte-deficiencias-en-nuevo-hospital-de-iquitos-que-impedirian-un-correcto-funcionamiento/",
+   "fecha": "2026-11-07T05:18:00Z",
+   "temas": [
+    "conflicto_social",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "085d4cb7fd07",
+   "titulo": "Iglesia la nueva Emaús vuelve a ser blanco de pintas vandálicas",
+   "resumen": "Un nuevo ataque contra la infraestructura de un templo religioso ha generado indignación entre los integrantes de la iglesia La Nueva Emaús, ubicada en la intersección de las calles Cahuide y jirón Pebas, en el distrito de Iquitos. Esta vez, las paredes del recinto fueron cubiertas con pintas de…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/iglesia-la-nueva-emaus-vuelve-a-ser-blanco-de-pintas-vandalicas/",
+   "fecha": "2026-11-07T05:17:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ffec3af8cfda",
+   "titulo": "Vecino denuncia presunto tráfico de terrenos y represalias de dirigentes en asentamiento humano Villa San José",
+   "resumen": "Un poblador identificado como Josué Cárdenas denunció públicamente a los dirigentes del asentamiento humano Villa San José, ubicado en el kilómetro 4 de la carretera hacia el balneario de Santo Tomás, en el distrito de San Juan Bautista, por un presunto caso de tráfico de terrenos. El denunciante…",
+   "medio": "Diario La Región",
+   "medio_id": "laregion",
+   "url": "https://diariolaregion.com/vecino-denuncia-presunto-trafico-de-terrenos-y-represalias-de-dirigentes-en-asentamiento-humano-villa-san-jose/",
+   "fecha": "2026-11-07T05:17:00Z",
+   "temas": [
+    "conflicto_social",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santo Tomas",
+     "ubigeo": "160113",
+     "ccpp": "1601130015",
+     "precision": "centro_poblado",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.34066,
+     "lat": -3.80507,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "San Juan Bautista",
+     "ubigeo": "160113",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.28029,
+     "lat": -3.77025,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "97fd23ff4807",
+   "titulo": "Huaico en carretera Federico Basadre retrasa materiales para escenario papal en Pucallpa",
+   "resumen": "Un huaico en la carretera Federico Basadre dificultó el traslado de materiales para el escenario del encuentro del papa León XIV con pueblos indígenas en Pucallpa, previsto para el 15 de noviembre. El Vicariato evalúa usar vuelos extraordinarios para completar el montaje.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/huaico-retrasa-materiales-escenario-papal-pucallpa",
+   "fecha": "2026-11-07T05:10:12Z",
+   "temas": [
+    "infraestructura",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "71181bda85ef",
+   "titulo": "Huánuco supera los 1.358 casos de dengue tras muerte de niña en Tingo María",
+   "resumen": "Huánuco registra 1.358 casos de dengue tras la muerte de una niña de siete años en Tingo María. El Hospital de Tingo María atiende a 16 pacientes confirmados y habilita un área para casos graves. El Sernanp informó que las reservas Allpahuayo Mishana y Pacaya Samiria no presentan minería ilegal.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/huanuco-1358-casos-dengue-muerte-nina-tingo-maria",
+   "fecha": "2026-11-07T05:00:12Z",
+   "temas": [
+    "salud",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rupa-Rupa",
+     "ubigeo": "100601",
+     "precision": "distrito",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.00056,
+     "lat": -9.29799,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  }
+ ]
+}
