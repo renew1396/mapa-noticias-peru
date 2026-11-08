@@ -554,6 +554,32 @@
    ]
   },
   {
+   "id": "d1c5ffd9b123",
+   "titulo": "UGEL y Defensoría del Pueblo lanzan campaña contra la violencia hacia escolares en Ilo",
+   "resumen": "Ante el incremento de casos de violencia contra niñas, niños y adolescentes, la Unidad de Gestión Educativa Local (UGEL) Ilo y la Oficina Defensorial de Ilo lanzaron la campaña “Mi cuerpo se respeta, mi infancia se defiende”, dirigida a estudiantes de instituciones educativas de la provincia. El…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/ugel-y-defensoria-del-pueblo-lanzan-campana-contra-la-violencia-hacia-escolares-en-ilo/",
+   "fecha": "2026-11-08T01:13:58Z",
+   "temas": [
+    "educacion",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "93a48fa010d7",
    "titulo": "Agencia Andina participa en Cumbre Mundial de Medios de Comunicación",
    "resumen": "La Agencia Peruana de Noticias Andina participó en la VII Cumbre Mundial de Medios de Comunicación realizada en Beijing, China, donde participaron más de 500 representantes de diversos medios de comunicación del mundo, centros de estudios y departamentos gubernamentales, de 112 países.",
@@ -809,6 +835,31 @@
      "lon": -69.23503,
      "lat": -11.65636,
      "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c857ecdd7d07",
+   "titulo": "Adultos mayores de Samegua reciben lentes para recuperar el hábito de la lectura",
+   "resumen": "Adultos mayores del distrito de Samegua recibieron lentes para mejorar su visión cercana y retomar actividades cotidianas como la lectura, el tejido y la artesanía, durante la feria Perú Incluye, organizada por el Ministerio de Desarrollo e Inclusión Social (Midis). La entrega se realizó mediante…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/adultos-mayores-de-samegua-reciben-lentes-para-recuperar-el-habito-de-la-lectura/",
+   "fecha": "2026-11-08T00:30:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Samegua",
+     "ubigeo": "180104",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.90025,
+     "lat": -17.18218,
+     "confianza": 0.9,
      "principal": true
     }
    ]
