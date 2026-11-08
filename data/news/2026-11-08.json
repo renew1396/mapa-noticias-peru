@@ -1,0 +1,74 @@
+{
+ "fecha": "2026-11-08",
+ "noticias": [
+  {
+   "id": "fa8d1a2fa30d",
+   "titulo": "Pacto contra la Anemia se aplicará en 19 distritos de cinco regiones",
+   "resumen": "El Gobierno firmó el Pacto Multisectorial para Prevenir y Reducir la Anemia Materno-Infantil, que se implementará en 19 distritos de Cajamarca, Ayacucho, Lima, Loreto y Puno. La estrategia prioriza a 59 855 niños menores de 12 meses y 19 609 gestantes, con 62 proyectos de infraestructura por más…",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/sociedad/pacto-contra-anemia-19-distritos-cinco-regiones",
+   "fecha": "2026-11-08T05:10:11Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  }
+ ]
+}

@@ -2455,6 +2455,53 @@
    ]
   },
   {
+   "id": "3fd7a34eea73",
+   "titulo": "Lo encontraron aún con vida: registran varamiento de ballena de aleta en el litoral de Islay",
+   "resumen": "Foto: Imarpe El Instituto del Mar del Perú (Imarpe), a través de su sede desconcentrada en Camaná, informó sobre el varamiento de un ejemplar vivo de ballena en la costa de Islay, en el departamento de Arequipa. Se trata de una ballena de aleta (Balaenoptera physalus), la cual es monitoreada por…",
+   "medio": "Actualidad Ambiental",
+   "medio_id": "actualidadambiental",
+   "url": "https://www.actualidadambiental.pe/lo-encontraron-aun-con-vida-registran-varamiento-de-ballena-de-aleta-en-el-litoral-de-islay/",
+   "fecha": "2026-10-28T23:08:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Camaná",
+     "ubigeo": "040200",
+     "precision": "provincia",
+     "provincia": "Camaná",
+     "departamento": "Arequipa",
+     "lon": -72.71149,
+     "lat": -16.62466,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "79b668610d4a",
    "titulo": "Surquillo: familia busca a hombre de 63 años con epilepsia",
    "resumen": "Rotafono de RPP | La última vez que lo vieron, Juan vestía una casaca color verde oscuro, jean color azul, zapatillas color gris y gorra azul oscura.",
@@ -3196,6 +3243,43 @@
      "principal": true
     }
    ]
+  },
+  {
+   "id": "898dd9672b7e",
+   "titulo": "Descubren nueva especie de orquídea en los bosques nublados del norte peruano",
+   "resumen": "Fotos: Serfor Un equipo de investigadores de la Universidad Nacional Pedro Ruiz Gallo (Chiclayo), el Servicio Nacional Forestal y de Fauna Silvestre (Serfor), la Universidad de Cambridge y la Universidad Nacional Toribio Rodríguez de Mendoza (Amazonas) descubrió una nueva especie de orquídea en…",
+   "medio": "Actualidad Ambiental",
+   "medio_id": "actualidadambiental",
+   "url": "https://www.actualidadambiental.pe/descubren-nueva-especie-de-orquidea-en-los-bosques-nublados-del-norte-peruano/",
+   "fecha": "2026-10-28T21:57:04Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Amazonas",
+     "ubigeo": "010000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Amazonas",
+     "lon": -77.87281,
+     "lat": -6.22955,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
   },
   {
    "id": "898dd9672b7e",

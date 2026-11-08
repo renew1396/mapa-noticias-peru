@@ -1137,6 +1137,54 @@
    ]
   },
   {
+   "id": "b75b8398daef",
+   "titulo": "IGP entrega información de riesgo volcánico en Moquegua y Tacna",
+   "resumen": "El Instituto Geofísico del Perú (IGP), acercó información científica a las autoridades y representantes de Moquegua y Tacna, mediante jornadas de intercambio de conocimientos y la entrega de seis estudios científicos (mapas de peligros) de los volcanes Ubinas, Ticsani, Purupuruni, Casiri, Tutupaca…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287768/igp-entrega-informacion-de-riesgo-volcanico-en-moquegua-y-tacna/",
+   "fecha": "2026-11-07T01:10:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Ubinas",
+     "ubigeo": "180210",
+     "precision": "distrito",
+     "provincia": "General Sánchez Cerro",
+     "departamento": "Moquegua",
+     "lon": -70.85567,
+     "lat": -16.38653,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
    "id": "62d9f1ee9898",
    "titulo": "Puno: Grupo parlamentario de Juntos por el Perú recogen demandas y necesidades en audiencia pública",
    "resumen": "El evento contó además con la participación de Roberto Sánchez, quien sumó su voz a los debates y aprovechó el espacio para sentar postura sobre la coyuntura política nacional",
