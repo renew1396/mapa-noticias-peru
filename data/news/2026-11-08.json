@@ -2,6 +2,813 @@
  "fecha": "2026-11-08",
  "noticias": [
   {
+   "id": "eb1ca89b7ec4",
+   "titulo": "Lima prepara operativo de seguridad y logística para recibir al papa León XIV",
+   "resumen": "Lima intensifica preparativos para recibir al papa León XIV con un amplio despliegue de seguridad y un megaescenario en la Base Aérea de Las Palmas.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/lima-prepara-operativo-de-seguridad-y-logistica-para-recibir-al-papa-leon-xiv-noticia/",
+   "fecha": "2026-11-09T02:34:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "150502",
+     "ccpp": "1505020016",
+     "precision": "centro_poblado",
+     "provincia": "Cañete",
+     "departamento": "Lima",
+     "lon": -76.58043,
+     "lat": -12.77613,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c4f7be5656da",
+   "titulo": "Puno: Cuatro muertos en racha de accidentes en carreteras de la región",
+   "resumen": "En distintas carreteras de la región Puno se registraron varios accidentes de tránsito que dejaron un saldo de cuatro personas fallecidas.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/puno/puno-cuatro-muertos-en-racha-de-accidentes-en-carreteras-de-la-region-noticia/",
+   "fecha": "2026-11-09T02:24:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7433476accf4",
+   "titulo": "Venezolano expulsado de Perú tras retar a Migraciones aparece en Bolivia y suplica volver: “No puedo estar lejos de mi hijo”",
+   "resumen": "El extranjero fue localizado en una finca de Ica tras viralizar un mensaje de desafío contra los operativos de control migratorio en el país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/08/venezolano-expulsado-de-peru-tras-retar-a-migraciones-aparece-en-bolivia-y-suplica-volver-me-arrepiento-fue-una-broma/",
+   "fecha": "2026-11-09T01:42:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ea22d5f98972",
+   "titulo": "Municipalidad de Lima promueve reapertura del estadio de San Marcos tras clausura temporal",
+   "resumen": "La Municipalidad Metropolitana de Lima, a través de la Gerencia de Fiscalización y Control, dispuso la clausura temporal del estadio de la Universidad Nacional Mayor de San Marcos (UNMSM), tras identificar incumplimientos de las disposiciones municipales durante un reciente concierto.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-municipalidad-lima-promueve-reapertura-del-estadio-san-marcos-tras-clausura-temporal-1099129.aspx",
+   "fecha": "2026-11-09T01:25:34Z",
+   "temas": [
+    "politica_local",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "2f391734e87a"
+  },
+  {
+   "id": "a717be110f82",
+   "titulo": "Papa León XIV: Mural en su honor refleja también la identidad del Callao",
+   "resumen": "Juan Aurelio Arévalo Miró Quesada, director periodístico de El Comercio, destacó que el mural inaugurado en homenaje al papa León XIV en el Callao refleja también la identidad del primer puerto peruano.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-mural-en-su-honor-refleja-tambien-la-identidad-del-callao-juan-arevalo-miro-quesada-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-09T01:17:14Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dc2ffb922123",
+   "titulo": "Acribillan de varios disparos a chofer de la Línea A2 Chorrillos - San Juan de Miraflores: Sicarios se grabaron cometiendo el terrible atentado",
+   "resumen": "Ismael Yanez sería el nombre del conductor atacado mientras conducía una combi de la línea A2 en Pamplona Alta, San Juan de Miraflores. Los agresores, que se movilizaban en una motocicleta, grabaron el atentado y huyeron después de disparar contra el conductor",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/acribillan-de-varios-disparos-a-chofer-de-la-linea-a2-chorrillos-san-juan-de-miraflores-sicarios-se-grabaron-cometiendo-el-terrible-atentado/",
+   "fecha": "2026-11-09T01:01:24Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan de Miraflores",
+     "ubigeo": "150133",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.96371,
+     "lat": -12.16349,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Chorrillos",
+     "ubigeo": "150108",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.01647,
+     "lat": -12.1769,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "35b94c167aa7",
+   "titulo": "Pucallpa ultima preparativos para la visita del papa León XIV",
+   "resumen": "El papa León XIV visitará Pucallpa el domingo 15 de noviembre, en la última escala de su gira por Perú. Un deslizamiento en la carretera Federico Basadre retrasó el montaje del escenario para el encuentro con pueblos indígenas.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/politica/papa-leon-xiv-pucallpa-visita-preparativos",
+   "fecha": "2026-11-09T01:00:12Z",
+   "temas": [
+    "infraestructura",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5896c7c7a381",
+   "titulo": "Puno: Motociclista muere tras choque frontal con camión",
+   "resumen": "Un hombre falleció tras el choque frontal entre una motocicleta y un camión ocurrido la tarde de este domingo en el kilómetro 26+500 de la carretera Puno-Laraqueri. El accidente se registró aproximadamente a las 16:50 horas. La víctima sería Elisbán Pilco, natural de la ciudad de Juliaca. Personal…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/08/puno-motociclista-muere-tras-choque-frontal-con-camion/",
+   "fecha": "2026-11-09T01:00:02Z",
+   "temas": [
+    "transporte",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6fe651753fe2",
+   "titulo": "Camilo llega a Perú con Evaluna y sus hijas: el queso helado que quiere probar y una deuda de gratitud de 18 años con el público peruano",
+   "resumen": "El cantante colombiano aterrizó en Arequipa entre la euforia de sus seguidores como parte de su gira 'Para Cuando Sean Mayores Tour'.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/camilo-llega-a-peru-con-evaluna-y-sus-hijas-el-queso-helado-que-quiere-probar-y-una-deuda-de-gratitud-de-18-anos-con-el-publico-peruano/",
+   "fecha": "2026-11-09T00:58:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "307683964364",
+   "titulo": "Keiko Fujimori a tres días de la llegada del papa León XIV: “Perú está muy ilusionado de este regalo maravilloso”",
+   "resumen": "La mandataria destacó el entusiasmo de los fieles peruanos ante el regreso del pontífice, quien ejerció como obispo de Chiclayo antes de su elección",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/keiko-fujimori-a-tres-dias-de-la-llegada-del-papa-leon-xiv-peru-esta-muy-ilusionado-de-este-regalo-maravilloso/",
+   "fecha": "2026-11-09T00:57:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "904cae4879a4",
+   "titulo": "Senamhi alerta sobre lluvias de fuerte a extrema intensidad en la costa norte",
+   "resumen": "El Servicio Nacional de Meteorología e Hidrología (Senamhi) advirtió sobre lluvias de fuerte a extrema intensidad, principalmente en Tumbes, y de moderada a fuerte intensidad en la costa interior de Piura.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/senamhi-alerta-sobre-lluvias-de-fuerte-a-extrema-intensidad-en-la-costa-norte-noticia/",
+   "fecha": "2026-11-09T00:50:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c6099108b5df",
+   "titulo": "Fiscalía investiga presunto feminicidio y violencia sexual tras muerte de joven en San Martín de Porres",
+   "resumen": "El Ministerio Público investiga la muerte de Yástelin Torres Común, de 20 años, como un presunto caso de feminicidio y violencia sexual. La joven fue encontrada sin vida en una chacra de Chuquitanta, en San Martín de Porres. Por este caso, un hombre de 27 años fue detenido como principal sospechoso.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/fiscalia-investiga-presunto-feminicidio-y-violencia-sexual-tras-muerte-de-joven-en-san-martin-de-porres-noticia/",
+   "fecha": "2026-11-09T00:46:46Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8192d8c6910e",
+   "titulo": "Villa María del Triunfo: casa de una familia a punto de caerse tras derrumbe de pirca por intensas lluvias [VIDEO]",
+   "resumen": "Rotafono de RPP | Las fuertes lluvias causadas por el Fenómeno El Niño hicieron que las piedras de una pirca en Villa María del Triunfo se cayeran y parte de la vivienda de una ciudadana colapse.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/rotafono/emergencias/villa-maria-del-triunfo-casa-de-una-familia-a-punto-de-caerse-tras-derrumbe-de-pirca-por-intensas-lluvias-fenomeno-el-nino-video-noticia-1716714",
+   "fecha": "2026-11-09T00:34:48Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa María del Triunfo",
+     "ubigeo": "150143",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.94361,
+     "lat": -12.16248,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e21799c329fc",
+   "titulo": "Pucallpa se alista para recibir al Papa León XIV: los preparativos en la Amazonía peruana",
+   "resumen": "El itinerario contempla un diálogo con delegaciones Shipibo-Konibo, Asháninka y Kukama en Yarinacocha y una misa multitudinaria con cerca de 50 mil fieles en la Villa Deportiva Regional",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/pucallpa-se-alista-para-recibir-al-papa-leon-xiv-los-preparativos-en-la-amazonia-peruana/",
+   "fecha": "2026-11-09T00:24:16Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Yarinacocha",
+     "ubigeo": "250105",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.57573,
+     "lat": -8.35549,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "9d668544dff8",
+   "titulo": "Tumbes: instalan tres albergues para atender a familias que resulten damnificadas por el fenómeno de El Niño",
+   "resumen": "La instalación de los albergues (dos en la provincia de Zarumilla y uno en la provincia de Tumbes) estuvo a cargo de efectivos de la Primera Brigada de Infantería del Ejército del Perú.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/tumbes-instalan-tres-albergues-para-atender-a-familias-que-resulten-damnificadas-por-el-fenomeno-de-el-nino-noticia-1716713",
+   "fecha": "2026-11-09T00:16:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240100",
+     "precision": "provincia",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Zarumilla",
+     "ubigeo": "240300",
+     "precision": "provincia",
+     "provincia": "Zarumilla",
+     "departamento": "Tumbes",
+     "lon": -80.27556,
+     "lat": -3.50121,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ca49dc21a381",
+   "titulo": "Puno: vecinos atan en un poste a hombre acusado de una presunta estafa por venta de terrenos [VIDEO]",
+   "resumen": "Los policías tuvieron que dispersar a la población para trasladar al presunto estafador a una comisaría local.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/puno/puno-vecinos-atan-en-un-poste-a-hombre-acusado-de-una-presunta-estafa-por-venta-de-terrenos-noticia-1716707",
+   "fecha": "2026-11-09T00:15:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4cffd076b305",
+   "titulo": "Delincuentes roban joyas y artesanías valorizadas en más de medio millón de soles en pleno parque Kennedy de Miraflores",
+   "resumen": "Los ladrones utilizaron un parapeto de madera para ocultar sus movimientos y tuvieron tiempo de desmontar los exhibidores y seleccionar las piezas más costosas del establecimiento",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/delincuentes-roban-joyas-y-artesanias-valorizadas-en-mas-de-medio-millon-de-soles-en-pleno-parque-kennedy-de-miraflores/",
+   "fecha": "2026-11-09T00:14:48Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "150122",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02918,
+     "lat": -12.1218,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "dae9421c696e",
+   "titulo": "Pimentel se prepara para recibir al Papa León XIV: así será el escenario de su misa multitudinaria",
+   "resumen": "La explanada de 81 hectáreas contará con 17 pantallas gigantes, 27 macrolotes, cinco rutas de evacuación, mil servicios sanitarios y 15 puntos de auxilio médico para la misa multitudinaria en Lambayeque",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/08/pimentel-se-prepara-para-recibir-al-papa-leon-xiv-asi-sera-el-escenario-de-su-misa-multitudinaria/",
+   "fecha": "2026-11-08T23:55:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pimentel",
+     "ubigeo": "140112",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.93573,
+     "lat": -6.8354,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0e774d61bf6d",
+   "titulo": "Crean observatorio de seguridad vial en La Libertad",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/crean-observatorio-de-seguridad-vial-en-la-libertad-trujillo-peru-noticia/",
+   "fecha": "2026-11-08T23:52:54Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4691c38e0e58",
+   "titulo": "Essalud despliega operativo médico en el Cusco ante próxima visita del papa León XIV",
+   "resumen": "Ante la próxima llegada del papa León XIV a la Ciudad Imperial, el Seguro Social de Salud (Essalud), a través de su Red Asistencial Cusco, alista un operativo especial de respuesta sanitaria que contempla ambulancias equipadas, personal médico especializado y puntos estratégicos de atención para…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/cusco/papa-leon-xiv-essalud-despliega-operativo-medico-en-el-cusco-ante-proxima-visita-del-pontifice-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-08T23:42:57Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Imperial",
+     "ubigeo": "150507",
+     "precision": "distrito",
+     "provincia": "Cañete",
+     "departamento": "Lima",
+     "lon": -76.35272,
+     "lat": -13.06069,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7da53143a945",
+   "titulo": "Puente Piedra: menor de 13 años desaparece con un joven de 18 años tras salir tras salir del colegio",
+   "resumen": "Rotafono de RPP | Adolescente se fue con un chico mayor de edad, quien tenía medidas restrictivas y no podía acercarse a ella, pero no hizo caso y la menor desapareció el último viernes en Puente Piedra.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/rotafono/servicios-a-la-comunidad/puente-piedra-menor-de-13-anos-desaparece-con-un-joven-de-18-anos-tras-salir-tras-salir-del-colegio-noticia-1716705",
+   "fecha": "2026-11-08T23:32:08Z",
+   "temas": [
+    "infraestructura",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puente Piedra",
+     "ubigeo": "150125",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.07702,
+     "lat": -11.86669,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7f4357179b07",
+   "titulo": "Municipalidad de Lima clausura temporalmente el Estadio San Marcos por fallas de seguridad",
+   "resumen": "La Municipalidad de Lima clausuró de forma temporal el Estadio San Marcos mediante el Acta de Clausura Temporal n.° 0002336, tras detectar incumplimientos en seguridad y control de accesos durante un concierto. La medida afecta eventos deportivos y no deportivos, incluidos los conciertos previstos…",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/clausura-temporal-estadio-san-marcos-fallas-seguridad",
+   "fecha": "2026-11-08T23:30:10Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "2f391734e87a"
+  },
+  {
+   "id": "33c3df636945",
+   "titulo": "Municipalidad de Lima clausura estadio de San Marcos por incumplimientos de medidas de seguridad",
+   "resumen": "La Municipalidad de Lima clausuró temporalmente este domingo 8 de noviembre el estadio de la Universidad Nacional Mayor de San Marcos (UNMSM) para la realización de eventos deportivos y no deportivos, un día después del concierto que brindaron Juan Luis Guerra y Carlos Vives.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/municipalidad-de-lima-clausura-estadio-de-san-marcos-por-incumplimientos-de-medidas-de-seguridad-ultimas-noticia/",
+   "fecha": "2026-11-08T23:28:16Z",
+   "temas": [
+    "politica_local",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "ce97b382d02a"
+  },
+  {
+   "id": "815fd44caa99",
+   "titulo": "Dos regidoras menores de 35 años serían alcaldesas de La Esperanza y Victor Larco Herrera en Trujillo",
+   "resumen": "Ambas candidatas asumirán por primera vez la conducción de una municipalidad, pese a tener trayectorias profesionales distintas: una en el sector agroindustrial y la otra con experiencia en la gestión municipal y el ámbito artístico.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/08/dos-regidoras-menores-de-35-anos-serian-alcaldesas-de-la-esperanza-y-victor-larco-herrera-en-trujillo-hnews-465432",
+   "fecha": "2026-11-08T23:19:58Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Esperanza",
+     "ubigeo": "130105",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.0518,
+     "lat": -8.05617,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Víctor Larco Herrera",
+     "ubigeo": "130111",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.04334,
+     "lat": -8.13643,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b9f977d44cdf",
+   "titulo": "Cancillería: Perú presenta oportunidades de comercio e inversión en seminario en Lisboa",
+   "resumen": "La Embajada del Perú en Portugal llevó a cabo un seminario sobre oportunidades de negocios e inversiones en el país, con el apoyo de la Agencia Portuguesa para la Inversión y el Comercio Exterior (AICEP) y del Instituto para la Promoción de América Latina y el Caribe (IPDAL).",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cancilleria-peru-presenta-oportunidades-comercio-e-inversion-seminario-lisboa-1099127.aspx",
+   "fecha": "2026-11-08T23:16:25Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lisboa",
+     "ubigeo": "160301",
+     "ccpp": "1603010037",
+     "precision": "centro_poblado",
+     "provincia": "Loreto",
+     "departamento": "Loreto",
+     "lon": -74.12216,
+     "lat": -4.48694,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b16dbb1e76dd",
+   "titulo": "Puno: Rescatan a presunto estafador amarrado a un poste en medio de gases lacrimógenos",
+   "resumen": "Según la víctima, este sujeto operaría en complicidad de familiares y otras personas, por ello, exigen a los policías y al fiscal investigar el hecho.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/puno/puno-rescatan-a-presunto-estafador-amarrado-a-un-poste-en-medio-de-gases-lacrimogenos-noticia/",
+   "fecha": "2026-11-08T23:08:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dafcf61ab381",
+   "titulo": "Arte de todo el Perú se une en Chiclayo para rendir homenaje al papa León XIV",
+   "resumen": "El talento artístico de diversas regiones del Perú se une en la ciudad capital de Lambayeque, para rendir homenaje al papa León XIV, con la inauguración del Primer Salón Nacional de Artes Plásticas “Celebremos la Fe y la Amistad en Chiclayo”, una exposición que reúne pinturas y expresiones…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-arte-todo-peru-se-une-chiclayo-para-rendir-homenaje-al-papa-leon-xiv-1099128.aspx",
+   "fecha": "2026-11-08T23:02:24Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "95c80eb06ea7",
    "titulo": "Clausura del Estadio San Marcos sin fecha de reapertura: The Strokes, Agua Marina, Maná y Robbie Williams, los conciertos en riesgo",
    "resumen": "La Municipalidad de Lima cerró el recinto tras detectar fallas en el control de accesos y exceso de ruido durante un espectáculo. La incertidumbre se extiende a toda la agenda de noviembre y diciembre.",
@@ -977,6 +1784,32 @@
    ]
   },
   {
+   "id": "1f4f89f6aa99",
+   "titulo": "Clima en Ayacucho: probabilidad de lluvia y temperaturas de mañana",
+   "resumen": "La ciudad andina se caracteriza por un clima seco con variaciones dependiendo de la estación del año",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/08/clima-en-ayacucho-probabilidad-de-lluvia-y-temperaturas-de-manana/",
+   "fecha": "2026-11-08T20:15:53Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "d66dde1c111e"
+  },
+  {
    "id": "e2f434609c85",
    "titulo": "Dueño de Clamore va por escuela de pastelería y un ‘campus gastronómico’ propio en Lima",
    "resumen": "El grupo dueño de la cafetería Clamore y de dos escuelas gastronómicas cerró un semestre a media máquina por las elecciones y el Mundial. Ahora alista una nueva cafetería en Lima moderna, una tercera escuela y la compra de un edificio propio. ¿Qué distritos mira?",
@@ -1095,6 +1928,31 @@
      "lat": -6.76685,
      "confianza": 0.7,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "44b55ccc4575",
+   "titulo": "UGEL Ilo reconocerá a docentes por el Día de la Educación Primaria",
+   "resumen": "La Unidad de Gestión Educativa Local (UGEL) Ilo prepara un reconocimiento a los docentes destacados de educación primaria con motivo de la celebración de su día, este jueves 12 de noviembre, aunque parte de las actividades previstas fueron suspendidas debido a las condiciones climáticas que…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/ugel-ilo-reconocera-a-docentes-por-el-dia-de-la-educacion-primaria/",
+   "fecha": "2026-11-08T19:58:59Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
     }
    ]
   },
@@ -2081,6 +2939,31 @@
    ]
   },
   {
+   "id": "53ef4a2c0333",
+   "titulo": "Sport Huancayo derrota a Cienciano en Cusco y llega como líder a la última fecha del Clausura",
+   "resumen": "Sport Huancayo derrotó 2-1 a Cienciano en Cusco, sumó 34 puntos y depende de sí mismo para ganar el Torneo Clausura",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/sport-huancayo-derrota-a-cienciano-en-cusco-y-llega-como-lider-a-la-ultima-fecha-del-clausura/",
+   "fecha": "2026-11-08T16:32:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "bbebe6d38739",
    "titulo": "Chiclayo se prepara para el papa León XIV: habrá QR, buses nocturnos y caminatas de hasta 4 km",
    "resumen": "A cinco días de la llegada del pontífice, Lambayeque prepara controles de acceso, transporte nocturno, estacionamientos, atención médica y restricciones de tránsito para la misa del 13 de noviembre en Pimentel.",
@@ -2490,6 +3373,32 @@
      "principal": false
     }
    ]
+  },
+  {
+   "id": "75826a6ecf2a",
+   "titulo": "Tres asaltos en San Juan Bautista exponen la inseguridad que enfrentan vecinos y trabajadores",
+   "resumen": "Tres asaltos en San Juan Bautista dejaron trabajadores y vecinos afectados. La población exige mayor presencia policial y atención oportuna.",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/tres-asaltos-en-san-juan-bautista-exponen-la-inseguridad-que-enfrentan-vecinos-y-trabajadores/",
+   "fecha": "2026-11-08T15:31:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan Bautista",
+     "ubigeo": "050110",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22371,
+     "lat": -13.16671,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
   },
   {
    "id": "f453d324d5e8",
