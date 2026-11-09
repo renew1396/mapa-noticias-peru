@@ -2,6 +2,291 @@
  "fecha": "2026-11-08",
  "noticias": [
   {
+   "id": "2d3a9a61c914",
+   "titulo": "La Libertad: atentan con explosivo contra una pollería a una cuadra de la comisaría en Cartavio",
+   "resumen": "La detonación destruyó los espejos del salón y los ventanales de la puerta principal, por lo que los clientes tuvieron que ser retirados del lugar.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/la-libertad-atentan-con-explosivo-contra-una-polleria-a-una-cuadra-de-la-comisaria-en-cartavio-noticia-1716737",
+   "fecha": "2026-11-09T04:44:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cartavio",
+     "ubigeo": "130207",
+     "ccpp": "1302070005",
+     "precision": "centro_poblado",
+     "provincia": "Ascope",
+     "departamento": "La Libertad",
+     "lon": -79.22084,
+     "lat": -7.88376,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "18e3ec68e9b9",
+   "titulo": "Universitario pierde la ocasión de ser líder al empatar con Moquegua en el Monumental",
+   "resumen": "Universitario de Deportes dejó pasar este domingo la oportunidad de convertirse en líder del Torneo Clausura al ceder un empate (2-2) ante CD Moquegua en el Estadio Monumental, donde los cremas ven recortadas sus posibilidades de ganar el segundo torneo del año a una fecha de su culminación.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-universitario-pierde-ocasion-ser-lider-al-empatar-moquegua-el-monumental-1099139.aspx",
+   "fecha": "2026-11-09T03:55:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c670d489f650",
+   "titulo": "Queman vehículo y casi linchan a presunto estafador de terrenos",
+   "resumen": "Pobladores retienen a joven acusado de estafar con US$ 59 mil por un terreno en San Miguel y queman su vehículo tras reclamar la devolución",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/queman-vehiculo-y-casi-linchan-a-presunto-estafador-de-terrenos/",
+   "fecha": "2026-11-09T03:49:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Miguel",
+     "ubigeo": "061101",
+     "precision": "distrito",
+     "provincia": "San Miguel",
+     "departamento": "Cajamarca",
+     "lon": -78.85009,
+     "lat": -6.99997,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "7fe48c27b82d",
+   "titulo": "El Hay Festival Arequipa clausuró esta noche sus actividades entre yaravíes",
+   "resumen": "El Hay Festival Arequipa, la fiesta literaria, del debate y el pensamiento, culminó esta noche con su cierre más arequipeño en sus doce ediciones: el Teatro Municipal de Arequipa vibró entre yaravíes -que escribió hace más de dos siglos Mariano Melgar-, el sonido del charango arequipeño y valses…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-el-hay-festival-arequipa-clausuro-esta-noche-sus-actividades-entre-yaravies-1099137.aspx",
+   "fecha": "2026-11-09T03:22:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e436078b7784",
+   "titulo": "Con el Alianza Lima vs San Martín: conoce la programación de la fecha 5 de la Fase 1 de la Liga Peruana de Vóley",
+   "resumen": "Conoce la fechas y los horarios de todos los partidos de la fecha 5 de la primera etapa de la LPV.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/voley/mas-voley/programacion-de-la-fecha-5-de-liga-peruana-de-voley-2026-2027-en-vivo-partidos-y-horarios-de-la-etapa-1-alianza-lima-universitario-san-martin-regatas-lima-noticia-1716720",
+   "fecha": "2026-11-09T03:09:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín",
+     "ubigeo": "220303",
+     "precision": "distrito",
+     "provincia": "El Dorado",
+     "departamento": "San Martín",
+     "lon": -76.7405,
+     "lat": -6.51441,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "68389fa795fd",
+   "titulo": "Lambayeque: Rescatan 14 animales silvestres hallados en una piscigranja de Olmos",
+   "resumen": "Serfor indicó que los animales vivirán ahora en un centro autorizado en Huanchaco, donde tendrán atención adecuada.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/lambayeque/lambayeque-rescatan-14-animales-silvestres-hallados-en-una-piscigranja-de-olmos-noticia-1716726",
+   "fecha": "2026-11-09T03:05:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Olmos",
+     "ubigeo": "140308",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.74748,
+     "lat": -5.98787,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Huanchaco",
+     "ubigeo": "130104",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.12169,
+     "lat": -8.07987,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "940569019094",
+   "titulo": "Maluma anuncia su 'Loco x volver World Tour' con Lima entre las primeras ciudades confirmadas",
+   "resumen": "La estrella colombiana incluyó a la capital peruana en su próxima gira internacional, tras varios años ausente y los fanáticos celebran la noticia.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/maluma-anuncia-su-loco-x-volver-world-tour-con-lima-entre-las-primeras-ciudades-confirmadas/",
+   "fecha": "2026-11-09T03:03:30Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7fb945c60a44",
+   "titulo": "PNP incauta mansión de Karla Casós en La Molina por investigación de lavado de activos y transferencias desde EE. UU.",
+   "resumen": "El operativo, que se extendió por más de 24 horas, también apunta a la madre y la hermana de la exreina de belleza, señaladas por recibir parte de los fondos investigados",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/pnp-incauta-mansion-de-karla-casos-en-la-molina-por-investigacion-de-lavado-de-activos-y-transferencias-desde-ee-uu/",
+   "fecha": "2026-11-09T02:55:52Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Molina",
+     "ubigeo": "150114",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.91659,
+     "lat": -12.07815,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e1d231873303",
+   "titulo": "Amigo del papa León XIV y misionero en Apurímac: muere monseñor Domenico Berni tras 47 años de labor pastoral en Perú",
+   "resumen": "El religioso agustino falleció a los 86 años en Italia, después de dedicar 47 años de su vida al trabajo pastoral en Apurímac. Su vínculo con Robert Prevost nació durante sus respectivas misiones en el país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/amigo-del-papa-leon-xiv-y-misionero-en-apurimac-muere-monsenor-domenico-berni-tras-47-anos-de-labor-pastoral-en-peru/",
+   "fecha": "2026-11-09T02:54:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4c05f82fdfb0",
+   "titulo": "Papa León XIV: Teleticket habilita este lunes 9 de noviembre entradas para “Vigilia de los jóvenes” con el pontífice",
+   "resumen": "Desde este lunes 9 de noviembre la plataforma Teleticket habilitará las entradas para aquellos jóvenes que deseen participar en la vigilia de oración que el papa León XIV encabezará en el Estadio Nacional de Lima este jueves 12.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-teleticket-habilita-entradas-para-encuentro-juvenil-vigilia-de-los-jovenes-con-pontifice-en-el-estadio-nacional-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-09T02:51:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "eb1ca89b7ec4",
    "titulo": "Lima prepara operativo de seguridad y logística para recibir al papa León XIV",
    "resumen": "Lima intensifica preparativos para recibir al papa León XIV con un amplio despliegue de seguridad y un megaescenario en la Base Aérea de Las Palmas.",
