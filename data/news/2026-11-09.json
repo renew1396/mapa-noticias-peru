@@ -2,6 +2,31 @@
  "fecha": "2026-11-09",
  "noticias": [
   {
+   "id": "e0e3ba15ed4c",
+   "titulo": "UCV y Fundación Real Madrid presentan avances de alianza educativa en Lima",
+   "resumen": "La UCV y la Fundación Real Madrid presentaron en Lima los avances de su alianza que une educación y deporte, con la participación de Santiago Solari y César Acuña.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/educacion/ucv-fundacion-real-madrid-alianza-educativa-lima",
+   "fecha": "2026-11-10T04:50:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "6a723d2e9302",
    "titulo": "Sagrada Cruz de Motupe inició histórica peregrinación por Lambayeque, Chiclayo y Pimentel",
    "resumen": "La región Lambayeque vive desde este lunes 9, una extraordinaria jornada de fe con la visita de la Santísima Cruz de Chalpón de Motupe, considerada una de las principales expresiones de religiosidad popular del Perú. Bajo el lema \"El norte peregrina con su Cruz al reencuentro de nuestro Pastor…",
