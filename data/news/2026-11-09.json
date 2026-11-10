@@ -2,6 +2,2424 @@
  "fecha": "2026-11-09",
  "noticias": [
   {
+   "id": "6a723d2e9302",
+   "titulo": "Sagrada Cruz de Motupe inició histórica peregrinación por Lambayeque, Chiclayo y Pimentel",
+   "resumen": "La región Lambayeque vive desde este lunes 9, una extraordinaria jornada de fe con la visita de la Santísima Cruz de Chalpón de Motupe, considerada una de las principales expresiones de religiosidad popular del Perú. Bajo el lema \"El norte peregrina con su Cruz al reencuentro de nuestro Pastor…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sagrada-cruz-motupe-inicio-historica-peregrinacion-lambayeque-chiclayo-y-pimentel-1099290.aspx",
+   "fecha": "2026-11-10T04:39:13Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pimentel",
+     "ubigeo": "140112",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.93573,
+     "lat": -6.8354,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140100",
+     "precision": "provincia",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Motupe",
+     "ubigeo": "140307",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.7143,
+     "lat": -6.1509,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1557ff7e2a53",
+   "titulo": "Concurso de Comprensión Lectora 2026 reunirá a los mejores alumnos lectores del país",
+   "resumen": "Un total de 54 estudiantes de distintas regiones del país convertirán, este martes 10 de noviembre, la lectura en una verdadera fiesta de talento, creatividad y conocimiento. Junto a sus 18 docentes asesores llegarán al Auditorio Mario Vargas Llosa de la Biblioteca Nacional del Perú, en San Borja…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-concurso-comprension-lectora-2026-reunira-a-los-mejores-alumnos-lectores-del-pais-1099289.aspx",
+   "fecha": "2026-11-10T04:22:04Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Borja",
+     "ubigeo": "150130",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.99899,
+     "lat": -12.10709,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1fe4f1b3895f",
+   "titulo": "Exhorta a gobernador Rohel Sánchez a acudir al Consejo Regional de Arequipa",
+   "resumen": "La vicegobernadora regional de Arequipa, Ana María Gutiérrez, exhortó ayer al gobernador Rohel Sanchez acudir hoy a las 18:30 horas al Consejo Regional para responder las interrogantes de los consejeros y exponer los avances de su gestión, a menos de dos meses de dejar el cargo.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/exhorta-a-gobernador-rohel-sanchez-a-acudir-al-consejo-regional-de-arequipa-noticia/",
+   "fecha": "2026-11-10T03:58:32Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "67b31ec758fb",
+   "titulo": "Ucayali: grifos en Pucallpa sin combustible tras huaico que impidió ingreso de camiones cisterna",
+   "resumen": "La escasez está siendo aprovechada por revendedores, quienes ofrecen el galón hasta diez soles por encima de su precio habitual.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/ucayali-grifos-en-pucallpa-sin-combustible-tras-huaico-que-impidio-ingreso-de-camiones-cisterna-noticia-1716919",
+   "fecha": "2026-11-10T03:53:10Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b7da129e1a40",
+   "titulo": "Papa León XIV: develan la escultura más alta del Perú en honor al Sumo Pontífice",
+   "resumen": "El alcalde provincial del Callao, César Pérez, develó hoy la escultura monumental del papa León XIV, una imponente estructura de 14 metros de altura que se convierte en la más alta del Perú dedicada al sumo pontífice. El monumento constituye un homenaje del pueblo chalaco al Santo Padre y un nuevo…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-develan-escultura-mas-alta-del-peru-honor-al-sumo-pontifice-1099286.aspx",
+   "fecha": "2026-11-10T03:50:15Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2330ae277381",
+   "titulo": "Alcaldesa de Arequipa insiste en pasaje de 1 sol, pero transportistas no acatan",
+   "resumen": "La alcaldesa de la provincia de Arequipa, Ruccy Oscco, ratificó ayer que el precio del pasaje urbano debe mantenerse en un sol y descartó que los transportistas puedan establecer unilateralmente la tarifa S/ 1.50, pese a sus recientes anuncios de un posible aumento debido al alza del precio de los…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/alcaldesa-de-arequipa-insiste-en-pasaje-de-1-sol-pero-transportistas-no-acatan-noticia/",
+   "fecha": "2026-11-10T03:47:49Z",
+   "temas": [
+    "transporte",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040100",
+     "precision": "provincia",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bbc7a87d9061",
+   "titulo": "Festival de la Menestra: distrito de Ocucaje revivió la tradicional trilla del pallar",
+   "resumen": "En el marco de las actividades por el 32° Festival de la Menestra de Ocucaje, con gran entusiasmo se desarrolló la trilla del pallar, actividad costumbrista que permitió revivir antiguas prácticas agrícolas y poner en valor una tradición cultural que forma parte de la historia de este distrito de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-festival-de-menestra-distrito-ocucaje-revivio-tradicional-trilla-del-pallar-1099285.aspx",
+   "fecha": "2026-11-10T03:47:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ocucaje",
+     "ubigeo": "110104",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.67212,
+     "lat": -14.34657,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dd6ef6c4231f",
+   "titulo": "Arequipa: Alejandro Málaga dedicó 20 años a investigar la historia de la UNSA",
+   "resumen": "El historiador Alejandro Málaga afirmó que le tomó aproximadamente 20 años terminar el libro “La Universidad de Arequipa”, una investigación que recoge el desarrollo intelectual, científico, cultural y social de los primeros 100 años de la Universidad Nacional de San Agustín (UNSA).",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-alejandro-malaga-dedico-20-anos-a-investigar-la-historia-de-la-unsa-noticia/",
+   "fecha": "2026-11-10T03:33:03Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "San Agustín",
+     "ubigeo": "120129",
+     "precision": "distrito",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.24418,
+     "lat": -11.9897,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a52c80975763",
+   "titulo": "Indecopi orientará a pasajeros sobre sus derechos ante visita del papa León XIV",
+   "resumen": "El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi) realizará este martes 10 de noviembre una campaña informativa simultánea en Lima, Ucayali, Lambayeque y Cusco para orientar a los pasajeros sobre sus derechos como usuarios de servicios de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-indecopi-orientara-a-pasajeros-sobre-sus-derechos-ante-visita-del-papa-leon-xiv-1099270.aspx",
+   "fecha": "2026-11-10T03:30:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b7a31206c810",
+   "titulo": "Lluvias extremas golpean el norte y exponen vulnerabilidad de Lima ante inundaciones",
+   "resumen": "Inundaciones afectan al norte del Perú, donde Tumbes supera los 100 milímetros de lluvia, mientras Lima enfrenta desagües colapsados y riesgo de aniegos",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/lluvias-extremas-golpean-el-norte-y-exponen-vulnerabilidad-de-lima-ante-inundaciones/",
+   "fecha": "2026-11-10T03:29:29Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4bcc9499bda7",
+   "titulo": "Arequipa: Precio del balón de gas de 10 kilos sube a 62 soles",
+   "resumen": "El precio del balón doméstico de gas de 10 kilogramos se elevó ayer a 62 soles en la planta distribuidora de Llamagas, ubicada en el distrito de Cerro Colorado. El aumento generó preocupación entre los consumidores, debido a que el costo suele ser mayor en la modalidad de reparto a domicilio.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-precio-del-balon-de-gas-de-10-kilos-sube-a-62-soles-noticia/",
+   "fecha": "2026-11-10T03:23:28Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cerro Colorado",
+     "ubigeo": "040104",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.56088,
+     "lat": -16.37626,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "181921023320",
+   "titulo": "Visita del papa León XIV: conozca las rutas por las que pasará y podrá verlo",
+   "resumen": "Visita del papa León XIV: conozca las rutas por las que pasará y podrá verlo. La Conferencia Episcopal dio a conocer las rutas que empleará el papa León XIV para desplazarse por Lima.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/visita-del-papa-leon-xiv-conozca-las-rutas-por-las-que-pasara-y-podra-verlo-en-lima-noticia/",
+   "fecha": "2026-11-10T03:16:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3259c8635b8b",
+   "titulo": "Puno: Exdirigente critica audiencia de parlamentarios y exige presupuesto para afectados por metales pesados",
+   "resumen": "Félix Suasaca cuestiona audiencia de senadores y diputados en Puno y exige resultados para atender a 720 mil personas expuestas a metales pesados",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-exdirigente-critica-audiencia-de-parlamentarios-y-exige-presupuesto-para-afectados-por-metales-pesados/",
+   "fecha": "2026-11-10T03:12:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "111a0d9d9c6b",
+   "titulo": "Dos delegaciones de Arequipa en actividades de la visita del papa León XIV",
+   "resumen": "La Universidad Católica San Pablo (UCSP) de Arequipa prepara dos delegaciones para participar en los encuentros que sostendrá el papa León XIV durante su visita al Perú, informó ayer Víctor Montalvo, encargado del Apostolado de la casa de estudios.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/dos-delegaciones-de-arequipa-en-actividades-de-la-visita-del-papa-leon-xiv-noticia/",
+   "fecha": "2026-11-10T03:12:24Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8e35a0654ac7",
+   "titulo": "Gian Marco debuta en La Casa de la Salsa, comparte escenario con Juan Luis Guerra y anuncia una gira mundial",
+   "resumen": "El cantautor peruano vivió un fin de semana de tres conciertos consecutivos en Lima para presentar ‘Bajo La Manga’, su nuevo álbum de salsa, con gran respuesta del público.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/10/gian-marco-debuta-en-la-casa-de-la-salsa-comparte-escenario-con-juan-luis-guerra-y-anuncia-una-gira-mundial/",
+   "fecha": "2026-11-10T03:04:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d638a32c6f34",
+   "titulo": "En exconvento de Chiclayo cinco gigantografías religiosas darán bienvenida al papa León",
+   "resumen": "La fe, el arte y la identidad religiosa de Lambayeque se unen en cinco coloridas gigantografías con imágenes religiosas instaladas en el frontis del antiguo exconvento franciscano de Santa María, ubicado en la calle San José, en pleno centro de Chiclayo, para rendir homenaje a las principales…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-en-exconvento-chiclayo-cinco-gigantografias-religiosas-daran-bienvenida-al-papa-leon-1099278.aspx",
+   "fecha": "2026-11-10T02:45:42Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e8e1490abab3",
+   "titulo": "Presidenta de la JNJ exhorta a jueces a respetar la libertad de prensa, opinión, crítica en querellas a periodistas",
+   "resumen": "La presidenta de la Junta Nacional de Justicia (JNJ), María Teresa Cabrera, llegó a Puno para participar en una audiencia pública llevada a cabo en el auditorio del Colegio de Abogados. Durante la jornada, se recogió la queja de abogados y litigantes sobre la forma en que algunos malos jueces y…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/09/presidenta-de-la-jnj-exhorta-a-jueces-a-respetar-la-libertad-de-prensa-opinion-critica-en-querellas-a-periodistas/",
+   "fecha": "2026-11-10T02:44:26Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b8f08d8a8176",
+   "titulo": "Tacna registrará temperaturas de hasta 28 grados por el Niño costero y radiación UV llegará a nivel 14",
+   "resumen": "Temperaturas de entre 27 y 28 grados centígrados durante el día y noches cálidas de hasta 18 grados se registrarán en la ciudad de Tacna hasta el 12 de noviembre, debido al calentamiento del mar frente al litoral en el contexto del fenómeno del Niño costero. Así lo informó el jefe del Senamhi en…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287873/tacna-registrara-temperaturas-de-hasta-28-grados-por-el-nino-costero-y-radiacion-uv-llegara-a-nivel-14/",
+   "fecha": "2026-11-10T02:44:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dba4f34251bc",
+   "titulo": "Huánuco: Foncodes invierte S/4.11 millones en rehabilitación de 300 km de caminos rurales",
+   "resumen": "Para dinamizar la economía local y mejorar las condiciones de vida en el campo, el Ministerio de Desarrollo e Inclusión Social (Midis), a través de Foncodes, ejecuta la rehabilitación de 300 kilómetros de caminos rurales y trochas carrozables en la región Huánuco, con una inversión de S/ 4’117,086.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-huanuco-foncodes-invierte-s411-millones-rehabilitacion-300-km-caminos-rurales-1099279.aspx",
+   "fecha": "2026-11-10T02:43:14Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0d919d115ec4",
+   "titulo": "Fenómeno El Niño: Midagri supervisa instalación de barreras dinámicas en Chosica y Santa Eulalia",
+   "resumen": "El ministro Marco Vinelli Ruiz y el jefe de la ANA, Juan Carlos Castro, supervisaron las nuevas estructuras de protección en Chosica y Santa Eulalia, además de anunciar labores de descolmatación.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/fenomeno-el-nino-midagri-supervisa-instalacion-de-barreras-dinamicas-en-chosica-y-santa-eulalia-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-10T02:41:08Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chosica",
+     "ubigeo": "150118",
+     "ccpp": "1501180001",
+     "precision": "centro_poblado",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.69709,
+     "lat": -11.93583,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Santa Eulalia",
+     "ubigeo": "150728",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.66396,
+     "lat": -11.90155,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "092fe1578cfa",
+   "titulo": "Campeonato Intercolegios de exalumnos inició su décima edición con más de 30 equipos",
+   "resumen": "Con la participación de más de 30 equipos de distintas promociones escolares, se inició la décima edición del Campeonato Intercolegios de Exalumnos de Fulbito Oley Interpromo 2026, certamen deportivo que reúne a exestudiantes de diferentes instituciones educativas de Tacna. El organizador, Duberly…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287870/campeonato-intercolegios-de-exalumnos-inicio-su-decima-edicion-con-mas-de-30-equipos/",
+   "fecha": "2026-11-10T02:33:14Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "db0893cd77af",
+   "titulo": "Promperú presentó oferta turística en foro internacional realizado en Chile",
+   "resumen": "La Comisión de Promoción del Perú para la Exportación y el Turismo (Promperú) participó en el Travel Forum LATAM (TFL) Chile 2026, realizado el 30 de octubre en Santiago, donde presentó la oferta turística nacional ante profesionales del sector, agencias de viajes y operadores turísticos de la…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-promperu-presento-oferta-turistica-foro-internacional-realizado-chile-1099269.aspx",
+   "fecha": "2026-11-10T02:30:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santiago",
+     "ubigeo": "080106",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.98314,
+     "lat": -13.5258,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "84200b37100e",
+   "titulo": "Papa León XIV en Perú: confirman papamóvil en Las Palmas y entradas agotadas para evento en el Estadio Nacional",
+   "resumen": "Juan Bytton, secretario general de la visita del papa León XIV al Perú, dio detalles del recorrido del sumo pontífice por las ciudades de Lima, Chiclayo, Santa Cruz de Succhabamba (Cajamarca), Cusco y Pucallpa.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/papa-leon-xiv-en-peru-confirman-papamovil-en-las-palmas-y-entradas-agotadas-para-evento-en-el-estadio-nacional-noticia-1716912",
+   "fecha": "2026-11-10T02:19:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "060413",
+     "ccpp": "0604130016",
+     "precision": "centro_poblado",
+     "provincia": "Chota",
+     "departamento": "Cajamarca",
+     "lon": -78.40582,
+     "lat": -6.56244,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "93653bbda226",
+   "titulo": "MTC amplía operaciones en aeropuertos de Cusco y Pucallpa para recuperar vuelos afectados por visita del papa León XIV",
+   "resumen": "La medida permitirá atender vuelos durante 24 horas los días 14 y 16 de noviembre, tras las suspensiones previstas el domingo en ambos terminales y a pedido de las compañías aéreas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/10/mtc-amplia-operaciones-en-aeropuertos-de-cusco-y-pucallpa-para-recuperar-vuelos-afectados-por-visita-del-papa-leon-xiv/",
+   "fecha": "2026-11-10T02:18:53Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "ed60c6f3e915",
+   "titulo": "Marcha de transportistas en Lima y Callao: ¿qué universidades tendrán clases virtuales y cuáles mantendrán la presencialidad este martes?",
+   "resumen": "Las instituciones educativas anunciaron distintas disposiciones ante las dificultades de transporte previstas en la capital peruana",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/10/marcha-de-transportistas-en-lima-y-callao-que-universidades-tendran-clases-virtuales-y-cuales-mantendran-la-presencialidad-este-martes/",
+   "fecha": "2026-11-10T02:13:33Z",
+   "temas": [
+    "conflicto_social",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "30f00e5b8628",
+   "titulo": "Visita del papa León XIV: 37 mil policías, 500 motocicletas y nueve helicópteros estarán a cargo de su seguridad",
+   "resumen": "La Policía Nacional del Perú (PNP) desplegará alrededor de 37 mil efectivos para garantizar la seguridad durante la visita del papa León XIV, programada del 11 al 16 de noviembre. El operativo comprenderá Lima, Callao y distintas regiones del país, debido a la gran cantidad de fieles que…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/09/visita-del-papa-leon-xiv-37-mil-policias-500-motocicletas-y-nueve-helicopteros-estaran-a-cargo-de-su-seguridad/",
+   "fecha": "2026-11-10T02:05:31Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "be9f5c9ab708",
+   "titulo": "Junín: diseñan horno móvil y automatizado para preparar tradicional pachamanca",
+   "resumen": "Un egresado de la Facultad de Ingeniería Mecánica de la Universidad Nacional del Centro del Perú ha desarrollado un innovador horno portátil de acero inoxidable para preparar la tradicional pachamanca del Valle del Mantaro, región Junín.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-junin-disenan-horno-movil-y-automatizado-para-preparar-tradicional-pachamanca-1099263.aspx",
+   "fecha": "2026-11-10T02:00:30Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mantaro",
+     "ubigeo": "120903",
+     "ccpp": "1209030012",
+     "precision": "centro_poblado",
+     "provincia": "Chupaca",
+     "departamento": "Junín",
+     "lon": -75.25573,
+     "lat": -12.1386,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "671839d70c82",
+   "titulo": "Comando Unificado ejecuta traslado de 200 internos del penal Ancón I",
+   "resumen": "El operativo contó con la intervención de personal del INPE, la Policía Nacional y las Fuerzas Armadas, además del respaldo logístico de la Marina de Guerra.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/comando-unificado-ejecuta-traslado-de-200-internos-del-penal-ancon-i-noticia/",
+   "fecha": "2026-11-10T01:58:38Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ancón",
+     "ubigeo": "150102",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.17625,
+     "lat": -11.77376,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "cbfbdff24bac",
+   "titulo": "León XIV: jóvenes agotaron entradas para ver al Papa en el Estadio Nacional este jueves 12",
+   "resumen": "Las 52 mil entradas ofrecidas para el encuentro de jóvenes con el papa León XIV, previsto para el jueves 12 de noviembre en el Estadio Nacional de Lima, se agotaron, informó esta noche Juan Bytton, secretario general de la visita papal en la capital.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-leon-xiv-jovenes-agotaron-entradas-para-ver-al-papa-el-estadio-nacional-este-jueves-12-1099268.aspx",
+   "fecha": "2026-11-10T01:56:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "45ba8efef43c",
+   "titulo": "Challenger de Lima 2026: los cinco tenistas peruanos que buscarán destacar en casa",
+   "resumen": "Este lunes arrancó el cuadro principal del Challenger de Lima con cinco tenistas peruanos.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/tenis/mas-tenis/challenger-de-lima-2026-los-cinco-tenistas-peruanos-que-buscaran-destacar-en-casa-gonzalo-bueno-juan-pablo-varillas-noticia-1716900",
+   "fecha": "2026-11-10T01:50:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "51c7ee249ee8",
+   "titulo": "Agricultores de Ácora exigen a SENASA alternativas técnicas tras restricción de cinco insumos agrícolas",
+   "resumen": "Productores advierten que la falta de lluvias y la presencia de plagas ponen en riesgo los cultivos de papa y quinua. Solicitan asistencia técnica y una mesa de trabajo para conocer alternativas Los agricultores del distrito de Ácora expresaron su preocupación por la disposición del Tribunal…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/agricultores-de-acora-exigen-a-senasa-alternativas-tecnicas-tras-restriccion-de-cinco-insumos-agricolas/",
+   "fecha": "2026-11-10T01:48:47Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Acora",
+     "ubigeo": "210102",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.7979,
+     "lat": -15.97374,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9e134f5bba30",
+   "titulo": "Transportistas de Lima y Callao marcharán este martes hacia el Congreso para exigir respuestas al Gobierno frente a la ola de ataques y extorsiones",
+   "resumen": "Más de 50 empresas afiliadas a Anitra suspenderán temporalmente sus operaciones durante la protesta. El gremio advierte que podría convocar a un paro si las autoridades no atienden sus demandas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/transportistas-de-lima-y-callao-marcharan-este-martes-hacia-el-congreso-para-exigir-respuestas-al-gobierno-frente-a-la-ola-de-ataques-y-extorsiones/",
+   "fecha": "2026-11-10T01:47:21Z",
+   "temas": [
+    "conflicto_social",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "5a91fd4c80c0",
+   "titulo": "Denuncian presuntas irregularidades en elecciones de Alto Puno y solicitan nulidad del proceso",
+   "resumen": "El Frente de Defensa cuestiona el padrón electoral y advierte sobre la presunta participación de más de 100 electores golondrinos. El pedido de nulidad está en manos del comité electoral Se dieron a conocer cuestionamientos a la transparencia de las elecciones en el centro poblado de Alto Puno.…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/denuncian-presuntas-irregularidades-en-elecciones-de-alto-puno-y-solicitan-nulidad-del-proceso/",
+   "fecha": "2026-11-10T01:36:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e8ff3fcd93c0",
+   "titulo": "Detectan ausencia de trabajadores durante inspección en oficinas de la Municipalidad de Azángaro",
+   "resumen": "El alcalde Yunior Machaca León realizó una inspección inopinada y anunció que se levantarán actas para adoptar las medidas administrativas correspondientes El alcalde de Azángaro, Yunior Machaca León, realizó una inspección inopinada en las diferentes oficinas de la municipalidad, donde se detectó…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/detectan-ausencia-de-trabajadores-durante-inspeccion-en-oficinas-de-la-municipalidad-de-azangaro/",
+   "fecha": "2026-11-10T01:36:38Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Azángaro",
+     "ubigeo": "210200",
+     "precision": "provincia",
+     "provincia": "Azángaro",
+     "departamento": "Puno",
+     "lon": -70.19543,
+     "lat": -14.90818,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0c5c99b5b028",
+   "titulo": "Padres de familia denuncian retraso en entrega de grados de bachiller en Enfermería de la UNA Puno",
+   "resumen": "Más de 20 egresados estarían perjudicados por la demora en los trámites administrativos. Además, denuncian presuntos cobros indebidos y exigen una investigación Los padres de familia de egresados de la Escuela Profesional de Enfermería de la Universidad Nacional del Altiplano de Puno denunciaron…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/padres-de-familia-denuncian-retraso-en-entrega-de-grados-de-bachiller-en-enfermeria-de-la-una-puno/",
+   "fecha": "2026-11-10T01:36:36Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a2c90701927d",
+   "titulo": "Renzo Reggiardo pidió que se declare en reorganización el sistema electoral del país",
+   "resumen": "El alcalde de Lima, Renzo Reggiardo, solicitó al Gobierno y al Congreso evaluar el funcionamiento del sistema electoral peruano y, posteriormente, declararlo en reorganización.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/renzo-reggiardo-pidio-que-se-declare-en-reorganizacion-el-sistema-electoral-del-pais-noticia/",
+   "fecha": "2026-11-10T01:15:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "79fd488f98d2"
+  },
+  {
+   "id": "7e149371a8ac",
+   "titulo": "Exhiben documentos de nacionalización del papa León XIV en Lima: dónde verlos gratis y cómo reservar una visita",
+   "resumen": "A pocos días de la llegada del pontífice al Perú, una muestra abierta al público permitirá conocer parte de su historia como ciudadano peruano. La exposición también reúne testimonios de otras personalidades extranjeras que dejaron huella en el país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/10/exhiben-documentos-de-nacionalizacion-del-papa-leon-xiv-en-lima-donde-verlos-gratis-y-como-reservar-una-visita/",
+   "fecha": "2026-11-10T01:11:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "151d7baa8363",
+   "titulo": "Más de 58 pobladores afrontan denuncias tras conflicto por actividad minera en Cajamarca: ''Seguimos criminalizados''",
+   "resumen": "Mauro Lalangui, dirigente de Huaquillas, afirma que el archivo del pedido de prisión preventiva no puso fin a las investigaciones contra defensores y ronderos. Señala que existen tres procesos adicionales y que una nueva audiencia podría realizarse el 18 de noviembre.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/09/mas-de-58-pobladores-afrontan-denuncias-tras-conflicto-por-actividad-minera-en-cajamarca-seguimos-criminalizados-765531",
+   "fecha": "2026-11-10T01:08:13Z",
+   "temas": [
+    "mineria",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huaquillas",
+     "ubigeo": "060109",
+     "ccpp": "0601090075",
+     "precision": "centro_poblado",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.74008,
+     "lat": -7.21885,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4830f44211c6",
+   "titulo": "Callao: inauguran estatua de 14 metros en homenaje al papa León XIV antes de su llegada al Perú",
+   "resumen": "A pocos días de la llegada del papa León XIV al Perú, la Municipalidad Provincial del Callao inauguró una estatua de 14 metros de altura en homenaje al líder de la Iglesia católica. El monumento se encuentra ubicado en el parque Niño Gaelito, en el distrito de La Punta. La ceremonia de develación…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/09/callao-inauguran-estatua-de-14-metros-en-homenaje-al-papa-leon-xiv-antes-de-su-llegada-al-peru/",
+   "fecha": "2026-11-10T01:00:29Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Punta",
+     "ubigeo": "070105",
+     "precision": "distrito",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.16347,
+     "lat": -12.07288,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e4d5cbbd1d5c",
+   "titulo": "Gobierno Regional La Libertad renueva convenio con municipio de Trujillo para destrabar corredor vial de Huanchaco",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/municipalidad-de-trujillo-renueva-convenio-con-gobierno-regional-la-libertad-para-continuidad-de-corredor-vial-de-huanchaco-peru-noticia/",
+   "fecha": "2026-11-10T00:54:25Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huanchaco",
+     "ubigeo": "130104",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.12169,
+     "lat": -8.07987,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "951fb675867e",
+   "titulo": "Comando Unificado traslada a 200 reos del penal Ancón I a otros centros penitenciarios",
+   "resumen": "Participaron agentes del INPE, de la Policía Nacional y las Fuerzas Armadas, con el apoyo logístico de la Marina de Guerra.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/comando-unificado-traslada-a-200-reos-del-penal-ancon-i-a-otros-centros-penitenciarios-noticia-1716899",
+   "fecha": "2026-11-10T00:49:04Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ancón",
+     "ubigeo": "150102",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.17625,
+     "lat": -11.77376,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ],
+   "grupo": "81c4434a2c69"
+  },
+  {
+   "id": "f669affae0db",
+   "titulo": "Exmonaguillos del papa León XIV revelan que canción de rock elegía para sus paseos a la playa en Piura: \"La pasábamos bonito\"",
+   "resumen": "Robert Prevost impulsó la inscripción de los jóvenes en academias de karate, natación y oratoria, con el objetivo de mantenerlos alejados de los riesgos de la calle en su tiempo libre",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/10/exmonaguillos-del-papa-leon-xiv-revelan-que-cancion-de-rock-elegia-para-sus-paseos-a-la-playa-en-piura-la-pasabamos-bonito/",
+   "fecha": "2026-11-10T00:42:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8dac2f822cdf",
+   "titulo": "Cámara de Comercio de La Libertad incorpora a 50 nuevas empresas",
+   "resumen": "La Cámara de Comercio de La Libertad realizó su III Ceremonia de Incorporación de Asociados y Conexión Empresarial del 2026, actividad en la que dio la bienvenida oficial a 50 nuevas empresas que se integran al gremio.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/camara-de-comercio-de-la-libertad-incorpora-a-50-nuevas-empresas-trujillo-peru-noticia/",
+   "fecha": "2026-11-10T00:39:33Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "35d0467f8216",
+   "titulo": "La Libertad: Más de S/ 180 millones se destinan a obras viales, educativas y de saneamiento en Sánchez Carrión",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/mas-de-s-180-millones-se-destinan-a-obras-viales-educativas-y-de-saneamiento-en-sanchez-carrion-la-libertad-peru-noticia/",
+   "fecha": "2026-11-10T00:36:12Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Sánchez Carrión",
+     "ubigeo": "130900",
+     "precision": "provincia",
+     "provincia": "Sánchez Carrión",
+     "departamento": "La Libertad",
+     "lon": -78.04661,
+     "lat": -7.81118,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6923030ae1d0",
+   "titulo": "Dos velos de novia llevan el rostro del papa León XIV y sorprenden en Chiclayo: así son los diseños creados como homenaje al pontífice",
+   "resumen": "La propuesta pertenece a un emprendimiento local que incorporó la imagen del Santo Padre en mantillas nupciales. Uno de los vestidos también luce bordados artesanales elaborados a mano por mujeres de Monsefú",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/10/dos-velos-de-novia-llevan-el-rostro-del-papa-leon-xiv-y-sorprenden-en-chiclayo-asi-son-los-disenos-creados-como-homenaje-al-pontifice/",
+   "fecha": "2026-11-10T00:25:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Monsefú",
+     "ubigeo": "140108",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.87242,
+     "lat": -6.8781,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140100",
+     "precision": "provincia",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "99e1ca4632d1",
+   "titulo": "Gonzalo Bueno vs Carlos Sánchez EN VIVO: ¿a qué hora juegan y dónde ver la primera ronda del Challenger de Lima?",
+   "resumen": "Gonzalo Bueno vs Carlos Sánchez EN VIVO: se enfrentan por la primera ronda del Challenger de Lima.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/tenis/mas-tenis/gonzalo-bueno-vs-carlos-sanchez-en-vivo-a-que-hora-juegan-y-donde-ver-primera-ronda-challenger-de-lima-2026-via-atp-tour-noticia-1716898",
+   "fecha": "2026-11-09T23:53:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b4c9a047ab6e",
+   "titulo": "Senamhi alerta por lluvias, descargas eléctricas y vientos fuertes en Ayacucho hasta el 11 de noviembre",
+   "resumen": "El Senamhi advierte lluvias, descargas eléctricas y ráfagas de viento de hasta 40 km/h en Ayacucho y otras regiones hasta el 11 de noviembre",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/senamhi-alerta-por-lluvias-descargas-electricas-y-vientos-fuertes-en-ayacucho-hasta-el-11-de-noviembre/",
+   "fecha": "2026-11-09T23:52:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e8106030d14c",
+   "titulo": "PRIMER REGIDOR DE LA LISTA DE FRANCIS ALLISON ASUMIRÍA CARGO DE ALCALDE DE LIMA SI TODA LA LISTA DE RENOVACIÓN POPULAR RENUNCIA EN SOLIDARIDAD CON RAFAEL LÓPEZ ALIAGA",
+   "resumen": "RCR, 09 de noviembre 2026.- El doctor Marco Tulio Gutiérrez, experto en legislación electoral, dijo que el primer regidor de la lista de Francis Allison asumiría el cargo de alcalde de Lima para el periodo 2027-2030 si la segunda regidora, Jeanette Alonzo, y toda la lista de Renovación Popular…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/primer-regidor-de-la-lista-de-francis-allison-asumiria-cargo-de-alcalde-de-lima-si-toda-la-lista-de-renovacion-popular-renuncia-en-solidaridad-con-rafael-lopez-aliaga/",
+   "fecha": "2026-11-09T23:49:40Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4e8b4498fd25",
+   "titulo": "Vecinos de La Esperanza cuestionan ejecución de la Plaza Quiñones a pocas semanas del cambio de gestión",
+   "resumen": "Vecinos del pueblo joven La Esperanza, en el distrito Alto de la Alianza, realizaron una protesta en los exteriores de la municipalidad para expresar su rechazo a la forma en que la actual gestión pretende ejecutar la remodelación de la Plaza Quiñones. Los pobladores cuestionan que el alcalde…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287867/vecinos-de-la-esperanza-cuestionan-ejecucion-de-la-plaza-quinones-a-pocas-semanas-del-cambio-de-gestion/",
+   "fecha": "2026-11-09T23:47:33Z",
+   "temas": [
+    "politica_local",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Esperanza",
+     "ubigeo": "230102",
+     "ccpp": "2301020001",
+     "precision": "centro_poblado",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.24779,
+     "lat": -17.9931,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Alto de la Alianza",
+     "ubigeo": "230102",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.24779,
+     "lat": -17.9931,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8df6f3c7f3be",
+   "titulo": "XXI BIENAL NACIONAL DE ARQUITECTURA PERUANA – AYACUCHO 2026 ES UN ESPACIO QUE PLANTEA SOLUCIONES URBANÍSTICAS Y CONSTRUCTIVAS INTEGRALES A LOS PRINCIPALES PROBLEMAS DEL PAÍS",
+   "resumen": "RCR, 09 de noviembre 2026.- La arquitecta Mónica Ortega, decana regional del Colegio de Arquitectos de Huánuco, dijo que la XXI Bienal Nacional de Arquitectura Peruana – Ayacucho 2026 es un espacio que plantea soluciones urbanísticas y constructivas integrales a los principales problemas del país.…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/xxi-bienal-nacional-de-arquitectura-peruana-ayacucho-2026-es-un-espacio-que-plantea-soluciones-urbanisticas-y-constructivas-integrales-a-los-principales-problemas-del-pais/",
+   "fecha": "2026-11-09T23:44:59Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1e2606d2a9c6",
+   "titulo": "Más lluvias en Lima: Senamhi advierte precipitaciones en estos distritos durante los próximos días",
+   "resumen": "Las precipitaciones se presentarán principalmente en la noche y madrugada en distritos del sur, mientras que en zonas del este se esperan lluvias ligeras por la tarde.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/09/mas-lluvias-en-lima-senamhi-advierte-precipitaciones-en-estos-distritos-durante-los-proximos-dias-717624",
+   "fecha": "2026-11-09T23:40:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "09c13d183050",
+   "titulo": "Transportistas de Lima y Callao marchan este martes al Congreso por seguridad",
+   "resumen": "Gremios de transporte público de Lima y Callao convocaron una marcha este martes 10 de noviembre hacia el Congreso para exigir medidas de seguridad al Gobierno tras los ataques y extorsiones. Anitra advirtió con un posible paro si no hay respuestas.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/nacional/marcha-transportistas-lima-callao-congreso-seguridad",
+   "fecha": "2026-11-09T23:40:08Z",
+   "temas": [
+    "conflicto_social",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "f86898bce758",
+   "titulo": "Incendio consume totorales en las orillas del lago Titicaca y humo alcanza viviendas cercanas a la isla Espinar en Puno",
+   "resumen": "El siniestro fue reportado durante la tarde del lunes 9 de noviembre en la parte baja de Salcedo. La presencia de vegetación seca y fuertes vientos genera preocupación por la posible propagación de las llamas hacia zonas habitadas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/incendio-consume-totorales-en-las-orillas-del-lago-titicaca-y-humo-alcanza-viviendas-cercanas-a-la-isla-espinar-en-puno/",
+   "fecha": "2026-11-09T23:38:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Espinar",
+     "ubigeo": "210607",
+     "ccpp": "2106070006",
+     "precision": "centro_poblado",
+     "provincia": "Huancané",
+     "departamento": "Puno",
+     "lon": -69.92151,
+     "lat": -15.26377,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f596eb1d0ce5",
+   "titulo": "Develan una estatua del Papa León XIV de 14 metros en el Callao",
+   "resumen": "Develan en el Callao la estatua más alta del Perú dedicada al Papa León XIV. L a estatua de 14 metros fue trasladada en dos mitades",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/develan-estatua-papa-leon-xiv-14-metros-callao-n496160",
+   "fecha": "2026-11-09T23:38:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8d4d7a77953e",
+   "titulo": "XXI BIENAL NACIONAL DE ARQUITECTURA PERUANA – AYACUCHO 2026 DESTACARÁ IMPORTANCIA DE LA PLANIFICACIÓN URBANA Y LAS MEDIDAS DE PREVENCIÓN FRENTE AL IMPACTO DEL NIÑO",
+   "resumen": "RCR, 09 de noviembre 2026.- La arquitecta Nancy Baltazar Córdova, decana regional del Colegio de Arquitectos de Ayacucho, dijo que la XXI Bienal Nacional de Arquitectura Peruana – Ayacucho 2026, que se realizará del 9 al 14 de noviembre de 2026 en la histórica ciudad de Huamanga, destacará la…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/xxi-bienal-nacional-de-arquitectura-peruana-ayacucho-2026-destacara-importancia-de-la-planificacion-urbana-y-las-medidas-de-prevencion-frente-al-impacto-del-nino/",
+   "fecha": "2026-11-09T23:37:52Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Córdova",
+     "ubigeo": "090603",
+     "precision": "distrito",
+     "provincia": "Huaytará",
+     "departamento": "Huancavelica",
+     "lon": -75.18504,
+     "lat": -14.04076,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Huamanga",
+     "ubigeo": "050100",
+     "precision": "provincia",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "99157c9a5aff",
+   "titulo": "PAPA LEÓN XIV RECORRERÁ EN PAPAMÓVIL TODA LA BASE AÉREA DE LAS PALMAS: 1.200 SACERDOTES PARTICIPARÁN EN LA MISA HISTÓRICA",
+   "resumen": "Padre Juan Bytton, secretario general de la visita de León XIV, sostiene que llegada del Sumo Pontífice marcará un antes y un después en la historia del país. RCR, 09 de noviembre 2026.- A menos de dos días de la llegada del papa León XIV al Perú, los preparativos para sus actividades entran a la…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/papa-leon-xiv-recorrera-en-papamovil-toda-la-base-aerea-de-las-palmas-1-200-sacerdotes-participaran-en-la-misa-historica/",
+   "fecha": "2026-11-09T23:34:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Misa",
+     "ubigeo": "060808",
+     "ccpp": "0608080003",
+     "precision": "centro_poblado",
+     "provincia": "Jaén",
+     "departamento": "Cajamarca",
+     "lon": -79.09295,
+     "lat": -5.9987,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1f7cf0923368",
+   "titulo": "Callao: Develan la estatua más alta del Perú dedicada al papa León XIV (FOTOS)",
+   "resumen": "La escultura en homenaje al pontífice fue presentada este lunes en el parque Niño Gaelito, donde se encuentra instalada.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/callao-develan-la-estatua-mas-alta-del-peru-dedicada-al-papa-leon-xiv-noticia/",
+   "fecha": "2026-11-09T23:33:54Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bb709d10dcb5",
+   "titulo": "SENADOR SEGUNDO TAPIA CONFIRMA INICIO DE LA PRESA DE CHONTA PARA 2027 E INSISTIRÁ EN EL CONGRESO POR UN PRESUPUESTO INICIAL DE S/ 81 MILLONES",
+   "resumen": "RCR, 09 de noviembre 2026.– El senador Segundo Tapia, representante de Cajamarca por Fuerza Popular, ratificó que la construcción de la emblemática presa de Chonta iniciará en 2027. La confirmación se dio tras recibir un documento oficial del Ministerio de Economía y Finanzas (MEF), el cual recoge…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/senador-segundo-tapia-confirma-inicio-de-la-presa-de-chonta-para-2027-e-insistira-en-el-congreso-por-un-presupuesto-inicial-de-s-81-millones/",
+   "fecha": "2026-11-09T23:30:49Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Para",
+     "ubigeo": "060809",
+     "ccpp": "0608090026",
+     "precision": "centro_poblado",
+     "provincia": "Jaén",
+     "departamento": "Cajamarca",
+     "lon": -79.29768,
+     "lat": -5.63227,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f6b3b7ea9f5a",
+   "titulo": "Casi 3 mil familias recibirán una vivienda en el norte del país gracias a un bono que cubre el 75% de su valor, ¿cómo funciona?",
+   "resumen": "Palma Real II prevé beneficiar, mediante Techo Propio, a más de 10 mil personas con hogares que cuentan con servicios de agua, desagüe, electricidad y obras de habilitación urbana",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/casi-3-mil-familias-recibiran-una-vivienda-en-el-norte-del-pais-gracias-a-un-bono-que-cubre-el-75-de-su-valor-como-funciona/",
+   "fecha": "2026-11-09T23:28:06Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Palma Real",
+     "ubigeo": "080902",
+     "ccpp": "0809020172",
+     "precision": "centro_poblado",
+     "provincia": "La Convención",
+     "departamento": "Cusco",
+     "lon": -72.69178,
+     "lat": -12.62671,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4c7799deec54",
+   "titulo": "Nuevo incendio en el lago Titicaca: fuego consume totorales cerca de la isla Espinar en Puno",
+   "resumen": "El siniestro ocurre en la zona baja de Salcedo, cerca de la isla Espinar. Existe el riesgo de que la fuerza del viento expanda el fuego y afecte más totorales del lugar.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/09/nuevo-incendio-en-el-lago-titicaca-fuego-consume-totorales-cerca-de-la-isla-espinar-en-puno-298710",
+   "fecha": "2026-11-09T23:16:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Espinar",
+     "ubigeo": "210607",
+     "ccpp": "2106070006",
+     "precision": "centro_poblado",
+     "provincia": "Huancané",
+     "departamento": "Puno",
+     "lon": -69.92151,
+     "lat": -15.26377,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f1de8b3a36b7",
+   "titulo": "Juliaca: atan a joven y prenden fuego a su vehículo por presunta estafa (VIDEO)",
+   "resumen": "Ante la situación, una fiscal adjunta de turno y agentes de la Policía llegaron al lugar para rescatar al joven, señalado como presunto estafador.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/juliaca-atan-a-joven-y-prenden-fuego-a-su-vehiculo-por-presunta-estafa-video/",
+   "fecha": "2026-11-09T23:09:11Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "feb7f7ed81bc",
+   "titulo": "Comercio ambulatorio se desborda en Juliaca: cada día aparecen nuevos vendedores en los mercados",
+   "resumen": "La Policía Municipal advierte que alrededor de 10 comerciantes se suman diariamente en cada mercado, mientras las veredas y calles continúan siendo ocupadas por vendedores ambulantes Pedro Ajahuana Tito, jefe de Operativos de la Policía Municipal, advirtió que diariamente aparecen alrededor de 10…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/comercio-ambulatorio-se-desborda-en-juliaca-cada-dia-aparecen-nuevos-vendedores-en-los-mercados/",
+   "fecha": "2026-11-09T23:06:43Z",
+   "temas": [
+    "economia",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9a61846b291f",
+   "titulo": "Carnavales de Juliaca 2027 preparan lanzamiento en Lima y nuevas actividades culturales",
+   "resumen": "La Asociación de Presidentes de Conjuntos Folclóricos proyecta presentar la festividad en Lima y Juliaca e incorporar un concurso coreográfico",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/carnavales-de-juliaca-2027-preparan-lanzamiento-en-lima-y-nuevas-actividades-culturales/",
+   "fecha": "2026-11-09T23:02:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "527860deba17",
+   "titulo": "Obrera resulta herida en obra de riego de Torata",
+   "resumen": "Una trabajadora identificada como Celia León resultó herida en un accidente laboral ocurrido alrededor de las 9:00 de la mañana, en la parte alta del túnel de Alto Coplay, donde se ejecuta una obra de riego de la Municipalidad Distrital de Torata. Según la denuncia, al momento del accidente no…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/obrera-resulta-herida-en-obra-de-riego-de-torata/",
+   "fecha": "2026-11-09T22:58:48Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Torata",
+     "ubigeo": "180106",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.84412,
+     "lat": -17.0767,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8ed8b25f0933",
+   "titulo": "Keiko Fujimori moviliza buque y más de 230 marinos a Piura por El Niño: “Lo vamos a enfrentar por tierra, mar y cielo”",
+   "resumen": "El operativo contempla atención médica, rescates en zonas inundadas y asistencia a las familias que podrían resultar afectadas por las lluvias",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/09/keiko-fujimori-moviliza-buque-y-mas-de-230-marinos-a-piura-por-el-nino-lo-vamos-a-enfrentar-por-tierra-mar-y-cielo/",
+   "fecha": "2026-11-09T22:57:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2dd5ab2e33f8",
+   "titulo": "Puno: Regidor Hancco pide informe de gastos del aniversario de Puno antes de transferencia",
+   "resumen": "Salvador Hancco exige a la comisión de aniversario y al ejecutivo municipal detallar gastos superiores a S/ 100 mil por actividades del aniversario de Puno",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-regidor-hancco-pide-informe-de-gastos-del-aniversario-de-puno-antes-de-transferencia/",
+   "fecha": "2026-11-09T22:55:53Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "093a1414fb46",
+   "titulo": "Juan Pablo Varillas vs Tomás Barrios EN VIVO: ¿a qué hora juegan y dónde ver la primera ronda del Challenger de Lima?",
+   "resumen": "Juan Pablo Varillas vs Tomás Barrios EN VIVO: se enfrentan por la primera ronda del Challenger de Lima.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/tenis/mas-tenis/juan-pablo-varillas-vs-tomas-barrios-en-vivo-a-que-hora-juegan-y-donde-ver-primera-ronda-challenger-de-lima-2026-via-atp-tour-noticia-1716882",
+   "fecha": "2026-11-09T22:52:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2ad3d6ea7503",
+   "titulo": "Quince proyectos escolares de Juliaca recibirán S/ 5,000 para impulsar emprendimientos",
+   "resumen": "Estudiantes de 15 instituciones educativas ganaron el primer Concurso de Emprendimientos Escolares promovido por la Municipalidad Provincial de San Román",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/quince-proyectos-escolares-de-juliaca-recibiran-s-5000-para-impulsar-emprendimientos/",
+   "fecha": "2026-11-09T22:50:16Z",
+   "temas": [
+    "educacion",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b1beef70b528",
+   "titulo": "¡Preocupante! Jaén: vecinos exigen solución ante constantes colapsos de desagüe en Camal Municipal",
+   "resumen": "Un nuevo colapso del sistema de desagüe en los exteriores del Camal Municipal de Jaén viene generando malestar entre los vecinos, debido al discurrimiento de aguas mezcladas con sangre y residuos de los animales sacrificados, que se extienden por la vía pública y desprenden olores fétidos. Según…",
+   "medio": "Radio Marañón",
+   "medio_id": "maranon",
+   "url": "https://radiomaranon.org.pe/preocupante-jaen-vecinos-exigen-solucion-ante-constantes-colapsos-de-desague-en-camal-municipal/",
+   "fecha": "2026-11-09T22:50:09Z",
+   "temas": [
+    "agua",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jaén",
+     "ubigeo": "060801",
+     "precision": "distrito",
+     "provincia": "Jaén",
+     "departamento": "Cajamarca",
+     "lon": -78.8091,
+     "lat": -5.70892,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a8427ceca1c1",
+   "titulo": "La Libertad: Verifican calidad de agua distribuida en Moche",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/verifican-calidad-de-agua-distribuida-en-moche-trujillo-la-libertad-peru-noticia/",
+   "fecha": "2026-11-09T22:49:01Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moche",
+     "ubigeo": "130107",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.00918,
+     "lat": -8.17129,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b114d69942ee",
+   "titulo": "Metropolitano reforzará servicios por la visita de Papa León XIV",
+   "resumen": "El Metropolitano desplegará plan de transporte especial por los eventos del Papa León XIV en Lima",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/metropolitano-reforzara-servicios-visita-papa-leon-xiv-n496158",
+   "fecha": "2026-11-09T22:48:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "48f99c1ea4d3",
+   "titulo": "Puno: Ciudadano acusa al PAR Bellavista de no recibir su denuncia contra su expareja",
+   "resumen": "Luis Fernando Zuca Pérez denuncia que policías del PAR Bellavista de Puno rechazaron inicialmente su denuncia contra su expareja por presunta agresión familiar",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-ciudadano-acusa-al-par-bellavista-de-no-recibir-su-denuncia-contra-su-expareja/",
+   "fecha": "2026-11-09T22:43:24Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Bellavista",
+     "ubigeo": "210204",
+     "ccpp": "2102040103",
+     "precision": "centro_poblado",
+     "provincia": "Azángaro",
+     "departamento": "Puno",
+     "lon": -70.38137,
+     "lat": -14.69435,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "23258095997b",
+   "titulo": "Accidente de bus de la empresa Nazaret deja 19 heridos en Puno",
+   "resumen": "Un total de 19 personas resultaron heridas tras el accidente de una unidad de la empresa de transportes Nazaret, registrado la mañana de este lunes en la carretera Interoceánica, cerca del sector de Oquepuño, en la región Puno. Los afectados fueron auxiliados y trasladados, en su mayoría, al…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/09/accidente-de-bus-de-la-empresa-nazaret-deja-19-heridos-en-puno/",
+   "fecha": "2026-11-09T22:40:17Z",
+   "temas": [
+    "transporte",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ef5488bd10fe",
+   "titulo": "Volquete cae al río Huancabamba en Oxapampa y deja desaparecidos",
+   "resumen": "Un camión de carga pesada cayó al río Huancabamba en la provincia de Oxapampa. Los equipos de rescate buscan al conductor y a posibles acompañantes tras el accidente.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/volquete-cae-al-rio-huancabamba-oxapampa-y-deja-desaparecidos-n496157",
+   "fecha": "2026-11-09T22:38:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huancabamba",
+     "ubigeo": "190303",
+     "precision": "distrito",
+     "provincia": "Oxapampa",
+     "departamento": "Pasco",
+     "lon": -75.52376,
+     "lat": -10.42601,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Oxapampa",
+     "ubigeo": "190300",
+     "precision": "provincia",
+     "provincia": "Oxapampa",
+     "departamento": "Pasco",
+     "lon": -75.4046,
+     "lat": -10.5749,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "bb7457dcb462",
+   "titulo": "Juan Zapata cuestiona reunión de legisladores con dirigentes de Juliaca",
+   "resumen": "Dirigente de Las Cuatro Zonas criticó la falta de respuestas sobre obras pendientes, agua potable y fiscalización en San Román",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/juan-zapata-cuestiona-reunion-de-legisladores-con-dirigentes-de-juliaca/",
+   "fecha": "2026-11-09T22:37:33Z",
+   "temas": [
+    "conflicto_social",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "0e3958612189",
    "titulo": "Hombre de 57 años pide ayuda económica tras quedar con una fractura en Juliaca",
    "resumen": "Pablo Chambi Quispe acudirá este miércoles a la Plaza de Armas de Juliaca para solicitar apoyo mientras se recupera de una lesión",
@@ -294,6 +2712,43 @@
      "lon": -73.93998,
      "lat": -12.32403,
      "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f8e98c421972",
+   "titulo": "Auxilian a mujer en la segunda playa de Mollendo",
+   "resumen": "Una mujer fue auxiliada por personal de serenazgo, salvataje y paramédicos de la Municipalidad Provincial de Islay en la segunda playa de Mollendo. El hecho generó un despliegue de emergencia en el lugar, donde los efectivos brindaron los primeros auxilios a la ciudadana —de aproximadamente 27 a…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/auxilian-a-mujer-en-la-segunda-playa-de-mollendo/",
+   "fecha": "2026-11-09T22:08:11Z",
+   "temas": [
+    "desastres",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
      "principal": false
     }
    ]
@@ -906,6 +3361,32 @@
    ]
   },
   {
+   "id": "d022292d3e82",
+   "titulo": "¿Quién es Jeanette Alonzo, la posible alcaldesa de Lima?",
+   "resumen": "Contadora pública por la Universidad Inca Garcilaso de la Vega y regidora desde 2023 asumiría el sillón municipal de la capital tras decisión del JNE.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/quien-jeanette-alonzo-posible-alcaldesa-lima-n496156",
+   "fecha": "2026-11-09T21:35:24Z",
+   "temas": [
+    "politica_local",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "6e2e8027f735",
    "titulo": "Papa León XIV en Perú: hay 200 mil entradas gratis más para misa en Base Aérea Las Palmas",
    "resumen": "El Arzobispado de Lima amplió el plazo de inscripción para obtener entradas gratuitas a la misa que el papa León XIV celebrará en la Base Aérea Las Palmas el 16 de noviembre. Las solicitudes se realizan mediante Ticketmaster y cada persona puede obtener hasta ocho boletos.",
@@ -1290,6 +3771,31 @@
    ]
   },
   {
+   "id": "6db9d0660717",
+   "titulo": "Rescatan a diez tripulantes tras volcadura de embarcación pesquera",
+   "resumen": "Los diez tripulantes de la embarcación pesquera “Chino Vilca”, de matrícula IO-63300-BM, fueron rescatados luego de que la nave volcara a aproximadamente cinco millas náuticas de la costa de Ilo. Los ocupantes fueron trasladados al Muelle Fiscal, donde recibieron atención médica. Uno de ellos…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/rescatan-a-diez-tripulantes-tras-volcadura-de-embarcacion-pesquera/",
+   "fecha": "2026-11-09T20:50:01Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "d9ab8eaefbdf",
    "titulo": "Más de 8 mil personas se acercaron al libro y la lectura gracias a la DDC Tacna",
    "resumen": "EL Ministerio de Cultura cerró la IV Fiesta del Libro (FLC) y la Lectura luego de una larga jornada, que se vivió del 3 al 8 de noviembre en el Centro de Convenciones Jorge Basadre. Se reportó la venta de 2,210 libros en los 20 stands de las diferentes editoriales provenientes de Tacna, Arequipa…",
@@ -1321,6 +3827,43 @@
      "lon": -71.52898,
      "lat": -16.39334,
      "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1ba5abca7f07",
+   "titulo": "Mujer resulta herida tras despiste de vehículo en la Costanera Norte",
+   "resumen": "Una mujer de 67 años resultó herida tras el despiste de un automóvil que terminó impactando contra un cerro en la carretera Costanera Norte, en el tramo Ilo–Punta de Bombón. El accidente ocurrió este lunes 9 de noviembre, a la altura del kilómetro 110+500. El vehículo de placa V9O-267, marca…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/mujer-resulta-herida-tras-despiste-de-vehiculo-en-la-costanera-norte/",
+   "fecha": "2026-11-09T20:44:43Z",
+   "temas": [
+    "transporte",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Punta de Bombón",
+     "ubigeo": "040706",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -71.78474,
+     "lat": -17.15621,
+     "confianza": 0.9,
      "principal": false
     }
    ]
@@ -1820,6 +4363,81 @@
      "lat": -6.76685,
      "confianza": 0.7,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e4050aa670d5",
+   "titulo": "Serenos de Matarani reciben nueva indumentaria",
+   "resumen": "Un total de veinticinco uniformes completos fueron destinados al personal de Serenazgo del distrito de Islay-Matarani como parte de una donación entregada por la empresa minera Cerro Verde. El equipamiento fue recibido formalmente en la sede de la Municipalidad Distrital de Islay para su pronta…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/serenos-de-matarani-reciben-nueva-indumentaria/",
+   "fecha": "2026-11-09T19:43:32Z",
+   "temas": [
+    "mineria",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Islay",
+     "ubigeo": "040704",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.09741,
+     "lat": -17.00083,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Cerro Verde",
+     "ubigeo": "040124",
+     "ccpp": "0401240025",
+     "precision": "centro_poblado",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.61366,
+     "lat": -16.45145,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3e8101d027ca",
+   "titulo": "Continúa búsqueda de joven que cayó al mar en el sector de La Aguadita",
+   "resumen": "Un operativo integrado por rescatistas y personal de la Municipalidad Provincial de Islay intenta dar con el paradero de Darikson Mayhua Pari, un joven desaparecido la tarde del último sábado tras caer al mar en la zona de peñas ubicada detrás del balneario La Aguadita, en Mollendo. El hecho…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/continua-busqueda-de-joven-que-cayo-al-mar-en-el-sector-de-la-aguadita/",
+   "fecha": "2026-11-09T19:43:14Z",
+   "temas": [
+    "seguridad",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.85,
+     "principal": false
     }
    ]
   },
@@ -2977,6 +5595,31 @@
      "lon": -71.97676,
      "lat": -13.51928,
      "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f498e3116958",
+   "titulo": "Culminó el campeonato nacional de natación en Mollendo",
+   "resumen": "Con la última serie de pruebas y la entrega de medallas culminó el II Campeonato Nacional Descentralizado de Natación Mollendo 2026. La competencia se desarrolló durante tres días en las instalaciones de la piscina olímpica temperada de César Vallejo, escenario que recibió a 185 nadadores de…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/culmino-el-campeonato-nacional-de-natacion-en-mollendo/",
+   "fecha": "2026-11-09T17:43:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
      "principal": true
     }
    ]
@@ -5801,6 +8444,31 @@
      "lat": -5.1524,
      "confianza": 0.7,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2666d9524488",
+   "titulo": "Samegua conmemoró su 132 aniversario con actos protocolares",
+   "resumen": "Con una misa Te Deum, el tradicional paseo de la bandera y el izamiento del pabellón nacional, el distrito de Samegua llevó a cabo las actividades protocolares por su 132 aniversario de creación. Las ceremonias congregaron a autoridades locales, representantes del Gobierno Regional, funcionarios…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/samegua-conmemoro-su-132-aniversario-con-actos-protocolares/",
+   "fecha": "2026-11-09T13:50:47Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Samegua",
+     "ubigeo": "180104",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.90025,
+     "lat": -17.18218,
+     "confianza": 0.9,
+     "principal": true
     }
    ]
   },
