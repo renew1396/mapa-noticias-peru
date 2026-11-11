@@ -2,6 +2,994 @@
  "fecha": "2026-11-10",
  "noticias": [
   {
+   "id": "77fe66d338de",
+   "titulo": "La Libertad: asesinan a balazos a una joven madre en Pacasmayo",
+   "resumen": "Su hijo de 5 años, que resultó gravemente herido por proyectil de arma de fuego, fue intervenido quirúrgicamente en el Hospital Regional Docente de Trujillo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/la-libertad-asesinan-a-balazos-a-una-joven-madre-en-pacasmayo-noticia-1717135",
+   "fecha": "2026-11-11T04:59:32Z",
+   "temas": [
+    "seguridad",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pacasmayo",
+     "ubigeo": "130700",
+     "precision": "provincia",
+     "provincia": "Pacasmayo",
+     "departamento": "La Libertad",
+     "lon": -79.51469,
+     "lat": -7.41841,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c47309f4b47b",
+   "titulo": "Papa León XIV: largas colas para recoger credenciales de voluntarios en Lince",
+   "resumen": "Centenares de jóvenes y adultos de la red de voluntarios Amigos de León se concentraron esta noche en el colegio parroquial Santa Rosa de Lince para recoger sus credenciales y participar en las actividades de apoyo durante la visita del papa León XIV a Lima, del 11 al 16 de noviembre.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-largas-colas-para-recoger-credenciales-voluntarios-lince-1099446.aspx",
+   "fecha": "2026-11-11T04:32:51Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lince",
+     "ubigeo": "150116",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03033,
+     "lat": -12.08442,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Santa Rosa",
+     "ubigeo": "150139",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.15696,
+     "lat": -11.78713,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "dbdddec04554",
+   "titulo": "Papa León XIV: Hospital Perú asegura atención médica para los fieles en su misa de Chiclayo",
+   "resumen": "Un equipo de 18 profesionales enviado desde Lima, integrado por ocho médicos, seis enfermeros y cuatro técnicos, reforzará la atención de emergencias durante la multitudinaria concentración",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/lambayeque/papa-leon-xiv-hospital-peru-asegura-atencion-medica-para-los-fieles-en-su-misa-de-chiclayo-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-11T04:31:16Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "08239d88fea0",
+   "titulo": "Dictan nueve meses de prisión preventiva contra seis investigados por asalto a planta minera en Ananea",
+   "resumen": "El Juzgado de Investigación Preparatoria de Ananea dictó nueve meses de prisión preventiva contra Brayahhn A. Luque Q., Fernando F. Quispe M., Edgar Quispe G., Guido O. Ortiz M., Gervacio Luque V. y Christian P. Nina L., investigados como presuntos coautores del delito de robo agravado, con la…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/puno/dictan-nueve-meses-de-prision-preventiva-contra-seis-investigados-por-asalto-a-planta-minera-en-ananea-noticia/",
+   "fecha": "2026-11-11T04:18:38Z",
+   "temas": [
+    "seguridad",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ananea",
+     "ubigeo": "211002",
+     "precision": "distrito",
+     "provincia": "San Antonio de Putina",
+     "departamento": "Puno",
+     "lon": -69.53507,
+     "lat": -14.6785,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "055cd1b907be",
+   "titulo": "Papa León XIV en el Estadio Nacional: cronograma, puertas de ingreso y objetos prohibidos",
+   "resumen": "¿Asistirás a la Vigilia de los Jóvenes con el papa León XIV? Este jueves 12 de noviembre, miles de jóvenes se reunirán con el Santo Padre en el Estadio Nacional, en Lima. Conoce en esta nota el horario de ingreso, los objetos permitidos y prohibidos, además de la hora de inicio del encuentro.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-el-estadio-nacional-cronograma-puertas-ingreso-y-objetos-prohibidos-1099318.aspx",
+   "fecha": "2026-11-11T04:18:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b7634e33e53e",
+   "titulo": "Jauja: Regidora muere por infección generalizada tras complicación por extracción dental",
+   "resumen": "Su estado de salud comenzó a deteriorarse cuando participaba en la contienda electoral como candidata a la alcaldía de Apata por Renovación Popular.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huancayo/jauja-regidora-muere-por-infeccion-generalizada-tras-complicacion-por-extraccion-dental-noticia/",
+   "fecha": "2026-11-11T04:16:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Apata",
+     "ubigeo": "120403",
+     "precision": "distrito",
+     "provincia": "Jauja",
+     "departamento": "Junín",
+     "lon": -75.35435,
+     "lat": -11.85525,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Jauja",
+     "ubigeo": "120400",
+     "precision": "provincia",
+     "provincia": "Jauja",
+     "departamento": "Junín",
+     "lon": -75.50044,
+     "lat": -11.77555,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ab4b8643c4cd",
+   "titulo": "Joven tacneño participa en escuela de formación política de la cooperación alemana",
+   "resumen": "José Alexander Caballero, joven representante de Tacna, fue seleccionado como becario de la Escuela de Formación Política de la Fundación Konrad Adenauer Stiftung (KAS), iniciativa de la cooperación alemana que reúne a líderes juveniles de distintas regiones del país para fortalecer sus…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287987/joven-tacneno-participa-en-escuela-de-formacion-politica-de-la-cooperacion-alemana/",
+   "fecha": "2026-11-11T04:09:46Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "31a4722718fc",
+   "titulo": "Sifuentes tras resolución del JNE que impide a López Aliaga asumir Alcaldía de Lima: \"Renovación Popular está abocado a que se respete el voto\"",
+   "resumen": "Hernán Sifuentes, alcalde de San Martín de Porres, criticó la actuación del Jurado Nacional de Elecciones (JNE) por no haber resuelto oportunamente las impugnaciones presentadas durante el proceso electoral.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/actualidad/sifuentes-tras-resolucion-del-jne-que-impide-a-lopez-aliaga-asumir-alcaldia-de-lima-renovacion-popular-esta-abocado-a-que-se-respete-el-voto-noticia-1717131",
+   "fecha": "2026-11-11T04:07:45Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d588b874570f",
+   "titulo": "Incautan 620 kilos de cocaína valorizados en más de US$18 millones en Lima: tres intervenidos tras operativo policial",
+   "resumen": "Una investigación de inteligencia permitió seguir el cargamento desde el Huallaga hasta un inmueble de Lima sur. En el lugar, los agentes descubrieron cómo se almacenaba la droga e incautaron armamento y equipos de comunicación",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/incautan-620-kilos-de-cocaina-valorizados-en-mas-de-us18-millones-en-lima-tres-intervenidos-tras-operativo-policial/",
+   "fecha": "2026-11-11T04:03:10Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Huallaga",
+     "ubigeo": "220204",
+     "precision": "distrito",
+     "provincia": "Bellavista",
+     "departamento": "San Martín",
+     "lon": -76.64858,
+     "lat": -7.13116,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "acb470259174",
+   "titulo": "Encuentro con el papa León: Cultura señaliza y delimita rutas de acceso a Saqsaywaman",
+   "resumen": "El Ministerio de Cultura, a través de la Dirección Desconcentrada de Cultura (DDC) de Cusco, ejecuta trabajos de señalización y delimitación de las rutas de ingreso y salida a la explanada del Parque Arqueológico Nacional de Saqsaywaman, donde se realizará el encuentro con el papa León XIV, este…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-encuentro-con-papa-leon-cultura-senaliza-y-delimita-rutas-acceso-a-saqsaywaman-1099441.aspx",
+   "fecha": "2026-11-11T04:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Encuentro",
+     "ubigeo": "080908",
+     "ccpp": "0809080011",
+     "precision": "centro_poblado",
+     "provincia": "La Convención",
+     "departamento": "Cusco",
+     "lon": -72.68821,
+     "lat": -13.0392,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c6ee81771403",
+   "titulo": "Banco de la Nación modifica atención en algunas agencias por visita del papa León XIV",
+   "resumen": "El Banco de la Nación informó que sus agencias atenderán con normalidad durante la visita del papa León XIV al Perú, excepto algunas oficinas de Lima Metropolitana y Lambayeque las cuales modificarán sus horarios o suspenderán la atención.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/banco-de-la-nacion-modifica-atencion-en-algunas-agencias-por-visita-del-papa-leon-xiv-noticia/",
+   "fecha": "2026-11-11T03:45:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Banco",
+     "ubigeo": "140310",
+     "ccpp": "1403100048",
+     "precision": "centro_poblado",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.53209,
+     "lat": -6.23391,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "34912221c420",
+   "titulo": "Operación “León del Norte”: el Ejército moviliza a 1.000 soldados y camiones todoterreno para blindar al papa León XIV",
+   "resumen": "El operativo se desarrollará los días 13 y 14 de noviembre, con acciones de vigilancia en la Plaza de Armas de Chiclayo y Santa Cruz de Succhabamba, en coordinación con la Policía Nacional.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/10/operacion-leon-del-norte-el-ejercito-moviliza-a-1000-soldados-y-camiones-todoterreno-para-blindar-al-papa-leon-xiv-623480",
+   "fecha": "2026-11-11T03:29:08Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7ca4518da910",
+   "titulo": "Papa León XIV: ¿Qué calles del Centro Histórico de Lima están cerradas y hasta cuándo?",
+   "resumen": "La Municipalidad Metropolitana de Lima, a través de la Gerencia de Movilidad Urbana (GMU), autorizó el cierre total de diversas vías del Centro Histórico de Lima, con motivo del evento “Visita apostólica de Su Santidad el Papa León XIV al Perú”, programado para este miércoles 11 y jueves 12 de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-calles-del-centro-historico-lima-estan-cerradas-y-hasta-cuando-1099434.aspx",
+   "fecha": "2026-11-11T03:22:10Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "919e5461d068",
+   "titulo": "Allison responsabiliza a López Aliaga y al JNE por crisis en Lima",
+   "resumen": "El excandidato a la alcaldía de Lima cuestionó al JNE y sostuvo que Rafael López Aliaga es uno de los principales responsables de la controversia y pidió que respete la decisión del organismo electoral.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/allison-responsabiliza-lopez-aliaga-y-al-jne-crisis-lima-n496188",
+   "fecha": "2026-11-11T03:15:14Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7885e6bc92dd",
+   "titulo": "La Libertad: trabajos de prevención en el río Chicama ante El Niño alcanza el 50%",
+   "resumen": "En un 50% de avance se encuentran los trabajos de prevención ante el fenómeno El Niño que ejecuta el Gobierno Regional de La Libertad en 10 puntos críticos del río Chicama, ubicado en la provincia de Ascope.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-la-libertad-trabajos-prevencion-el-rio-chicama-ante-nino-alcanza-50-1099439.aspx",
+   "fecha": "2026-11-11T03:12:05Z",
+   "temas": [
+    "desastres",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chicama",
+     "ubigeo": "130202",
+     "precision": "distrito",
+     "provincia": "Ascope",
+     "departamento": "La Libertad",
+     "lon": -79.14404,
+     "lat": -7.84255,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Ascope",
+     "ubigeo": "130200",
+     "precision": "provincia",
+     "provincia": "Ascope",
+     "departamento": "La Libertad",
+     "lon": -79.10728,
+     "lat": -7.7135,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0467fbe5233f",
+   "titulo": "Cuatro sujetos golpean brutalmente a un varón cerca del terminal Manuel A. Odría",
+   "resumen": "Un hombre fue víctima de una brutal agresión por parte de cuatro sujetos en inmediaciones del óvalo de la Dirección Regional de Transportes y el terminal terrestre Manuel A. Odría, en Tacna. La víctima terminó con heridas sangrantes en la cabeza y tuvo que ser trasladada por personal del SAMU al…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287983/cuatro-sujetos-golpean-brutalmente-a-un-varon-cerca-del-terminal-manuel-a-odria/",
+   "fecha": "2026-11-11T03:11:13Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3fd1ac61bd0c",
+   "titulo": "¿Dónde ver al papa León XIV en Lima del 11 al 16 de noviembre? Estos son los puntos de su recorrido",
+   "resumen": "El Santo Padre recorrerá avenidas del Cercado de Lima y Breña a bordo del papamóvil durante sus dos primeros días en el país. La organización también confirmó los tramos que realizará en un vehículo cerrado y los puntos donde se encontrará con los fieles.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/10/donde-ver-al-papa-leon-xiv-en-lima-del-11-al-18-de-noviembre-estos-son-los-puntos-de-su-recorrido-420870",
+   "fecha": "2026-11-11T03:00:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Breña",
+     "ubigeo": "150105",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04598,
+     "lat": -12.05877,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "cbf5484962ef",
+   "titulo": "Papa León XIV y Keiko Fujimori se reúnen este miércoles en Palacio de Gobierno",
+   "resumen": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
+   "fecha": "2026-11-11T03:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5d2151701727",
+   "titulo": "Papa León XIV llega a Lima este miércoles: así estará el clima durante su esperada llegada al Perú",
+   "resumen": "El Senamhi dio a conocer las condiciones meteorológicas que acompañarán la llegada del pontífice a la capital, en una jornada en la que se prevé un clima cálido durante su recibimiento y las primeras actividades oficiales",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-llega-a-lima-este-miercoles-asi-estara-el-clima-durante-su-esperada-llegada-al-peru/",
+   "fecha": "2026-11-11T02:49:23Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bf195c8abe32",
+   "titulo": "Párroco de Tarata destaca visita del papa León XIV y pide fortalecer la fe, la unidad y la esperanza",
+   "resumen": "A pocas horas de la llegada del papa León XIV al Perú, el párroco de Tarata, padre Eleazar Torres, expresó su emoción por la visita del sumo pontífice y destacó el significado especial de recibir a un papa que conoce de cerca la realidad peruana. Durante una entrevista con Radio Uno, señaló que el…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/287977/parroco-de-tarata-destaca-visita-del-papa-leon-xiv-y-pide-fortalecer-la-fe-la-unidad-y-la-esperanza/",
+   "fecha": "2026-11-11T02:42:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tarata",
+     "ubigeo": "230401",
+     "precision": "distrito",
+     "provincia": "Tarata",
+     "departamento": "Tacna",
+     "lon": -70.03188,
+     "lat": -17.47506,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6bc3db2fd38f",
+   "titulo": "Hospital Perú brindará atención médica a fieles durante misa del papa León XIV en Chiclayo",
+   "resumen": "Ante la próxima llegada del papa León XIV a Chiclayo, el Seguro Social de Salud (EsSalud, a través de Hospital Perú, desplegará un operativo especial de atención médica para responder ante posibles emergencias durante la misa que celebrará el santo padre este 13 de noviembre en las Pampas de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-hospital-peru-brindara-atencion-medica-a-fieles-durante-misa-del-papa-leon-xiv-chiclayo-1099431.aspx",
+   "fecha": "2026-11-11T02:32:39Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "dbdddec04554"
+  },
+  {
+   "id": "14aae14ba845",
+   "titulo": "Banco de la Nación modifica horarios de atención en Lima y Lambayeque por visita del papa León XIV: ¿qué agencias cerrarán?",
+   "resumen": "La entidad financiera precisó las fechas en que algunas oficinas atenderán solo hasta la 1:00 p. m. y aquellas que suspenderán sus operaciones durante toda la jornada",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/banco-de-la-nacion-modifica-horarios-de-atencion-en-lima-y-lambayeque-por-visita-del-papa-leon-xiv-que-agencias-cerraran/",
+   "fecha": "2026-11-11T02:27:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Banco",
+     "ubigeo": "140310",
+     "ccpp": "1403100048",
+     "precision": "centro_poblado",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.53209,
+     "lat": -6.23391,
+     "confianza": 0.59,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "grupo": "c6ee81771403",
+   "revisar": true
+  },
+  {
+   "id": "5b7ba9a7a46f",
+   "titulo": "Detienen a dos con armas de fuego durante operativo en el sector Brisas del Huallaga",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/detienen-a-dos-con-armas-de-fuego-durante-operativo-en-el-sector-brisas-del-huallaga-noticia/",
+   "fecha": "2026-11-11T02:11:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huallaga",
+     "ubigeo": "220204",
+     "precision": "distrito",
+     "provincia": "Bellavista",
+     "departamento": "San Martín",
+     "lon": -76.64858,
+     "lat": -7.13116,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b2fc3662a105",
+   "titulo": "Dictan nueve meses de prisión preventiva a seis investigados por asalto a minera en Ananea",
+   "resumen": "El Juzgado de Investigación Preparatoria de Ananea dictó nueve meses de prisión preventiva contra seis investigados por el presunto delito de robo agravado, con la agravante de integrar una organización criminal. La medida responde al asalto ocurrido el pasado 26 de octubre en las instalaciones de…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/10/dictan-nueve-meses-de-prision-preventiva-a-seis-investigados-por-asalto-a-minera-en-ananea/",
+   "fecha": "2026-11-11T02:10:45Z",
+   "temas": [
+    "seguridad",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ananea",
+     "ubigeo": "211002",
+     "precision": "distrito",
+     "provincia": "San Antonio de Putina",
+     "departamento": "Puno",
+     "lon": -69.53507,
+     "lat": -14.6785,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ],
+   "grupo": "08239d88fea0"
+  },
+  {
+   "id": "4682332b35f9",
+   "titulo": "Piura: vecinos de El Bosque denuncian aguas servidas tras fuertes lluvias desde hace una semana [VIDEO]",
+   "resumen": "Rotafono de RPP | En esta zona de Piura estaban haciendo obras de alcantarillado hasta agosto, pero al estar paralizado las intensas lluvias hicieron que colapsen las tuberías y se inunde de aguas servidas.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/rotafono/servicios-publicos/piura-vecinos-de-el-bosque-denuncian-aguas-servidas-tras-fuertes-lluvias-desde-hace-una-semana-fenomeno-el-nino-tuberias-rotas-eps-grau-video-noticia-1717118",
+   "fecha": "2026-11-11T02:10:12Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "feccfa318158",
+   "titulo": "Senador Serafín Andrés Luján visitará Marabamba ante la falta de agua potable en la población",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/senador-serafin-andres-lujan-visitara-marabamba-ante-la-falta-de-agua-potable-en-la-poblacion-noticia/",
+   "fecha": "2026-11-11T02:06:17Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Marabamba",
+     "ubigeo": "100101",
+     "ccpp": "1001010036",
+     "precision": "centro_poblado",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.26495,
+     "lat": -9.94921,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c9944fedcb6d",
+   "titulo": "Equipo de campaña de candidato al Gobierno Regional de Pasco agrede y obstaculiza labor de periodistas",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/equipo-de-campana-de-candidato-al-gobierno-regional-de-pasco-agrede-y-obstaculiza-labor-de-periodistas-noticia/",
+   "fecha": "2026-11-11T02:01:51Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "58b1d84dba2f",
+   "titulo": "Papa León XIV en Perú: mira aquí su agenda oficial del miércoles 11 de noviembre",
+   "resumen": "El papa León XIV llegará este miércoles 11 de noviembre al Perú para iniciar su primera visita apostólica al país, que se extenderá hasta el lunes 16. En su primer día en territorio peruano, el sumo pontífice cumplirá una serie de actividades oficiales en Lima, que marcarán su esperado encuentro…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-peru-mira-aqui-su-agenda-oficial-del-miercoles-11-noviembre-1099371.aspx",
+   "fecha": "2026-11-11T02:00:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5a365f10b62e",
+   "titulo": "Decomisan 620 kilos de cocaína valorizados en US$ 18,6 millones en Villa El Salvador",
+   "resumen": "Un cargamento de 620 kilos de clorhidrato de cocaína, valorizado en aproximadamente US$ 18,6 millones, fue incautado en un inmueble de Villa El Salvador.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/decomisan-620-kilos-de-cocaina-valorizados-en-us-186-millones-en-villa-el-salvador-noticia/",
+   "fecha": "2026-11-11T01:48:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa",
+     "ubigeo": "210105",
+     "ccpp": "2101050061",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.8168,
+     "lat": -15.70619,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a3ca28aff141",
+   "titulo": "Más de 18 mil policías resguardarán la llegada de León XIV al Perú: conoce las restricciones y recomendaciones",
+   "resumen": "La institución dispuso la alerta absoluta de sus efectivos en Lima y reforzará el despliegue policial en las demás regiones que visitará el Santo Padre.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/papa-leon-xiv-en-peru-mas-de-18-mil-policias-resguardaran-su-llegada-noticia-1717115",
+   "fecha": "2026-11-11T01:45:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1a78d801758d",
+   "titulo": "Papa León XIV: FAP traslada papamóvil a Chiclayo",
+   "resumen": "La Fuerza Aérea trasladó el papamóvil a Chiclayo para el recorrido del papa León, quien fue obispo de esta diócesis durante ocho años.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/papa-leon-xiv-fap-traslada-papamovil-chiclayo-n496186",
+   "fecha": "2026-11-11T01:26:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "51ec8787dcef",
    "titulo": "Incendio en colegio por presunta falla de caja de luz dejó daños y sin electricidad a 300 alumnos de Carabayllo",
    "resumen": "El incidente se reportó el domingo 8 de noviembre y dejó sin servicio eléctrico a la institución. Pluz Energía informó que acudió al colegio y logró restablecer el suministro. Además, aseguró que investigará las causas del siniestro.",
@@ -171,6 +1159,31 @@
      "lat": -11.86669,
      "confianza": 0.7,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "24f7c3a1094a",
+   "titulo": "Intervienen a sujeto que amenazaba a transeúntes con arma blanca en Moquegua",
+   "resumen": "Un sujeto que amenazaba a transeúntes con un arma blanca fue intervenido por personal de la Unidad de Serenazgo en la calle Libertad, en la ciudad de Moquegua. La situación generó preocupación entre los vecinos, quienes solicitaron la presencia de la Policía Nacional para que el individuo fuera…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/intervienen-a-sujeto-que-amenazaba-a-transeuntes-con-arma-blanca-en-moquegua/",
+   "fecha": "2026-11-11T01:01:07Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": true
     }
    ]
   },
@@ -2934,6 +3947,54 @@
    ]
   },
   {
+   "id": "2ee6fb75e65c",
+   "titulo": "ODPE Ilo conforma Comité de Crisis ante posibles efectos de El Niño",
+   "resumen": "Representantes del Jurado Electoral Especial (JEE) Mariscal Nieto, la Dirección Regional de Salud (DIRESA) Ilo y el Centro de Operaciones de Emergencia Regional de Moquegua integran el Comité de Crisis conformado por la Oficina Descentralizada de Procesos Electorales (ODPE) Ilo ante los posibles…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/odpe-ilo-conforma-comite-de-crisis-ante-posibles-efectos-de-el-nino/",
+   "fecha": "2026-11-10T21:42:33Z",
+   "temas": [
+    "salud",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Mariscal Nieto",
+     "ubigeo": "180100",
+     "precision": "provincia",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "863a179a236d",
    "titulo": "Afectados por metales pesados cuestionan a parlamentarios de Puno por falta de resultados concretos",
    "resumen": "Félix Suasaca anunció que convocarán a diputados, senadores y ministros en diciembre para exigir presupuesto y acciones frente a la contaminación ambiental en la región El presidente de la Plataforma Regional de Afectados por Metales Pesados, Félix Suasaca, cuestionó que los diputados y senadores…",
@@ -3101,6 +4162,31 @@
      "departamento": "Puno",
      "lon": -70.13343,
      "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b5fdacbf3d82",
+   "titulo": "Clausuran definitivamente local Cinescape por permitir el ingreso de menores de edad",
+   "resumen": "El establecimiento denominado Cinescape fue clausurado definitivamente luego de que la Municipalidad Provincial de Mariscal Nieto (MPMN) revocara su licencia de funcionamiento mediante la Resolución N.º 329-2026, notificada a los administradores del negocio. El fiscal de Prevención del Delito…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/clausuran-definitivamente-local-cinescape-por-permitir-el-ingreso-de-menores-de-edad/",
+   "fecha": "2026-11-10T21:20:29Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mariscal Nieto",
+     "ubigeo": "180100",
+     "precision": "provincia",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
      "confianza": 0.9,
      "principal": true
     }
