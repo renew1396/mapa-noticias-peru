@@ -2,6 +2,2530 @@
  "fecha": "2026-11-11",
  "noticias": [
   {
+   "id": "8b3a0b764713",
+   "titulo": "Temblor en Lima: sismo de magnitud 3,5 remeció Lurín esta noche, según IGP",
+   "resumen": "El sismo de hoy registró a 31 kilómetros al suroeste de Lurín y se produjo a una profundidad de 40 km, según informó el Instituto Geofísico del Perú (IGP).",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/11/temblor-en-lima-sismo-de-magnitud-35-remecio-lurin-esta-noche-segun-igp-mdga-379863",
+   "fecha": "2026-11-12T04:57:46Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lurín",
+     "ubigeo": "150119",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.87037,
+     "lat": -12.27466,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "57feb9d32d20",
+   "titulo": "Chiclayo: paseo de la fe en homenaje al papa León en centro comercial atrae a visitantes",
+   "resumen": "La fe, el arte y las tradiciones religiosas de Lambayeque traspasan los templos y conquistan nuevos espacios. El centro comercial Mall Aventura Chiclayo se ha convertido en uno de los puntos de interés para visitantes nacionales y extranjeros que llegan a la ciudad por la histórica visita del papa…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-chiclayo-paseo-de-fe-homenaje-al-papa-leon-centro-comercial-atrae-a-visitantes-1099595.aspx",
+   "fecha": "2026-11-12T04:32:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7849b4136a99",
+   "titulo": "Menor de 15 años muere atropellada por trimóvil en el centro de Huánuco",
+   "resumen": "Una adolescente de 15 años murió atropellada por un trimóvil en el cruce de los jirones 28 de Julio y Huánuco, a una cuadra de la Plaza de Armas. El conductor fue detenido y la Upiat investiga el caso con el Ministerio Público.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/menor-muere-atropellada-trimovil-huanuco",
+   "fecha": "2026-11-12T04:30:15Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "28 De Julio",
+     "ubigeo": "100605",
+     "ccpp": "1006050057",
+     "precision": "centro_poblado",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -75.8743,
+     "lat": -9.31507,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "grupo": "68491a75f641"
+  },
+  {
+   "id": "ace50ef3d565",
+   "titulo": "León XIV desde balcón de la Nunciatura: \"No tengo palabras para agradecer esta acogida tan calurosa al haber vuelto hoy a mi casa\"",
+   "resumen": "Al cierre de su primer día de visita en el Perú, el papa salió a saludar a los fieles que se congregaron frente a la sede de la misión diplomática vaticana en Jesús María.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/leon-xiv-desde-balcon-de-la-nunciatura-no-tengo-palabras-para-agradecer-esta-acogida-tan-calurosa-al-haber-vuelto-hoy-a-mi-casa-noticia-1717353",
+   "fecha": "2026-11-12T04:14:03Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jesús María",
+     "ubigeo": "150113",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04327,
+     "lat": -12.07561,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b9db9abdbe5c",
+   "titulo": "Del recibimiento en el Callao al discurso en Lima; así fue la primera jornada del papa León XIV en Perú: “He vuelto a mi casa”",
+   "resumen": "En su primer día en Perú, el papa León XIV se trasladó al Palacio de Gobierno en el papamóvil. Durante el recorrido, saludó a decenas de miles de peruanos que abarrotaron kilómetros de calles. Luego dio un discurso en el Gran Teatro Nacional. La jornada terminará en la Nunciatura Apostólica, donde…",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-en-peru-en-vivo-minuto-a-minuto-de-su-llegada-recorrido-calles-cerradas-y-ultimas-noticias-del-santo-padre/",
+   "fecha": "2026-11-12T04:12:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "add696815645",
+   "titulo": "Controladora aérea se conmovió tras dedicarle mensaje al papa León XIV: “Que su visita fortalezca nuestra fe”",
+   "resumen": "Un emotivo momento se vivió durante la llegada del papa León XIV al Perú. Una controladora aérea del aeropuerto internacional Jorge Chávez aprovechó la comunicación con la tripulación del avión para dedicarle un mensaje de bienvenida al Santo Padre. Luego de autorizar el aterrizaje de la aeronave…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/11/controladora-aerea-se-conmovio-tras-dedicarle-mensaje-al-papa-leon-xiv-que-su-visita-fortalezca-nuestra-fe/",
+   "fecha": "2026-11-12T04:12:05Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jorge Chávez",
+     "ubigeo": "060305",
+     "precision": "distrito",
+     "provincia": "Celendín",
+     "departamento": "Cajamarca",
+     "lon": -78.0918,
+     "lat": -6.94107,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5824c82c602f",
+   "titulo": "Papa León XIV llega a la Nunciatura Apostólica de Lima y saluda a los peruanos desde el balcón: “Aquí estoy en casa”",
+   "resumen": "Ante una multitud que lo esperaba en Lima, el papa expresó su emoción por regresar al Perú y aseguró sentirse nuevamente en casa. También hizo una distendida referencia a los vecinos que necesitaban dormir y pidió que la celebración no se prolongara durante toda la noche",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/12/papa-llega-a-la-nunciatura-apostolica-de-lima-y-saluda-a-los-peruanos-desde-el-balcon-aqui-estoy-en-casa/",
+   "fecha": "2026-11-12T04:11:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ae56092026a9",
+   "titulo": "Dengue en Huánuco suma 1602 casos y un menor fallecido en Aucayacu",
+   "resumen": "Huánuco acumula 1602 casos de dengue, con 244 nuevos contagios en la última semana, según la Diresa. Se confirmó la muerte de un menor de Aucayacu y el puesto de salud de Luyando colapsó por la demanda.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/dengue-huanuco-1602-casos-menor-fallecido",
+   "fecha": "2026-11-12T04:10:07Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Aucayacu",
+     "ubigeo": "100604",
+     "ccpp": "1006040001",
+     "precision": "centro_poblado",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.11608,
+     "lat": -8.93217,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Luyando",
+     "ubigeo": "100605",
+     "precision": "distrito",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -75.99406,
+     "lat": -9.24819,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2682dfb484da",
+   "titulo": "La marinera “Que viva Chiclayo” cautiva al papa León XIV durante ceremonia de bienvenida en el Gran Teatro Nacional",
+   "resumen": "Histórica presentación de la marinera norteña \"¡Qué viva Chiclayo!\", el Ballet Folclórico Nacional, el Coro Nacional de Niños y la Orquesta Juvenil Bicentenario emocionaron al Sumo Pontífice al evocar su estadía como obispo en Chiclayo.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/papa-leon-xiv-en-peru-la-marinera-que-viva-chiclayo-cautiva-al-santo-padre-durante-ceremonia-de-bienvenida-en-el-gran-teatro-nacional-lima-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-12T04:00:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6675ea8a92db",
+   "titulo": "Papa León XIV destaca su relación con el Perú y llama a la unidad: los temas clave de su primer discurso",
+   "resumen": "El papa León XIV se reúne este miércoles desde las 7.45 p.m. con las principales autoridades del Estado, representantes de la sociedad civil e integrantes del cuerpo diplomático en el Gran Teatro Nacional, en San Borja.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/actualidad/en-vivo-papa-leon-xiv-da-su-primer-discurso-en-su-visita-al-pais-en-el-gran-teatro-nacional-apuesplan-noticia/",
+   "fecha": "2026-11-12T03:58:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Borja",
+     "ubigeo": "150130",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.99899,
+     "lat": -12.10709,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c9e2fc967a3a",
+   "titulo": "León XIV en Lima: “Aquí estoy en casa”, dijo en la Nunciatura",
+   "resumen": "El santo padre salió a saludar a los cientos de fieles que lo esperaban frente a la Nunciatura Apostólica. Agradeció las muestras de cariño y las oraciones, y pidió a los peruanos convertirse en promotores de paz, unidad y reconciliación.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/leon-xiv-lima-aqui-estoy-casa-dijo-nunciatura-n496201",
+   "fecha": "2026-11-12T03:48:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ab68dc0973e8",
+   "titulo": "Papa León XIV: Así fue el primer día de su visita al Perú",
+   "resumen": "El sumo pontífice llegó a la Base Aérea del Callao procedente de Argentina. Durante su primera jornada cumplirá actividades oficiales en Palacio de Gobierno y el Gran Teatro Nacional. Su visita apostólica se extenderá hasta el 16 de noviembre e incluirá encuentros con fieles de distintas regiones…",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/papa-leon-xiv-peru-visita-apostolica-agenda-hoy-lima-n496194",
+   "fecha": "2026-11-12T03:44:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d6fcca377087",
+   "titulo": "Papa León XIV en Lima: bus del Metropolitano acompañó su recorrido con pasajeros a bordo",
+   "resumen": "Usuarios en redes sociales captaron el insólito momento en la Vía Expresa, donde la unidad de transporte coincidió con el paso de la comitiva oficial mientras cumplía su ruta habitual.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-en-lima-bus-del-metropolitano-acompano-su-recorrido-con-pasajeros-a-bordo-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-12T03:35:23Z",
+   "temas": [
+    "transporte",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "34a6823a8c84",
+   "titulo": "Hasta 3 millones de personas recibieron al papa León XIV en Lima, según el Vaticano (FOTOS)",
+   "resumen": "El Vaticano difundió la cifra de asistentes al recorrido del pontífice, quien llegó al Perú como parte de la última etapa de su gira latinoamericana",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-unos-3-millones-de-personas-tomaron-las-calles-de-lima-para-darle-la-bienvenida-segun-el-vaticano-noticia/",
+   "fecha": "2026-11-12T03:32:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "12e7995eb7f2",
+   "titulo": "León XIV descansará en la Nunciatura Apostólica de Lima: por qué se eligió este lugar que también alojó a Juan Pablo II y a Francisco",
+   "resumen": "El santo padre se hospedará durante tres días en este sitio que funciona como representación diplomática del Vaticano en su visita oficial al país.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/11/leon-xiv-descansara-en-la-nunciatura-apostolica-de-lima-por-que-se-eligio-este-lugar-que-tambien-alojo-a-juan-pablo-ii-y-a-francisco-353375",
+   "fecha": "2026-11-12T03:31:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "83f61f2fb665",
+   "titulo": "Sacerdote Leonardo Gómez tras encuentro con León XIV: El papa despierta conciencias en el pueblo peruano",
+   "resumen": "La llegada del papa León XIV al Perú no solo ha generado expectativa entre los fieles, sino también emoción entre los integrantes de la Iglesia católica que viajaron a Lima para participar de las actividades de bienvenida. Uno de ellos fue el sacerdote Leonardo Gómez, quien relató a Radio Uno la…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288099/sacerdote-leonardo-gomez-tras-encuentro-con-leon-xiv-el-papa-despierta-conciencias-en-el-pueblo-peruano/",
+   "fecha": "2026-11-12T03:29:50Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "972619e8079a",
+   "titulo": "Minem impulsa medidas para aumentar generación eléctrica en San Martín",
+   "resumen": "El Ministerio de Energía y Minas (Minem) dispuso medidas de corto y mediano plazo para incrementar la generación eléctrica y fortalecer la infraestructura de transmisión del sistema eléctrico Tarapoto-Yurimaguas, con el objetivo de garantizar la continuidad del suministro de energía en la región…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-minem-impulsa-medidas-para-aumentar-generacion-electrica-san-martin-1099589.aspx",
+   "fecha": "2026-11-12T03:15:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín",
+     "ubigeo": "220303",
+     "precision": "distrito",
+     "provincia": "El Dorado",
+     "departamento": "San Martín",
+     "lon": -76.7405,
+     "lat": -6.51441,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8ce36c715075",
+   "titulo": "Sector Ambiente fortalece gestión de residuos sólidos en Pimentel por visita del papa León",
+   "resumen": "Ante la próxima visita del papa León XIV a Lambayeque, el Ministerio del Ambiente (Minam) gestionó y concretó la donación de equipamiento y materiales a la Municipalidad Distrital de Pimentel, para fortalecer la gestión de residuos sólidos, prevenir puntos críticos de contaminación y proteger la…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sector-ambiente-fortalece-gestion-residuos-solidos-pimentel-visita-del-papa-leon-1099584.aspx",
+   "fecha": "2026-11-12T03:14:00Z",
+   "temas": [
+    "medio_ambiente",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pimentel",
+     "ubigeo": "140112",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.93573,
+     "lat": -6.8354,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ca63ed131df4",
+   "titulo": "Papa León XIV pasará primera noche en la Nunciatura Apostólica: rezó el Padre Nuestro",
+   "resumen": "El papa León XIV llegó esta noche a la Nunciatura Apostólica, sede diplomática del Vaticano en el distrito limeño de Jesús María, donde pasará su primera noche en el Perú, luego de cumplir las actividades oficiales programadas en el primer día de su visita apostólica al país.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-pasara-primera-noche-la-nunciatura-apostolica-rezo-padre-nuestro-1099588.aspx",
+   "fecha": "2026-11-12T03:04:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jesús María",
+     "ubigeo": "150113",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04327,
+     "lat": -12.07561,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6458241fa00f",
+   "titulo": "La Nunciatura Apostólica es el lugar de hospedaje del papa León XIV en Lima: dónde queda y por qué fue elegida",
+   "resumen": "Esta residencia diplomática de la Santa Sede servirá como lugar de descanso del sumo pontífice entre actos religiosos e institucionales, bajo controles de seguridad y limitaciones de acceso",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/la-nunciatura-apostolica-sera-el-lugar-de-alojamiento-del-papa-leon-xiv-en-lima-donde-queda-y-por-que-fue-elegida/",
+   "fecha": "2026-11-12T02:57:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6f78124547d0",
+   "titulo": "Papa León XIV en Perú: sigue el MINUTO A MINUTO de sus actividades en Lima [EN VIVO]",
+   "resumen": "El papa León XIV inicia este miércoles 11 de noviembre su visita apostólica al Perú, procedente de Argentina, donde culminó una agenda de actividades antes de abordar el avión que lo trasladó a Lima. Sigue en esta nota minuto a minuto todos los detalles de su partida, llegada al Perú, recibimiento…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-peru-sigue-minuto-a-minuto-sus-actividades-lima-vivo-1099466.aspx",
+   "fecha": "2026-11-12T02:50:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "a9ffad184395"
+  },
+  {
+   "id": "40b14886bd6e",
+   "titulo": "Fotos de la fiesta en Chiclayo por la llegada del papa León XIV: así celebran el regreso del padre Robert Prevost",
+   "resumen": "El Sumo Pontífice arribó la Base Aérea en su sede del Grupo Aéreo N.° 8 y se reencontró con los miles de fieles de la iglesia católica en Lima.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/fotos-de-la-fiesta-en-chiclayo-por-la-llegada-del-papa-leon-xiv-la-emotiva-bienvenida-al-padre-robert-prevost/",
+   "fecha": "2026-11-12T02:48:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "60053c055331",
+   "titulo": "Papa León XIV llama a proteger el ambiente y a respetar a las comunidades de la Amazonía, los Andes y el litoral peruano",
+   "resumen": "Durante su intervención en el Gran Teatro Nacional de Lima, el pontífice incluyó la agricultura, la pesca y la minería entre las actividades que deben considerar la preservación ambiental y a quienes viven de ellas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/12/papa-leon-xiv-llama-a-proteger-el-ambiente-y-a-respetar-a-las-comunidades-de-la-amazonia-los-andes-y-el-litoral-peruano/",
+   "fecha": "2026-11-12T02:45:14Z",
+   "temas": [
+    "economia",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9d9ffc86aae7",
+   "titulo": "“Regreso a mi patria”: León XIV recordó ante Keiko Fujimori los años que compartió en Perú y pidió respetar a las comunidades y avanzar hacia la paz",
+   "resumen": "El pontífice abrió su agenda apostólica en Lima con un mensaje sobre las décadas vividas en el país, cuya nacionalidad obtuvo en 2015 tras dirigir la diócesis de Chiclayo durante varios años",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/12/regreso-a-mi-patria-leon-xiv-recordo-ante-keiko-fujimori-las-decadas-que-compartio-en-el-pais-y-pidio-respetar-a-las-comunidades-y-avanzar-hacia-la-paz/",
+   "fecha": "2026-11-12T02:40:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b20f2c3f9bfe",
+   "titulo": "Tacna: Washington Zeballos es elegido rector de la Universidad Jorge Basadre",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tacna/tacna-washington-zeballos-es-elegido-rector-de-la-universidad-jorge-basadre-noticia/",
+   "fecha": "2026-11-12T02:38:52Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8244bbf0b3ef",
+   "titulo": "Arequipa: Festival del Chancho ofrecerá platos desde S/ 15 en el mercado San Camilo",
+   "resumen": "Una variedad de platos elaborados a base de carne de cerdo se ofrecerá este sábado 14 de noviembre durante el Festival Gastronómico del Chancho, que se desarrollará desde las 10:00 horas en el mercado San Camilo de Arequipa. La actividad es organizada por los comerciantes con el objetivo de…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-festival-del-chancho-ofrecera-platos-desde-s-15-en-el-mercado-san-camilo-noticia/",
+   "fecha": "2026-11-12T02:38:40Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "eb43517dbec5",
+   "titulo": "Grupo 5 actuará en la despedida del papa León XIV en la Base Aérea Las Palmas",
+   "resumen": "La agrupación liderada por los hermanos Christian, Andy y Elmer Yaipén se presentará el lunes 16 de noviembre en Santiago de Surco, ante miles de fieles congregados para la última actividad pública del pontífice en el país.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/12/grupo-5-actuara-en-la-despedida-del-papa-leon-xiv-en-la-base-aerea-las-palmas/",
+   "fecha": "2026-11-12T02:33:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santiago de Surco",
+     "ubigeo": "150140",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.00494,
+     "lat": -12.14509,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b81a5d95a81b",
+   "titulo": "Papa León XIV en Lima: Más de 11 kilómetros de cola desde la Base Naval hasta la altura de Pershing en Jesús María",
+   "resumen": "Más de 11 kilómetros de fe y esperanza marcaron la jornada de este miércoles 11 de noviembre, luego de que miles de fieles y vecinos se dieran cita desde tempranas horas para presenciar la llegada del papa León XIV a nuestro país.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/papa-leon-xiv-en-lima-hubo-11-kilometros-de-cola-desde-la-base-naval-hasta-la-altura-de-pershing-en-jesus-maria-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-12T02:28:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jesús María",
+     "ubigeo": "150113",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04327,
+     "lat": -12.07561,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0cdfecc9ef8a",
+   "titulo": "Arequipa: alcalde electo de Miraflores reforzará la seguridad ciudadana",
+   "resumen": "El alcalde electo de Miraflores, en Arequipa, Alex Bellido, aseguró hoy que su distrito no es una zona roja e informó que reforzará las acciones de seguridad ciudadana desde enero de 2027. Para ello, planteó desarrollar un trabajo coordinado con la Policía Nacional, las juntas vecinales y los…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-alcalde-electo-de-miraflores-reforzara-la-seguridad-ciudadana-noticia/",
+   "fecha": "2026-11-12T02:24:27Z",
+   "temas": [
+    "politica_local",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "040110",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52245,
+     "lat": -16.39472,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "32929f2b9701",
+   "titulo": "“Dos para el camino” llega a San Isidro con cuatro funciones de teatro en Lima",
+   "resumen": "La obra Dos para el camino, de César de María, tendrá cuatro funciones en San Isidro, Lima, desde el 14 de noviembre. Entradas desde S/25 en el CAFAE-SE.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/cultura/dos-para-el-camino-llega-a-san-isidro-con-cuatro-funciones-de-teatro-en-lima-noticia/",
+   "fecha": "2026-11-12T02:23:57Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Isidro",
+     "ubigeo": "150131",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02725,
+     "lat": -12.09775,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "María",
+     "ubigeo": "010511",
+     "precision": "distrito",
+     "provincia": "Luya",
+     "departamento": "Amazonas",
+     "lon": -77.9609,
+     "lat": -6.42881,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "65085e60c275",
+   "titulo": "León XIV vuelve a casa: «Regreso a mi patria», expresa el papa en su llegada al Perú",
+   "resumen": "El papa León XIV ya está en el Perú. El sumo pontífice arribó este miércoles 11 de noviembre a las 5:02 p. m. a la Base Aérea del Callao, procedente de Buenos Aires, Argentina, dando inicio a su primera visita apostólica al país desde que asumió el pontificado. Su llegada tuvo un significado…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288096/leon-xiv-vuelve-a-casa-regreso-a-mi-patria-expresa-el-papa-en-su-llegada-al-peru/",
+   "fecha": "2026-11-12T02:20:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "911139c75399",
+   "titulo": "Papa León XIV: Cerca de tres millones de personas tomaron las calles para darle la bienvenida",
+   "resumen": "Desde el aeropuerto del Callao hasta el Centro de Lima, más de tres millones de personas tomaron las calles para dar la bienvenida al papa León VIX. Durante los próximos días, León XIV realizará actividades en Chiclayo, Pucallpa y Cusco.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/papa-leon-xiv-cerca-de-tres-millones-de-personas-tomaron-las-calles-de-lima-y-callao-para-darle-la-bienvenida-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-12T02:19:00Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "67e396827348",
+   "titulo": "Papa León XIV: “Regreso también a mi patria”, dice en Lima",
+   "resumen": "Durante su primer discurso en Lima, el sumo pontífice recordó los años que compartió con las comunidades peruanas, agradeció el cariño recibido y destacó que el país forma parte de su propia historia. También hizo un llamado a fortalecer la unidad, escuchar a la ciudadanía y trabajar por el bien…",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/papa-leon-xiv-regreso-tambien-mi-patria-dice-lima-n496200",
+   "fecha": "2026-11-12T02:17:03Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8b95055a5428",
+   "titulo": "“El papa es peruano”: fieles reciben con júbilo y fe a León XIV en Lima",
+   "resumen": "Miles de católicos abarrotaron las principales avenidas de la capital para acompañar el trayecto del pontífice desde el Callao hasta el Palacio de Gobierno.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-fieles-reciben-con-jubilo-y-fe-al-sumo-pontifice-en-lima-el-papa-es-peruano-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-12T02:13:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c09ef4002b71",
+   "titulo": "Cuestionan retiro de tarifas económicas en vuelos Arequipa - Cusco",
+   "resumen": "El expresidente de la Asociación de Agencias de Viajes y Turismo (AVIT) de Arequipa, Eddy Carpio, cuestionó la desaparición de las tarifas económicas en los vuelos de la ruta Arequipa-Cusco, ante el aumento de la demanda de pasajeros por la visita del papa León XIV prevista para el domingo 15 de…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/cuestionan-retiro-de-tarifas-economicas-en-vuelos-arequipa-cusco-noticia/",
+   "fecha": "2026-11-12T02:07:46Z",
+   "temas": [
+    "transporte",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "fd8fc6fe4a42",
+   "titulo": "La llegada del papa León XIV al Perú se celebró en Cusco con un repique de campanas en dos históricos templos",
+   "resumen": "El Arzobispado del Cusco destacó que el repique representa una expresión de \"esperanza y alegría\" de los fieles ante la próxima visita del pontífice, prevista para este domingo 15 de noviembre.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/12/la-llegada-del-papa-leon-xiv-al-peru-se-celebro-en-cusco-con-un-repique-de-campanas-en-dos-historicos-templos/",
+   "fecha": "2026-11-12T02:07:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7badc06e5068",
+   "titulo": "Keiko Fujimori: “El Perú recibe al papa León XIV con el corazón abierto”",
+   "resumen": "La presidenta Keiko Fujimori afirmó que el Perú recibe al papa León XIV “con el corazón abierto”, luego de darle la bienvenida a su llegada a Lima. A través de una publicación en la plataforma X, la mandataria expresó su emoción por el retorno del sumo pontífice al país y destacó el cariño de los…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/11/keiko-fujimori-el-peru-recibe-al-papa-leon-xiv-con-el-corazon-abierto/",
+   "fecha": "2026-11-12T01:51:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "d14fdbd29dcd"
+  },
+  {
+   "id": "8c5f259d94e8",
+   "titulo": "Fiscalía interviene concurso de contratación y reasignación en Salud tras quejas de postulantes en Puno",
+   "resumen": "La intervención preventiva se realizó ante presuntas irregularidades en la calificación de currículums vítae. El Ministerio Público exhortó a la comisión evaluadora a respetar las bases del proceso La Fiscalía de Prevención del Delito intervino el proceso de calificación de expedientes del…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/fiscalia-interviene-concurso-de-contratacion-y-reasignacion-en-salud-tras-quejas-de-postulantes-en-puno/",
+   "fecha": "2026-11-12T01:49:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b7cfbd526ea3",
+   "titulo": "Radio Onda Azul desplegará equipo periodístico en tres ciudades para cubrir la visita del papa León XIV",
+   "resumen": "Periodistas de la emisora informarán desde Lima, Chiclayo y Cusco sobre las actividades oficiales y los mensajes del Santo Padre durante su visita apostólica al Perú Radio Onda Azul obtuvo las acreditaciones gestionadas ante el Ministerio de Relaciones Exteriores para realizar la cobertura…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/radio-onda-azul-desplegara-equipo-periodistico-en-tres-ciudades-para-cubrir-la-visita-del-papa-leon-xiv/",
+   "fecha": "2026-11-12T01:49:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "ac3aa13ceb61",
+   "titulo": "Vicente Imhof descarta divisiones en la Iglesia de Puno por diferencias entre sacerdotes diocesanos y franciscanos",
+   "resumen": "El administrador apostólico destacó que las distintas formas de vida religiosa no impiden trabajar por una misma misión pastoral y anunció que promoverá el diálogo entre sacerdotes y religiosos El administrador apostólico de la Diócesis de Puno, padre Vicente Miguel Imhof, descartó que su…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/vicente-imhof-descarta-divisiones-en-la-iglesia-de-puno-por-diferencias-entre-sacerdotes-diocesanos-y-franciscanos/",
+   "fecha": "2026-11-12T01:49:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e1268f65c6b0",
+   "titulo": "Fotos inéditas de Robert Prevost que demuestran que el papa León XIV es peruano de corazón",
+   "resumen": "Capturas de distintas décadas retratan al pontífice en celebraciones comunitarias, actividades sociales y encuentros cotidianos durante su paso por Chulucanas, Trujillo y la diócesis que lideró en el norte del país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/12/fotos-ineditas-de-robert-prevost-que-demuestran-que-el-papa-leon-xiv-es-peruano-de-corazon/",
+   "fecha": "2026-11-12T01:49:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chulucanas",
+     "ubigeo": "200401",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d2b37b232c06",
+   "titulo": "Papa León XIV en Perú: Así fue su recorrido en el ‘Papamóvil’ por el Centro de Lima rumbo a Palacio de Gobierno (FOTOS)",
+   "resumen": "El papa León XIV recorrió las calles del Centro de Lima a bordo del Papamóvil, desde su llegada a la capital hasta Palacio de Gobierno, donde fue recibido por la presidenta Keiko Fujimori. Durante el trayecto, cientos de fieles se congregaron en distintos puntos para saludar al sumo pontífice y…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-en-peru-asi-fue-su-recorrido-en-el-papamovil-por-el-centro-de-lima-rumbo-a-palacio-de-gobierno-fotos-noticia/",
+   "fecha": "2026-11-12T01:41:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ],
+   "grupo": "89a933113238"
+  },
+  {
+   "id": "027b8de76af4",
+   "titulo": "Padres toman colegio Sarita Colonia en Belén y exigen cambio de director",
+   "resumen": "Padres de la IE N° 601630 Sarita Colonia, en Belén (Iquitos), impidieron el ingreso de docentes para exigir el cambio del director Charles del Águila por presuntas irregularidades administrativas. La propietaria del local de contingencia reclama S/ 4,000 de alquiler impago y dijo que no renovará…",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/padres-toman-colegio-sarita-colonia-exigen-cambio-director",
+   "fecha": "2026-11-12T01:40:06Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Belén",
+     "ubigeo": "160112",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.26004,
+     "lat": -3.76906,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "53d7026350a5",
+   "titulo": "Chiclayanos lloran al observar por pantalla gigante llegada del papa León XIV al Perú",
+   "resumen": "Frente a la pantalla gigante un grupo de mujeres llora, más adelante otras cantan, los niños levantan las manos y varias parejas de marinera agitan el pañuelo en el parque principal de Chiclayo, en la región Lambayeque, al observar la llegada del papa León XIV al Perú.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-chiclayanos-lloran-al-observar-pantalla-gigante-llegada-del-papa-leon-xiv-al-peru-1099581.aspx",
+   "fecha": "2026-11-12T01:38:14Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "af06e6c0ef24",
+   "titulo": "Arequipa: Este 12 de noviembre se realiza el “IV Festival de Danzas del Adulto Mayor”",
+   "resumen": "Las integrantes del Centro Integral del Adulto Mayor-CIAM de Yanahuara se unen a las festividades por el CLVI aniversario de elevación a villa del distrito; en esta ocasión, las más de 300 integrantes de las siete sedes participarán de la IV edición del Festival de Danzas del Adulto Mayor que se…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/11/arequipa-este-12-de-noviembre-se-realiza-el-iv-festival-de-danzas-del-adulto-mayor/",
+   "fecha": "2026-11-12T01:37:14Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yanahuara",
+     "ubigeo": "040126",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.53625,
+     "lat": -16.38188,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "046b7314fd87",
+   "titulo": "Papa León XIV sorprende al bajar la luna de su auto para saludar a los fieles peruanos durante su llegada a Lima",
+   "resumen": "El pontífice respondió con un gesto inusual a bordo de su vehículo oficial, mientras se dirigía al Palacio de Gobierno para reunirse con Keiko Fujimori",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-sorprende-al-bajar-la-luna-de-su-auto-para-saludar-a-los-fieles-peruanos-durante-su-llegada-a-lima/",
+   "fecha": "2026-11-12T01:16:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "89a933113238",
+   "titulo": "Papa León XIV en Perú: así fue su recorrido en el 'papamóvil' por el Centro de Lima en su camino a Palacio de Gonierno",
+   "resumen": "El pontífice volvió a su tierra y tuvo un emotivo recorrido por las calles de la capital antes de reunirse con Keiko Fujimori en Palacio de Gobierno.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/papa-leon-xiv-en-peru-asi-fue-su-recorrido-en-el-papamovil-por-el-centro-de-lima-en-su-camino-a-palacio-de-gonierno-noticia-1717340",
+   "fecha": "2026-11-12T01:12:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "168754437789",
+   "titulo": "El papa León XIV emocionó a los periodistas limeños durante su primer recorrido por las calles de la capital",
+   "resumen": "Conductores de distintos canales nacionales se emocionaron en vivo mientras narraban el paso del Santo Padre por Lima y el Callao, entre muestras de cariño del público.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/12/el-papa-leon-xiv-emociono-a-los-periodistas-limenos-durante-su-primer-recorrido-por-las-calles-de-la-capital/",
+   "fecha": "2026-11-12T01:11:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "ab6752e57050",
+   "titulo": "“Bendito el que viene en el nombre del Señor”: Emotiva bienvenida de una controladora aérea al papa León XIV",
+   "resumen": "La trabajadora dedicó un emotivo mensaje al pontífice tras su aterrizaje en Lima, en el que expresó la alegría del Perú por recibirlo",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-en-peru-bendito-el-que-viene-en-el-nombre-del-senor-emotiva-bienvenida-controladora-aerea-noticia/",
+   "fecha": "2026-11-12T01:06:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "96d294c1b898",
+   "titulo": "Papa León XIV en Perú: Fieles explotan en algarabía cuando el santo padre se subió al papamóvil",
+   "resumen": "El sumo pontífice atraviesa Lima en el papamóvil tras llegar desde Argentina. Fieles se concentraron en las avenidas del trayecto para acompañar su ingreso al Centro Histórico",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/12/papa-leon-xiv-en-peru-fieles-explotan-en-algarabia-cuando-el-santo-padre-se-subio-al-papamovil/",
+   "fecha": "2026-11-12T01:06:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3d47821c6ab2",
+   "titulo": "Los primeros minutos del papa León XIV en suelo peruano: honores, autoridades, sonrisas y emoción del santo padre y los peruanos",
+   "resumen": "El sumo pontífice llegó al Grupo Aéreo N.º 8 del Callao procedente de Argentina y fue recibido por la presidenta Keiko Fujimori, autoridades de Gobierno, representantes religiosos y niños",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/los-primeros-minutos-del-papa-leon-xiv-en-suelo-peruano-honores-autoridades-sonrisas-y-emocion-del-santo-padre-y-los-peruanos/",
+   "fecha": "2026-11-12T01:06:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d14fdbd29dcd",
+   "titulo": "Keiko Fujimori da la bienvenida al papa León XIV: “El Perú lo recibe con el corazón abierto”",
+   "resumen": "La presidenta Keiko Fujimori expresó su emoción por el retorno del papa León XIV al Perú y le dio la bienvenida en su llegada a Lima, donde miles de fieles se congregaron para recibir al sumo pontífice durante su visita apostólica.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/keiko-fujimori-da-la-bienvenida-al-papa-leon-xiv-el-peru-lo-recibe-con-el-corazon-abierto-noticia/",
+   "fecha": "2026-11-12T00:56:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "48eb805044c9",
+   "titulo": "Itinerario oficial de la visita del papa León XIV en Perú del 11 al 16 de noviembre",
+   "resumen": "La agenda contempla actividades oficiales, encuentros con autoridades religiosas y civiles, misas multitudinarias y reuniones con fieles en Lima, Chiclayo, Cajamarca, Cusco y Pucallpa",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/itinerario-oficial-de-la-visita-del-papa-leon-xiv-en-peru-del-11-al-16-de-noviembre/",
+   "fecha": "2026-11-12T00:51:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3f6118220a6c",
+   "titulo": "¡PUCALLPA SE PREPARA PARA RECIBIR AL PAPA LEÓN XIV! ESSALUD DESPLEGARÁ TRES AMBULANCIAS Y PERSONAL MÉDICO ESPECIALIZADO",
+   "resumen": "Fuente: EsSalud El despliegue incluirá profesionales de salud, unidades de emergencia y respaldo hospitalario para atender a los fieles durante las actividades programadas para este 15 de noviembre. Lima, 11 de noviembre 2026.– En el marco de las actividades programadas por la visita del papa León…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/pucallpa-se-prepara-para-recibir-al-papa-leon-xiv-essalud-desplegara-tres-ambulancias-y-personal-medico-especializado/",
+   "fecha": "2026-11-12T00:51:09Z",
+   "temas": [
+    "salud",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2628ddd05790",
+   "titulo": "Metropolitano cierra estaciones por paso de papa León XIV y usuarios bajan de buses ante fuerte congestión",
+   "resumen": "La congestión vehicular y el cierre de algunas estaciones del Metropolitano por el paso del papa León XIV dificultaron el tránsito hacia el centro de Lima y generaron complicaciones para los pasajeros del servicio.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/11/metropolitano-cierra-estaciones-por-paso-de-papa-leon-xiv-y-usuarios-bajan-de-buses-ante-fuerte-congestion-139964",
+   "fecha": "2026-11-12T00:39:51Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6c67605beb6e",
+   "titulo": "Decenas de fieles esperaron al papa León XIV en el Metropolitano y recibieron con emoción su cálido saludo",
+   "resumen": "Entre banderines blancos y celulares en alto, los asistentes aprovecharon su paso por la avenida Alfonso Ugarte para acercarse visualmente al Santo Padre y expresarle su afecto durante su primer recorrido por Lima",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/12/decenas-de-fieles-esperaron-al-papa-leon-xiv-en-el-metropolitano-y-recibieron-con-emocion-su-calido-saludo/",
+   "fecha": "2026-11-12T00:38:16Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "df53e0816e21",
+   "titulo": "Puno: Incautan 64 kilos de marihuana ocultos en una encomienda",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/puno/puno-incautan-64-kilos-de-marihuana-ocultos-en-una-encomienda-noticia/",
+   "fecha": "2026-11-12T00:35:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "cb2762a15dbe"
+  },
+  {
+   "id": "7b8c7031b625",
+   "titulo": "Papa León XIV es peruano: decenas de miles de fieles abarrotan las calles de Lima para saludar al santo padre",
+   "resumen": "Familias enteras, adultos mayores y niños esperaron durante horas para ver al santo padre, quien respondió a las muestras de afecto con saludos desde el vehículo oficial y el papamóvil",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/12/desde-el-callao-hasta-palacio-de-gobierno-miles-de-fieles-abarrotan-las-calles-de-lima-para-saludar-al-papa-leon-xiv/",
+   "fecha": "2026-11-12T00:34:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f868d8d085a8",
+   "titulo": "“Raíces de Orrego”: UPAO Piura descubre la historia detrás del pensador",
+   "resumen": "Se presentó el documental que recorre los lugares donde transcurrieron los primeros años de Antenor Orrego y explora la influencia de su entorno Una etapa poco conocida de la vida de Antenor Orrego Espinoza, antes de convertirse en uno de los principales pensadores e intelectuales del norte del…",
+   "medio": "Radio Cutivalú",
+   "medio_id": "cutivalu",
+   "url": "https://www.cutivalu.pe/raices-de-orrego-upao-piura-descubre-la-historia-detras-del-pensador/",
+   "fecha": "2026-11-12T00:33:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "073f2b5de730",
+   "titulo": "El Papa León XIV ya encargó su menú en Chiclayo: Conoce los dos platos principales",
+   "resumen": "El restaurante Trébol, ubicado frente a la catedral de la ciudad de Chiclayo, departamento de Lambayeque, fue testigo de los gustos del hoy Papa León XIV cuando era obispo de la ciudad. Edward Montoya, administrador del local, detalló que los chiclayanos esperan su retorno con ansias. Mientras la…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/11/el-papa-leon-xiv-ya-encargo-su-menu-en-chiclayo-conoce-los-dos-platos-principales/",
+   "fecha": "2026-11-12T00:31:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "01ab660803f7",
+   "titulo": "Estudiantes de Stephen Hawking e Hiram Bingham de Ilo pasaron a etapa regional del concurso de foro y debate",
+   "resumen": "Las instituciones educativas Stephen Hawking e Hiram Bingham ocuparon el primer puesto en el I Concurso Regional de Foro y Debate Estudiantil 2026, realizado durante dos jornadas en el auditorio Isidro Estrada Canavire, en la provincia de Ilo. En la Categoría I, correspondiente al Foro…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/estudiantes-de-stephen-hawking-e-hiram-bingham-de-ilo-pasaron-a-etapa-regional-del-concurso-de-foro-y-debate/",
+   "fecha": "2026-11-12T00:14:33Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0fe9ed1bff6f",
+   "titulo": "Perú emocionado por el papa León XIV: niños, adultos y ancianos se vuelcan a las calles de Lima para verlo",
+   "resumen": "Robert Prevost salió de la Base Aérea del Callao y continuó su desplazamiento hasta la Basílica María Auxiliadora con destino al Palacio de Gobierno, tras arribar hoy, miércoles 11 de noviembre, al Perú",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/peru-emocionado-por-el-papa-leon-xiv-ninos-adultos-y-ancianos-lo-acompanan-en-su-recorrido-con-el-papamovil-por-lima/",
+   "fecha": "2026-11-12T00:12:30Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ac46b6e4cc52",
+   "titulo": "Papa León XIV llega a Palacio de Gobierno: Keiko Fujimori y sus ministros lo reciben en su visita al Perú",
+   "resumen": "A la espera del sumo pontífice, el patio de honor del Palacio se llenó con la presencia del Regimiento de Caballería Mariscal Domingo Nieto y los Húsares de Junín.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/11/papa-leon-xiv-llega-a-palacio-de-gobierno-keiko-fujimori-y-sus-ministros-lo-reciben-en-su-visita-al-peru-hnews-754017",
+   "fecha": "2026-11-12T00:12:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1c973bff00ad",
+   "titulo": "Módulo Penal de San Román–Juliaca cuenta con nueva sede para la atención a la ciudadanía",
+   "resumen": "El Módulo Penal de San Román–Juliaca cuenta con una nueva sede, ubicada en el jirón Pumacahua N.° 223, donde se brinda atención a la ciudadanía y se desarrollan las labores jurisdiccionales en ambientes acondicionados para el servicio de justicia. La implementación de este local fue inaugurada por…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/11/modulo-penal-de-san-roman-juliaca-cuenta-con-nueva-sede-para-la-atencion-a-la-ciudadania/",
+   "fecha": "2026-11-12T00:12:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8c3bacdf5287",
+   "titulo": "Papa León XIV conmueve a miles de fieles que lo reciben entre lágrimas durante su recorrido en papamóvil por Lima",
+   "resumen": "Durante su recorrido, el pontífice otorgó saludos y bendiciones, mientras la multitud expresaba su fervor con lágrimas y aplausos, gritando \"¡El papa es peruano!\".",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/11/papa-leon-xiv-conmueve-a-miles-de-fieles-que-lo-reciben-entre-lagrimas-durante-su-recorrido-en-papamovil-por-lima-474133",
+   "fecha": "2026-11-12T00:10:45Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f5868e9d5833",
+   "titulo": "Papa León XIV bendijo a bebé tras bajar del avión en su llegada al Perú",
+   "resumen": "El gesto ocurrió durante la recepción oficial en el Grupo Aéreo N.° 8 del Callao, donde el pontífice también se acercó a menores del Inabif y Conadis para saludarlos y brindarles su bendición",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/12/papa-leon-xiv-bendijo-a-bebe-tras-bajar-del-avion-en-su-llegada-al-peru/",
+   "fecha": "2026-11-12T00:10:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "aca3bf212cd3",
+   "titulo": "El policía del casco blanco: el gesto de solidaridad que marcó los días de emergencia en La Divisoria",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/el-policia-del-casco-blanco-el-gesto-de-solidaridad-que-marco-los-dias-de-emergencia-en-la-divisoria-noticia/",
+   "fecha": "2026-11-12T00:06:56Z",
+   "temas": [
+    "seguridad",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Divisoria",
+     "ubigeo": "250301",
+     "ccpp": "2503010044",
+     "precision": "centro_poblado",
+     "provincia": "Padre Abad",
+     "departamento": "Ucayali",
+     "lon": -75.78876,
+     "lat": -9.15199,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "cf161c8beb5c",
+   "titulo": "¡A bordo del papamóvil! León XIV recorrió las calles de Lima en medio de muestras de cariño (FOTOS)",
+   "resumen": "El sumo pontífice partió en el papamóvil desde la basílica María Auxiliadora, en Breña, y se desplazó por las principales avenidas del Centro de Lima hasta llegar a Palacio de Gobierno",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-en-peru-a-bordo-del-papamovil-recorrio-calles-de-lima-muestras-de-carino-fotos-noticia/",
+   "fecha": "2026-11-12T00:06:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Breña",
+     "ubigeo": "150105",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04598,
+     "lat": -12.05877,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "cebbd7b0a962",
+   "titulo": "Chiclayo: prisión preventiva a investigado por tocamientos a adolescente con autismo",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-prision-preventiva-a-investigado-por-tocamientos-a-adolescente-con-autismo-noticia/",
+   "fecha": "2026-11-12T00:03:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7fdea3c382fb",
+   "titulo": "Papa León XIV recorrió las calles del Centro de Lima a bordo del 'papamóvil' en su camino a Palacio de Gobierno [VIDEO]",
+   "resumen": "El santo padre salió de la camioneta que lo trasladaba desde el aeropuerto para subirse al 'papamóvil' y bendecir a los miles de peruanos que lo acompañan en el recorrido por la capital rumbo a Palacio de Gobierno.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/leon-xiv-en-peru-papa-recorrio-las-calles-del-centro-de-lima-a-bordo-del-papamovil-en-su-camino-a-palacio-de-gobierno-video-noticia-1717332",
+   "fecha": "2026-11-12T00:01:57Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d6ac83bac8c9",
+   "titulo": "Huánuco: familia de joven atropellada pide justicia y apoyo para trasladar sus restos a Áncash",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-familia-de-joven-atropellada-pide-justicia-y-apoyo-para-trasladar-sus-restos-a-ancash-noticia/",
+   "fecha": "2026-11-12T00:00:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "df702a8f0bd3",
+   "titulo": "Papa León XIV recibe saludo protocolar de Keiko Fujimori: el momento de casi medio minuto en su bienvenida al Perú",
+   "resumen": "La mandataria encabezó la recepción oficial del pontífice en el Callao, donde se produjo el primer encuentro protocolar de ambos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-recibe-saludo-protocolar-de-keiko-fujimori-el-momento-de-casi-medio-minuto-tras-su-llegada-al-peru/",
+   "fecha": "2026-11-11T23:59:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "09febedee368",
+   "titulo": "Las 25 fotos que muestran la emoción del papa León XIV a su llegada al Perú",
+   "resumen": "El sumo pontífice arribó la tarde de este miércoles 11 de noviembre a Lima desde Buenos Aires. Miles de fieles se concentraron en distintos puntos de la capital para acompañar su recorrido previsto tras su aterrizaje en el Callao",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/las-25-fotos-que-muestran-la-emocion-del-papa-leon-xiv-a-su-llegada-al-peru/",
+   "fecha": "2026-11-11T23:57:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "a00972a20022",
+   "titulo": "Corte de Puno orienta a más de 250 estudiantes de Juliaca sobre prevención de la violencia y el sistema de justicia",
+   "resumen": "Más de 250 adolescentes de la institución educativa Perú Birf, ubicada en la ciudad de Juliaca, recibieron orientación sobre el funcionamiento del sistema de justicia, la prevención de la violencia y las acciones que deben adoptar ante situaciones que vulneren sus derechos, como parte de una…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/11/corte-de-puno-orienta-a-mas-de-250-estudiantes-de-juliaca-sobre-prevencion-de-la-violencia-y-el-sistema-de-justicia/",
+   "fecha": "2026-11-11T23:54:00Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Corte",
+     "ubigeo": "210108",
+     "ccpp": "2101080068",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.04793,
+     "lat": -15.63989,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b1a04645e2eb",
+   "titulo": "Huánuco: cámaras de videovigilancia captan a dos sujetos robando luminarias y cables",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-camaras-de-videovigilancia-captan-a-dos-sujetos-robando-luminarias-y-cables-noticia/",
+   "fecha": "2026-11-11T23:52:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4cb23e7c80ff",
+   "titulo": "Cuna Jardín n.° 108 de Huánuco realizó su III Festival de Cuentacuentos 2026",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/cuna-jardin-n-108-de-huanuco-realizo-su-iii-festival-de-cuentacuentos-2026-noticia/",
+   "fecha": "2026-11-11T23:47:14Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5ae11558a580",
+   "titulo": "Entregan 2 mil libros a instituciones educativas como parte de la FILMOQ 2026",
+   "resumen": "Dos mil libros fueron distribuidos a instituciones educativas de Moquegua tras la realización de la cuarta Feria Internacional del Libro (FILMOQ) 2026, mediante una entrega organizada por la Municipalidad Provincial de Mariscal Nieto. La ceremonia se desarrolló este miércoles, 11 de noviembre, en…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/entregan-2-mil-libros-a-instituciones-educativas-como-parte-de-la-filmoq-2026/",
+   "fecha": "2026-11-11T23:44:47Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Mariscal Nieto",
+     "ubigeo": "180100",
+     "precision": "provincia",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4f44d64f9238",
+   "titulo": "Pucallpa y Trujillo hicieron repicar sus campanas por la llegada del papa León XIV al Perú [VIDEO]",
+   "resumen": "El repique de campanas se escuchó en ambas ciudades como símbolo de fe y alegría por la visita del máximo representante de la Iglesia católica.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/papa-leon-xiv-pucallpa-y-trujillo-celebraron-su-llegada-al-peru-con-repique-de-campanas-video-noticia-1717327",
+   "fecha": "2026-11-11T23:39:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "75f90643481f",
+   "titulo": "Papa León XIV: vicario de la Catedral de Chiclayo valora libro sobre su vida y trayectoria",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/papa-leon-xiv-vicario-de-la-catedral-de-chiclayo-valora-libro-sobre-su-vida-y-trayectoria-noticia/",
+   "fecha": "2026-11-11T23:38:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7cf00c35f54d",
+   "titulo": "Mantenimiento de vía AR-106 en Castilla se ejecuta con expediente desfasado",
+   "resumen": "La Gerencia Regional de Transportes y Comunicaciones (GRTC) ejecuta el mantenimiento rutinario de la carretera AR-106, en la provincia de Castilla, con una inversión de S/ 1.8 millones y un expediente técnico desfasado que no contempla las afectaciones que sufrió la vía durante este año. Así lo…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/mantenimiento-de-via-ar-106-en-castilla-se-ejecuta-con-expediente-desfasado-noticia/",
+   "fecha": "2026-11-11T23:38:00Z",
+   "temas": [
+    "infraestructura",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Castilla",
+     "ubigeo": "040400",
+     "precision": "provincia",
+     "provincia": "Castilla",
+     "departamento": "Arequipa",
+     "lon": -72.49215,
+     "lat": -16.07624,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f9c44557c5e8",
+   "titulo": "Papa León XIV en Perú: Fieles esperan su ingreso a la Plaza Mayor de Lima (FOTOS)",
+   "resumen": "El sumo pontífice retorna al país donde desarrolló gran parte de su labor pastoral y cumplirá una agenda de actividades religiosas.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-en-peru-fieles-esperan-su-ingreso-a-la-plaza-mayor-de-lima-fotos-noticia/",
+   "fecha": "2026-11-11T23:36:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "97314e1c0958"
+  },
+  {
+   "id": "14d5b34217c1",
+   "titulo": "Primera reacción del papa León XIV en Perú: el santo padre se emociona ante el multitudinario recibimiento en Lima",
+   "resumen": "Keiko Fujimori recibió al sumo pontífice en el Grupo Aéreo N.° 8, acompañada del canciller Carlos Espá y otras autoridades, durante la ceremonia oficial de bienvenida",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/la-primera-reaccion-del-papa-leon-xiv-en-suelo-peruano-tras-aterrizar-en-lima-para-iniciar-su-visita-al-peru/",
+   "fecha": "2026-11-11T23:32:13Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "09fb010b399e",
    "titulo": "Fieles arequipeños viajarán al Cusco para participar en misa que oficiará el papa León XIV",
    "resumen": "Este fin de semana cientos de fieles de Arequipa partirán a la ciudad del Cusco para participar el domingo 15 de noviembre en la misa multitudinaria que presidirá el papa León XIV, durante su recorrido por el Perú.",
@@ -524,6 +3048,42 @@
    ]
   },
   {
+   "id": "5e0fb9afdc1e",
+   "titulo": "Papamóvil espera al papa León XIV en este punto de Lima: el vehículo desde el que saludará a los fieles durante su recorrido por la capital",
+   "resumen": "La unidad fue ubicada en los exteriores de la Basílica de María Auxiliadora, en Breña, donde el sumo pontífice cambiará de automóvil para continuar hacia Palacio de Gobierno por las principales avenidas de la capital",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/papamovil-espera-al-papa-leon-xiv-en-este-punto-de-lima-el-vehiculo-desde-el-que-saludara-a-los-fieles-durante-su-recorrido-por-la-capital/",
+   "fecha": "2026-11-11T22:53:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Breña",
+     "ubigeo": "150105",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04598,
+     "lat": -12.05877,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "6e486ffd280e",
    "titulo": "Papa León XIV rompe el protocolo en Lima: pontífice bendijo y abrazó a niños durante su llegada",
    "resumen": "Durante su visita, el papa interactuó cálidamente con los niños presentes, reafirmando su compromiso con la inclusión. Este acto generó gran expectativa en la nación.",
@@ -646,6 +3206,79 @@
      "lat": -12.04533,
      "confianza": 0.7,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c8764eeefc24",
+   "titulo": "“¡El papa es peruano!”: miles de ciudadanos abarrotan las calles de Lima y Callao por la llegada de León XIV",
+   "resumen": "Las concentraciones comenzaron al mediodía en las avenidas previstas para el traslado del pontífice, mientras los asistentes aguardaban a la comitiva con cánticos y expresiones de alegría cerca de la avenida Brasil",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/el-papa-es-peruano-miles-de-ciudadanos-abarrotan-las-calles-de-lima-y-callao-por-la-llegada-de-leon-xiv/",
+   "fecha": "2026-11-11T22:45:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "6e4f924284a9",
+   "titulo": "Horas exactas en las que el papa León recorrerá las avenidas Faucett, La Marina, Brasil y más en su camino a Palacio de Gobierno",
+   "resumen": "El trayecto se dividirá en dos partes: inicialmente, el pontífice se trasladará en un vehículo cerrado y luego abordará el papamóvil en la basílica María Auxiliadora, ubicada en Breña. El jueves 12 también pasará por distintas calles del Cercado de Lima",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/horas-exactas-en-las-que-el-papa-leon-recorrera-las-avenidas-faucett-la-marina-brasil-y-mas-en-su-camino-a-palacio-de-gobierno/",
+   "fecha": "2026-11-11T22:44:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Breña",
+     "ubigeo": "150105",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04598,
+     "lat": -12.05877,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
     }
    ]
   },
@@ -825,6 +3458,76 @@
    ]
   },
   {
+   "id": "37b1c0935917",
+   "titulo": "El emotivo mensaje de la torre de control que recibió al papa León XIV en su regreso a Perú: “Bendito el que viene en el nombre del Señor”",
+   "resumen": "El pontífice llegó desde Argentina para iniciar una visita de seis días en Perú, con una agenda que contempla actividades en Lima, Chiclayo, Santa Cruz de Succhabamba, Cusco y Pucallpa, antes de su regreso a Roma",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/el-emotivo-mensaje-de-la-torre-de-control-que-recibio-al-papa-leon-xiv-en-su-regreso-a-peru-su-mensaje-ha-sido-escuchado/",
+   "fecha": "2026-11-11T22:33:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "76f9a4e3493e",
    "titulo": "Arequipa: 500 artesanos instalarán feria navideña en exteriores del estadio Melgar",
    "resumen": "Unos 500 artesanos participarán en la feria navideña que se instalará en los exteriores del estadio Melgar, desde fines de noviembre hasta el 31 de diciembre y los primeros días de enero. La actividad reunirá a comerciantes de 17 asociaciones, en su mayoría adultos mayores, quienes buscan generar…",
@@ -845,6 +3548,31 @@
      "lon": -71.52898,
      "lat": -16.39334,
      "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e00e4c8f3c82",
+   "titulo": "Papa León XIV llegó a Perú: así fue la ruta que siguió el avión que lo trajo a Lima y los detalles de su llegada",
+   "resumen": "La aeronave AR1096, procedente de Buenos Aires, concluyó su trayecto de 3.100 kilómetros. El vuelo se realizó más rápido que lo previsto y adelantó media hora su aterrizaje",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-ya-vuelva-a-peru-sigue-en-vivo-el-avion-que-lo-trae-a-lima-y-los-detalles-de-su-llegada/",
+   "fecha": "2026-11-11T22:31:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
      "principal": true
     }
    ]
@@ -904,6 +3632,82 @@
      "lat": -8.36795,
      "confianza": 0.7,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f32bbbd2fe25",
+   "titulo": "Diócesis de Chiclayo se prepara para recibir al papa León XIV con imágenes religiosas y una gran celebración en su honor",
+   "resumen": "Imágenes religiosas llegadas de distintas regiones del norte, danzas tradicionales y presentaciones musicales forman parte de las actividades organizadas en la ciudad, donde el pontífice llegará este viernes 13 de noviembre",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/diocesis-de-chiclayo-se-prepara-para-recibir-al-papa-leon-xiv-con-imagenes-religiosas-y-una-gran-celebracion-en-su-honor/",
+   "fecha": "2026-11-11T22:26:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e2596044af5d",
+   "titulo": "PP.FF. del colegio Manuel C. de la Torre realizan plantón en el Gobierno Regional para exigir construcción",
+   "resumen": "Padres de familia de la institución educativa Manuel C. de la Torre realizaron un plantón en los exteriores de la sede central del Gobierno Regional de Moquegua para exigir la construcción del nuevo local escolar y un pronunciamiento de las autoridades sobre el estado del proyecto. Con arengas…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/pp-ff-del-colegio-manuel-c-de-la-torre-realizan-planton-en-el-gobierno-regional-para-exigir-construccion/",
+   "fecha": "2026-11-11T22:26:14Z",
+   "temas": [
+    "conflicto_social",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "234cf3fbc276",
+   "titulo": "Chiclayo es una fiesta por la llegada del Papa León XIV: Así se vive la bienvenida al Santo Padre en su querida tierra norteña",
+   "resumen": "La Plaza de Armas de la ciudad lambayecana se llenó de banderas, globos y música desde la tarde de este miércoles, en anticipo a la llegada del pontífice que se producirá el viernes 13 de noviembre.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/chiclayo-es-una-fiesta-por-la-llegada-del-papa-leon-xiv-asi-se-vive-la-bienvenida-al-santo-padre-en-su-querida-tierra-nortena/",
+   "fecha": "2026-11-11T22:23:54Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
     }
    ]
   },
@@ -1430,6 +4234,31 @@
    ]
   },
   {
+   "id": "013e572e570f",
+   "titulo": "Repatrian restos de joven mexicana que pereció ahogada en playa Pozo de Lisas",
+   "resumen": "Los restos de la ciudadana mexicana Mariana Denisse Arellano Abreo (27), quien falleció ahogada el pasado 8 de noviembre en la playa Pozo de Lisas de Ilo, fueron repatriados a su país de origen, luego de cumplir los procedimientos correspondientes en Perú. Según la información proporcionada, el…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/repatrian-restos-de-joven-mexicana-que-perecio-ahogada-en-playa-pozo-de-lisas/",
+   "fecha": "2026-11-11T22:01:14Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "72961fb5adc3",
    "titulo": "Transforman cáscaras de tuna en harina para elaborar galletas con cacao en Moquegua",
    "resumen": "Estudiantes de la Universidad Nacional de Moquegua elaboran Tuna Kao, galletas con harina de cáscara de tuna y cacao al 100 %. El paquete cuesta S/ 7",
@@ -1488,6 +4317,31 @@
      "lat": -12.06318,
      "confianza": 0.7,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "12498cf8492c",
+   "titulo": "Konnect impulsa la digitalización del transporte interprovincial con una plataforma integral de gestión y ventas",
+   "resumen": "Lima, noviembre de 2026. El transporte terrestre cumple un papel fundamental en la conectividad del",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/11/11/konnect-impulsa-la-digitalizacion-del-transporte-interprovincial-con-una-plataforma-integral-de-gestion-y-ventas/",
+   "fecha": "2026-11-11T22:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
     }
    ]
   },
@@ -1913,6 +4767,42 @@
    ]
   },
   {
+   "id": "b2e1179c9da9",
+   "titulo": "El emotivo reencuentro de Susy Díaz y Florcita Polo tras denuncia a Luiggi Yarasca: “No estás sola, estás conmigo, vas a salir de esta”",
+   "resumen": "La excongresista interrumpió sus vacaciones en Europa para consolar a la joven empresaria en Lima, brindándole contención tras hacer pública una grave acusación por violencia física ocurrida en un hospedaje de Pachacámac.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/el-emotivo-reencuentro-de-susy-diaz-y-florcita-polo-no-estas-sola-estas-conmigo-vas-a-salir-de-esta/",
+   "fecha": "2026-11-11T21:22:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pachacámac",
+     "ubigeo": "150123",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.86668,
+     "lat": -12.18736,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "ec7519d77ad4",
    "titulo": "Piura: Hombre muere en accidente de tránsito en la avenida Guardia Civil, en Castilla",
    "resumen": "Un accidente de tránsito registrado durante la mañana en la avenida Guardia Civil, frente al sector conocido como El Cautivo, en el distrito de Castilla, dejó como saldo un hombre fallecido. LEE MÁS ► Piura perdió el 35,7% de su producción de arroz durante el Niño Costero de 2017: los riesgos ante…",
@@ -2134,6 +5024,42 @@
    ]
   },
   {
+   "id": "d2c05d8bd017",
+   "titulo": "Malecón Ratti: alertan que nueva gestión municipal deberá replantear el proyecto",
+   "resumen": "La ejecución del emblemático proyecto del malecón Ratti en Mollendo se encuentra en un punto crítico ante el próximo cambio de autoridades que en la Municipalidad Provincial de Islay. Con un avance significativamente ralentizado por parte de la empresa contratista y severos cuestionamientos a los…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/malecon-ratti-alertan-que-nueva-gestion-municipal-debera-replantear-el-proyecto/",
+   "fecha": "2026-11-11T21:05:02Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "a28615082265",
    "titulo": "Parque Arauco, dueña de Megaplaza: así avanza el plan con Minka y sus proyectos en San Juan de Lurigancho y Jesús María",
    "resumen": "",
@@ -2233,6 +5159,32 @@
    ]
   },
   {
+   "id": "0e16ba039d30",
+   "titulo": "Clima en Perú: el pronóstico del tiempo para este miércoles 11 de noviembre en Chiclayo",
+   "resumen": "Conocida como “la ciudad de la amistad”, Chiclayo de caracteriza por un clima árido común en el norte del Perú",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/clima-en-peru-el-pronostico-del-tiempo-para-este-miercoles-11-de-noviembre-en-chiclayo/",
+   "fecha": "2026-11-11T21:02:00Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "c83ef2874c8c"
+  },
+  {
    "id": "5091db14667f",
    "titulo": "Confirman prisión preventiva para policías Terna y civil investigados por robo en Juliaca",
    "resumen": "La Sala Penal de Apelaciones de San Román–Juliaca confirmó los nueve meses de prisión preventiva contra los policías Jhon B., Giancarlo B. y Micheel C. integrantes del Grupo Terna de la Policía Nacional, y el civil Cristian M. investigados por presunto robo en la ciudad de Juliaca. Según el…",
@@ -2290,6 +5242,78 @@
      "lat": -3.74808,
      "confianza": 0.9,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3c2a6915e9e9",
+   "titulo": "Renuevan indumentaria y herramientas de trabajo para el personal de Serenazgo en Moquegua",
+   "resumen": "La Municipalidad Provincial de Mariscal Nieto presentó nuevos equipos e indumentaria destinados al personal de Serenazgo, como parte de las medidas para reforzar las labores de seguridad ciudadana en la provincia. La actividad contó con la participación del alcalde provincial, CPC John Larry…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/renuevan-indumentaria-y-herramientas-de-trabajo-para-el-personal-de-serenazgo-en-moquegua/",
+   "fecha": "2026-11-11T20:57:08Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Mariscal Nieto",
+     "ubigeo": "180100",
+     "precision": "provincia",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "214d1c5f435b",
+   "titulo": "Mañana 12 de noviembre es día no laborable en Lima y Callao, pero no para toda la jornada: en qué horario aplica",
+   "resumen": "La interrupción comenzará después de la mañana, que mantendrá las labores habituales, y se extenderá hasta la medianoche conforme a las disposiciones emitidas por la llegada de León XIV al país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/manana-12-de-noviembre-es-dia-no-laborable-en-lima-y-callao-pero-no-para-toda-la-jornada-en-que-horario-aplica/",
+   "fecha": "2026-11-11T20:57:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
     }
    ]
   },
@@ -2396,6 +5420,67 @@
      "departamento": "Cusco",
      "lon": -71.47599,
      "lat": -14.16379,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "78549d415090",
+   "titulo": "Papa León XIV en Perú: liberan entradas gratuitas para la misa en La Videnita de Pucallpa y así puedes reservarlas",
+   "resumen": "Vicariato Apostólico de Pucallpa confirmó que el aforo de 70.000 personas se reparte mediante códigos QR, que indicarán la puerta de acceso asignada a cada asistente",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-en-peru-liberan-entradas-gratuitas-para-la-misa-en-la-videnita-de-pucallpa-y-asi-puedes-reservarlas/",
+   "fecha": "2026-11-11T20:54:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "aca86117a380",
+   "titulo": "Señor de los Milagros: las paradas que hará el Cristo Moreno durante el recorrido por la llegada del papa León XIV al Perú",
+   "resumen": "San Isidro, Lince, Surquillo y Miraflores preparan homenajes para recibir al Cristo Moreno durante su recorrido hacia la Base Aérea Las Palmas, donde acompañará al papa León XIV en la misa del 16 de noviembre",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/senor-de-los-milagros-las-paradas-que-hara-el-cristo-moreno-durante-el-recorrido-por-la-llegada-del-papa-leon-xiv-al-peru/",
+   "fecha": "2026-11-11T20:52:24Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lince",
+     "ubigeo": "150116",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03033,
+     "lat": -12.08442,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "150122",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02918,
+     "lat": -12.1218,
      "confianza": 0.5,
      "principal": false
     }
@@ -2713,6 +5798,31 @@
    ]
   },
   {
+   "id": "12d8a187aa4b",
+   "titulo": "La carta con la que el papa León XIV pidió ser peruano ya es Patrimonio Cultural de la Nación",
+   "resumen": "El manuscrito de Robert Francis Prevost, fechado en 2015, fue reconocido por su valor histórico mientras el pontífice vuelve a Lima para realizar su primera visita apostólica al país que lo recibió como sacerdote.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/11/la-carta-con-la-que-el-papa-leon-xiv-pidio-ser-peruano-ya-es-patrimonio-cultural-de-la-nacion/",
+   "fecha": "2026-11-11T20:26:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "e42c5aef4ca7",
    "titulo": "Organizan venta de carapulcra para costear viaje de deportista a campeonato en Lima",
    "resumen": "Con el propósito de apoyar a su hija en su sueño de competir en un campeonato nacional de atletismo, Rigoberto Cornejo, padre de la joven deportista Antuaneth Cornejo, organiza una carapulcrada solidaria para recaudar fondos que permitan cubrir los gastos de su participación en el torneo de…",
@@ -2872,6 +5982,56 @@
      "principal": true
     }
    ]
+  },
+  {
+   "id": "26443e661486",
+   "titulo": "CRA declara prioridad sanitaria en río Tambo por metales pesados",
+   "resumen": "El Consejo Regional de Arequipa aprobó por unanimidad declarar de interés regional y prioridad pública la atención integral de la salud frente a la presencia de metales pesados en la cuenca del río Tambo, con el fin de prevenir riesgos en la población de la provincia de Islay. La iniciativa…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/cra-declara-prioridad-sanitaria-en-rio-tambo-por-metales-pesados/",
+   "fecha": "2026-11-11T19:58:02Z",
+   "temas": [
+    "agua",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tambo",
+     "ubigeo": "040312",
+     "ccpp": "0403120005",
+     "precision": "centro_poblado",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -73.64824,
+     "lat": -15.45295,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
   },
   {
    "id": "6d03c918d04f",
@@ -3293,6 +6453,32 @@
      "lat": -16.39334,
      "confianza": 0.63,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ad9cb4372a75",
+   "titulo": "Policía capacita a 21 efectivos en salvamento y rescate acuático en Ilo",
+   "resumen": "Un total de 21 efectivos de la Policía Nacional del Perú iniciaron el Sexto Curso de Capacitación en Operaciones de Salvamento y Rescate en Medio Acuático, desarrollado en las instalaciones del Área de Emergencia de la Policía Nacional, en la provincia de Ilo. La ceremonia de inicio contó con la…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/policia-capacita-a-21-efectivos-en-salvamento-y-rescate-acuatico-en-ilo/",
+   "fecha": "2026-11-11T18:30:52Z",
+   "temas": [
+    "seguridad",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.85,
+     "principal": true
     }
    ]
   },
