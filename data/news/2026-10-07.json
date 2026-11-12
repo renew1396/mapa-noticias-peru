@@ -26,6 +26,31 @@
      "principal": true
     }
    ]
+  },
+  {
+   "id": "3b9a84520286",
+   "titulo": "FOGAPI organiza en Arequipa el XXIX Foro Iberoamericano de Sistemas de Garantías y Financiamiento PYMES",
+   "resumen": "La ciudad de Arequipa fue sede de esta nueva edición del Foro Iberoamericano de Sistemas de Garantías y Financiamiento PYMES organizado por FOGAPI y la Asociación Red Iberoamericana de Garantías – REGAR.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/campanas/publirreportaje/fogapi-organiza-en-arequipa-el-xxix-foro-iberoamericano-de-sistemas-de-garantias-y-financiamiento-pymes-noticia-1711230",
+   "fecha": "2026-10-07T15:00:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
   }
  ]
 }

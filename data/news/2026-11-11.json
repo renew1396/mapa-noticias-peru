@@ -1145,6 +1145,31 @@
    ]
   },
   {
+   "id": "4056084d7c6a",
+   "titulo": "Trinquetes Políticos: En las playas, sálvese quien pueda",
+   "resumen": "POR: RONY FLOR COAYLA El coronel PNP Luis Alberto del Águila, jefe de la Policía en Ilo, anunció que el servicio de salvataje entrará en operaciones desde el 1 de enero del próximo año. Mientras tanto, se exhorta a los bañistas a tener cuidado en playas donde no hay Policía de Salvataje; es…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/trinquetes-politicos-en-las-playas-salvese-quien-pueda/",
+   "fecha": "2026-11-12T01:51:28Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "7badc06e5068",
    "titulo": "Keiko Fujimori: “El Perú recibe al papa León XIV con el corazón abierto”",
    "resumen": "La presidenta Keiko Fujimori afirmó que el Perú recibe al papa León XIV “con el corazón abierto”, luego de darle la bienvenida a su llegada a Lima. A través de una publicación en la plataforma X, la mandataria expresó su emoción por el retorno del sumo pontífice al país y destacó el cariño de los…",
@@ -1879,6 +1904,42 @@
      "lon": -79.85062,
      "lat": -6.76685,
      "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1e372f1f2766",
+   "titulo": "Caja Arequipa premia a los 18 emprendedores del concurso nacional Orgullo Emprendedor 2026",
+   "resumen": "En una emocionante ceremonia de premiación, Caja Arequipa reconoció este miércoles 11 de noviembre a los 18 ganadores de la tercera edición del concurso nacional MYPE Premio Orgullo Emprendedor, iniciativa que reconoce a los emprendedores que impulsan el progreso del país, generan empleo y crean…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/caja-arequipa-premia-a-los-18-emprendedores-del-concurso-nacional-orgullo-emprendedor-2026/",
+   "fecha": "2026-11-12T00:19:53Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Caja",
+     "ubigeo": "090204",
+     "precision": "distrito",
+     "provincia": "Acobamba",
+     "departamento": "Huancavelica",
+     "lon": -74.46576,
+     "lat": -12.91735,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
      "principal": false
     }
    ]
