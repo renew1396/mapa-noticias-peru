@@ -752,6 +752,42 @@
    "revisar": true
   },
   {
+   "id": "b83198077633",
+   "titulo": "Obispo Cristóbal Mejía entrega libro a Papa León XIV sobre sus primeros años como misionero en Chulucanas",
+   "resumen": "El papa León XIV recibió un regalo con profundo significado para la región Piura. Se trata del libro “Donde todo empezó. Chulucanas en el corazón del papa”, una publicación que recuerda los primeros años de Robert Prevost como misionero agustino en territorio piurano y su labor pastoral en…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/papa-leon-xiv-en-el-peru-obispo-cristobal-mejia-libro-sobre-sus-primeros-anos-como-misionero-en-chulucanas/",
+   "fecha": "2026-11-14T02:08:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chulucanas",
+     "ubigeo": "200401",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "30345d06c9e3",
    "titulo": "FISE otorga bono de S/2 mil para facilitar la conversión de vehículos privados a GNV",
    "resumen": "Beneficio será otorgado a las personas naturales sin negocio que realicen la conversión de sus vehículos gasolineros fuera de Lima y Callao.",
@@ -872,6 +908,42 @@
      "lat": -6.76685,
      "confianza": 0.7,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e9930d60e498",
+   "titulo": "Depósitos a plazo fijo 2026: Caja Piura ofrece la tasa de interés más alta, con 6.23% anual",
+   "resumen": "Las entidades financieras mantienen la competencia por captar los ahorros de los peruanos mediante atractivas tasas de interés para los depósitos a plazo fijo. En este escenario, las cajas municipales y algunos bancos destacan entre las instituciones que ofrecen los mayores rendimientos para…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/economia/depositos-a-plazo-fijo-2026-caja-piura-ofrece-la-tasa-de-interes-mas-alta-con-6-23-anual/",
+   "fecha": "2026-11-14T01:46:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Caja",
+     "ubigeo": "090204",
+     "precision": "distrito",
+     "provincia": "Acobamba",
+     "departamento": "Huancavelica",
+     "lon": -74.46576,
+     "lat": -12.91735,
+     "confianza": 0.9,
+     "principal": false
     }
    ]
   },
