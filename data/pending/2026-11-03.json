@@ -1708,6 +1708,75 @@
    ]
   },
   {
+   "id": "2c5ace56275e",
+   "titulo": "Defensores indígenas presentarán propuestas para frenar el avance e impactos negativos de las economías ilícitas en la Amazonía",
+   "resumen": "Defensores y defensoras ambientales provenientes de las organizaciones indígenas Central Asháninka del Río Ene (CARE) de Junín, Organización Regional Aidesep Ucayali (ORAU) de Ucayali y Huánuco, y la Coordinadora de Comunidades Nativas y Campesinas de la Cuenca del Nanay (CONACCUNAY) de Loreto se…",
+   "medio": "DAR",
+   "medio_id": "dar",
+   "url": "https://dar.org.pe/defensores-indigenas-presentaran-propuestas-para-frenar-el-avance-e-impactos-negativos-de-las-economias-ilicitas-en-la-amazonia/",
+   "fecha": "2026-11-03T21:56:11Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "160600",
+     "precision": "provincia",
+     "provincia": "Ucayali",
+     "departamento": "Loreto",
+     "lon": -75.0096,
+     "lat": -7.35055,
+     "confianza": 0.15,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cuenca",
+     "ubigeo": "090105",
+     "precision": "distrito",
+     "provincia": "Huancavelica",
+     "departamento": "Huancavelica",
+     "lon": -75.0389,
+     "lat": -12.43294,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "6892a0c61ecb",
    "titulo": "Movistar: Auspiciador oficial de la visita de León XIV al Perú",
    "resumen": "Movistar y la Cancillería firman acuerdo para asegurar la conectividad durante la visita del Papa León XIV",
