@@ -2,6 +2,3382 @@
  "fecha": "2026-11-14",
  "noticias": [
   {
+   "id": "bbc1b33cec0f",
+   "titulo": "Papa León XIV en Cusco y Pucallpa: ¿Cuál es el pronóstico del clima para este domingo 15?",
+   "resumen": "Los feligreses y visitantes que participarán de las actividades programadas durante la visita apostólica del papa León XIV a las ciudades de Cusco y Pucallpa, este domingo 15 de noviembre, deberán tomar las debidas precauciones dado que, según el pronóstico del Servicio Nacional de Meteorología e…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-cusco-y-pucallpa-cual-es-pronostico-del-clima-para-este-domingo-15-1099983.aspx",
+   "fecha": "2026-11-14T20:47:14Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "acdf8a4d401d",
+   "titulo": "Papa León XIV: fieles se congregan y esperan con anticipación la llegada del Sumo Pontífice este domingo 15 de noviembre",
+   "resumen": "Miles de personas ya están en las calles para acompañar al Papa León XIV en la mañana que visitará la Ciudad Imperial.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/cusco/papa-leon-xiv-fieles-se-congregan-y-esperan-con-anticipacion-la-llegada-del-sumo-pontifice-este-domingo-15-de-noviembre-gira-sudamericana-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-14T20:43:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Imperial",
+     "ubigeo": "150507",
+     "precision": "distrito",
+     "provincia": "Cañete",
+     "departamento": "Lima",
+     "lon": -76.35272,
+     "lat": -13.06069,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4f9b34f2eb40",
+   "titulo": "Renovación Popular ganó en 26 distritos de Lima Metropolitana: ¿en qué zonas de la capital aumentó su respaldo?",
+   "resumen": "El partido de Rafael López Aliaga, Renovación Popular, fue el favorito en cinco jurisdicciones más que en las elecciones municipales del 2022. Lima Norte fue la zona en la que fue la opción más votada quitándole los votos a Daniel Urresti.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/ecdata/rafael-lopez-aliaga-renovacion-popular-gano-en-26-distritos-de-lima-metropolitana-francis-allison-elecciones-onpe-apuesplan-noticia/",
+   "fecha": "2026-11-14T20:41:17Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8d82667e1a4e",
+   "titulo": "Papa León XIV bendecirá un árbol de shihuahuaco en Pucallpa, especie emblema del Amazonas",
+   "resumen": "Este domingo 15 de noviembre el papa León XIV visitar Pucallpa, capital de la región amazónica de Ucayali. Además del encuentro con misioneros y representantes de los pueblos amazónicos y la misa en la Videnita, el pontífice encabezará un acto simbólico muy significativo.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-bendecira-un-arbol-shihuahuaco-pucallpa-especie-emblema-del-amazonas-1099984.aspx",
+   "fecha": "2026-11-14T20:41:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Amazonas",
+     "ubigeo": "010000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Amazonas",
+     "lon": -77.87281,
+     "lat": -6.22955,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0eb860f21ea1",
+   "titulo": "Papa León XIV en Perú: revisa qué objetos puedes llevar a la misa en Las Palmas",
+   "resumen": "La celebración eucarística se realizará este lunes 16 de noviembre en Surco y espera reunir a más de 1,2 millones de fieles. Las autoridades establecieron restricciones para facilitar el ingreso y garantizar la seguridad de los asistentes.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/papa-leon-xiv-en-peru-revisa-que-objetos-puedes-llevar-a-la-misa-en-las-palmas-noticia/",
+   "fecha": "2026-11-14T20:38:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "35012cbd2695",
+   "titulo": "Misión cumplida: El traslado del papa León XIV a Santa Cruz de Succhabamba en el ‘Papacóptero’",
+   "resumen": "El selfie del papa León XIV y sus pilotos FAP. Un vuelo tranquilo, sin sobretiempo maravilló al Santo Padre.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/14/mision-cumplida-el-traslado-del-papa-leon-xiv-a-santa-cruz-de-succhabamba-en-el-papacoptero-leon-xiv-vuelve-a-peru-hnews-753844",
+   "fecha": "2026-11-14T20:37:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7d3453dfd189",
+   "titulo": "Papa León XIV en Perú: lista de objetos permitidos y prohibidos para ingresar a la misa en Las Palmas este 16 de noviembre",
+   "resumen": "Cerca de 1.2 millones de fieles se congregarán en el recinto, cuyas puertas abrirán desde las 22:00 horas del domingo para recibir al pontífice al día siguiente",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/papa-leon-xiv-en-peru-lista-de-objetos-permitidos-y-prohibidos-para-ingresar-a-la-misa-en-las-palmas-este-16-de-noviembre/",
+   "fecha": "2026-11-14T20:33:54Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "00e281b3d745",
+   "titulo": "Fue acólito del papa León XIV cuando era obispo de Chiclayo y años después volvió a encontrarse con él en Cajamarca",
+   "resumen": "Elías Salvador conserva tres fotografías de los momentos que compartió con el entonces obispo durante las celebraciones religiosas en Chiclayo. Años después, volvió a encontrarse con él durante la misa en Santa Cruz de Succhabamba",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/fue-acolito-del-papa-leon-xiv-cuando-era-obispo-de-chiclayo-y-anos-despues-volvio-a-encontrarse-con-el-en-cajamarca/",
+   "fecha": "2026-11-14T20:31:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a70d07167e4c",
+   "titulo": "La curiosa anécdota de una periodista española que cubre la visita del papa León XIV en Chiclayo: “Momentos que enamoran”",
+   "resumen": "Sin voz en plena cobertura papal, la reportera encontró en una farmacéutica chiclayana un gesto de solidaridad que la conmovió y que compartió en sus redes sociales con miles de seguidores",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/la-curiosa-anecdota-de-una-periodista-espanola-que-cubre-la-visita-del-papa-leon-xiv-en-chiclayo-momentos-que-enamoran/",
+   "fecha": "2026-11-14T20:25:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d69cae91ad42",
+   "titulo": "Municipalidad de Lima: Renovación Popular logra 27.685% según resultados de ONPE al 100%",
+   "resumen": "A más de un mes de las elecciones del 4 de octubre, la Oficina Nacional de Procesos Electorales (ONPE) registra un avance de 99.996% de actas contabilizadas para la Municipalidad de Lima. A las 8 a.m. de hoy martes 10 de noviembre, solo faltan 1 acta del Jurado Electoral Especial (JEE).",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/elecciones/municipalidad-de-lima-que-lista-gano-las-elecciones-segun-los-resultados-onpe-al-100-rafael-lopez-aliaga-francis-allison-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-14T20:25:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "19a1faa08221",
+   "titulo": "ONPE al 100 %: lista de Renovación Popular gana la Alcaldía de Lima sobre Avanza País",
+   "resumen": "La lista de Renovación Popular Perú obtuvo 1,554,928 votos, equivalente al 27,685% de votos válidos. En el segundo lugar quedó Francis Allison, candidato a la Alcaldía por Avanza País, con 1,505,835 (26,811%) votos válidos.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/elecciones/onpe-al-100-en-lima-lista-de-renovacion-popular-gana-la-alcaldia-sobre-avanza-pais-noticia-1714942",
+   "fecha": "2026-11-14T20:23:14Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3b248764d421",
+   "titulo": "Detienen a sujeto por agredir a dos agentes de Serenazgo en Locumba",
+   "resumen": "Tacna.- Un joven de 22 años fue detenido por efectivos de la Policía Nacional, luego de presuntamente agredir físicamente a dos agentes femeninas de Seguridad Ciudadana durante una intervención realizada en la provincia de Jorge Basadre. El intervenido fue identificado como Aurelio Guillermo…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288285/detienen-a-sujeto-por-agredir-a-dos-agentes-de-serenazgo-en-locumba/",
+   "fecha": "2026-11-14T20:23:07Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Locumba",
+     "ubigeo": "230301",
+     "precision": "distrito",
+     "provincia": "Jorge Basadre",
+     "departamento": "Tacna",
+     "lon": -70.76274,
+     "lat": -17.61396,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "9843467b6dc1",
+   "titulo": "Papa León XIV: el selfi que el pontífice se tomó junto a los pilotos del 'papacóptero'",
+   "resumen": "El santo padre llegó a Santa Cruz de Succhabamba a bordo de una unidad de la Fuerza Aérea. Los encargados de trasladarlo se tomaron una fotografía con el pontífice que quedará de recuerdo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/cajamarca/papa-leon-xiv-el-selfie-que-el-pontifice-se-llevo-junto-a-los-pilotos-del-papacoptero-noticia-1717824",
+   "fecha": "2026-11-14T20:21:03Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3e27e3e59aea",
+   "titulo": "PAPA LEÓN XIV CONQUISTÓ CHICLAYO POR SU CERCANÍA CON LOS MÁS OLVIDADOS DE LAMBAYEQUE: SU VISITA ES UN “HURACÁN”, AFIRMA ANALISTA ORESTES PANTOJA",
+   "resumen": "Señala que visita del Sumo Pontífice a Chiclayo es un shock económico y demográfico. RCR, 14 de noviembre de 2026.- El papa León XIV se ganó el cariño de Chiclayo por el trabajo pastoral que realizó en las comunidades rurales de Lambayeque, donde se acercó a las poblaciones quechua hablantes y a…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/papa-leon-xiv-conquisto-chiclayo-por-su-cercania-con-los-mas-olvidados-de-lambayeque-su-visita-es-un-huracan-afirma-analista-orestes-pantoja/",
+   "fecha": "2026-11-14T20:19:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "664056c76afa",
+   "titulo": "Misión cumplida: Pilotos de la FAP culminan histórico traslado del papa León XIV",
+   "resumen": "El Ministerio de Defensa informó que culminó con éxito el traslado del papa León XIV desde Santa Cruz de Succhabamba a Chiclayo, en el cuarto de día de la visita apostólica del sumo pontífice al Perú.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-mision-cumplida-pilotos-de-fap-culminan-historico-traslado-del-papa-leon-xiv-1099979.aspx",
+   "fecha": "2026-11-14T20:18:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "735e7b4eb263",
+   "titulo": "La Libertad: Policía recupera motocicleta reportada como hurtada durante patrullaje por El Porvenir (VIDEO)",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/policia-recupera-motocicleta-robada-durante-patrullaje-por-el-porvenir-trujillo-la-libertad-peru-noticia/",
+   "fecha": "2026-11-14T20:12:32Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "El Porvenir",
+     "ubigeo": "130102",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -78.99786,
+     "lat": -8.08794,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f7ac9441c09a",
+   "titulo": "«La educación es un noble acto de esperanza»: el mensaje de sabiduría de León XIV antes miles de jóvenes",
+   "resumen": "En medio de aplausos, gritos y cánticos llenos de emoción, el papa León XIV hizo su feliz ingreso a la explanada de la Universidad Católica Santo Toribio de Mogrovejo (USAT), en Chiclayo, al ritmo de la canción «Tú eres el único Rey», interpretada por el grupo musical juvenil Hakuna Perú. Miles de…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/nacional/la-educacion-es-un-noble-acto-de-esperanza-el-mensaje-de-sabiduria-de-leon-xiv-antes-miles-de-jovenes/",
+   "fecha": "2026-11-14T20:04:28Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b526d2e6f494",
+   "titulo": "Papa León XIV en Chiclayo: destacan la educación ambiental durante multitudinaria misa",
+   "resumen": "Más de 3,000 voluntarios realizaron acciones de educación y sensibilización ambiental durante la multitudinaria misa celebrada este viernes 13 por el papa León XIV en las pampas de Pimentel, en Lambayeque.Estas acciones estuvieron dirigidas a los miles de feligreses que participaron en esta…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-chiclayo-destacan-educacion-ambiental-durante-multitudinaria-misa-1099980.aspx",
+   "fecha": "2026-11-14T20:03:46Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pimentel",
+     "ubigeo": "140112",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.93573,
+     "lat": -6.8354,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140100",
+     "precision": "provincia",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "475412825e18",
+   "titulo": "Antonela Roccuzzo recorrió la Plaza de Armas de Cusco y dijo a RPP que quedó encantada con todo lo que visitó [VIDEO]",
+   "resumen": "La esposa de Lionel Messi continúa descubriendo los atractivos de la Ciudad Imperial.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/famosos/celebridades/antonela-roccuzzo-recorrio-la-plaza-de-armas-de-cusco-y-dijo-a-rpp-quedo-encantada-con-todo-lo-que-visito-video-noticia-1717802",
+   "fecha": "2026-11-14T20:00:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Imperial",
+     "ubigeo": "150507",
+     "precision": "distrito",
+     "provincia": "Cañete",
+     "departamento": "Lima",
+     "lon": -76.35272,
+     "lat": -13.06069,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4c3430f4fb56",
+   "titulo": "Papa León XIV y su mensaje final en santa misa de Cajamarca: “Si Jesús decide venir a Santa Cruz, va a encontrar la fe”",
+   "resumen": "A pocos minutos de finalizar la celebración eucarística en la explanada de Santa Cruz de Succhabamba, el papa León XIV compartió una última reflexión con los fieles presentes.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/papa-leon-xiv-y-su-mensaje-final-en-santa-misa-de-cajamarca-si-jesus-decide-venir-a-santa-cruz-va-a-encontrar-la-fe-noticia/",
+   "fecha": "2026-11-14T19:58:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Cruz",
+     "ubigeo": "061300",
+     "precision": "provincia",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "grupo": "65157b79b246"
+  },
+  {
+   "id": "79feaaa31559",
+   "titulo": "El selfie de los pilotos de la FAP con el papa León XIV tras trasladarlo a Santa Cruz de Succhabamba",
+   "resumen": "El sumo pontífice aconsejó que a pesar de tantas dificultades, cuando se tiene “la tentación de ceder al desaliento, al resentimiento o incluso a la violencia (...) esta nunca será el camino del progreso y de la paz”.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/papa-leon-xiv-se-toma-un-selfie-con-los-pilotos-de-la-fap-que-lo-trasladaron-de-chiclayo-a-cajamarca-papacoptero-noticia/",
+   "fecha": "2026-11-14T19:56:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b798f7832adf",
+   "titulo": "ONPE al 100%: Renovación Popular gana las elecciones en Lima por menos de un punto porcentual y espera la proclamación del JEE",
+   "resumen": "Renovación Popular superó a Avanza País por apenas 49.093 votos. Con el cómputo concluido, el JEE Lima Centro deberá proclamar los resultados en medio de la controversia sobre quién asumirá la alcaldía de la capital.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/onpe-al-100-renovacion-popular-gana-las-elecciones-en-lima-por-menos-de-un-punto-porcentual-y-espera-la-proclamacion-del-jee/",
+   "fecha": "2026-11-14T19:54:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5c66bb73b696",
+   "titulo": "Nasca: choque de miniván y auto cerca al peaje de Marcona deja dos fallecidos y varios heridos",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/nasca-tragedia-en-marcona-choque-cerca-al-peaje-deja-dos-fallecidos-noticia/",
+   "fecha": "2026-11-14T19:50:00Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Marcona",
+     "ubigeo": "110304",
+     "precision": "distrito",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -75.16584,
+     "lat": -15.36193,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110300",
+     "precision": "provincia",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "160096eb2c18",
+   "titulo": "Papa León XIV advierte desde Cajamarca sobre “el desafío de la distribución equitativa” de los beneficios de los recursos naturales",
+   "resumen": "El papa León XIV abordó las desigualdades de las comunidades andinas en su homilía en Santa Cruz de Succhabamba, enfatizando el impacto de la migración hacia la costa en busca de oportunidades.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/papa-leon-xiv-advierte-desde-cajamarca-sobre-el-desafio-de-la-distribucion-equitativa-de-los-beneficios-de-los-recursos-naturales-199458",
+   "fecha": "2026-11-14T19:42:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "32fbaf344f3d",
+   "titulo": "Estibadores de Camaná paralizarán carga de zapallo si no les pagan S/ 70 por tonelada",
+   "resumen": "Los estibadores que realizan labores de carga de zapallo en la provincia de Camaná anunciaron que exigirán el pago de S/ 70 por tonelada, en lugar de los S/ 60 que recibían anteriormente. Los trabajadores se organizaron para respaldar esta nueva tarifa y advirtieron que dejarán de trabajar si los…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/estibadores-de-camana-paralizaran-carga-de-zapallo-si-no-les-pagan-s-70-por-tonelada-noticia/",
+   "fecha": "2026-11-14T19:40:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Camaná",
+     "ubigeo": "040200",
+     "precision": "provincia",
+     "provincia": "Camaná",
+     "departamento": "Arequipa",
+     "lon": -72.71149,
+     "lat": -16.62466,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9ec9a0304951",
+   "titulo": "“Los injertos del sur chico” extorsionan a comerciante en Chincha: “te vamos a pedir 7 palos nomas”",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/chincha-banda-los-injertos-del-sur-chico-exigen-pago-extorsivo-a-comerciante-noticia/",
+   "fecha": "2026-11-14T19:40:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chincha",
+     "ubigeo": "110200",
+     "precision": "provincia",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.13251,
+     "lat": -13.4182,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "460065a7c58e",
+   "titulo": "Papa León XIV corona la imagen de la Virgen Inmaculada: “Junto a ti aprendí a ser pastor”",
+   "resumen": "Como parte de sus actividades, el papa León XIV realizó este sábado la coronación a la Virgen Inmaculada en la catedral Santa María de Chiclayo, en una ceremonia que estuvo marcada por un mensaje de gratitud hacia quien lo acompañó durante sus años como obispo de esta diócesis.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/papa-leon-xiv-en-peru-corona-la-imagen-de-la-virgen-inmaculada-en-chiclayo-junto-a-ti-aprendi-a-ser-pastor-noticia/",
+   "fecha": "2026-11-14T19:36:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5eec4ee7adad",
+   "titulo": "Niños de Reque conmovieron con sus voces al papa León XIV durante coronación de la Virgen",
+   "resumen": "\"Me latía el corazón muy fuerte\", con estas palabras, cargadas de inocencia y emoción, una de las pequeñas integrantes del coro de la parroquia de Reque describió lo que sintió al cantarle al papa León XIV durante la solemne ceremonia de coronación de la Virgen María Inmaculada, celebrada en los…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-ninos-reque-conmovieron-sus-voces-al-papa-leon-xiv-durante-coronacion-de-virgen-1099976.aspx",
+   "fecha": "2026-11-14T19:31:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Reque",
+     "ubigeo": "140113",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.81908,
+     "lat": -6.86506,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "13890dfdcc87",
+   "titulo": "Arequipa: crimen organizado se extendió a Camaná y aún no cuenta con una Divincri",
+   "resumen": "La reciente captura de una facción de la organización criminal \"Los Orientales\" también estaría vinculada a recientes hechos delictivos ocurridos en la provincia de Camaná, relacionados con préstamos bajo la modalidad de gota a gota y extorsiones, informó el jefe de la Divincri Arequipa, coronel…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-crimen-organizado-se-extendio-a-camana-y-aun-no-cuenta-con-una-divincri-noticia/",
+   "fecha": "2026-11-14T19:31:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Camaná",
+     "ubigeo": "040200",
+     "precision": "provincia",
+     "provincia": "Camaná",
+     "departamento": "Arequipa",
+     "lon": -72.71149,
+     "lat": -16.62466,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7cd5e78c3a5e",
+   "titulo": "Así fue el viaje del papa León XIV en helicóptero de la FAP entre Chiclayo y Cajamarca: els sumo pontífice ingresó a la cabina de pilotaje",
+   "resumen": "El Santo Padre cumplió su traslado a Santa Cruz de Succhabamba en una aeronave MI-17 de la Fuerza Aérea del Perú, tras visitar la cabina de pilotaje",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/asi-fue-el-viaje-del-papa-leon-xiv-en-helicoptero-de-la-fap-entre-chiclayo-y-cajamarca-els-sumo-pontifice-ingreso-a-la-cabina-de-pilotaje/",
+   "fecha": "2026-11-14T19:30:45Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "84eb7a673581",
+   "titulo": "Acordes de fe en Sacsayhuamán: Todo listo para recibir al papa León XIV (VIDEO)",
+   "resumen": "Mira el imponente despliegue musical que marca la antesala de la visita papal a Sacsayhuamán en Cusco.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/cusco/acordes-de-fe-en-sacsayhuaman-todo-listo-para-recibir-al-papa-leon-xiv-video-noticia/",
+   "fecha": "2026-11-14T19:21:24Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "201d37fbe772",
+   "titulo": "Arequipa: Docente con cáncer pide agilizar trámite en UGEL La Joya para seguir tratamiento",
+   "resumen": "La docente Carmen Cori Yupa (38) fue diagnosticada con cáncer de cuello uterino y su tratamiento en el Instituto Regional de Enfermedades Neoplásicas del Sur (Iren Sur) respaldado por el Seguro Integral de Salud (SIS) se interrumpió porque en la Ugel Arequipa La Joya no informó a EsSalud que hace…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-docente-con-cancer-pide-agilizar-tramite-en-ugel-la-joya-para-seguir-tratamiento-noticia/",
+   "fecha": "2026-11-14T19:16:40Z",
+   "temas": [
+    "educacion",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Joya",
+     "ubigeo": "040108",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.8182,
+     "lat": -16.42304,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4203472671d3",
+   "titulo": "Señor de los Milagros sale hacia Las Palmas para la misa del papa León XIV: ruta y horarios del traslado",
+   "resumen": "El traslado, organizado por la Hermandad del Señor de los Milagros, se realizará a baja velocidad para permitir el acompañamiento de los fieles. La misa con el papa León XIV está programada para el lunes 16 de noviembre.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/senor-de-los-milagros-sale-hacia-las-palmas-para-la-misa-del-papa-leon-xiv-ruta-y-horarios-del-traslado-682822",
+   "fecha": "2026-11-14T19:16:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "115266d77971",
+   "titulo": "Papa León XIV: Pucallpa se alista para recibir al Sumo Pontífice | FOTOS",
+   "resumen": "A pocas horas de su llegada, la capital de Ucayali ultima los detalles para las actividades que el Santo Padre encabezará este domingo 15 de noviembre, en el penúltimo día de su visita apostólica al Perú.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/ucayali/papa-leon-xiv-pucallpa-se-alista-para-recibir-al-sumo-pontifice-fotos-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-14T19:15:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6d08460a36a2",
+   "titulo": "Celulares de Ucrania aparecen con ubicación en Perú por estrategia para engañar a Rusia",
+   "resumen": "Los celulares de ucranianos registran ubicaciones en Lima debido a una estrategia de guerra electrónica que busca confundir los sistemas de navegación de misiles rusos. La técnica de spoofing, desarrollada por Cascade Systems, altera las coordenadas.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/14/celulares-de-ucrania-aparecen-con-ubicacion-en-peru-por-estrategia-para-enganar-a-rusia-hnews-150136",
+   "fecha": "2026-11-14T19:15:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "24bf244af2ca",
+   "titulo": "Ica: bebé de tres meses resulta herido tras violento choque en la Panamericana Sur",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/ica-bebe-de-tres-meses-resulta-herido-tras-violento-choque-entre-trailer-y-camioneta-en-la-panamericana-sur-noticia/",
+   "fecha": "2026-11-14T19:15:00Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "65157b79b246",
+   "titulo": "\"Si Jesús decide venir a Santa Cruz, va a encontrar la fe\": así cerró la santa misa el papa León XIV en Cajamarca",
+   "resumen": "El santo padre realizó una última reflexión a minutos de que concluya la santa misa en la explanada de Santa Cruz de Succhabamba.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/si-jesus-decide-venir-a-santa-cruz-va-a-encontrar-la-fe-asi-cerro-la-santa-misa-el-papa-leon-xiv-en-cajamarca-noticia-1717819",
+   "fecha": "2026-11-14T19:14:13Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Santa Cruz",
+     "ubigeo": "061300",
+     "precision": "provincia",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "694b70d997fa",
+   "titulo": "Periodista argentino genera polémica por llamar “ciudad precaria” a Chiclayo durante visita del papa León XIV",
+   "resumen": "El comunicador describió Chiclayo al mostrar \"casas a medio hacer\" y \"calles de tierra\", lo que provocó reacciones en redes sociales. Muchos usuarios peruanos consideraron despectivo el tono de sus comentarios sobre la ciudad.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/periodista-argentino-genera-polemica-por-lo-que-dijo-de-chiclayo-durante-visita-del-papa-leon-xiv-ciudad-precaria-600880",
+   "fecha": "2026-11-14T19:11:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f187527f4156",
+   "titulo": "Papa León XIV destaca la labor de campesinos y comerciantes en Santa Cruz de Succhabamba",
+   "resumen": "El papa León XIV ofició una misa este sábado 14 de noviembre en la explanada de Santa Cruz de Succhabamba, ubicada en Cajamarca.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/papa-leon-xiv-destaca-la-labor-de-campesinos-y-comerciantes-en-santa-cruz-de-succhabamba-noticia/",
+   "fecha": "2026-11-14T19:08:56Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2cfc0f441a87",
+   "titulo": "Misa del papa León XIV en Las Palmas: conoce qué puedes llevar y qué está prohibido",
+   "resumen": "¿Asistirás a la misa del papa León XIV en la base aérea Las Palmas, en Surco? Para evitar inconvenientes durante el ingreso y disfrutar de esta celebración eucarística sin poner en riesgo tu salud, es importante conocer qué objetos están permitidos, cuáles están prohibidos y qué medidas debes…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-misa-del-papa-leon-xiv-las-palmas-conoce-puedes-llevar-y-esta-prohibido-1099945.aspx",
+   "fecha": "2026-11-14T19:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "c41c20661a35",
+   "titulo": "Papa León XIV retorna a Chiclayo para cumplir últimas actividades en su querida diócesis",
+   "resumen": "Tras un vuelo de alrededor de 40 minutos, el papa León XIV retornó esta tarde a la ciudad de Chiclayo procedente de Santa Cruz de Succhubamba donde celebró esta mañana una misa multitudinaria y antes visitó la parroquia de la Inmaculada Concepción donde se inclinó ante la cruz que custodia el…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-retorna-a-chiclayo-para-cumplir-ultimas-actividades-su-querida-diocesis-1099974.aspx",
+   "fecha": "2026-11-14T18:56:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ddb59a096360",
+   "titulo": "Papa León XIV en Cajamarca destaca la profunda fe cristiana de Santa Cruz y llama a no perder la esperanza",
+   "resumen": "El Papa León XIV llegó hasta Santa Cruz de Succhabamba, en la región Cajamarca, para compartir una multitudinaria celebración eucarística con miles de fieles. Durante su homilía, el sumo pontífice destacó las profundas raíces cristianas de esta provincia, reconoció la perseverancia de sus…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/nacional/papa-leon-xiv-en-cajamarca-destaca-la-profunda-fe-cristiana-de-santa-cruz-y-llama-a-no-perder-la-esperanza/",
+   "fecha": "2026-11-14T18:53:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Cruz",
+     "ubigeo": "061300",
+     "precision": "provincia",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d1e5738a01e8",
+   "titulo": "Grupo Río recuerda concierto al que asistió Robert Prevost antes de ser papa León XIV y genera nostalgia en redes",
+   "resumen": "La banda peruana compartió una anécdota sobre Robert Prevost y un grupo de monaguillos de Chulucanas. La publicación generó nostalgia y mensajes a favor del rock nacional.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/grupo-rio-recuerda-concierto-al-que-asistio-robert-prevost-antes-de-ser-papa-leon-xiv-y-genera-nostalgia-en-redes/",
+   "fecha": "2026-11-14T18:42:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chulucanas",
+     "ubigeo": "200401",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "83826d515193",
+   "titulo": "Junín: joven que sufrió descarga eléctrica pide ser trasladado al Hospital Loayza para evitar la amputación de su pie",
+   "resumen": "Rotafono de RPP | Sebastián Yupanqui sufrió una quemadura de tercer grado el pasado 22 de agosto, en la ciudad de Chanchamayo, mientras trabajaba como soldador.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/rotafono/servicios-publicos/junin-joven-pide-ser-trasladado-al-hospital-arzobispo-loayza-para-evitar-la-amputacion-de-su-pie-noticia-1715100",
+   "fecha": "2026-11-14T18:42:02Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chanchamayo",
+     "ubigeo": "120301",
+     "precision": "distrito",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -75.32752,
+     "lat": -11.05667,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "367504e09c5b",
+   "titulo": "“Usted quiso venir hasta aquí porque conoce el corazón de nuestra gente y su profunda fe”",
+   "resumen": "“Santo padre, usted ha querido venir hasta aquí porque conoce el corazón de nuestra gente, sabe su pobreza material y de su profunda fe. Y hoy con su presencia nos ha mostrado, una vez más, su cercanía y su cariño por los pobres”, manifestó el obispo de Chiclayo, Edinson Farfán Córdova, en su…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-usted-quiso-venir-hasta-aqui-porque-conoce-corazon-nuestra-gente-y-su-profunda-fe-1099971.aspx",
+   "fecha": "2026-11-14T18:35:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b2344cfbabfa",
+   "titulo": "¡A bordo del ‘papacóptero’! Así fue el viaje de León XIV entre Chiclayo y Santa Cruz de Succhabamba [FOTOS]",
+   "resumen": "El papa León XIV visitó Santa Cruz de Succhabamba en su cuarto día de viaje apostólico al Perú.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/cajamarca/a-bordo-del-papacoptero-asi-fue-el-viaje-de-leon-xiv-entre-chiclayo-y-santa-cruz-de-succhabamba-fotos-noticia-1717817",
+   "fecha": "2026-11-14T18:30:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7835976e7618",
+   "titulo": "Cristiano evangélico emocionado por llegada del papa León XIV a Chiclayo: “Estamos unidos en una sola fe”",
+   "resumen": "Un padre de familia recordó que junto a su pastor visitaban al entonces obispo Robert Prevost para hablar sobre el cristianismo. “Él siempre nos recibía con mucho cariño”, señaló",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/cristiano-evangelico-emocionado-por-llegada-del-papa-leon-xiv-a-chiclayo-estamos-unidos-en-una-sola-fe/",
+   "fecha": "2026-11-14T18:25:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2f0a6c906c58",
+   "titulo": "La Victoria: Adolescente de 14 años quedó grave tras recibir varios disparos",
+   "resumen": "El adolescente fue llevado de urgencia al Hospital Dos de Mayo debido a la gravedad de sus heridas, y permanece internado con pronóstico reservado.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/la-victoria-adolescente-de-14-anos-quedo-grave-tras-recibir-varios-disparos-noticia/",
+   "fecha": "2026-11-14T18:24:58Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Victoria",
+     "ubigeo": "150115",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03083,
+     "lat": -12.06493,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d4df63fd77b9",
+   "titulo": "Papa León XIV se despidió de Santa Cruz de Succhabamba y regresa a Chiclayo en el papacóptero",
+   "resumen": "Tras celebrar una multitudinal misa realizada en la explanada de Santa Cruz de Succhabamba, el papa León XIV se despide de la localidad cajamarquina a más de 2,000 m.s.n.m, para abordar el ‘papacóptero’ de regreso a Chiclayo, donde continuará con sus actividades previstas para este sábado 14 de…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/cajamarca/papa-leon-xiv-se-despidio-de-santa-cruz-de-succhabamba-y-regresa-a-chiclayo-en-el-papacoptero-cajamarca-zana-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-14T18:24:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "79239f1ff219",
+   "titulo": "ODPE Trujillo avanza con la organización de la jornada electoral del 6 de diciembre",
+   "resumen": "La Oficina Descentralizada de Procesos Electorales (ODPE) Trujillo avanza con las acciones de planificación y organización de la Segunda Elección Regional (SER) 2026, que se desarrollará el domingo 6 de diciembre en la región La Libertad.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/odpe-trujillo-avanza-con-la-organizacion-de-la-jornada-electoral-del-6-de-diciembre-la-libertad-peru-noticia/",
+   "fecha": "2026-11-14T18:24:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "02b263f30cda",
+   "titulo": "Obispo de Chiclayo destaca visita del papa León XIV a Santa Cruz: “Quedará grabada en el corazón de nuestro pueblo”",
+   "resumen": "La visita papal permitió congregar a fieles procedentes de diferentes localidades y jurisdicciones eclesiásticas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/obispo-de-chiclayo-destaca-visita-del-papa-leon-xiv-a-santa-cruz-quedara-grabada-en-el-corazon-de-nuestro-pueblo/",
+   "fecha": "2026-11-14T18:21:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "12edf9b4165a",
+   "titulo": "Así fue el impresionante pastel que Chiclayo preparó para el papa León XIV: recrearon su llegada a caballo a los pueblos alejados del Perú",
+   "resumen": "Durante la cena que compartió la noche del viernes con obispos, sacerdotes y miembros de la diócesis de Chiclayo, el Santo Padre recibió una sorpresa que resumió parte de su historia en el norte del Perú. Un enorme pastel de varios niveles recreó los lugares, las imágenes religiosas y las escenas…",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/asi-fue-el-impresionante-pastel-que-chiclayo-preparo-para-el-papa-leon-xiv-recrearon-su-llegada-a-caballo-a-los-pueblos-alejados-del-peru/",
+   "fecha": "2026-11-14T18:21:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "72631002d31a",
+   "titulo": "Fe y emoción en Chiclayo: fieles que no ingresaron a la catedral oraron en sus exteriores",
+   "resumen": "La fe y la devoción mariana se hicieron sentir con especial emoción en los exteriores de la iglesia Santa María Catedral de Chiclayo, donde hoy decenas de feligreses procedentes de Lambayeque y otras regiones del país permanecieron después de la ceremonia del rito de coronación de la Virgen María…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-fe-y-emocion-chiclayo-fieles-no-ingresaron-a-catedral-oraron-sus-exteriores-1099969.aspx",
+   "fecha": "2026-11-14T18:12:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c217d3ceadcd",
+   "titulo": "Región Ica continuará soportando peligrosa radiación solar y altas temperaturas",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/region-ica-continuara-soportando-peligrosa-radiacion-solar-y-altas-temperaturas-noticia/",
+   "fecha": "2026-11-14T18:02:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5259ff04e279",
+   "titulo": "Pucallpa se prepara para recibir al papa León XIV este domingo 15 de noviembre (FOTOS)",
+   "resumen": "La ciudad de Pucallpa se alista para recibir al papa León XIV este domingo 15 de noviembre. Cientos de fieles esperan la llegada del sumo pontífice, quien cumplirá dos importantes actividades durante la tarde como parte de su visita apostólica al Perú. (Fotos: Antonio Melgarejo @photo.gec)",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/pucallpa-se-prepara-para-recibir-al-papa-leon-xiv-este-domingo-15-de-noviembre-fotos-noticia/",
+   "fecha": "2026-11-14T18:01:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5acb54c2e65c",
+   "titulo": "Papa León XIV: Reniec suspenderá atención en Lima y Callao este lunes 16 de noviembre",
+   "resumen": "El Registro Nacional de Identificación y Estado Civil (Reniec) informa a la ciudadanía que este lunes 16 de noviembre no atenderá en sus centros de atención de Lima, debido a la declaración de día no laborable compensable dispuesta por el Gobierno con motivo de la visita del papa León XIV al Perú.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-reniec-suspendera-atencion-lima-y-callao-este-lunes-16-noviembre-1099965.aspx",
+   "fecha": "2026-11-14T18:00:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "grupo": "f0582a8ce307"
+  },
+  {
+   "id": "e980bce5c795",
+   "titulo": "Cayara apuesta por el turismo con un circuito de bosques de piedra, cataratas y sitios históricos",
+   "resumen": "El distrito de Cayara, en la provincia de Víctor Fajardo, busca abrirse camino como destino turístico en Ayacucho con un circuito que reúne su riqueza natural, histórica y cultural. Entre los atractivos figuran el bosque de piedra de Estacionniyuq, las cataratas Ircciripaqcha y Sihuari Paqcha, el…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/cayara-apuesta-por-el-turismo-con-un-circuito-de-bosques-de-piedra-cataratas-y-sitios-historicos/",
+   "fecha": "2026-11-14T17:54:45Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cayara",
+     "ubigeo": "051006",
+     "precision": "distrito",
+     "provincia": "Víctor Fajardo",
+     "departamento": "Ayacucho",
+     "lon": -73.98862,
+     "lat": -13.79525,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Víctor Fajardo",
+     "ubigeo": "051000",
+     "precision": "provincia",
+     "provincia": "Víctor Fajardo",
+     "departamento": "Ayacucho",
+     "lon": -74.06659,
+     "lat": -13.75224,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "56f3200744d8",
+   "titulo": "Admiten la apelación de Somos Perú: JNE definirá quién pasa a segunda vuelta en Piura",
+   "resumen": "Mediante la Resolución N.° 01465-2026-JEE-MORR/JNE, emitida el 12 de noviembre en Chulucanas, el Jurado Electoral Especial (JEE) de Morropón concedió el recurso de apelación interpuesto por Uvaldo Pizarro, personero legal de Somos Perú, y ordenó elevar “en el día” y bajo responsabilidad el…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/admiten-la-apelacion-de-somos-peru-jne-definira-quien-pasa-a-segunda-vuelta-en-piura/",
+   "fecha": "2026-11-14T17:53:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chulucanas",
+     "ubigeo": "200401",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Morropón",
+     "ubigeo": "200400",
+     "precision": "provincia",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1ad73606d43d",
+   "titulo": "Ica: distritos de Chincha Alta, Parcona y La Tinguiña concentra la mayor incidencia de violencia",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/mas-de-6-mil-casos-de-violencia-registra-ica-y-chincha-alta-concentra-la-mayor-incidencia-noticia/",
+   "fecha": "2026-11-14T17:52:38Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chincha Alta",
+     "ubigeo": "110201",
+     "precision": "distrito",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.13251,
+     "lat": -13.4182,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Parcona",
+     "ubigeo": "110106",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.68565,
+     "lat": -14.05396,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "La Tinguiña",
+     "ubigeo": "110102",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.7106,
+     "lat": -14.03334,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d89886dde18f",
+   "titulo": "Expediente técnico para la Villa Olímpica de Arequipa no estará listo este año",
+   "resumen": "A poco menos de dos meses de terminar la gestión 2023-2026, el Gobierno Regional de Arequipa (GRA) no tendrá listo el expediente técnico de la Villa Olímpica anunciada en 2023. Si bien el terreno destinado para el proyecto ya fue definido, este aún no cuenta con cerco perimétrico.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/expediente-tecnico-para-la-villa-olimpica-de-arequipa-no-estara-listo-este-ano-noticia/",
+   "fecha": "2026-11-14T17:52:35Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8b6a7df49117",
+   "titulo": "Moderno almacén central en Piura: vacunas contra 28 enfermedades",
+   "resumen": "La protección de miles de asegurados de la región Piura está respaldada por una importante infraestructura de almacenamiento de vacunas. La Red Asistencial EsSalud Piura cuenta con un moderno almacén central especializado que permite conservar y garantizar la disponibilidad de inmunológicos…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/moderno-almacen-central-en-piura-vacunas-contra-28-enfermedades/",
+   "fecha": "2026-11-14T17:51:01Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1ad88fae5cb4",
+   "titulo": "León XIV elogia el trabajo de campesinos y comerciantes durante homilía en Santa Cruz de Succhabamba",
+   "resumen": "El santo padre realizó una homilía en la explanada de Santa Cruz de Succhabamba, en Cajamarca, este sábado, 14 de noviembre.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/cajamarca/papa-leon-xiv-realiza-homilia-en-santa-cruz-de-succhabamba-cajamarca-noticia-1717804",
+   "fecha": "2026-11-14T17:45:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "70b43e505882",
+   "titulo": "Ayacucho no está preparado para El Niño: urgen limpiar quebradas y planificar acciones",
+   "resumen": "El aguacero que soportó Ayacucho el miércoles 11 demostró que la ciudad no está preparada para enfrentar el fenómeno de El Niño, que amenaza con precipitaciones iguales o mayores. Según el análisis de Juan Camborda Ledesma, las instituciones y los ciudadanos comparten responsabilidades, empezando…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/ayacucho-no-esta-preparado-para-el-nino-urgen-limpiar-quebradas-y-planificar-acciones/",
+   "fecha": "2026-11-14T17:44:13Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bb902c23b673",
+   "titulo": "Cusco: Fieles se alistan para encuentro con el papa León XIV en Saqsaywaman",
+   "resumen": "Cientos de fieles se preparan para participar en el encuentro del papa León XIV con representantes de la piedad popular, que se realizará en el Parque Arqueológico Nacional de Saqsaywaman, en Cusco. La actividad forma parte de la agenda del sumo pontífice durante su visita apostólica al Perú.…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/cusco/cusco-fieles-se-alistan-para-encuentro-con-el-papa-leon-xiv-en-saqsaywaman-noticia/",
+   "fecha": "2026-11-14T17:43:45Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "184d36af45bc",
+   "titulo": "Ica: trabajadores agrícolas realizan plantón tras ocho meses sin acuerdos en negociación colectiva",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/ica-trabajadores-de-fruticola-del-sur-realizan-planton-tras-ocho-meses-sin-acuerdos-en-negociacion-colectiva-noticia/",
+   "fecha": "2026-11-14T17:42:03Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5c1bb96b48bf",
+   "titulo": "Alcalde de Castilla reporta 40 puntos críticos ante la llegada del fenómeno El Niño",
+   "resumen": "En la provincia de Castilla identificaron 40 puntos críticos que podrían resultar afectados por las lluvias asociadas al fenómeno El Niño, informó ayer el alcalde provincial Renzo Pastor Alatrista, pese a que ejecutaron trabajos de descolmatación de quebradas y limpieza de ríos.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/alcalde-de-castilla-reporta-40-puntos-criticos-ante-la-llegada-del-fenomeno-el-nino-noticia/",
+   "fecha": "2026-11-14T17:41:33Z",
+   "temas": [
+    "desastres",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Castilla",
+     "ubigeo": "040400",
+     "precision": "provincia",
+     "provincia": "Castilla",
+     "departamento": "Arequipa",
+     "lon": -72.49215,
+     "lat": -16.07624,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "53959ef178f5",
+   "titulo": "“Queremos estar cerca de ustedes”: el conmovedor encuentro de León XIV con adultos mayores en Santa Cruz de Succhabamba",
+   "resumen": "En la iglesia La Inmaculada, donde se encuentra el Señor del Costado, el Santo Padre protagonizó uno de los encuentros más conmovedores de su visita a Cajamarca. Frente a adultos mayores, personas con discapacidad y fieles que lo esperaban con emoción, recordó que quienes sufren por la enfermedad…",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/queremos-estar-cerca-de-ustedes-el-conmovedor-encuentro-de-leon-xiv-con-adultos-mayores-en-santa-cruz-de-succhabamba/",
+   "fecha": "2026-11-14T17:34:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ecb180241651",
+   "titulo": "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
+   "resumen": "Al terminar la misa en Pimentel, el pontífice tomó la iniciativa y se acercó a saludar a la presidenta peruana. Ella lo describió como uno de los momentos más memorables de su vida. Lo que ese instante revela va mucho más allá de una imagen",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/los-gestos-que-profundizan-la-relacion-entre-leon-xiv-y-keiko-fujimori/",
+   "fecha": "2026-11-14T17:30:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pimentel",
+     "ubigeo": "140112",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.93573,
+     "lat": -6.8354,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "79b8b59ff80b",
+   "titulo": "Adolescente de 14 años se debate entre la vida y la muerte tras ser atacado a balazos en La Victoria",
+   "resumen": "El menor, malherido, fue trasladado de emergencia al Hospital Dos de Mayo, donde permanece con pronóstico reservado.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/policiales/la-victoria-adolescente-de-14-anos-se-debate-entre-la-vida-y-la-muerte-tras-ser-atacado-a-balazos-noticia-1717811",
+   "fecha": "2026-11-14T17:30:30Z",
+   "temas": [
+    "salud",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Victoria",
+     "ubigeo": "150115",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03083,
+     "lat": -12.06493,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "cd91e61daa01",
+   "titulo": "Cajamarca: Gran multitud de fieles reciben al papa León XIV en Santa Cruz de Succhabamba",
+   "resumen": "En medio de muestras de fe, emoción y fervor religioso, una multitud de fieles se congregó en Santa Cruz de Succhabamba para recibir al papa León XIV y participar de la celebración de la Santa Misa, protagonizando un momento de profunda devoción para la comunidad católica. Desde tempranas horas…",
+   "medio": "Radio Marañón",
+   "medio_id": "maranon",
+   "url": "https://radiomaranon.org.pe/cajamarca-gran-multitud-de-fieles-reciben-al-papa-leon-xiv-en-santa-cruz-de-succhabamba/",
+   "fecha": "2026-11-14T17:28:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "grupo": "66c65017c6e8"
+  },
+  {
+   "id": "f908ba9c26de",
+   "titulo": "Misa de León XIV en Las Palmas: estas son las vías de Barranco que estarán restringidas desde mañana",
+   "resumen": "La medida regirá desde la noche del domingo 15 hasta la tarde del lunes 16 de noviembre, debido al desplazamiento del pontífice hacia la Base Aérea Las Palmas, en Surco.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/misa-de-leon-xiv-en-las-palmas-estas-son-las-vias-de-barranco-que-estaran-restringidas-desde-manana-553602",
+   "fecha": "2026-11-14T17:25:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Barranco",
+     "ubigeo": "150104",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02179,
+     "lat": -12.14916,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "6440481c8b2a",
+   "titulo": "La Policía captura a un hombre cuando recibía S/1,500 de extorsión en Piura",
+   "resumen": "Agentes detuvieron a un hombre cuando cobraba un adelanto de los S/30,000 que le venían exigiendo a una empresaria a quien le balearon su vivienda",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/piura/la-policia-captura-a-un-hombre-cuando-recibia-s1500-de-extorsion-en-piura-noticia/",
+   "fecha": "2026-11-14T17:24:40Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a1697433bd29",
+   "titulo": "Nova Geracao lleva dos talentos ayacuchanos a la selección peruana Sub-14",
+   "resumen": "Dos integrantes de la escuela deportiva Nova Geracao, Zuriel Cárdenas y Neymar Auqui, fueron convocados al microciclo de la selección peruana Sub-14, organizado por la Federación Peruana de Fútbol (FPF). Los jóvenes participarán en los entrenamientos programados del 16 al 20 de noviembre en Lima…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/nova-geracao-lleva-dos-talentos-ayacuchanos-a-la-seleccion-peruana-sub-14/",
+   "fecha": "2026-11-14T17:09:19Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a62f4526b120",
+   "titulo": "¿Vas a Las Palmas? Sigue estas recomendaciones para llegar, ingresar y ubicarte a la misa del papa León XIV",
+   "resumen": "Conoce todos los detalles para trasladarte, acceder y ubicarte dentro de la Base Aérea de Las Palmas, en Surco, para la misa que oficiará el sumo pontífice el lunes 16 de noviembre. Revisa la información y evita contratiempos.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/vas-a-las-palmas-sigue-estas-recomendaciones-para-llegar-ingresar-y-ubicarte-a-la-misa-del-papa-leon-xiv-292740",
+   "fecha": "2026-11-14T17:08:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1bf15e471352",
+   "titulo": "Trujillo se prepara ante una emergencia por el fenómeno El Niño",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/trujillo-se-prepara-ante-una-emergencia-por-el-fenomeno-de-el-nino-la-libertad-peru-noticia/",
+   "fecha": "2026-11-14T17:02:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8c202d989459",
+   "titulo": "Chincha: comienza la transferencia en municipios de Sunampe, Alto Larán y Tambo de Mora",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/chincha-comienza-la-transferencia-en-municipios-de-sunampe-alto-laran-y-tambo-de-mora-noticia/",
+   "fecha": "2026-11-14T17:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Sunampe",
+     "ubigeo": "110210",
+     "precision": "distrito",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.16367,
+     "lat": -13.4275,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Chincha",
+     "ubigeo": "110200",
+     "precision": "provincia",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.13251,
+     "lat": -13.4182,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Alto Larán",
+     "ubigeo": "110202",
+     "precision": "distrito",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.08324,
+     "lat": -13.44238,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Tambo de Mora",
+     "ubigeo": "110211",
+     "precision": "distrito",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.1766,
+     "lat": -13.46047,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c405408c35c1",
+   "titulo": "Chincha: alumnos de secundaria vuelven a protagonizar pelea en la vía pública",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/chincha-alumnos-de-secundaria-vuelven-a-protagonizar-pelea-en-la-via-publica-noticia/",
+   "fecha": "2026-11-14T16:55:00Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chincha",
+     "ubigeo": "110200",
+     "precision": "provincia",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.13251,
+     "lat": -13.4182,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7e66c553e63c",
+   "titulo": "MISA HISTÓRICA DEL PAPA LEÓN XIV EN LAS PAMPAS DE PIMENTEL PONE AL PERÚ EN LOS OJOS DEL MUNDO, SOSTIENE ANALISTA ALDO LORENZZI",
+   "resumen": "RCR, 14 de noviembre de 2026.- Una jornada histórica vivió Chiclayo con la misa multitudinaria que celebró el papa León XIV en las Pampas de Pimentel. La celebración, que reunió a más de 1 millón de fieles entre delegaciones de distintas regiones del país y del extranjero, tendrá una repercusión…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/misa-historica-del-papa-leon-xiv-en-las-pampas-de-pimentel-pone-al-peru-en-los-ojos-del-mundo-sostiene-analista-aldo-lorenzzi/",
+   "fecha": "2026-11-14T16:54:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Pampas De Pimentel",
+     "ubigeo": "140112",
+     "ccpp": "1401120034",
+     "precision": "centro_poblado",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.90427,
+     "lat": -6.81626,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140100",
+     "precision": "provincia",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Pimentel",
+     "ubigeo": "140112",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.93573,
+     "lat": -6.8354,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d8645ff0594c",
+   "titulo": "Fotos y videos de la multitudinaria bienvenida de Santa Cruz de Succhabamba al papa León XIV",
+   "resumen": "Los fieles colmaron la plaza principal y los accesos de la localidad cajamarquina, donde aguardaron durante horas el paso del pontífice entre globos vaticanos, música y bailes antes de la ceremonia religiosa",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/fotos-y-videos-de-la-multitudinaria-bienvenida-de-santa-cruz-de-succhabamba-al-papa-leon-xiv/",
+   "fecha": "2026-11-14T16:53:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ad60b78c7873",
+   "titulo": "\"EL HORIZONTE EN LLAMAS\" EN PUCALLPA",
+   "resumen": "*Jorge Nájar, el poeta galardonado con el Premio Copé, regresó a Pucallpa, una de sus tierras, para compartir experiencias literarias con académicos, jóvenes y público que se dio cita a las actividades",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "https://proycontra.com.pe/noticias/el-horizonte-en-llamas-en-pucallpa",
+   "fecha": "2026-11-14T16:53:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Llamas",
+     "ubigeo": "120203",
+     "ccpp": "1202030012",
+     "precision": "centro_poblado",
+     "provincia": "Concepción",
+     "departamento": "Junín",
+     "lon": -74.87456,
+     "lat": -11.63156,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "7322edd117be",
+   "titulo": "Cuestionan inversión de S/2.6 millones en techados deportivos en Jesús Nazareno",
+   "resumen": "La Municipalidad Distrital de Jesús Nazareno proyecta invertir S/2 millones 677 mil en el techado de losas deportivas mediante Obras por Impuestos. Sin embargo, los regidores Yames Torre y Rosmery Huamán advirtieron falta de información sobre los costos y las condiciones técnicas del proyecto…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/cuestionan-inversion-de-s-2-6-millones-en-techados-deportivos-en-jesus-nazareno/",
+   "fecha": "2026-11-14T16:50:38Z",
+   "temas": [
+    "politica_local",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jesús Nazareno",
+     "ubigeo": "050115",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.21255,
+     "lat": -13.15409,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5a64a7571ea9",
+   "titulo": "León XIV volvió a los Andes a cumplir su promesa de obispo y defendió la piedad popular como \"un antídoto contra la superficialidad y el consumismo\"",
+   "resumen": "Vengo como lo he hecho tantas veces\", dijo el Papa en Santa Cruz de Succhabamba, el pueblo andino que lo esperó cuatro años",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/leon-xiv-volvio-a-los-andes-a-cumplir-su-promesa-de-obispo-y-defendio-la-piedad-popular-como-un-antidoto-contra-la-superficialidad-y-el-consumismo/",
+   "fecha": "2026-11-14T16:46:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6b2b93589291",
+   "titulo": "Nasca recordó el devastador terremoto del año 1996 que dejó muertos y destruyó viviendas",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/nasca-recordo-el-devastador-terremoto-del-ano-1996-que-dejo-muertos-y-destruyo-viviendas-noticia/",
+   "fecha": "2026-11-14T16:45:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110301",
+     "precision": "distrito",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "644fa1f9f89c",
+   "titulo": "Estadio Leoncio Prado suma 16 años de promesas y sigue sin expediente técnico definitivo",
+   "resumen": "Padres de familia y representantes del colegio Mariscal Cáceres protestaron para exigir al Gobierno Regional de Ayacucho la entrega del expediente técnico definitivo del proyecto de mejoramiento del estadio Leoncio Prado. La obra acumula cerca de 16 años de compromisos asumidos por varias…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/estadio-leoncio-prado-suma-16-anos-de-promesas-y-sigue-sin-expediente-tecnico-definitivo/",
+   "fecha": "2026-11-14T16:42:25Z",
+   "temas": [
+    "infraestructura",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6a0737b0578b",
+   "titulo": "Papa León XIV: Creyentes llegan desde todo el sur del Perú para encuentros en Cusco (VIDEO)",
+   "resumen": "Este domingo el papa León XIV encabezará dos ceremonias en Sacsayhuamán y la Plaza Mayor de Cusco ante más de 100 mil personas.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/cusco/papa-leon-xiv-creyentes-llegan-desde-todo-el-sur-del-peru-para-encuentros-en-cusco-video-noticia/",
+   "fecha": "2026-11-14T16:42:03Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7ad6aa5d40e6",
+   "titulo": "Piura y Sullana soportan temperaturas nunca antes registradas para noviembre",
+   "resumen": "El calor continúa sorprendiendo a los habitantes de la región Piura. Las provincias de Piura y Sullana alcanzaron nuevas temperaturas máximas históricas para el mes de noviembre, luego de que dos estaciones meteorológicas registraran valores superiores a las marcas que se mantenían desde 1997 y…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/piura-y-sullana-soportan-temperaturas-nunca-antes-registradas-para-noviembre/",
+   "fecha": "2026-11-14T16:40:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Sullana",
+     "ubigeo": "200601",
+     "precision": "distrito",
+     "provincia": "Sullana",
+     "departamento": "Piura",
+     "lon": -80.68788,
+     "lat": -4.89044,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2fc362affd13",
+   "titulo": "Secuestran y asesinan a productor arrocero de 78 años en San Martín: exigían S/500 mil por su rescate",
+   "resumen": "Clemente Burga Tamay fue interceptado cuando se dirigía a Juanjuí. Su familia intentó reunir el rescate, pero nunca volvió a recibir noticias de los captores",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/secuestran-y-asesinan-a-productor-arrocero-de-78-anos-en-san-martin-exigian-s500-mil-por-su-rescate/",
+   "fecha": "2026-11-14T16:40:09Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juanjuí",
+     "ubigeo": "220601",
+     "precision": "distrito",
+     "provincia": "Mariscal Cáceres",
+     "departamento": "San Martín",
+     "lon": -76.724,
+     "lat": -7.17659,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Martín",
+     "ubigeo": "220000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "San Martín",
+     "lon": -76.97427,
+     "lat": -6.03473,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "13eb75e9f998",
+   "titulo": "Fiscalía ordena diligencias por hurto de equipos audiovisuales en colegio de Ite",
+   "resumen": "El Ministerio Público dispuso la realización de diligencias urgentes e inaplazables para esclarecer el hurto de equipos audiovisuales registrado en una institución educativa del distrito de Ite. El hecho ocurrió el pasado 9 de noviembre, cuando ladrones sustrajeron una cámara fotográfica y una…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288279/fiscalia-ordena-diligencias-por-hurto-de-equipos-audiovisuales-en-colegio-de-ite/",
+   "fecha": "2026-11-14T16:38:09Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ite",
+     "ubigeo": "230303",
+     "precision": "distrito",
+     "provincia": "Jorge Basadre",
+     "departamento": "Tacna",
+     "lon": -70.96579,
+     "lat": -17.86163,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "66c65017c6e8",
+   "titulo": "Cajamarca: multitud de fieles recibió al papa León XIV en Santa Cruz de Succhabamba [FOTOS]",
+   "resumen": "Tras realizar el rito de Coronación de la Virgen Inmaculada en la Basílica y Catedral de Santa María, el santo padre se trasladó en helicópterio hacia la explanada de Santa Cruz de Succhabamba para realizar una misa.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/cajamarca/cajamarca-multitud-de-fieles-recibio-al-papa-leon-xiv-en-santa-cruz-de-succhabamba-fotos-noticia-1717808",
+   "fecha": "2026-11-14T16:35:42Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Maria",
+     "ubigeo": "060110",
+     "ccpp": "0601100013",
+     "precision": "centro_poblado",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.26589,
+     "lat": -7.27884,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "87b4f3d8c76e",
+   "titulo": "Balean centro deportivo, desatan persecución y terminan detenidos en Carabayllo",
+   "resumen": "Los sospechosos huyeron en una motocicleta tras abrir fuego contra la puerta del local. El presunto propietario los persiguió y terminó embistiendo el vehículo en el que escapaban.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/balean-centro-deportivo-desatan-persecucion-y-terminan-detenidos-en-carabayllo-1074836",
+   "fecha": "2026-11-14T16:33:05Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Carabayllo",
+     "ubigeo": "150106",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02695,
+     "lat": -11.89017,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "da2393de3584",
+   "titulo": "Arequipa: Niña de un año muere atropellada por camión en Cerro Colorado",
+   "resumen": "Una niña de un año de edad perdió la vida tras ser atropellada el 13 de noviembre en la noche por un camión en la intersección de la vía de Evitamiento con la avenida Sol Norte, en el distrito de Cerro Colorado.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-nina-de-un-ano-muere-atropellada-por-camion-en-cerro-colorado-noticia/",
+   "fecha": "2026-11-14T16:32:50Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cerro Colorado",
+     "ubigeo": "040104",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.56088,
+     "lat": -16.37626,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "297924f4bac5",
+   "titulo": "Miraflores: cúster con pasajeros a bordo invadió la berma central de la avenida Benavides y chocó con un árbol [VIDEO]",
+   "resumen": "Al menos siete personas, entre ellas el chofer y el cobrador de la unidad, resultaron heridas en este aparatoso accidente, registrado a plena luz del día.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/accidentes/miraflores-custer-con-pasajeros-a-bordo-invadio-la-berma-central-de-la-avenida-benavides-y-choco-con-un-arbol-video-noticia-1717806",
+   "fecha": "2026-11-14T16:30:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "100506",
+     "precision": "distrito",
+     "provincia": "Huamalíes",
+     "departamento": "Huánuco",
+     "lon": -76.81871,
+     "lat": -9.49394,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "6980114cfefb",
+   "titulo": "León XIV vuelve a dormir en la casa que fue su hogar durante ocho años como obispo de Chiclayo",
+   "resumen": "El pontífice se alojó nuevamente en la Residencia Episcopal de Chiclayo, el mismo lugar donde vivió entre 2015 y 2023, cuando estuvo al frente de la diócesis.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/leon-xiv-vuelve-a-dormir-en-la-casa-que-fue-su-hogar-durante-ocho-anos-como-obispo-de-chiclayo-413126",
+   "fecha": "2026-11-14T16:27:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f903e133da5b",
+   "titulo": "León XIV recorre en el papamóvil el pueblo de Santa Cruz, en Cajamarca: “Nunca nos olvidó”",
+   "resumen": "Los pobladores salieron a recibir al sumo pontífice, quien visitó la plaza y la parroquia Inmaculada, antes de movilizarse en su 'papamóvil' para oficiar una misa en las Pampas de Aviación. Robert Prevost solía visitar esta localidad cuando era obispo de Chiclayo.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/leon-xiv-recorre-en-el-papamovil-el-pueblo-de-santa-cruz-en-cajamarca-nunca-nos-olvido-1282988",
+   "fecha": "2026-11-14T16:23:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz",
+     "ubigeo": "061300",
+     "precision": "provincia",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "20f25db70412",
+   "titulo": "Real Plaza iniciará este lunes la demolición de su centro comercial en Trujillo: invertirá S/ 500 millones en nuevo mall",
+   "resumen": "Real Plaza iniciará la demolición progresiva de su mall en Trujillo para construir uno nuevo desde cero. El proyecto generará 3,250 empleos durante las obras.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/economia/economia/real-plaza-iniciara-este-lunes-la-demolicion-de-su-centro-comercial-en-trujillo-invertira-s-500-millones-en-nuevo-mall-noticia-1717803",
+   "fecha": "2026-11-14T16:22:45Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "30cabc2de99b",
+   "titulo": "Entre música, murales y niños emocionados: así recibió Santa Cruz de Succhabamba al papa León XIV, el pueblo donde dejó su huella pastoral",
+   "resumen": "Entre bandas patronales, aplausos, globos y cientos de niños que se congregaron en los alrededores del helipuerto, Santa Cruz de Succhabamba vivió una jornada histórica con el retorno del papa León XIV. La localidad cajamarquina, donde Robert Prevost dejó una profunda huella durante su labor…",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/entre-musica-murales-y-ninos-emocionados-asi-recibio-santa-cruz-de-succhabamba-al-papa-leon-xiv-el-pueblo-donde-dejo-su-huella-pastoral/",
+   "fecha": "2026-11-14T16:20:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0900afbb5879",
+   "titulo": "Visita del papa a Cusco aumenta la demanda de pasajes desde Arequipa: precios llegan a S/ 180",
+   "resumen": "La expectativa por la visita del papa León XIV a Cusco incrementó la demanda de pasajes terrestres desde Arequipa. En el Terminal Terrestre y el Terrapuerto, las empresas de transporte reportaron un aumento en la venta de boletos hacia la Ciudad Imperial, e incluso algunas ya agotaron sus pasajes…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/14/visita-del-papa-a-cusco-aumenta-la-demanda-de-pasajes-desde-arequipa-precios-llegan-a-s-180/",
+   "fecha": "2026-11-14T16:16:34Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Imperial",
+     "ubigeo": "150507",
+     "precision": "distrito",
+     "provincia": "Cañete",
+     "departamento": "Lima",
+     "lon": -76.35272,
+     "lat": -13.06069,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2783b2df3be3",
+   "titulo": "Apu Jamer López ante la llegada de León XIV a Pucallpa: “Queremos que pueda escuchar nuestras propuestas”",
+   "resumen": "El presidente de la Organización Regional AIDESEP Ucayali (ORAU) recordó también la vez que el entonces papa Francisco visitó Puerto Maldonado.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/apu-jamer-lopez-ante-la-llegada-de-leon-xiv-a-pucallpa-queremos-que-pueda-escuchar-nuestras-propuestas-noticia-1717798",
+   "fecha": "2026-11-14T16:11:13Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Tambopata",
+     "ubigeo": "170101",
+     "precision": "distrito",
+     "provincia": "Tambopata",
+     "departamento": "Madre de Dios",
+     "lon": -69.1768,
+     "lat": -12.59367,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c03294f4bf01",
+   "titulo": "Diez municipalidades de Ica no generan accesos informáticos para la transferencia de gestión",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/diez-municipalidades-de-ica-no-generan-accesos-informaticos-para-la-transferencia-de-gestion-noticia/",
+   "fecha": "2026-11-14T16:07:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "54f6edafa939",
+   "titulo": "Azángaro se prepara para un cacerolazo contra la crisis económica y el posible incremento de pasajes",
+   "resumen": "Organizaciones sociales convocaron a la población a participar en la protesta del 14 de noviembre a las 6:00 p. m. y anunciaron gestiones para solicitar la regulación de las tarifas del transporte Dirigentes de la provincia de Azángaro anunciaron la realización de un cacerolazo como medida de…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/azangaro-se-prepara-para-un-cacerolazo-contra-la-crisis-economica-y-el-posible-incremento-de-pasajes/",
+   "fecha": "2026-11-14T16:05:13Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Azángaro",
+     "ubigeo": "210200",
+     "precision": "provincia",
+     "provincia": "Azángaro",
+     "departamento": "Puno",
+     "lon": -70.19543,
+     "lat": -14.90818,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "002833dd2d0f",
+   "titulo": "Fieles de todo el Perú llegan a Lima para participar en la misa del Papa León XIV",
+   "resumen": "Los enviados especiales de Radio Onda Azul reportaron vuelos completamente llenos desde Juliaca y destacaron la presencia de jóvenes y adultos que viajaron para participar en las actividades de la visita papal En el marco de la visita del papa León XIV al Perú, las delegaciones de diferentes…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/fieles-de-todo-el-peru-llegan-a-lima-para-participar-en-la-misa-del-papa-leon-xiv/",
+   "fecha": "2026-11-14T16:05:10Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "86e48de672d4",
+   "titulo": "San Isidro: Mujer resultó herida tras violento choque entre dos automóviles",
+   "resumen": "Una joven que viajaba en uno de los vehículos involucrados en el accidente tuvo que ser trasladada de emergencia a una clínica cercana.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/san-isidro-mujer-resulto-herida-tras-violento-choque-entre-dos-automoviles-noticia/",
+   "fecha": "2026-11-14T16:04:42Z",
+   "temas": [
+    "transporte",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Isidro",
+     "ubigeo": "150131",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02725,
+     "lat": -12.09775,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7a7a944ce42d",
+   "titulo": "Víctor Andrés Belaúnde: aquí se vive la lectura",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/cultura/victor-andres-belaunde-aqui-se-vive-la-lectura-trujillo-la-libertad-peru-noticia/",
+   "fecha": "2026-11-14T16:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Victor Andres Belaunde",
+     "ubigeo": "160606",
+     "ccpp": "1606060006",
+     "precision": "centro_poblado",
+     "provincia": "Ucayali",
+     "departamento": "Loreto",
+     "lon": -74.99847,
+     "lat": -6.79749,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "9856a88c8364",
+   "titulo": "Menor asesina a su expareja gestante para no asumir su responsabilidad",
+   "resumen": "Keyla, una adolescente de 16 años y estudiante del colegio González Vigil, fue asesinada con un arma blanca al interior de su vivienda, ubicada en la ciudad de Huanta. La víctima tenía cinco meses de gestación y, por el presunto feminicidio, su expareja de 17 años fue intervenida y permanece bajo…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/menor-asesina-a-su-expareja-gestante-para-no-asumir-su-responsabilidad/",
+   "fecha": "2026-11-14T15:59:05Z",
+   "temas": [
+    "seguridad",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huanta",
+     "ubigeo": "050401",
+     "precision": "distrito",
+     "provincia": "Huanta",
+     "departamento": "Ayacucho",
+     "lon": -74.24796,
+     "lat": -12.93942,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "1173cb59dd64",
    "titulo": "Así fue la emotiva coronación del papa León XIV a la Virgen Inmaculada de Chiclayo",
    "resumen": "León XIV colocó una corona dorada sobre la imagen de la patrona de la diócesis, gesto que recibió una ovación de los asistentes congregados en el recinto y la plaza de Armas",
@@ -357,6 +3733,31 @@
     }
    ],
    "grupo": "6a18d9613882"
+  },
+  {
+   "id": "58dfcc9f791f",
+   "titulo": "SER 2026: Más de 304 mil electores participarán en la Segunda Elección Regional en Tacna",
+   "resumen": "En el marco de la Segunda Elección Regional (SER) 2026, un total de 304 648 ciudadanos de la región Tacna volverán a las urnas este domingo 6 de diciembre, en para elegir al gobernador y vicegobernador regional. La Oficina Descentralizada de Procesos Electorales (ODPE) Tacna, cuenta con 123…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/ser-2026-mas-de-304-mil-electores-participaran-en-la-segunda-eleccion-regional-en-tacna/",
+   "fecha": "2026-11-14T15:39:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
   },
   {
    "id": "0902752c94db",
