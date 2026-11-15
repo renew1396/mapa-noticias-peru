@@ -2,6 +2,553 @@
  "fecha": "2026-11-14",
  "noticias": [
   {
+   "id": "e19b2b6ff4c8",
+   "titulo": "“Queremos justicia”: familiares de víctimas de protestas llegan a Cusco para buscar al papa León XIV",
+   "resumen": "Delegaciones procedentes de Ayacucho, Puno, Juliaca y Pichanaqui buscan entregar una carta al pontífice durante su visita al Cusco. Reclaman justicia, reparación y avances en las investigaciones por las muertes ocurridas entre 2022 y 2023.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/queremos-justicia-familiares-de-victimas-de-protestas-llegan-a-cusco-para-buscar-al-papa-leon-xiv-414204",
+   "fecha": "2026-11-15T00:59:41Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Leon",
+     "ubigeo": "210407",
+     "ccpp": "2104070188",
+     "precision": "centro_poblado",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.18318,
+     "lat": -16.4189,
+     "confianza": 0.27,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Pichanaqui",
+     "ubigeo": "120303",
+     "precision": "distrito",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -74.87286,
+     "lat": -10.9263,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2a2d17258593",
+   "titulo": "Se acabó el amor: Joe Jonas y Tatiana Gabriela se separaron tras más de un año de relación",
+   "resumen": "El integrante de los Jonas Brothers y la influencer comenzaron a salir a fines de octubre de 2025, pero oficializaron su relación en abril.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/famosos/celebridades/joe-jonas-y-tatiana-gabriela-se-separaron-tras-mas-de-un-ano-de-relacion-noticia-1717852",
+   "fecha": "2026-11-15T00:54:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "db6529bb921c",
+   "titulo": "Papa León XIV destaca aporte de la población afroperuana a la Iglesia Católica",
+   "resumen": "El papa León XIV reconoció el aporte hecho por la población afroperuana a la Iglesia Católica a la cual manifestó su afecto y cercanía.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-destaca-aporte-de-poblacion-afroperuana-a-iglesia-catolica-1100013.aspx",
+   "fecha": "2026-11-15T00:48:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "cccc27d2d974",
+   "titulo": "Papa León XIV vuelve a Lima: ¿a qué hora llega y por qué calles pasará este domingo?",
+   "resumen": "El pontífice regresará a la capital la noche del domingo 15 de noviembre tras cumplir su agenda en Cusco y Pucallpa. Conoce la ruta que seguirá hacia la Nunciatura Apostólica.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/papa-leon-xiv-vuelve-a-lima-a-que-hora-llega-y-por-que-calles-pasara-este-domingo-142492",
+   "fecha": "2026-11-15T00:32:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5c310e9722c2",
+   "titulo": "León XIV envía mensaje a las familias afectadas por la inseguridad: “Nunca se acostumbren al sufrimiento de los demás”",
+   "resumen": "En Zaña, León XIV expresó su preocupación por las familias víctimas de extorsiones y delincuencia y pidió no normalizar el sufrimiento ajeno.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/lambayeque/papa-leon-xiv-envia-mensaje-a-las-familias-afectadas-por-la-inseguridad-nunca-se-acostumbren-al-sufrimiento-de-los-demas-zana-chiclayo-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-15T00:10:31Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "46b44b4ab9f4",
+   "titulo": "Papa León XIV confiesa que el sabor de la comida chiclayana le trae buenos recuerdos: “Una vez más estoy en casa”",
+   "resumen": "Representantes de más de 60 parroquias y delegaciones de la pastoral afroperuana participaron del encuentro religioso encabezado por el pontífice en el norte del país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/papa-leon-xiv-confiesa-que-el-sabor-de-la-comida-chiclayana-le-trae-buenos-recuerdos-una-vez-mas-estoy-en-casa/",
+   "fecha": "2026-11-15T00:06:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "85e960f6f874",
+   "titulo": "León XIV en Zaña: “Me duele pensar en quienes viven con miedo” por “la delincuencia y extorsión”",
+   "resumen": "Durante su visita al santuario de Zaña, donde murió santo Toribio de Mogrovejo, el papa pidió no acostumbrarse al sufrimiento de quienes son víctimas de la inseguridad.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/leon-xiv-en-zana-me-duele-pensar-en-quienes-viven-con-miedo-por-la-delincuencia-y-extorsion-435764",
+   "fecha": "2026-11-15T00:03:35Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4679839d7077",
+   "titulo": "Papa León XIV se solidariza con las familias amenazadas por la extorsión: \"Me duele pensar en quienes viven con miedo\"",
+   "resumen": "Desde Zaña, el pontífice participó en la clausura del Año Jubilar de Santo Toribio de Mogrovejo, donde agradeció nuevamente a la población por la hospitalidad así como los gestos de cariño.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/lambayeque/papa-leon-xiv-se-solidariza-desde-zana-con-las-familias-amenazadas-por-la-extorsion-y-la-delincuencia-noticia-1717849",
+   "fecha": "2026-11-14T23:56:42Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c91d04bd8098",
+   "titulo": "Papa León XIV clausura Año Jubilar en Zaña: “Gracias por hacerme sentir una vez más que estoy en casa”",
+   "resumen": "El papa León XIV participará este sábado en un encuentro de oración por la clausura del Año Jubilar de Santo Toribio de Mogrovejo. La actividad se realizará en el santuario dedicado al santo y está prevista para las 5:30 p. m.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/en-vivo-papa-leon-xiv-participa-en-encuentro-de-oracion-por-clausura-del-ano-jubilar-de-santo-toribio-de-mogrovejo-noticia/",
+   "fecha": "2026-11-14T23:36:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [],
+   "grupo": "173d3101cc79"
+  },
+  {
+   "id": "ab16edc9534e",
+   "titulo": "Tania Libertad deleitó con su voz al papa Léon XIV en los 300 años de la canonización de Santo Toribio de Mogrovejo",
+   "resumen": "La intérprete peruana cantó Ave María, de Franz Schubert, durante el encuentro de oración que encabezó el pontífice en Zaña.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/tania-libertad-deleito-con-su-voz-al-papa-leon-xiv-en-los-300-anos-de-la-canonizacion-de-santo-toribio-de-mogrovejo/",
+   "fecha": "2026-11-14T23:26:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "80bc814fa5c1",
+   "titulo": "El Niño Costero no cede y seguirá con magnitud extraordinaria hasta el invierno del 2027, según el Enfen",
+   "resumen": "El comité técnico prevé lluvias por encima de lo normal, aumento de caudales, calor en la costa y mayor riesgo de inundaciones por oleajes anómalos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/el-nino-costero-no-cede-y-seguira-con-magnitud-extraordinaria-hasta-el-invierno-del-2027-segun-el-enfen/",
+   "fecha": "2026-11-14T23:13:01Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4cc71f26a5e8",
+   "titulo": "Papa León XIV recorrerá 4 ciudades en apenas 24 horas durante su visita por Perú",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/papa-leon-xiv-recorrera-4-ciudades-en-apenas-24-horas-durante-su-visita-por-peru-noticia/",
+   "fecha": "2026-11-14T23:10:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "53accd63a3a5",
+   "titulo": "Italia impone a Meta una multa millonaria por acceder a fotos sin consentimiento",
+   "resumen": "La autoridad italiana de protección de datos anunció el sábado una multa a Meta, empresa matriz de Facebook, de 805 millones de euros (887 millones de dólares) por acceder a fotografías de los usuarios sin su consentimiento específico.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-italia-impone-a-meta-una-multa-millonaria-acceder-a-fotos-sin-consentimiento-1100007.aspx",
+   "fecha": "2026-11-14T23:01:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d93070ad8cbe",
+   "titulo": "Estudiante peruano conquista dos medallas en mundiales de astronomía en menos de dos meses",
+   "resumen": "En menos de dos meses, Jordan Juscamaita Altamirano conquistó dos medallas internacionales de astronomía en distintas partes del mundo. Primero obtuvo el bronce en Vietnam y ahora acaba de ganar la medalla de plata en la V Olimpiada Mundial Abierta de Astronomía (OWAO 2026), realizada en Sirius…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-estudiante-peruano-conquista-dos-medallas-mundiales-astronomia-menos-dos-meses-1099986.aspx",
+   "fecha": "2026-11-14T23:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8dfd8f30b165",
+   "titulo": "De los Andes a la Amazonía: el maratónico recorrido de León XIV por cuatro ciudades en apenas 24 horas",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/de-los-andes-a-la-amazonia-el-maratonico-recorrido-de-leon-xiv-por-cuatro-ciudades-en-apenas-24-horas-apuesplan-noticia/",
+   "fecha": "2026-11-14T22:55:45Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "35963ff274f0",
+   "titulo": "Primer partido pos-Cristiano Ronaldo: Portugal es humillado y cae goleado ante Dinamarca",
+   "resumen": "Portugal, hasta ahora con pleno de victorias en la Liga de Naciones, fue goleado el sábado en casa 4-1 por Dinamarca, en su primer partido sin Cristiano Ronaldo, retirado de la Seleçao y homenajeado por los jugadores y los aficionados.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-primer-partido-poscristiano-ronaldo-portugal-es-humillado-y-cae-goleado-ante-dinamarca-1100005.aspx",
+   "fecha": "2026-11-14T22:53:54Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0f8fca96437b",
+   "titulo": "MIGRACIONES DETECTA A TRES EXTRANJEROS QUE PRETENDÍAN VIAJAR A ESPAÑA MEDIANTE LA MODALIDAD DE SUPLANTACIÓN DE IDENTIDAD",
+   "resumen": "FUENTE: Superintendencia Nacional de Migraciones Los intervenidos, dos ciudadanos bolivianos y uno ecuatoriano, presentaron pasaportes y documentos de identidad peruanos pertenecientes a otras personas. Lima 14 de noviembre del 2026.- La Superintendencia Nacional de Migraciones detectó tres casos…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/migraciones-detecta-a-tres-extranjeros-que-pretendian-viajar-a-espana-mediante-la-modalidad-de-suplantacion-de-identidad/",
+   "fecha": "2026-11-14T22:51:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e46a28ba6545",
+   "titulo": "Tania Libertad ya está en Zaña y se prepara para cantar ante el papa León XIV",
+   "resumen": "La artista peruana regresó a Zaña, donde nació, para participar en la clausura del Año Jubilar por los 300 años de la canonización de Santo Toribio de Mogrovejo.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/tania-libertad-ya-esta-en-zana-y-se-prepara-para-cantar-ante-el-papa-leon-xiv/",
+   "fecha": "2026-11-14T22:48:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "86fafab80ffe",
+   "titulo": "LA SUNEDU SANCIONA A LA UNIVERSIDAD NACIONAL DEL ALTIPLANO POR INCORPORAR REQUISITOS ADICIONALES EN EL NOMBRAMIENTO DOCENTE",
+   "resumen": "FUENTE: SUNEDU La universidad deberá pagar una multa de S/ 29 139,07 por ejecutar un proceso de nombramiento excepcional de docentes contratados sin observar los requisitos establecidos en la Ley N.º 32171. Sábado, 14 de noviembre de 2026.- En ejercicio de su función fiscalizadora, el Consejo…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/la-sunedu-sanciona-a-la-universidad-nacional-del-altiplano-por-incorporar-requisitos-adicionales-en-el-nombramiento-docente/",
+   "fecha": "2026-11-14T22:36:16Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f343031a12d7",
+   "titulo": "“No crean que siempre deben mostrarse fuertes, déjense cuidar”: el emotivo mensaje del papa León XIV a los jóvenes peruanos",
+   "resumen": "Ante miles de jóvenes reunidos en el Estadio Nacional, el pontífice habló sobre la soledad, el dolor, las dudas frente al futuro y la necesidad de apoyarse en los demás. También los animó a perseguir sus sueños y descubrir su vocación sin miedo a equivocarse.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/14/no-crean-que-siempre-deben-mostrarse-fuertes-dejense-cuidar-el-emotivo-mensaje-del-papa-leon-xiv-a-los-jovenes-peruanos-580944",
+   "fecha": "2026-11-14T22:33:14Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6cb96945a15a",
+   "titulo": "\"Nunca he hablado de que haya racismo en España, no espero eso\", afirma Thomas Tuchel",
+   "resumen": "El seleccionador de Inglaterra, Thomas Tuchel, aseguró este sábado que nunca ha dicho \"que haya racismo en España\", después de unas declaraciones suyas recordando la existencia de un protocolo contra el racismo.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-nunca-he-hablado-de-haya-racismo-espana-no-espero-eso-afirma-thomas-tuchel-1099999.aspx",
+   "fecha": "2026-11-14T22:11:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "12d95bc84159",
+   "titulo": "Fenómeno El Niño en Perú: cómo obtener agua potable del aire y del mar ante una posible escasez hasta 2027",
+   "resumen": "La Comisión Multisectorial del ENFEN prevé que el fenómeno alcance una magnitud extraordinaria y afecte a cerca de 7 millones de personas en distintas zonas del país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/fenomeno-el-nino-en-peru-como-obtener-agua-potable-del-aire-y-del-mar-ante-una-posible-escasez-hasta-2027/",
+   "fecha": "2026-11-14T22:08:25Z",
+   "temas": [
+    "agua",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "19ee167c8bd7",
+   "titulo": "\"Viví en el cuarto de huéspedes\": Carlos Alcántara recuerda sus últimos meses con su esposa antes de separarse",
+   "resumen": "El actor contó que las discusiones se hicieron más frecuentes y que llegó a vivir en el cuarto de huéspedes durante más de un año.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/famosos/celebridades/carlos-alcantara-recuerda-sus-ultimos-meses-con-su-esposa-antes-de-separarse-noticia-1717843",
+   "fecha": "2026-11-14T22:06:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c3eb78264e31",
+   "titulo": "A la espera de León XIV: así luce el santuario de Santo Toribio de Mogrovejo [VIDEO]",
+   "resumen": "A pocos minutos de la llegada del Santo Padre, RPP recorrió la iglesia matriz de Zaña, un recinto donde se exhiben recreaciones de elementos relacionados con la tumba del santo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/lambayeque/a-la-espera-de-leon-xiv-asi-luce-el-santuario-de-santo-toribio-de-mogrovejo-noticia-1717840",
+   "fecha": "2026-11-14T22:04:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7fdec30fcbcf",
+   "titulo": "Acordes de fe en Sacsayhuamán: Todo listo para recibir al papa León XIV",
+   "resumen": "La explanada de Sacsayhuamán se encuentra totalmente preparada para recibir este domingo por la mañana la histórica visita del papa León XIV. Para el evento, las autoridades cusqueñas han realizado un gran despliegue tecnológico y logístico.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/cusco/papa-leon-xiv-en-peru-acordes-de-fe-en-sacsayhuaman-todo-listo-para-recibir-al-papa-leon-xiv-cusco-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-14T21:56:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [],
+   "grupo": "84eb7a673581"
+  },
+  {
+   "id": "5bd4289ab943",
+   "titulo": "PNP desplegará 5 mil efectivos para custodiar la misa de despedida del papa León XIV",
+   "resumen": "El Santo Padre realizará la misa en la Base Aérea Las Palmas este lunes 16 de noviembre. Después partirá hacia Roma.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/papa-leon-xiv-misa-en-base-aerea-las-palmas-tendra-resguardo-de-5-mil-policias-noticia-1717835",
+   "fecha": "2026-11-14T21:51:52Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "387327860066",
+   "titulo": "Fieles que asistirán a la misa del papa León XIV podrán viajar en el Lechucero del Metropolitano durante la madrugada",
+   "resumen": "La ATU también dispuso modificaciones en los recorridos de las rutas C y Expreso 1, así como el cierre temporal de siete estaciones del Metropolitano durante la mañana del lunes 16 de noviembre",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/fieles-que-asistiran-a-la-misa-del-papa-leon-xiv-podran-viajar-en-el-lechucero-del-metropolitano-durante-la-madrugada/",
+   "fecha": "2026-11-14T21:41:03Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c6c5b6a5169f",
+   "titulo": "Segunda vuelta regional: ONPE inicia distribución de material para capacitación electoral",
+   "resumen": "La Oficina Nacional de Procesos Electorales (ONPE) inició el traslado de material de capacitación hacia las Oficinas Descentralizadas de Procesos Electorales (ODPE) de distintas regiones del país, como parte de los preparativos para la segunda vuelta electoral del próximo 6 de diciembre.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/segunda-vuelta-regional-onpe-inicia-distribucion-de-material-para-capacitacion-electoral-noticia/",
+   "fecha": "2026-11-14T21:36:40Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d94fe6529872",
+   "titulo": "Día Mundial de la Diabetes: cómo detectar lesiones en la retina antes de sufrir una pérdida irreversible de visión",
+   "resumen": "El oftalmólogo Héctor Palacios Herrera recomienda un examen de fondo de ojo, pues seis de cada diez pacientes nunca se realizan esta evaluación y las lesiones pueden progresar aun con vista normal",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/dia-mundial-de-la-diabetes-como-detectar-lesiones-en-la-retina-antes-de-sufrir-una-perdida-irreversible-de-vision/",
+   "fecha": "2026-11-14T21:34:09Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "28980fbc12fc",
+   "titulo": "Papa León XIV saludó a cientos de fieles y bendijo a bebés durante su visita a Santa Cruz",
+   "resumen": "La emoción aumentó cuando familiares acercaron a sus bebés al papamóvil. El pontífice se inclinó para saludarlos y bendecirlos, mientras los asistentes seguían el gesto con entusiasmo",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/papa-leon-xiv-saludo-a-cientos-de-fieles-y-bendijo-a-bebes-durante-su-visita-a-santa-cruz/",
+   "fecha": "2026-11-14T21:28:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "75805aa81975",
+   "titulo": "Universitario vs Regatas en vivo: ¿a qué hora juegan y dónde ver la fecha 5 de Fase 1 de Liga Peruana de Vóley?",
+   "resumen": "Universitario vs Regatas EN VIVO: sigue la transmisión del encuentro por la fecha 5 de la primera fase de la Liga Peruana de Vóley.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/voley/mas-voley/universitario-vs-regatas-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-5-fase-1-liga-peruana-de-voley-2026-2027-via-latina-y-youtube-voley-noticia-1717829",
+   "fecha": "2026-11-14T21:09:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a9ee179555dc",
+   "titulo": "La Basílica de San Pedro cumple 400 años: el monumento a la fe que demoró más de un siglo para construirse y convocó a genios como Bramante, Miguel Ángel y Bernini",
+   "resumen": "El miércoles 18 de noviembre, cuando León XIV haya regresado a Roma, el templo que centraliza la fe católica celebrará 400 años entregada al servicio. Su construcción tomó más de un siglo.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/eldominical/actualidad/la-basilica-de-san-pedro-cumple-400-anos-el-monumento-a-la-fe-que-demoro-mas-de-un-siglo-para-construirse-noticia/",
+   "fecha": "2026-11-14T21:05:00Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8eca68d6cc4e",
+   "titulo": "Kike Suero expresa su tristeza por la poca asistencia de amigos y público al velorio de ‘Mondonguito’: “Se olvidaron de ti”",
+   "resumen": "El cómico afirmó que fueron muy pocos los amigos que visitaron a ‘Mondonguito’ en el hospital y acudieron a sus despedidas.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/kike-suero-expresa-su-tristeza-por-la-poca-asistencia-de-amigos-y-publico-al-velorio-de-mondonguito-se-olvidaron-de-ti/",
+   "fecha": "2026-11-14T21:04:17Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "34322df7fe6b",
+   "titulo": "Keiko Fujimori viajará a China y Japón: estas son las reuniones bilaterales que tendrá durante la cumbre APEC 2026",
+   "resumen": "La presidenta se reunirá con la directora gerente del Fondo Monetario Internacional, Kristalina Georgieva, en el marco de la cumbre de líderes económicos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/14/keiko-fujimori-viajara-a-china-y-japon-estas-son-las-reuniones-bilaterales-que-tendra-durante-la-cumbre-apec-2026/",
+   "fecha": "2026-11-14T21:03:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
    "id": "6a86097151e1",
    "titulo": "Minem reconoce a 27 colegios por promover el uso eficiente de la energía",
    "resumen": "El Ministerio de Energía y Minas (Minem) reconoció a 27 instituciones educativas ganadoras del concurso “Buenas Prácticas para el Uso Eficiente y Responsable de la Energía”, iniciativa que busca promover una cultura de ahorro y uso responsable de los recursos energéticos desde el ámbito escolar.",
