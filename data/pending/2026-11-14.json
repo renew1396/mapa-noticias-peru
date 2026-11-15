@@ -1507,6 +1507,65 @@
    "lugares": []
   },
   {
+   "id": "d3c056389904",
+   "titulo": "León XIV recibe multitudinario recibimiento en Chiclayo y Franco Vidal llega a Junín | PASÓ EN EL PERÚ (VIDEO)",
+   "resumen": "Ayacucho: cuestionan trabajos en la vía Libertadores Huánuco: destruyen 247 dragas de minería ilegal",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/leon-xiv-recibe-multitudinario-recibimiento-en-chiclayo-y-franco-vidal-llega-a-junin-paso-en-el-peru-video/",
+   "fecha": "2026-11-14T15:38:48Z",
+   "temas": [
+    "mineria",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "5498f0d17d71",
    "titulo": "Cronograma de pagos 2026 de sueldos en el Estado peruano",
    "resumen": "El Ministerio de Economía y Finanzas (MEF) aprobó a fines del 2025 el cronograma anual mensualizado para el pago de las remuneraciones en la administración pública que se aplicará durante el año fiscal 2026.",

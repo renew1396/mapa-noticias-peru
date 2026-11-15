@@ -3762,6 +3762,45 @@
    "revisar": true
   },
   {
+   "id": "f2f03835eaf3",
+   "titulo": "Beneficencia de Puno proyecta la construcción y venta de 1,200 mausoleos en Ventilla",
+   "resumen": "Beneficencia de Puno proyecta la venta de 1,200 mausoleos en el cementerio de Ventilla e implementa cámaras de videovigilancia y mejoras en el abastecimiento de agua en los camposantos de la ciudad El presidente del directorio de la Sociedad de Beneficencia de Puno, Jacinto Verástegui Velarde…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/beneficencia-de-punooyecta-la-construccion-y-venta-de-1200-mausoleos-en-ventanilla/",
+   "fecha": "2026-11-14T21:23:57Z",
+   "temas": [
+    "infraestructura",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ventilla",
+     "ubigeo": "210106",
+     "ccpp": "2101060038",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.79452,
+     "lat": -15.81131,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "grupo": "3041364e9a24"
+  },
+  {
    "id": "0fde732039e8",
    "titulo": "PNP destruye bienes de minería ilegal por más de S/14 millones en Inambari",
    "resumen": "La PNP ejecutó tres operativos de interdicción contra la minería ilegal en Inambari, Tambopata, y destruyó bienes valorizados en S/ 14 074 300. Participaron Dirmeamb, Diropesp, Ejército, Sernanp y el Ministerio Público.",
