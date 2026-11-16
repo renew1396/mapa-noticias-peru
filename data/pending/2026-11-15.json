@@ -2,6 +2,283 @@
  "fecha": "2026-11-15",
  "noticias": [
   {
+   "id": "920cae127a3f",
+   "titulo": "Inscripciones para postular a Colegios de Alto Rendimiento se cierran el 24 de noviembre",
+   "resumen": "El próximo martes 24 de noviembre vence el plazo para la inscripción de postulantes al Proceso Único de Admisión a los 25 Colegios de Alto Rendimiento (COAR) del Ministerio de Educación (Minedu), que este año ofrece 2,698 vacantes a escala nacional. Las familias tienen pocos días para completar el…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-inscripciones-para-postular-a-colegios-alto-rendimiento-se-cierran-24-noviembre-1100151.aspx",
+   "fecha": "2026-11-16T04:00:00Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "31606a502c59",
+   "titulo": "Canciller: viaje de presidenta Fujimori promoverá el comercio y cooperación ante El Niño",
+   "resumen": "El ministro de Relaciones Exteriores, Carlos Espá, destacó la importancia del viaje de la presidenta Keiko Fujimori a China y Japón, ya que permitirá promover el comercio y la cooperación con diversos países para enfrentar los efectos adversos ante el fenómeno El Niño.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-canciller-viaje-presidenta-fujimori-promovera-comercio-y-cooperacion-ante-nino-1100162.aspx",
+   "fecha": "2026-11-16T03:51:41Z",
+   "temas": [
+    "economia",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "241425413516",
+   "titulo": "Susan Villanueva revela supuesto embarazo de Monserrat Seminario y lanza indirecta sobre la paternidad: ¿Melcochita tendrá otra hija?",
+   "resumen": "La hija de Melcochita aseguró que tiene información sobre un posible nuevo embarazo de la piurana, quien recientemente anunció que volvió a enamorarse y que convive con su nueva pareja en España",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/susan-villanueva-revela-supuesto-embarazo-de-monserrat-seminario-y-lanza-indirecta-sobre-la-paternidad-melcochita-tendra-otra-hija/",
+   "fecha": "2026-11-16T03:51:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5ce0f7f534ef",
+   "titulo": "INS detectó fallas en cuatro lotes de suero fisiológico de origen chino",
+   "resumen": "INS detectó fallas en cuatro lotes de suero fisiológico de origen chino. Cinco hospitales reportaron incidencias en el producto, mientras que CENARES confirmó la inmovilización de más de 26 mil unidades en tres regiones.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/ins-detecto-fallas-en-cuatro-lotes-de-suero-fisiologico-de-origen-chino-noticia/",
+   "fecha": "2026-11-16T03:31:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9fb126b69776",
+   "titulo": "Aldo Miyashiro abre la puerta a trabajar otra vez con Érika Villalobos tras 'Perdóname'",
+   "resumen": "El conductor aseguró que una futura colaboración artística con la madre de sus hijos no sería complicada, luego de que ambos encabezaran la telenovela de 2023 pese a su separación.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/aldo-miyashiro-abre-la-puerta-a-trabajar-otra-vez-con-erika-villalobos-tras-perdoname/",
+   "fecha": "2026-11-16T03:20:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0c447be35ac5",
+   "titulo": "Perú registra más de 364 000 vicuñas en 16 regiones, según el Midagri",
+   "resumen": "Los resultados del V Censo Nacional de Vicuñas revelan la recuperación de esta especie emblemática en los Andes peruanos.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/peru-registra-mas-de-364-000-vicunas-en-16-regiones-segun-el-midagri-noticia-1717946",
+   "fecha": "2026-11-16T03:15:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a24d8e5dc7a0",
+   "titulo": "Papa León XIV en Perú: Esta es la agenda del Pontifice este lunes",
+   "resumen": "Del 11 al 16 de noviembre, el Papa León XIV visitó Lima, Chiclayo, Santa Cruz de Succhabamba (Cajamarca), Cusco y Pucallpa",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/papa-leon-xiv-peru-esta-agenda-pontifice-este-lunes-n496250",
+   "fecha": "2026-11-16T03:11:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.27,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "11333be7c542",
+   "titulo": "Última misa del papa León XIV en Perú: fieles acampan y forman largas colas para ingresar a la Base Aérea Las Palmas",
+   "resumen": "Un grupo de 30 personas intentó saltarse el orden de espera, lo que generó malestar entre los asistentes y obligó a intervenir a los efectivos policiales",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/ultima-misa-del-papa-leon-xiv-en-peru-fieles-acampan-y-forman-largas-colas-para-ingresar-a-la-base-aerea-las-palmas/",
+   "fecha": "2026-11-16T02:59:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "15e47fedfe39",
+   "titulo": "Carlos Alcántara explica por qué quiere revisar la medicación de su hijo Lorenzo: “Ver quién es sin nada de medicina”",
+   "resumen": "El comediante compartió que desea conocer con mayor claridad las particularidades del joven y distinguir qué requiere atención médica durante una conversación personal con Carlos Carlín.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/carlos-alcantara-explica-por-que-quiere-revisar-la-medicacion-de-su-hijo-lorenzo-ver-quien-es-sin-nada-de-medicina/",
+   "fecha": "2026-11-16T02:59:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2178c84807d7",
+   "titulo": "Universitario cayó 3-0 ante Regatas Lima y pierde el liderato de la Liga Peruana de Vóley",
+   "resumen": "Un desconocido Universitario cayó 3 set a 0 ante Regatas Lima en partido disputado este domingo, que cerró la quinta jornada de la Liga Peruana de Vóley 2026-2027, resultado que lo lleva a ceder el liderato a la Universidad San Martín de Porres.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-universitario-cayo-30-ante-regatas-lima-y-pierde-liderato-de-liga-peruana-voley-1100158.aspx",
+   "fecha": "2026-11-16T02:38:51Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "62bdaf94f1e2",
+   "titulo": "Congreso: proponen registro para seguimiento a reglamentación e implementación de leyes",
+   "resumen": "En la Cámara de Diputados del Congreso de la República se presentó una proposición legislativa que plantea la creación de un registro público de seguimiento de la reglamentación y la implementación de las leyes.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-congreso-proponen-registro-para-seguimiento-a-reglamentacion-e-implementacion-leyes-1100147.aspx",
+   "fecha": "2026-11-16T02:23:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7fd4b0776db8",
+   "titulo": "Ministerio de Justicia será reorganizado durante 120 días: Gobierno plantea reformas y evaluará duplicidad de funciones",
+   "resumen": "El decreto fue suscrito por la presidenta Keiko Fujimori y el ministro Ernesto Álvarez Miranda, con sustento en la Ley de Modernización del Estado",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/ministerio-de-justicia-sera-reorganizado-durante-120-dias-gobierno-plantea-reformas-y-evaluara-duplicidad-de-funciones/",
+   "fecha": "2026-11-16T01:57:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3f91e0c73367",
+   "titulo": "Con partidos de pronóstico reservado: conoce la programación de la fecha 6 de la Fase 1 de la Liga Peruana de Vóley",
+   "resumen": "Conoce las fechas y los horarios de todos los partidos de la fecha 6 de la primera etapa de la LPV.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/voley/mas-voley/programacion-de-la-fecha-6-de-la-etapa-1-de-liga-peruana-de-voley-2026-2027-en-vivo-partidos-fechas-y-horarios-alianza-lima-universitario-san-martin-regatas-lima-noticia-1717948",
+   "fecha": "2026-11-16T01:57:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "185bb9e6ddc9",
+   "titulo": "Habilitan ingreso a misa del papa León XIV con DNI",
+   "resumen": "Los ciudadanos que no consiguieron boleto electrónico accederán a la Base Aérea Las Palmas según el aforo disponible. El ingreso será por las puertas 11 a 16 hasta las 8:00 a. m.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/habilitan-ingreso-misa-papa-leon-xiv-dni-n496249",
+   "fecha": "2026-11-16T01:54:13Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "378669d096e6",
+   "titulo": "Papa León XIV: Este será su itinerario antes de partir del Perú",
+   "resumen": "La visita del papa León XIV al Perú llegará a su fin este lunes 16 de noviembre, luego de la misa que celebrará en la Base Aérea Las Palmas. Posteriormente, el pontífice se trasladará al Grupo Aéreo N.° 8 siguiendo un recorrido previamente establecido.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/papa-leon-xiv-este-sera-su-itinerario-antes-de-partir-del-peru-noticia/",
+   "fecha": "2026-11-16T01:51:30Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9c74d862d0b6",
+   "titulo": "Sporting Cristal se quedó con la Copa Caliente de la Liga",
+   "resumen": "Un partido parejo en el que ambas escuadras tuvieron ocasiones de goles e incluso los sullaneros perdieron un penal en el primer tiempo, a través de Ariel Muñoz, pero los “rimenses” supieron con experiencia dominar el partido en los tramos finales, que se jugó hasta los 120 minutos.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/piura/sporting-cristal-se-quedo-con-la-copa-caliente-de-la-liga-noticia/",
+   "fecha": "2026-11-16T01:30:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
    "id": "6df23cec451c",
    "titulo": "La emotiva despedida del piloto del papa León XIV en el vuelo Pucallpa-Lima: “Un día que siempre recordaremos”",
    "resumen": "El capitán dedicó unas palabras al pontífice antes de despegar y agradeció la oportunidad de acompañarlo durante su recorrido por el país",
@@ -9,6 +286,19 @@
    "medio_id": "infobae",
    "url": "https://www.infobae.com/peru/2026/11/16/la-emotiva-despedida-del-piloto-del-papa-leon-xiv-en-el-vuelo-pucallpa-lima-un-dia-que-siempre-recordaremos/",
    "fecha": "2026-11-16T01:06:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c163c296989b",
+   "titulo": "¿Cómo y dónde se realizan los depósitos de una pensión de alimentos?",
+   "resumen": "Los demandantes pueden solicitar al juez la apertura de una cuenta en el Banco de la Nación, destinada exclusivamente al pago de alimentos.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/como-y-donde-se-realizan-los-depositos-de-una-pension-de-alimentos-noticia-1717944",
+   "fecha": "2026-11-16T01:05:07Z",
    "temas": [
     "otros"
    ],
@@ -1443,6 +1733,20 @@
    "fecha": "2026-11-15T16:50:25Z",
    "temas": [
     "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a1cce83455f2",
+   "titulo": "Relaves mineros de Chile, el costo ambiental del auge del tequila en México y el amenazado territorio de la tangara inti en Bolivia | Lo más leído",
+   "resumen": "Esta semana presentamos una investigación sobre los relaves mineros de Chile. Encontramos que 455 de los 839 registrados están abandonados. Además, los recursos que reciben los municipios por mantenerlos podrían desincentivar su remediación. También tenemos un reportaje sobre cómo el auge del…",
+   "medio": "Mongabay Latam",
+   "medio_id": "mongabay",
+   "url": "https://es.mongabay.com/2026/11/relaves-mineros-chile-costo-ambiental-auge-tequila-mexico-amenazada-tangara-inti-bolivia/",
+   "fecha": "2026-11-15T16:46:18Z",
+   "temas": [
+    "medio_ambiente",
+    "mineria"
    ],
    "lugares": []
   },
