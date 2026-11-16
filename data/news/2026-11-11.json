@@ -11048,6 +11048,31 @@
    ]
   },
   {
+   "id": "3e33c93fdb85",
+   "titulo": "Resultados ONPE en región Piura al 99.563 %: aquí el conteo oficial de las Elecciones Regionales y Municipales 2026",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/elecciones/resultados-en-piura-de-las-elecciones-regionales-y-municipales-2026-segun-conteo-oficial-de-la-onpe-erm-2026-noticia/",
+   "fecha": "2026-11-11T12:07:46Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "6ff9ea0b57df",
    "titulo": "Productores de Cabana apuestan por panetones de quinua y cañihua para la Navidad",
    "resumen": "Productores de Cabana elaboran panetones de quinua y cañihua para la campaña navideña, mientras gestionan proyectos para mejorar su producción, enfrentar los efectos del cambio climático y fortalecer la economía de cerca de 600 familias socias de la cooperativa Copain Cabana Productores de Cabana…",
@@ -11068,6 +11093,31 @@
      "lon": -70.32196,
      "lat": -15.64913,
      "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dc6e4aac0e2c",
+   "titulo": "Resultados ONPE: Villa María del Triunfo al 100 % por las Elecciones Regionales y Municipales 2026",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/elecciones/resultados-en-villa-maria-del-triunfo-de-las-elecciones-regionales-y-municipales-2026-segun-conteo-oficial-de-la-onpe-erm-2026-ultimas-noticia/",
+   "fecha": "2026-11-11T12:06:55Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa María del Triunfo",
+     "ubigeo": "150143",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.94361,
+     "lat": -12.16248,
+     "confianza": 0.9,
      "principal": true
     }
    ]
