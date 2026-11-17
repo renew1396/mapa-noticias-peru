@@ -2,6 +2,385 @@
  "fecha": "2026-11-16",
  "noticias": [
   {
+   "id": "02bbcd3bf2c9",
+   "titulo": "Cusco: Dirección Desconcentrada de Cultura descarta afectaciones en Saqsaywaman tras encuentro del papa León XIV con fieles",
+   "resumen": "El jefe del Parque Arqueológico Nacional de Saqsaywaman, arqueólogo Francisco Solís destacó el trabajo de cuidado y protección desarrollado por los servidores de la entidad cultural durante el evento que congregó a miles de files.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/cusco/cusco-direccion-desconcentrada-de-cultura-descarta-afectaciones-en-saqsaywaman-tras-encuentro-del-papa-leon-xiv-con-fieles-noticia-1718117",
+   "fecha": "2026-11-17T04:40:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6d5e4a778df2",
+   "titulo": "Cancillería investiga fallas de audio y video durante misa del papa León XIV en Las Palmas",
+   "resumen": "El Ministerio de Relaciones Exteriores informó que se inició una investigación sobre las fallas de audio y video ocurridas durante la misa del papa León XIV en la base aérea Las Palmas, en el distrito limeño de Surco.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/cancilleria-investiga-fallas-de-audio-y-video-durante-misa-del-papa-leon-xiv-en-las-palmas-noticia/",
+   "fecha": "2026-11-17T04:35:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "f5260550bbf6",
+   "titulo": "Dengue supera los 105.000 casos, 138 muertes y hospitales no estarían preparados ante El Niño",
+   "resumen": "Regiones como Tumbes y Huánuco reportan deficiencias para responder a un eventual incremento de pacientes. En Tingo María ya se declaró un brote y una niña de 7 años murió por complicaciones.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/16/dengue-supera-los-105000-casos-138-muertes-y-hospitales-enfrentan-brechas-ante-el-nino-1543728",
+   "fecha": "2026-11-17T04:27:51Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "dd452f514c9c",
+   "titulo": "Siete sismos moderados ocurridos en Ica hasta el momento causaron temor en la población",
+   "resumen": "Hasta el momento se han registrado siete sismos moderados en el departamento de Ica, lo que ha generado temor en la población, informó el Centro Sismológico Nacional del Instituto Geofísico del Perú (IGP).",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-siete-sismos-moderados-ocurridos-ica-hasta-momento-causaron-temor-la-poblacion-1100301.aspx",
+   "fecha": "2026-11-17T04:26:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b2e364419e8f",
+   "titulo": "Papa León XIV: Temperatura del aire alcanzó los 31 °C durante misa en la base aérea Las Palmas",
+   "resumen": "El Servicio Nacional de Meteorología e Hidrología (Senamhi) informó que durante la misa del papa León XIV en la base aérea Las Palmas de Surco, este lunes 16 de noviembre, se registró una temperatura del aire de hasta 31 °C.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/papa-leon-xiv-temperatura-del-aire-alcanzo-los-31-c-durante-misa-en-la-base-aerea-las-palmas-senamhi-lima-metropolitana-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-17T04:06:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "45b0885c8111",
+   "titulo": "Renovación Popular interpone recurso para que JNE reconsidere decisión sobre López Aliaga",
+   "resumen": "La organización política Renovación Popular interpuso un recurso de reconsideración ante el Jurado Nacional de Elecciones (JNE) con el propósito de revocar la decisión que desestima el reconocimiento de Rafael López Aliaga como alcalde de Lima.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-renovacion-popular-interpone-recurso-para-jne-reconsidere-decision-sobre-lopez-aliaga-1100294.aspx",
+   "fecha": "2026-11-17T03:40:24Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "425413ff80a4",
+   "titulo": "Cancillería reconoce “incidentes técnicos” en misa del papa León XIV en Las Palmas y anuncia investigación",
+   "resumen": "Desde Cancillería informaron sobre la contratación de dos empresas proveedoras, a las cuales se les desembolsó S/11 052 689 por sus servicios. Sin embargo, durante la misa del papa León XIV fallaron las pantallas y el sonido, algo que, según el Ministerio, está en investigación.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/gobierno/cancilleria-reconoce-incidentes-tecnicos-en-misa-del-papa-leon-xiv-en-las-palmas-y-anuncia-investigacion-noticia-1718114",
+   "fecha": "2026-11-17T03:35:42Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "7772e55e1c75",
+   "titulo": "ODPE Arequipa publicó lista de miembros de mesa para elecciones de segunda vuelta regional",
+   "resumen": "La lista de miembros de mesa, entre titulares y suplentes, que cumplirán está función el próximo 6 de diciembre durante la Segunda Elección Regional (SER) 2026 en la región Arequipa, fue publicada por la Oficina Nacional de Procesos Electorales (ODPE).",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-odpe-arequipa-publico-lista-miembros-mesa-para-elecciones-segunda-vuelta-regional-1100299.aspx",
+   "fecha": "2026-11-17T03:25:45Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7888a8d3bf9b",
+   "titulo": "Cancillería investiga a dos empresas por inconvenientes técnicos durante misa del papa León XIV en Las Palmas",
+   "resumen": "La cartera informó que inició investigaciones técnicas para determinar responsabilidades y penalidades conforme a los contratos firmados con las dos empresas proveedoras para el evento.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/16/cancilleria-investiga-a-dos-empresas-por-inconvenientes-tecnicos-durante-misa-del-papa-leon-xiv-en-las-palmas-260528",
+   "fecha": "2026-11-17T03:21:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "ccb993d17347",
+   "titulo": "Alcaldes electos de Lima Metropolitana reciben credenciales y quedan habilitados para asumir sus cargos en 2027",
+   "resumen": "El trámite se concretó tras quedar consentidas las actas de proclamación de resultados, sin que se registraran apelaciones en ninguna de las circunscripciones",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/17/alcaldes-electos-de-lima-metropolitana-reciben-credenciales-y-quedan-habilitados-para-asumir-sus-cargos-en-2027/",
+   "fecha": "2026-11-17T02:59:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "60f2a9ef9a84",
+   "titulo": "La madre de Paolo Guerrero, Tula Rodríguez y más de un millón de fieles: las caras conocidas que despidieron al papa León XIV en Lima",
+   "resumen": "La última misa del pontífice en la Base Aérea Las Palmas reunió a una multitud histórica. Entre los asistentes, Doña Peta llegó con un emplazamiento especial y oró por la recuperación de su hijo.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/17/la-madre-de-paolo-guerrero-tula-rodriguez-y-mas-de-un-millon-de-fieles-las-caras-conocidas-que-despidieron-al-papa-leon-xiv-en-lima/",
+   "fecha": "2026-11-17T02:50:13Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e784aecf08c1",
+   "titulo": "López Aliaga señala al JNE de impulsar un veto contra Renovación Popular y califica el proceso de “dictadura electoral”",
+   "resumen": "El dirigente cuestionó las decisiones de las autoridades electorales y sostuvo que la legislación respalda la permanencia de su agrupación en la Alcaldía de Lima. Durante su pronunciamiento, también lanzó acusaciones contra sectores políticos, medios de comunicación y organismos del sistema de…",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/16/rafael-lopez-aliaga-senala-al-jne-de-impulsar-un-veto-contra-renovacion-popular-y-califica-el-proceso-de-dictadura-electoral-hnews-1006848",
+   "fecha": "2026-11-17T02:45:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fe42a348b90a",
+   "titulo": "El Vendaval Celeste igualó con Cusco FC y seguiría en Liga 1",
+   "resumen": "ADT rescata un empate 2-2 de visita ante Cusco FC. Los tarmeños sumaron 32 puntos en total y solo bajarían si Cajamarca gana a Alianza por más de 7 goles en Matute",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huancayo/el-vendaval-igualo-con-cusco-fc-y-seguiria-en-liga-1-noticia/",
+   "fecha": "2026-11-17T02:39:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alianza",
+     "ubigeo": "220504",
+     "ccpp": "2205040003",
+     "precision": "centro_poblado",
+     "provincia": "Lamas",
+     "departamento": "San Martín",
+     "lon": -76.27508,
+     "lat": -6.11706,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
    "id": "344f369295e2",
    "titulo": "Enjambre sísmico en Ica: ocho temblores de hasta 5,4 de magnitud sacuden la región en diez horas",
    "resumen": "El último movimiento telúrico se reportó a las 9.23 p. m. de este lunes 16 de noviembre. Con ello, ya suman ocho sismos en diez horas, dado que el primero ocurrió a las 11.16 a. m.",
@@ -674,6 +1053,32 @@
      "principal": true
     }
    ]
+  },
+  {
+   "id": "b96b5dfa2c40",
+   "titulo": "Publican lista de miembros de mesa para segunda vuelta regional",
+   "resumen": "La Oficina Descentralizada de Procesos Electorales (ODPE) Ilo publicó la relación de miembros de mesa, entre titulares y suplentes, que participarán en la Segunda Elección Regional (SER) 2026, programada para el domingo 6 de diciembre en la provincia de Ilo. Se trata de los mismos ciudadanos…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/publican-lista-de-miembros-de-mesa-para-segunda-vuelta-regional/",
+   "fecha": "2026-11-17T01:00:47Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ],
+   "grupo": "302e4455edd0"
   },
   {
    "id": "07cf303c5d6e",
@@ -1368,6 +1773,31 @@
      "lat": -15.48398,
      "confianza": 0.9,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1434e69e20fe",
+   "titulo": "Instalan comisión de transferencia en la Municipalidad de Pacocha",
+   "resumen": "La comisión de transferencia de gestión de la Municipalidad Distrital de Pacocha quedó instalada la mañana de este lunes 16 de noviembre, con la participación de representantes de la administración saliente y del equipo del alcalde electo, Robert Valdivia Manrique. La autoridad electa informó que…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/instalan-comision-de-transferencia-en-la-municipalidad-de-pacocha/",
+   "fecha": "2026-11-16T23:39:56Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pacocha",
+     "ubigeo": "180303",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.34041,
+     "lat": -17.61073,
+     "confianza": 0.9,
+     "principal": true
     }
    ]
   },
@@ -2306,6 +2736,31 @@
      "lon": -77.03092,
      "lat": -12.04533,
      "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4caa64cdae36",
+   "titulo": "Instalan comisión para transferir la gestión municipal de Samegua",
+   "resumen": "La Municipalidad Distrital de Samegua instaló la Comisión de Transferencia de Gestión con participación de representantes de la administración saliente y de la gestión entrante, encabezadas por la alcaldesa Dolly Dávila Gonzales y el alcalde electo Renso Quiroz Vargas, respectivamente. Por parte…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/instalan-comision-para-transferir-la-gestion-municipal-de-samegua/",
+   "fecha": "2026-11-16T22:29:57Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Samegua",
+     "ubigeo": "180104",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.90025,
+     "lat": -17.18218,
+     "confianza": 0.9,
      "principal": true
     }
    ]
