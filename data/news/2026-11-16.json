@@ -2,6 +2,4061 @@
  "fecha": "2026-11-16",
  "noticias": [
   {
+   "id": "344f369295e2",
+   "titulo": "Enjambre sísmico en Ica: ocho temblores de hasta 5,4 de magnitud sacuden la región en diez horas",
+   "resumen": "El último movimiento telúrico se reportó a las 9.23 p. m. de este lunes 16 de noviembre. Con ello, ya suman ocho sismos en diez horas, dado que el primero ocurrió a las 11.16 a. m.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/16/enjambre-sismico-en-ica-seis-temblores-de-hasta-54-de-magnitud-sacuden-la-region-en-cinco-horas-1167440",
+   "fecha": "2026-11-17T02:31:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "03cbb3dcc33c",
+   "titulo": "La Libertad: pase inhabilitado a Sayapullo por aumento del caudal del río Baños Chimú",
+   "resumen": "El aumento del caudal del río Baños Chimú a consecuencia de las lluvias intensas han bloqueado el pase temporal vehicular hacia el distrito de Sayapullo, en la provincia de Gran Chimú, región La Libertad.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-la-libertad-pase-inhabilitado-a-sayapullo-aumento-del-caudal-del-rio-banos-chimu-1100293.aspx",
+   "fecha": "2026-11-17T02:30:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Sayapullo",
+     "ubigeo": "131104",
+     "precision": "distrito",
+     "provincia": "Gran Chimú",
+     "departamento": "La Libertad",
+     "lon": -78.46503,
+     "lat": -7.5957,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Gran Chimú",
+     "ubigeo": "131100",
+     "precision": "provincia",
+     "provincia": "Gran Chimú",
+     "departamento": "La Libertad",
+     "lon": -78.81979,
+     "lat": -7.47957,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a9017dd5ebf5",
+   "titulo": "Jeanette Alonzo dispuesta a asumir la alcaldía de Lima si recibe credenciales del JNE: “Me siento preparada”",
+   "resumen": "Desde Renovación Popular exigen que se reconozca a Rafael López Aliaga como alcalde electo de Lima, en discordia con el fallo del Jurado Nacional de Elecciones que prohíbe la reelección encubierta. Presentaron denuncias y acciones legales. Jeanette Alonzo aseguró que asumirá como alcaldesa de Lima.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/rafael-lopez-aliaga-jeanette-alonzo-asumira-la-alcaldia-de-lima-si-recibe-credenciales-del-jne-noticia/",
+   "fecha": "2026-11-17T02:24:29Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "635ac7b412b8"
+  },
+  {
+   "id": "1bd1be05c347",
+   "titulo": "Fenómeno El Niño: Senamhi refuerza vigilancia y pronóstico meteorológico en Piura y Tumbes",
+   "resumen": "El Senamhi capacitó a su equipo técnico en Piura y Tumbes para fortalecer la vigilancia meteorológica y el pronóstico de lluvias intensas ante los posibles efectos del Fenómeno El Niño.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/fenomeno-el-nino-senamhi-refuerza-vigilancia-y-pronostico-meteorologico-en-piura-y-tumbes-apuesplan-ultimas-noticia/",
+   "fecha": "2026-11-17T02:05:35Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "9b9b9d3d3a16",
+   "titulo": "Tumbes: Habilitan “puente terrestre” para trasladar alimentos y personas en zonas afectadas por lluvias",
+   "resumen": "Un camión todo terreno permite cruzar sectores afectados por la activación de la quebrada Casitas-Bocatán, que mantiene aislados a unos 10 centros poblados",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tumbes/tumbes-habilitan-puente-terrestre-traslado-alimentos-personas-en-zonas-afectadas-por-lluvias-casitas-bocatan-noticia/",
+   "fecha": "2026-11-17T02:03:47Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e879c5408b6b",
+   "titulo": "Jeanette Alonzo afirma que está preparada para asumir la Alcaldía de Lima si el JNE le entrega la credencial",
+   "resumen": "La segunda regidora electa de la Municipalidad de Lima cuestionó la decisión del Jurado Nacional de Elecciones de impedir que Rafael López Aliaga asuma la Alcaldía de Lima. No obstante, afirmó que tiene la experiencia necesaria para ocupar el cargo, siempre que el organismo electoral le otorgue la…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/jeanette-alonzo-afirma-que-esta-preparada-para-asumir-la-alcaldia-de-lima-si-el-jne-le-entrega-la-credencial-noticia/",
+   "fecha": "2026-11-17T02:01:05Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "99eefe5749e7",
+   "titulo": "Turismo en Chiclayo creció con la visita del papa León XIV: hoteles, restaurantes y artesanos recibieron a miles de visitantes",
+   "resumen": "La municipalidad aceleró obras de infraestructura urbana durante año y medio como parte de la preparación para la llegada del Pontífice",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/17/turismo-en-chiclayo-crecio-con-la-visita-del-papa-leon-xiv-hoteles-restaurantes-y-artesanos-recibieron-a-miles-de-visitantes/",
+   "fecha": "2026-11-17T01:59:03Z",
+   "temas": [
+    "economia",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4ea35bbf2796",
+   "titulo": "Pasco- Pozuzo: volquete se precipita al río Huancabamba y conductor desaparece",
+   "resumen": "Un volquete que se desplazaba desde Pozuzo, en la región Pasco, con dirección al centro poblado de Santa Rosa de Pozuzo terminó precipitándose desde la carretera hacia las aguas del río Huancabamba, llevándose consigo a su conductor, identificado como Fredy Arancel Galindo, natural de la selva…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-pasco-pozuzo-volquete-se-precipita-al-rio-huancabamba-y-conductor-desaparece-1100291.aspx",
+   "fecha": "2026-11-17T01:54:45Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huancabamba",
+     "ubigeo": "190303",
+     "precision": "distrito",
+     "provincia": "Oxapampa",
+     "departamento": "Pasco",
+     "lon": -75.52376,
+     "lat": -10.42601,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Pozuzo",
+     "ubigeo": "190305",
+     "precision": "distrito",
+     "provincia": "Oxapampa",
+     "departamento": "Pasco",
+     "lon": -75.55029,
+     "lat": -10.07101,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Rosa",
+     "ubigeo": "190305",
+     "ccpp": "1903050038",
+     "precision": "centro_poblado",
+     "provincia": "Oxapampa",
+     "departamento": "Pasco",
+     "lon": -75.50645,
+     "lat": -9.99209,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "0877a4dc6651",
+   "titulo": "Tumbes: Ejército activó \"puente terrestre\" con vehículo todoterreno en zona afectada por lluvias",
+   "resumen": "Según precisaron, la unidad militar fue habilitada para el traslado de personas y productos agrícolas.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/tumbes/tumbes-ejercito-activo-puente-terrestre-con-vehiculo-todoterreno-en-zona-afectada-por-lluvias-noticia-1718108",
+   "fecha": "2026-11-17T01:47:46Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "544ae6a10dc2",
+   "titulo": "Caso López Aliaga: Jeanette Alonzo anuncia que asumirá la alcaldía de Lima si el JNE le entrega las credenciales",
+   "resumen": "La segunda regidora de la lista de Renovación Popular para la Municipalidad de Lima, Jeanette Alonzo, anunció que asumirá la alcaldía de la capital si el Jurado Nacional de Elecciones (JNE) mantiene su decisión de impedir que Rafael López Aliaga vuelva a ocupar ese cargo.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/elecciones/caso-lopez-aliaga-jeanette-alonzo-anuncia-que-asumira-la-alcaldia-de-lima-si-el-jne-no-da-marcha-atras-apuesplan-noticia/",
+   "fecha": "2026-11-17T01:46:10Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d03d5b5dc93a",
+   "titulo": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
+   "resumen": "La presidenta viajó el domingo 15 a la APEC y llegará a Shenzhen horas después de que el pontífice deje Lima. El 11 de noviembre lo había recibido en la Base Aérea del Callao.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776",
+   "fecha": "2026-11-17T01:44:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "ea107cdbd6f3",
+   "titulo": "Fenómeno El Niño en Lambayeque: lluvias de 40 litros sorprenden a Olmos y Motupe",
+   "resumen": "En las últimas 24 horas se registraron lluvias intensas en la costa de Lambayeque, como parte del fenómeno El Niño. En Motupe y Olmos superaon los 40 litros por metro cuadrado.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/fenomeno-el-nino-en-lambayeque-lluvias-de-40-litros-sorprenden-a-olmos-y-motupe-noticia/",
+   "fecha": "2026-11-17T01:30:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Olmos",
+     "ubigeo": "140308",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.74748,
+     "lat": -5.98787,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Motupe",
+     "ubigeo": "140307",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.7143,
+     "lat": -6.1509,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "42a141c7d22b",
+   "titulo": "¡Orgullo nacional! Tres escolares de VMT ganan medallas de oro y plata en olimpiada de astronomía",
+   "resumen": "Rafael Zapata ganó la medalla de oro, mientras que Allison Hallasi y Thiago Villafuerte se llevaron la plata, destacando a pesar de provenir de familias en situación de pobreza extrema.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/16/orgullo-nacional-tres-escolares-de-vmt-ganan-medallas-de-oro-y-plata-en-olimpiada-de-astronomia-455552",
+   "fecha": "2026-11-17T01:26:26Z",
+   "temas": [
+    "mineria",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa María del Triunfo",
+     "ubigeo": "150143",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.94361,
+     "lat": -12.16248,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "be59b83e1acb",
+   "titulo": "Senamhi: sensación térmica de 35 °C marcó la despedida de León XIV en Lima",
+   "resumen": "El Senamhi reportó sensación térmica de 35 °C en La Molina y Carabayllo durante la jornada de despedida del papa León XIV en Lima. La temperatura del aire superó los 30 °C en varios distritos y en Surco, sede de la misa, alcanzó 31 °C. Bomberos refrescaron a los fieles y el Senamhi recomendó…",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/nacional/senamhi-sensacion-termica-35-lima-despedida-leon-xiv",
+   "fecha": "2026-11-17T01:20:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Molina",
+     "ubigeo": "150114",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.91659,
+     "lat": -12.07815,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Carabayllo",
+     "ubigeo": "150106",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02695,
+     "lat": -11.89017,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "635ac7b412b8",
+   "titulo": "Jeanette Alonzo asumirá la alcaldía de Lima si el JNE le da las credenciales: “Me siento preparada”",
+   "resumen": "La segunda regidora de la lista para la municipalidad de Lima manifestó su disposición a asumir la conducción de la capital si el organismo electoral resuelve entregarle las credenciales correspondientes.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/16/jeanette-alonzo-asumira-la-alcaldia-de-lima-si-el-jne-le-da-las-credenciales-me-siento-preparada-hnews-832864",
+   "fecha": "2026-11-17T01:16:48Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0304a324e899",
+   "titulo": "Cusqueño que trasladó al papa León XIV: “Me reventaba el corazón de alegría”",
+   "resumen": "Con casi diez años de trabajo en LATAM, Dorian Lescano vivió una experiencia que marcará su trayectoria profesional: formar parte de la tripulación que trasladó al papa León XIV durante su visita al Perú. El cusqueño, natural del distrito de Wanchaq, contó que tuvo unos segundos para acercarse al…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/16/cusqueno-que-traslado-al-papa-leon-xiv-me-reventaba-el-corazon-de-alegria/",
+   "fecha": "2026-11-17T01:10:14Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Wanchaq",
+     "ubigeo": "080108",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.96679,
+     "lat": -13.52137,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bfa67d799176",
+   "titulo": "¡Siempre estarás en nuestros corazones! Papa León XIV deja el Perú para volver al Vaticano",
+   "resumen": "Conmovido por las muestras de cariño y las multitudinarias manifestaciones de fe, el papa León XIV abordó esta tarde en el Grupo Aéreo N° 8 del Callao el vuelo que lo llevará de regreso al...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/16/siempre-estaras-en-nuestros-corazones-papa-leon-xiv-deja-el-peru-para-volver-al-vaticano/",
+   "fecha": "2026-11-17T01:09:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "58d1a9156be7",
+   "titulo": "Moquegua frenó a Universitario con un 2-2 en el Monumental",
+   "resumen": "Universitario estuvo dos veces en ventaja y ninguna le alcanzó. El 8 de noviembre, CD Moquegua respondió a cada gol del equipo local y se llevó un empate 2-2 del Estadio Monumental. Cuando parecía que...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/16/moquegua-freno-a-universitario-con-un-2-2-en-el-monumental/",
+   "fecha": "2026-11-17T01:06:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c9c85abe009a",
+   "titulo": "BNP rinde homenaje al Papa León XIV con primer libro impreso en Sudamérica",
+   "resumen": "A propósito de la visita del Papa León XIV al Perú, la Biblioteca Nacional presenta una edición especial de la Doctrina Christiana , una obra histórica impresa en Lima en 1584",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/bnp-rinde-homenaje-al-papa-leon-xiv-primer-libro-impreso-sudamerica-n496271",
+   "fecha": "2026-11-17T01:01:56Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4535869a2d77",
+   "titulo": "Gobernador de Lambayeque llama “descerebrado” a periodista argentino tras sus críticas a Chiclayo",
+   "resumen": "Una fuerte controversia diplomática y mediática se desató en el norte del país luego de las airadas declaraciones ofrecidas por el gobernador regional de Lambayeque, Jorge Pérez, quien salió al frente para rechazar tajantemente las expresiones vertidas por el periodista argentino Nelson Castro…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/16/gobernador-de-lambayeque-llama-descerebrado-a-periodista-argentino-tras-sus-criticas-a-chiclayo/",
+   "fecha": "2026-11-17T01:01:42Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b51d31dc5c02",
+   "titulo": "Senamhi advierte temperaturas de hasta 30 °C en Ayacucho y niveles elevados de radiación UV",
+   "resumen": "Senamhi advierte temperaturas de hasta 30 °C en Ayacucho, además de radiación UV elevada y ráfagas de viento de hasta 40 km/h",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/senamhi-advierte-temperaturas-de-hasta-30-c-en-ayacucho-y-niveles-elevados-de-radiacion-uv/",
+   "fecha": "2026-11-17T01:00:54Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "07cf303c5d6e",
+   "titulo": "Chiclayo distinguió al papa León con la medalla y llave de la ciudad en gesto de gratitud",
+   "resumen": "En un encuentro cargado de emoción, gratitud y profundo significado para la población, la Municipalidad Provincial de Chiclayo entregó al papa León XIV la medalla y la llave de la Ciudad, además de una réplica de la Catedral Santa María, como expresión del reconocimiento y afecto de una tierra que…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-chiclayo-distinguio-al-papa-leon-con-medalla-y-llave-de-ciudad-gesto-gratitud-1100287.aspx",
+   "fecha": "2026-11-17T01:00:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140100",
+     "precision": "provincia",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d29f1821c533",
+   "titulo": "Papa León XIV y las frases que nos dejó en su paso por Perú: líderes indígenas, tecnología como opresión y hasta un vals criollo",
+   "resumen": "El pontífice llegó como quien regresa a casa después de dos décadas y habló sin rodeos sobre temas que incomodan. Sus palabras en Pucallpa y Chiclayo resonaron más allá de lo espiritual.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/17/papa-leon-xiv-y-las-frases-que-nos-dejo-en-su-paso-por-peru-lideres-indigenas-tecnologia-como-opresion-y-hasta-un-vals-criollo/",
+   "fecha": "2026-11-17T00:51:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a19686c54dba",
+   "titulo": "Papa León XIV saludó a una multitud de fieles frente al mural de El Comercio en el Callao",
+   "resumen": "Durante su última jornada en el Perú, el pontífice pasó por el sector donde se encuentran el mural de 167 metros elaborado por El Comercio y la estatua monumental de 14 metros inaugurada por la Municipalidad del Callao. Los vecinos, que lo esperaban desde la madrugada, celebraron su presencia y…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/callao/papa-leon-xiv-saludo-a-una-multitud-de-fieles-frente-al-mural-de-el-comercio-en-el-callao-apuesplan-noticia/",
+   "fecha": "2026-11-17T00:42:44Z",
+   "temas": [
+    "economia",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b652c95e2bfc",
+   "titulo": "Papa León XIV y el incidente antes de su última misa en Perú: un rosario impactó en su rostro durante recorrido en Las Palmas",
+   "resumen": "El pontífice continuó en el papamóvil por Surco pese al golpe en el rostro y presidió la ceremonia final de su gira sudamericana",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/papa-leon-xiv-y-el-incidente-antes-de-su-ultima-misa-en-peru-un-rosario-impacto-en-su-rostro-durante-recorrido-en-las-palmas/",
+   "fecha": "2026-11-17T00:42:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "060a501339bc",
+   "titulo": "Papa León XIV se despide de su segunda patria con un mensaje de esperanza a los jóvenes: “Crean en ustedes, crean en el Perú”",
+   "resumen": "No fue su último mensaje en el Perú ni tampoco el más elaborado, pero las palabras del papa León XIV en el balcón de la Nunciatura Apostólica, en Jesús María, fueron sin duda de las más profundas y alentadoras de su gira sudamericana. Su auditorio fue una multitud de adultos, jóvenes, niños…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/papa-leon-xiv-se-despide-de-su-segunda-patria-con-un-mensaje-de-esperanza-a-los-jovenes-crean-en-ustedes-crean-en-el-peru-apuesplan-noticia/",
+   "fecha": "2026-11-17T00:42:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jesús María",
+     "ubigeo": "150113",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04327,
+     "lat": -12.07561,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "22be00346e89",
+   "titulo": "León XIV y el alma de Chiclayo: la despedida de una tierra que nunca dejó de sentir suya",
+   "resumen": "Tras dos días de actividades en Lambayeque y Cajamarca, el pontífice dejó Chiclayo entre lágrimas, muestras de cariño y una intensa lluvia. Su visita reunió a familias y comunidades que lo conocieron como obispo y que todavía conservan recuerdos de su trabajo pastoral en el norte del país.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/leon-xiv-y-el-alma-de-chiclayo-la-despedida-de-una-tierra-que-nunca-dejo-de-sentir-suya-noticia/",
+   "fecha": "2026-11-17T00:42:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1a40c89f76b1",
+   "titulo": "Ica tiembla: Van siete sismos en las últimas horas, el último de magnitud 4.3",
+   "resumen": "El epicentro del último sismo fue a 100 kilómetros al oeste de San Juan de Marcona, en Nasca, según reportó el IGP",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/ica-tiembla-van-siete-sismos-en-las-ultimas-horas-el-ultimo-de-magnitud-43-san-juan-de-marcona-noticia/",
+   "fecha": "2026-11-17T00:41:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan",
+     "ubigeo": "110304",
+     "ccpp": "1103040001",
+     "precision": "centro_poblado",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -75.16584,
+     "lat": -15.36193,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Marcona",
+     "ubigeo": "110304",
+     "precision": "distrito",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -75.16584,
+     "lat": -15.36193,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110300",
+     "precision": "provincia",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e02457962eaf",
+   "titulo": "Pobladores de Unión Huichccana piden cumplir promesas de campaña al alcalde Alfredo Cáceres",
+   "resumen": "Pobladores de Unión Huichccana reclaman al alcalde de Jesús Nazareno, Alfredo Cáceres, por dos semanas sin agua potable y exigen un cronograma de solución",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/pobladores-de-union-huichccana-piden-cumplir-promesas-de-campana-al-alcalde-alfredo-caceres/",
+   "fecha": "2026-11-17T00:35:03Z",
+   "temas": [
+    "politica_local",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jesús Nazareno",
+     "ubigeo": "050115",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.21255,
+     "lat": -13.15409,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "03850227a5d0",
+   "titulo": "Rafael López Aliaga desconoce fallo del JNE que le impide volver a la alcaldía de Lima: “Existe un veto contra mí y el partido”",
+   "resumen": "El líder de Renovación Popular encabezó un pronunciamiento acompañado de diputados, senadores y alcaldes electos de su agrupación política",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/rafael-lopez-aliaga-desconoce-fallo-del-jne-que-le-impide-volver-a-la-alcaldia-de-lima-existe-un-veto-contra-mi-y-el-partido/",
+   "fecha": "2026-11-17T00:33:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2353e3ae56ce",
+   "titulo": "Renovación Popular interpone denuncia constitucional tras resolución del JNE que impide a López Aliaga asumir como alcalde de Lima",
+   "resumen": "La vocera de Renovación Popular indicó que su bancada se siente \"indignada\" por la decisión que tomó el JNE en torno a las Elecciones Municipales y Regionales 2026.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/congreso/renovacion-popular-interpone-denuncia-constitucional-tras-decision-del-jne-sobre-elecciones-municipales-rafael-lopez-aliaga-noticia-1718095",
+   "fecha": "2026-11-17T00:26:16Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fad27d7a0973",
+   "titulo": "Lima ardió: sensación térmica llegó a 35 °C durante la calurosa y soleada despedida de León XIV",
+   "resumen": "El Senamhi informó que La Molina y Carabayllo registraron un fuerte calor. La temperatura del aire superó los 30 °C en varios distritos de la capital.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/16/lima-ardio-sensacion-termica-llego-a-35-c-durante-la-calurosa-y-soleada-despedida-de-leon-xiv-799936",
+   "fecha": "2026-11-17T00:23:13Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Molina",
+     "ubigeo": "150114",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.91659,
+     "lat": -12.07815,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Carabayllo",
+     "ubigeo": "150106",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02695,
+     "lat": -11.89017,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "50fc10a9ec0e",
+   "titulo": "Jeanette Alonzo señala que asumirá la MML si el JNE le da la credencial: \"Me siento preparada\"",
+   "resumen": "La segunda regidora electa para la Municipalidad de Lima rechazó la decisión del Jurado Nacional de Elecciones que impide a Rafael López Aliaga asumir el cargo de alcalde. Sin embargo, dijo que ella cuenta con experiencia para tomar ese compromiso si la autoridad electoral la habilita.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/actualidad/jeanette-alonzo-senala-que-asumira-la-mml-si-el-jne-le-da-la-credencial-me-siento-preparada-noticia-1718099",
+   "fecha": "2026-11-17T00:20:59Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0a53d7c1d15d",
+   "titulo": "Visita del papa León generó histórico impacto económico y reactivó el turismo en Chiclayo",
+   "resumen": "La histórica visita del papa León XIV a Chiclayo no solo estuvo marcada por la fe y la emoción de miles de peregrinos, sino que también generó un importante movimiento económico y turístico en la región Lambayeque, con la llegada de visitantes nacionales y extranjeros que dinamizaron los sectores…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-visita-del-papa-leon-genero-historico-impacto-economico-y-reactivo-turismo-chiclayo-1100284.aspx",
+   "fecha": "2026-11-17T00:15:05Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ef4f7cac35bc",
+   "titulo": "Jeanette Alonzo anuncia que asumirá la alcaldía de Lima en respaldo a López Aliaga: “Me siento preparada y con mucha experiencia”",
+   "resumen": "La segunda regidora de Renovación Popular cuestionó el fallo del JNE que impide al líder de su partido ocupar el sillón municipal y aseguró que respetará la decisión si se mantiene",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/jeanette-alonzo-defiende-a-rafael-lopez-aliaga-pero-anuncia-que-asumira-la-alcaldia-de-lima-me-siento-preparada-y-con-mucha-experiencia/",
+   "fecha": "2026-11-17T00:13:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "59ac0330a6c9",
+   "titulo": "CETPRO Inmaculada Concepción recibió equipos para seis especialidades técnicas",
+   "resumen": "Más de 120 estudiantes del Centro de Educación Técnico-Productiva (CETPRO) Inmaculada Concepción recibieron equipamiento para seis especialidades técnicas, durante una entrega realizada el lunes 16 de noviembre por el Gobierno Regional de Moquegua en las instalaciones de dicha institución…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/cetpro-inmaculada-concepcion-recibio-equipos-para-seis-especialidades-tecnicas/",
+   "fecha": "2026-11-17T00:12:30Z",
+   "temas": [
+    "educacion",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "03e19f9d3537",
+   "titulo": "Chiclayo: perrita muere electrocutada por fuga eléctrica en jardinera de urbanización",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-perrita-muere-electrocutada-por-fuga-electrica-en-jardinera-de-urbanizacion-noticia/",
+   "fecha": "2026-11-16T23:55:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "61c3feae3a36",
+   "titulo": "ODPE Trujillo recibe material para capacitar a actores electorales",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/odpe-trujillo-recibe-material-para-capacitar-a-actores-electorales-la-libertad-peru-noticia/",
+   "fecha": "2026-11-16T23:54:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7aca1a9abdb3",
+   "titulo": "Cuatro distritos de Huamanga aprueban ordenanzas para financiar acciones de prevención y atención a personas con discapacidad ante el fenómeno El Niño",
+   "resumen": "Socos, Vinchos, Pacaycasa y Quinua aprobaron ordenanzas para gestionar presupuesto destinado a capacitar y atender a personas con discapacidad ante desastres",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/cuatro-distritos-de-huamanga-aprueban-ordenanzas-para-financiar-acciones-de-prevencion-y-atencion-a-personas-con-discapacidad-ante-el-fenomeno-el-nino/",
+   "fecha": "2026-11-16T23:48:34Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Socos",
+     "ubigeo": "050112",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.28943,
+     "lat": -13.2149,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Huamanga",
+     "ubigeo": "050100",
+     "precision": "provincia",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Vinchos",
+     "ubigeo": "050114",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.35421,
+     "lat": -13.24163,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Pacaycasa",
+     "ubigeo": "050107",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.21591,
+     "lat": -13.0576,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Quinua",
+     "ubigeo": "050108",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.13919,
+     "lat": -13.04929,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d37b6850972a",
+   "titulo": "Jeanette Alonzo asumirá Lima si el JNE mantiene su decisión",
+   "resumen": "Durante un pronunciamiento de Renovación Popular, la agrupación anunció cuatro acciones contra la decisión del JNE. Por su parte, Rafael López Aliaga denunció un presunto veto contra su persona y su partido.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/jeanette-alonzo-asumira-lima-si-jne-mantiene-su-decision-n496270",
+   "fecha": "2026-11-16T23:48:24Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4a74e12bfeb1",
+   "titulo": "¿Volverá León XIV al Perú? Lo que se sabe sobre un posible regreso del Papa al país que marcó su vida pastoral",
+   "resumen": "El papa León XIV concluyó este lunes 16 de noviembre su visita apostólica al Perú, luego de seis días de actividades en distintas regiones. Durante su recorrido, se reencontró con comunidades que conoció durante su labor pastoral, especialmente en Chiclayo, donde ejerció como obispo. Sus…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/16/volvera-leon-xiv-al-peru-lo-que-se-sabe-sobre-un-posible-regreso-del-papa-al-pais-que-marco-su-vida-pastoral/",
+   "fecha": "2026-11-16T23:44:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "be71616f400c",
+   "titulo": "Clases escolares en Juliaca culminarán el 18 de diciembre y UGEL San Román prohíbe fiestas de promoción en inicial y primaria",
+   "resumen": "La UGEL San Román confirmó que las clases culminarán el 18 de diciembre y exhortó a los padres de familia a acompañar a sus hijos en esta etapa final. Asimismo, recordó que las clausuras deben tener un enfoque pedagógico y que no están permitidas las fiestas ni los bailes de promoción en los…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/clasesran-el-18-de-diciembre-y-ugel-san-roman-prohibe-fiestas-de-promocion-en-inicial-y-primaria/",
+   "fecha": "2026-11-16T23:40:29Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e7a21c0a98e5",
+   "titulo": "Lluvia en Tumbes: Ejército activa “puente terrestre” para trasladar a población aislada",
+   "resumen": "Efectivos del Ejército del Perú, a bordo de un camión todo terreno MAN, ejecutan labores de evacuación y traslado de pobladores, alimentos y mercadería en localidades afectadas por la activación de la quebrada Casitas-Bocatán, en el distrito de Casitas, provincia de Contralmirante Villar, región…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-lluvia-tumbes-ejercito-activa-puente-terrestre-para-trasladar-a-poblacion-aislada-1100282.aspx",
+   "fecha": "2026-11-16T23:39:17Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Casitas",
+     "ubigeo": "240202",
+     "precision": "distrito",
+     "provincia": "Contralmirante Villar",
+     "departamento": "Tumbes",
+     "lon": -80.6511,
+     "lat": -3.94232,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Contralmirante Villar",
+     "ubigeo": "240200",
+     "precision": "provincia",
+     "provincia": "Contralmirante Villar",
+     "departamento": "Tumbes",
+     "lon": -80.66814,
+     "lat": -3.67761,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1795bdaa5414",
+   "titulo": "Infecciones, cesáreas y mala alimentación elevan el riesgo de parto prematuro",
+   "resumen": "Diresa Ayacucho advierte sobre los factores que elevan el riesgo de parto prematuro y recomienda controles médicos antes y durante el embarazo",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/infecciones-cesareas-y-mala-alimentacion-elevan-el-riesgo-de-parto-prematuro/",
+   "fecha": "2026-11-16T23:36:11Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8f6bf9e20bdc",
+   "titulo": "Juliaca: retiran más de 45 kilos de residuos hospitalarios abandonados cerca de la escuela Mariano Núñez",
+   "resumen": "Personal de salud de Cono Sur, DIRESA Puno y del hospital Carlos Monge Medrano retiró los desechos peligrosos, entre ellos jeringas, agujas y muestras de laboratorio. La Municipalidad de San Román advirtió sobre la falta de fiscalización a establecimientos privados de salud y exigió identificar y…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/julias-de-45-kilos-de-residuos-hospitalarios-abandonados-cerca-de-la-escuela-mariano-nunez/",
+   "fecha": "2026-11-16T23:35:21Z",
+   "temas": [
+    "medio_ambiente",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "446c98b96522",
+   "titulo": "Jóvenes advierten que las nuevas generaciones conocen poco sobre el conflicto armado interno y organizan foro en Ayacucho",
+   "resumen": "Treinta universitarios de Ayacucho, Lima y Huancavelica impulsan un foro para debatir cómo las nuevas generaciones conocen el conflicto armado interno",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/jovenes-advierten-que-las-nuevas-generaciones-conocen-poco-sobre-el-conflicto-armado-interno-y-organizan-foro-en-ayacucho/",
+   "fecha": "2026-11-16T23:31:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Huancavelica",
+     "ubigeo": "090101",
+     "precision": "distrito",
+     "provincia": "Huancavelica",
+     "departamento": "Huancavelica",
+     "lon": -74.97132,
+     "lat": -12.78703,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5b457c5450c3",
+   "titulo": "Minem evalúa a 156 mineros inscritos en el Reinfo de Pataz y aclara si serán excluidos del proceso de formalización",
+   "resumen": "Equipos técnico-legales de la Dirección General de Formalización Minera se desplegaron en territorio para orientar a los mineros caso por caso",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/minem-evalua-a-156-mineros-inscritos-en-el-reinfo-de-pataz-y-aclara-si-seran-excluidos-del-proceso-de-formalizacion/",
+   "fecha": "2026-11-16T23:30:52Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pataz",
+     "ubigeo": "130809",
+     "precision": "distrito",
+     "provincia": "Pataz",
+     "departamento": "La Libertad",
+     "lon": -77.59384,
+     "lat": -7.785,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "34d4d83f8645",
+   "titulo": "¡Indignación en Juliaca! Abandonan obras en la Av. Hipólito Unanue y dejan acceso a la I.E.P. Virgen del Carmen entre lodo y escombros",
+   "resumen": "El director de la I.E.P. Virgen del Carmen, Rolando Arestegui Apaza, denunció que, a dos semanas de culminar los trabajos de reconexión de tuberías, la avenida Hipólito Unanue continúa llena de tierra, piedras y lodo, perjudicando el ingreso seguro de escolares y vecinos. Exigió a Seda Juliaca y a…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/indignacion-en-juliaca-abandonan-obras-en-la-av-hipolito-unanue-y-dejan-acceso-a-la-i-e-p-virgen-del-carmen-entre-lodo-y-escombros/",
+   "fecha": "2026-11-16T23:27:25Z",
+   "temas": [
+    "infraestructura",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5503712a03b9",
+   "titulo": "Pabel Bellido: “Las provincias se sienten como el patio trasero de Ayacucho”",
+   "resumen": "El sentimiento de abandono de las provincias del sur y de otras zonas alejadas de Huamanga es una de las demandas que el gobernador regional electo, Pabel Bellido Miranda, asegura haber recogido durante sus recorridos por Ayacucho. Según señaló, varias comunidades se sienten olvidadas y consideran…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/pabel-bellido-las-provincias-se-sienten-como-el-patio-trasero-de-ayacucho/",
+   "fecha": "2026-11-16T23:22:46Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Huamanga",
+     "ubigeo": "050100",
+     "precision": "provincia",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0664c6fb5581",
+   "titulo": "Escolares peruanos ganan oro y dos platas en olimpiada de astronomía",
+   "resumen": "Tres escolares peruanos de 15 y 16 años, becados en el colegio Prolog de Villa María del Triunfo, obtuvieron una medalla de oro y dos de plata en la Olimpiada Latinoamericana de Astronomía y Astronáutica 2026 realizada en Paraguay.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/educacion/escolares-peruanos-oro-platas-olimpiada-astronomia",
+   "fecha": "2026-11-16T23:20:24Z",
+   "temas": [
+    "educacion",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa María del Triunfo",
+     "ubigeo": "150143",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.94361,
+     "lat": -12.16248,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d03476fd1646",
+   "titulo": "Confirmado. Keiko Fujimori quiso estar en la despedida al Papa y Luis Galarreta fue en su ausencia",
+   "resumen": "Keiko Fujimori viajó a China y Japón antes de la partida del papa León XIV. Luis Galarreta encabezó la comitiva que lo despidió en el Callao",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/confirmado-keiko-fujimori-quiso-estar-en-la-despedida-al-papa-y-luis-galarreta-fue-en-su-ausencia/",
+   "fecha": "2026-11-16T23:17:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8582535d0bce",
+   "titulo": "Alerta en Juliaca: abandonan residuos hospitalarios cerca de la I.E. Mariano Núñez y exponen a más de 900 estudiantes a posible contaminación",
+   "resumen": "Los residuos, hallados aproximadamente a las 6:40 a. m. en los exteriores de la institución educativa, serían presuntas muestras de sangre. Padres de familia y directivos exigieron la intervención del sector Salud y la Policía para retirar los desechos, investigar su procedencia e identificar a…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/alerta-en-juliaca-abandonan-residuos-hospitalarios-cerca-de-la-i-e-mariano-nunez-y-exponen-a-mas-de-900-estudiantes-a-posible-contaminacion/",
+   "fecha": "2026-11-16T23:15:23Z",
+   "temas": [
+    "medio_ambiente",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Alerta",
+     "ubigeo": "170303",
+     "ccpp": "1703030004",
+     "precision": "centro_poblado",
+     "provincia": "Tahuamanu",
+     "departamento": "Madre de Dios",
+     "lon": -69.23503,
+     "lat": -11.65636,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e36d107db935",
+   "titulo": "Pleno del JNE realizará mañana recuento de votos de 23 mesas de sufragio en Piura",
+   "resumen": "El pleno del Jurado Nacional de Elecciones (JNE) resolvió, de manera excepcional, que dicha instancia sea la que realice el recuento de votos de 23 mesas de sufragio del distrito de San Juan de Bigote, provincia de Morropón, región Piura, en el marco de las Elecciones Regionales y Municipales 2026.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-pleno-del-jne-realizara-manana-recuento-votos-23-mesas-sufragio-piura-1100272.aspx",
+   "fecha": "2026-11-16T23:13:57Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan de Bigote",
+     "ubigeo": "200407",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -79.78616,
+     "lat": -5.31939,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Morropón",
+     "ubigeo": "200400",
+     "precision": "provincia",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "090816bd161a",
+   "titulo": "Fortalecen cobertura del servicio notarial con adjudicación de 13 plazas en Cusco y Madre",
+   "resumen": "A fin de fortalecer la cobertura del servicio notarial, el domingo 15 de noviembre de 2026 culminó el Concurso Público de Méritos para el Ingreso a la Función Notarial N.° 001-2025-CNCMD, actividad que permitió adjudicar 13 plazas notariales en Cusco y Madre de Dios.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-fortalecen-cobertura-del-servicio-notarial-adjudicacion-13-plazas-cusco-y-madre-1100278.aspx",
+   "fecha": "2026-11-16T23:10:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170203",
+     "precision": "distrito",
+     "provincia": "Manu",
+     "departamento": "Madre de Dios",
+     "lon": -70.39422,
+     "lat": -12.61849,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6ad971e3c05c",
+   "titulo": "Puno: Delincuentes armados perpetraron asalto a plena luz del día en Juliaca",
+   "resumen": "El personal de Serenazgo de la Municipalidad de San Román acudió al lugar para verificar los hechos y brindar auxilio a las víctimas.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/puno/puno-delincuentes-armados-perpetraron-asalto-a-plena-luz-del-dia-en-juliaca-noticia/",
+   "fecha": "2026-11-16T23:05:36Z",
+   "temas": [
+    "seguridad",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "eaa7391a5490",
+   "titulo": "La Libertad es la cuarta región con mayor incidencia de dengue del país",
+   "resumen": "Además, dado que los hogares solo reciben agua 11.8 horas al día, se favorece el almacenamiento en recipientes donde puede reproducirse el mosquito",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/la-libertad-es-la-cuarta-region-con-mayor-incidencia-de-dengue-del-pais/",
+   "fecha": "2026-11-16T23:03:43Z",
+   "temas": [
+    "salud",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f94b4a1539bf",
+   "titulo": "¡Moquegua se queda en Primera con gol agónico!",
+   "resumen": "POR: JOSÉ PÉREZ ORDOÑEZ (PPGOL) CD Moquegua consiguió una dramática victoria por 2-1 sobre Atlético Grau en el estadio 25 de Noviembre y aseguró matemáticamente su permanencia en la Liga 1 para la temporada 2027. Un triunfo que desató la euforia de toda una hinchada. El conjunto dirigido por Pepe…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/moquegua-se-queda-en-primera-con-gol-agonico/",
+   "fecha": "2026-11-16T23:01:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e1373b2b2fe2",
+   "titulo": "Congreso: diputada Giannina Avendaño pide explicar cobro por ingreso a Lomas de Lima",
+   "resumen": "La diputada Giannina Avendaño, de Juntos por el Perú (JP), solicitó a la Municipalidad Metropolitana de Lima explicar el cobro de 17 soles por el ingreso al Área de Conservación Regional (ACR) Sistema Lomas de Lima y precisar qué servicios reciben los visitantes a cambio de dicha tarifa.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-congreso-diputada-giannina-avendano-pide-explicar-cobro-ingreso-a-lomas-lima-1100276.aspx",
+   "fecha": "2026-11-16T22:59:19Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Lomas",
+     "ubigeo": "040311",
+     "precision": "distrito",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -74.85136,
+     "lat": -15.56971,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6d46602188ca",
+   "titulo": "Madre de joven desaparecido en Arequipa cruza el país para implorar milagro al papa León XIV",
+   "resumen": "La mujer aprovechó la visita del santo padre al Cusco para exponer su caso frente a las cámaras y visibilizar la angustia que atraviesa su familia.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/madre-de-joven-desaparecido-en-arequipa-cruza-el-pais-para-implorar-milagro-al-papa-leon-xiv/",
+   "fecha": "2026-11-16T22:55:48Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "aabe38bdda00",
+   "titulo": "Piloto del ‘Papacóptero’ revela detalles luego de trasladar al papa León XIV: “La paz y humildad que transmite son indescriptible”",
+   "resumen": "El comandante de la Fuerza Aérea del Perú (FAP), Javier Rojas, integró la tripulación encargada de pilotar el helicóptero Mi-17 que llevó al papa León XIV hasta Santa Cruz de Succhabamba, en Cajamarca.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/piloto-del-papacoptero-revela-detalles-luego-de-trasladar-al-papa-leon-xiv-la-paz-y-humildad-que-transmite-son-indescriptible-noticia/",
+   "fecha": "2026-11-16T22:55:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1a539d0a8779",
+   "titulo": "Artesana puneña llevó las tradiciones de Puno a la Feria Internacional en China",
+   "resumen": "La artesana puneña destacó en Shanghái con sus tejidos a palitos, especialmente llamitas y ornamentos representativos de Puno, logrando captar el interés del mercado asiático. La experiencia permitió identificar oportunidades comerciales para internacionalizar la producción artesanal de la región…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/artesana-punena-llevo-las-tradiciones-de-puno-a-la-feria-internacional-en-china/",
+   "fecha": "2026-11-16T22:52:50Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4cedde181876",
+   "titulo": "Lanzan el II Festival Titicaca Sin Fronteras: arte, Cultura y unidad por el lago",
+   "resumen": "La Plataforma Binacional Titicaca Sin Fronteras anunció hoy la realización del II Festival Titicaca Sin Fronteras, una iniciativa que busca fortalecer los lazos culturales, sociales y espirituales de los pueblos de Perú y Bolivia, unidos por un compromiso común: cuidar y defender el lago Titicaca…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/16/lanzan-el-ii-festival-titicaca-sin-fronteras-arte-cultura-y-unidad-por-el-lago/",
+   "fecha": "2026-11-16T22:52:42Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "07754c74127e",
+   "titulo": "Papa León XIV llega a Pucallpa para reunirse con pueblos indígenas",
+   "resumen": "El papa León XIV llegó a Pucallpa procedente de Cusco para reunirse con 145 representantes de pueblos indígenas amazónicos en Yarinacocha; la agenda incluye una misa, según el programa difundido.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/papa-leon-xiv-pucallpa-pueblos-indigenas",
+   "fecha": "2026-11-16T22:50:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Yarinacocha",
+     "ubigeo": "250105",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.57573,
+     "lat": -8.35549,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "67c8556d4c73",
+   "titulo": "Tractor agrícola se vuelca en el sector Apacheta de Yunguyo y deja a operador herido",
+   "resumen": "El operador de 39 años resultó herido en una mano y recibió seis puntos de sutura, luego de que el tractor volcara presuntamente por una falla en los frenos mientras descendía por una pendiente en el sector Apacheta. Afortunadamente, no sufrió lesiones de gravedad Un tractor agrícola terminó…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/tractor-agricola-se-vuelca-en-el-sector-apacheta-de-yunguyo-y-deja-a-operador-herido/",
+   "fecha": "2026-11-16T22:47:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Apacheta",
+     "ubigeo": "211307",
+     "ccpp": "2113070003",
+     "precision": "centro_poblado",
+     "provincia": "Yunguyo",
+     "departamento": "Puno",
+     "lon": -68.98133,
+     "lat": -16.21913,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Yunguyo",
+     "ubigeo": "211300",
+     "precision": "provincia",
+     "provincia": "Yunguyo",
+     "departamento": "Puno",
+     "lon": -69.09551,
+     "lat": -16.2267,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "044bc45305eb",
+   "titulo": "Presidenta del Poder Judicial participó en despedida al papa León XIV",
+   "resumen": "La presidenta del Poder Judicial, Janet Tello Gilardi, participó hoy de la ceremonia de despedida del papa León XIV en el Grupo Aéreo 8, en el Callao, tras culminar su histórica visita apostólica de seis días al Perú.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-presidenta-del-poder-judicial-participo-despedida-al-papa-leon-xiv-1100273.aspx",
+   "fecha": "2026-11-16T22:46:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "239ae07bd0b3",
+   "titulo": "Arequipa: Gerencia de Educación pide prevenir contagios de sarampión durante fiestas de promoción",
+   "resumen": "La Gerencia Regional de Educación de Arequipa pidió a los directores de colegios y padres de familia adoptar medidas de prevención durante las fiestas de promoción escolar, ante el incremento de casos de sarampión en la región. La entidad advirtió que estas celebraciones pueden favorecer la…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/16/arequipa-gerencia-de-educacion-pide-prevenir-contagios-de-sarampion-durante-fiestas-de-promocion/",
+   "fecha": "2026-11-16T22:41:39Z",
+   "temas": [
+    "salud",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c35037499d14",
+   "titulo": "Anuncian tercera feria laboral y encuentro empresarial en el distrito de Juliaca",
+   "resumen": "La feria laboral se realizará el 27 de noviembre en coordinación con la Municipalidad Distrital de San Miguel y buscará superar los 500 puestos de trabajo ofertados en la edición anterior. Además, en diciembre se desarrollará un encuentro empresarial gratuito para impulsar la capacitación, las…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/anuncian-tercera-feria-laboral-y-encuentro-empresarial-en-el-distrito-de-juliaca/",
+   "fecha": "2026-11-16T22:41:18Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Miguel",
+     "ubigeo": "211105",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.12684,
+     "lat": -15.46029,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "555b4622ce81",
+   "titulo": "Ica registra cinco sismos en un solo día, dos de ellos superaron la magnitud 5.0",
+   "resumen": "Los movimientos telúricos fueron reportados por el Instituto Geofísico del Perú (IGP). El más fuerte alcanzó una magnitud de 5.4 y tuvo como epicentro una zona ubicada al oeste de San Juan de Marcona, en la provincia de Nasca Una intensa actividad sísmica se registró este lunes 16 de noviembre en…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/ica-registra-cinco-sismos-en-un-solo-dia-dos-de-ellos-superaron-la-magnitud-5-0/",
+   "fecha": "2026-11-16T22:30:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan",
+     "ubigeo": "110304",
+     "ccpp": "1103040001",
+     "precision": "centro_poblado",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -75.16584,
+     "lat": -15.36193,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Marcona",
+     "ubigeo": "110304",
+     "precision": "distrito",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -75.16584,
+     "lat": -15.36193,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110300",
+     "precision": "provincia",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "565d503d7b45",
+   "titulo": "Cardenales que eligieron al papa León XIV en el cónclave desconocían que tenía nacionalidad peruana",
+   "resumen": "El arzobispo de Lima, cardenal Carlos Castillo, reveló que el perfil del pontífice tuvo una intervención breve durante las reuniones previas al cónclave",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/cardenales-que-eligieron-al-papa-leon-xiv-en-el-conclave-desconocian-que-tenia-nacionalidad-peruana/",
+   "fecha": "2026-11-16T22:30:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9bf5fb6be202",
+   "titulo": "Papa León XIV en Perú: las siete frases más destacadas de su última misa en Lima",
+   "resumen": "Conoce las siete frases más destacadas de la homilía del papa León XIV durante su última misa en la Base Aérea Las Palmas, antes de despedirse del Perú",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/papa-leon-xiv-en-peru-las-siete-frases-mas-destacadas-de-su-ultima-misa-en-lima-robert-prevost-noticia/",
+   "fecha": "2026-11-16T22:27:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c7982d4d1699",
+   "titulo": "Fiscalizadores inspeccionan terrenos contaminados por residuos de aceite en Cata Catas",
+   "resumen": "La denuncia por el presunto daño ambiental ocasionado por el vertimiento de residuos de combustibles y aceites en terrenos del sector Cata Catas, al sur de Ilo, motivó la intervención de fiscalizadores de diferentes instituciones. El monitor ambiental Jorge Álvarez Apaza informó que su pedido de…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/fiscalizadores-inspeccionan-terrenos-contaminados-por-residuos-de-aceite-en-cata-catas/",
+   "fecha": "2026-11-16T22:26:25Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8b770facbe3e",
+   "titulo": "Amazonía peruana: el pronóstico del clima de Tarapoto de mañana",
+   "resumen": "Esta ciudad se caracteriza por tener un clima tropical de la selva alta amazónica, con temperaturas cálidas y lluvias frecuentes gran parte del año",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/amazonia-peruana-el-pronostico-del-clima-de-tarapoto-de-manana/",
+   "fecha": "2026-11-16T22:16:52Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tarapoto",
+     "ubigeo": "220901",
+     "precision": "distrito",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.3602,
+     "lat": -6.48943,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d0c6fb695ab0",
+   "titulo": "Sismo de magnitud 4.6, el quinto en lo que va del día, vuelve a remecer Ica",
+   "resumen": "Un nuevo sismo de magnitud 4.6, el quinto en lo que va del día, volvió a remecer Ica, causando alarma en la población y sin que hasta el momento se reporten daños personales o materiales.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/ica/sismo-de-magnitud-46-el-quinto-en-lo-que-va-del-dia-vuelve-a-remecer-ica-indeci-igp-ultimas-noticia/",
+   "fecha": "2026-11-16T22:07:05Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a9f815fdd83d",
+   "titulo": "New Era lanza colección de 21 piezas con Universitario: moda, fútbol y pasión",
+   "resumen": "New Era presentó una colección de 21 piezas inspirada en Universitario de Deportes y su hinchada, según explicó Alessandra Arizaga, Gerente de Marca de la firma. La campaña vincula moda urbana, fútbol e identidad popular.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/economia/new-era-universitario-coleccion-21-piezas",
+   "fecha": "2026-11-16T22:00:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Marca",
+     "ubigeo": "021706",
+     "precision": "distrito",
+     "provincia": "Recuay",
+     "departamento": "Áncash",
+     "lon": -77.47434,
+     "lat": -10.08906,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2120cd00aae4",
+   "titulo": "Papa León XIV: usuarios de Pensión 65 reciben bendición de sumo pontífice",
+   "resumen": "Los corazones de María Piaggio, Antonio Chilo, Manuela Jiménez, María Rivera y Antonio Eleotero, usuarios del programa Pensión 65, latieron emocionados al recibir la bendición del papa León XIV, durante su visita a la casa de acogida Las Hermanitas de los Ancianos Desamparados del Callao.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-usuarios-pension-65-reciben-bendicion-sumo-pontifice-1100260.aspx",
+   "fecha": "2026-11-16T22:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "María",
+     "ubigeo": "010511",
+     "precision": "distrito",
+     "provincia": "Luya",
+     "departamento": "Amazonas",
+     "lon": -77.9609,
+     "lat": -6.42881,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "d65c609a0bb6",
+   "titulo": "Rotura de tuberías deja sin agua potable a sectores de Cerro Colorado y José Luis Bustamante y Rivero",
+   "resumen": "Conozca las urbanizaciones y avenidas donde no hay el servicio de agua",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/rotura-de-tuberias-deja-sin-agua-potable-a-sectores-de-cerro-colorado-y-jose-luis-bustamante-y-rivero-noticia/",
+   "fecha": "2026-11-16T21:54:55Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cerro Colorado",
+     "ubigeo": "040104",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.56088,
+     "lat": -16.37626,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "José Luis Bustamante y Rivero",
+     "ubigeo": "040129",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52403,
+     "lat": -16.42672,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c270619675a2",
+   "titulo": "INO realizará 700 cirugías de cataratas que serán gratuitas para afiliados al SIS en Lima: ¿cómo acceder?",
+   "resumen": "El Instituto Nacional de Oftalmología inicia este martes 17 de noviembre la campaña 'Cataratón de la Esperanza', que proyecta 2700 evaluaciones médicas para personas mayores de 50 años.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/16/ino-realizara-700-cirugias-de-cataratas-gratuitas-para-afiliados-al-sis-en-lima-como-acceder-1329584",
+   "fecha": "2026-11-16T21:54:27Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0d1a33b72e96",
+   "titulo": "Santiago Peña es trasladado a prisión militar en medio de cuestionamientos por privilegios",
+   "resumen": "Bajo fuertes medidas de seguridad, el expresidente de Paraguay, Santiago Peña, fue trasladado este lunes a la cárcel militar de Viñas Cué, en Asunción. Las imágenes difundidas por medios locales mostraron al exmandatario esposado y con un chaleco antibalas cuando ingresaba al establecimiento…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/16/santiago-pena-es-trasladado-a-prision-militar-en-medio-de-cuestionamientos-por-privilegios/",
+   "fecha": "2026-11-16T21:52:21Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Asunción",
+     "ubigeo": "020400",
+     "precision": "provincia",
+     "provincia": "Asunción",
+     "departamento": "Áncash",
+     "lon": -77.36575,
+     "lat": -9.16236,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "905624d7df99",
+   "titulo": "Cinco sismos sacuden Ica en un solo día: temblores alcanzaron magnitudes de hasta 5.4 y tuvieron epicentros en Nasca y Palpa",
+   "resumen": "Los movimientos telúricos registraron profundidades que oscilaron entre 27 y 41 kilómetros, según detalló el Centro Sismológico Nacional",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/cinco-sismos-sacuden-ica-en-un-solo-dia-temblores-alcanzaron-magnitudes-de-hasta-54-y-tuvieron-epicentros-en-nasca-y-palpa/",
+   "fecha": "2026-11-16T21:51:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110300",
+     "precision": "provincia",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Palpa",
+     "ubigeo": "110400",
+     "precision": "provincia",
+     "provincia": "Palpa",
+     "departamento": "Ica",
+     "lon": -75.18495,
+     "lat": -14.53385,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "55f8f3a83394",
+   "titulo": "La Libertad: Música sinfónica y ballet despiertan sueños entre niños y familias de Virú",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/musica-sinfonica-y-ballet-despiertan-suenos-entre-ninos-y-familias-de-viru-la-libertad-peru-noticia/",
+   "fecha": "2026-11-16T21:50:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Virú",
+     "ubigeo": "131200",
+     "precision": "provincia",
+     "provincia": "Virú",
+     "departamento": "La Libertad",
+     "lon": -78.75273,
+     "lat": -8.41431,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "054e09be21e0",
+   "titulo": "Ica: un sismo de magnitud 4.5 fue registrado esta tarde en Nasca, el sexto hoy en la región",
+   "resumen": "De acuerdo con información del Instituto Geofísico del Perú (IGP), este nuevo sismo se localizó a 102 kilómetros al oeste de San Juan de Marcona.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/ica/ica-un-sismo-45-fue-registrado-esta-tarde-en-nasca-el-sexto-hoy-en-la-region-noticia-1718079",
+   "fecha": "2026-11-16T21:44:14Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan",
+     "ubigeo": "110304",
+     "ccpp": "1103040001",
+     "precision": "centro_poblado",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -75.16584,
+     "lat": -15.36193,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110300",
+     "precision": "provincia",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Marcona",
+     "ubigeo": "110304",
+     "precision": "distrito",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -75.16584,
+     "lat": -15.36193,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7a772f7975ca",
+   "titulo": "Senamhi reporta sensación térmica de 35 °C en Lima este lunes",
+   "resumen": "El Senamhi informó que Lima registró 35 °C de sensación térmica en distritos como La Molina y Carabayllo",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/senamhi-reporta-sensacion-termica-35-c-lima-este-lunes-n496262",
+   "fecha": "2026-11-16T21:40:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Molina",
+     "ubigeo": "150114",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.91659,
+     "lat": -12.07815,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Carabayllo",
+     "ubigeo": "150106",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02695,
+     "lat": -11.89017,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4d46855285e9",
+   "titulo": "\"La paz y humildad que transmite son indescriptible\": las revelaciones del piloto que llevó a León XIV en el 'Papacóptero'",
+   "resumen": "El comandante FAP Javier Rojas fue uno de los que pilotearon el helicóptero Mi-17 que trasladó al pontífice hasta la localidad de Santa Cruz de Succhabamba, en la región de Cajamarca.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/las-revelaciones-del-piloto-fap-que-llevo-al-papa-leon-xiv-en-el-papacoptero-noticia-1718077",
+   "fecha": "2026-11-16T21:38:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "96d38a38243f",
+   "titulo": "Procuraduría inicia acciones legales contra exalumno por daños en colegio de contingencia",
+   "resumen": "La Procuraduría del Gobierno Regional de Moquegua asumió las acciones legales contra el exalumno de la institución educativa Manuel C. de la Torre, señalado de ocasionar daños en el colegio de contingencia donde actualmente se desarrollan las actividades académicas. El titular de la Dirección…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/procuraduria-inicia-acciones-legales-contra-exalumno-por-danos-en-colegio-de-contingencia/",
+   "fecha": "2026-11-16T21:34:01Z",
+   "temas": [
+    "educacion",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "16b4f2471912",
+   "titulo": "Minem ejecuta evaluación del Reinfo en Pataz en estricto acatamiento a orden judicial",
+   "resumen": "El Ministerio de Energía y Minas (Minem) desmiente de manera firme y categórica las versiones difundidas por algunos dirigentes locales que acusan falsamente al sector de pretender excluir del Registro Integral de Formalización Minera (Reinfo) a todos los mineros artesanales del distrito de Pataz…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-minem-ejecuta-evaluacion-del-reinfo-pataz-estricto-acatamiento-a-orden-judicial-1100270.aspx",
+   "fecha": "2026-11-16T21:30:52Z",
+   "temas": [
+    "mineria",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pataz",
+     "ubigeo": "130809",
+     "precision": "distrito",
+     "provincia": "Pataz",
+     "departamento": "La Libertad",
+     "lon": -77.59384,
+     "lat": -7.785,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "005ce6fb73ef"
+  },
+  {
+   "id": "70405e366834",
+   "titulo": "San Román: Gerente de Gestión Ambiental advierte que personal de limpieza no tiene equipos ni preparación para manipular residuos hospitalarios",
+   "resumen": "Residuos hospitalarios abandonados en Juliaca exponen a escolares y trabajadores; la municipalidad reporta 20 a 25 casos desde 2023 y alerta sobre riesgos biológicos",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/san-roman-gerente-de-gestion-ambiental-advierte-que-personal-de-limpieza-no-tiene-equipos-ni-preparacion-para-manipular-residuos-hospitalarios/",
+   "fecha": "2026-11-16T21:27:08Z",
+   "temas": [
+    "medio_ambiente",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "275635203517",
+   "titulo": "TODOS LOS SENADORES Y DIPUTADOS DE CAJAMARCA DEBEN IMPULSAR LA INCORPORACIÓN DE LA PRESA DE CHONTA EN EL PRESUPUESTO GENERAL DE LA REPÚBLICA 2027",
+   "resumen": "RCR, 16 de noviembre de 2026.- El ingeniero Ricardo Aguilar Zelada, presidente de la comisión de infraestructura del Colegio de Ingenieros de Cajamarca, dijo que todos los senadores y diputados de Cajamarca deben impulsar la incorporación del proyecto de la presa de Chonta en el Presupuesto…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/todos-los-senadores-y-diputados-de-cajamarca-deben-impulsar-la-incorporacion-de-la-presa-de-chonta-en-el-presupuesto-general-de-la-republica-2027/",
+   "fecha": "2026-11-16T21:22:47Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "72ab016532ef",
+   "titulo": "Presentación de la Candelaria en Lima será gratuita, pero asistentes deberán registrarse por Joinnus para ingresar al Estadio Nacional",
+   "resumen": "La presentación de la Candelaria será gratuita el 22 de noviembre en el Estadio Nacional, pero asistentes deberán registrarse en Joinnus y presentar DNI",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/presentacion-de-la-candelaria-en-lima-sera-gratuita-pero-asistentes-deberan-registrarse-por-joinnus-para-ingresar-al-estadio-nacional/",
+   "fecha": "2026-11-16T21:19:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "94eab004f8b6",
+   "titulo": "Arequipa: vuelven los concursos de caballo de paso a Yarabamba con ingreso gratuito, aquí detalles",
+   "resumen": "Las jornadas incluirán competencias de hembras, machos y capones, además de presentaciones ecuestres y espacios de comida para el público.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/arequipa-vuelven-los-concursos-de-caballo-de-paso-a-yarabamba-con-ingreso-gratuito-aqui-detalles/",
+   "fecha": "2026-11-16T21:18:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yarabamba",
+     "ubigeo": "040127",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.47556,
+     "lat": -16.54674,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a21a72961d35",
+   "titulo": "Chiclayo: pronóstico del clima y las temperaturas del 16 de noviembre",
+   "resumen": "La ciudad experimenta un clima desértico con escasas precipitaciones, aunque la cercanía al mar le da cierta humedad",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/chiclayo-pronostico-del-clima-y-las-temperaturas-del-16-de-noviembre/",
+   "fecha": "2026-11-16T21:16:48Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b9e8da50a31b",
+   "titulo": "PAPA LEÓN XIV DEVUELVE LA ESPERANZA AL PERÚ Y DEJA UN ENCARGO: RECONSTRUIR LOS VÍNCULOS ENTRE PERUANOS, SOSTIENE TEÓLOGO ROLANDO IBERICO",
+   "resumen": "RCR, 16 de noviembre 2026.- La histórica visita del papa León XIV al Perú, que culmina este lunes con una multitudinaria misa en la Base Aérea Las Palmas, en Surco, ha dejado una tarea pendiente: reconstruir la fraternidad y la solidaridad que se quebraron por los conflictos, la violencia y la…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/papa-leon-xiv-devuelve-la-esperanza-al-peru-y-deja-un-encargo-reconstruir-los-vinculos-entre-peruanos-sostiene-teologo-rolando-iberico/",
+   "fecha": "2026-11-16T21:08:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "06224e243186",
+   "titulo": "Lima: paciente oncológica denuncia falta de pastillas en el Hospital Rebagliati de EsSalud",
+   "resumen": "Rotafono de RPP | Desde el distrito limeño de Surco, la señora Sandra Pardo dijo que necesita el medicamento Anastrazole para continuar con su tratamiento contra el cáncer.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/rotafono/servicios-publicos/lima-paciente-oncologica-denuncia-falta-de-pastillas-en-el-hospital-rebagliati-de-essalud-noticia-1718069",
+   "fecha": "2026-11-16T21:07:56Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5a427597a1fa",
+   "titulo": "Dos agentes de Serenazgo de Paucarpata son detenidos en flagrancia por sustraer bienes municipales",
+   "resumen": "La Municipalidad de Paucarpata ha emitido un comunicado oficial rechazando categóricamente estos actos y ha expresado su total colaboración con el Ministerio Público y la Policía Nacional.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/dos-agentes-de-serenazgo-de-paucarpata-son-detenidos-en-flagrancia-por-sustraer-bienes-municipales/",
+   "fecha": "2026-11-16T21:04:18Z",
+   "temas": [
+    "seguridad",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Paucarpata",
+     "ubigeo": "040112",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.50461,
+     "lat": -16.43284,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "eeddff7be7ed",
+   "titulo": "Distribuyen calaminas y plástico para protección ante lluvias intensas en Trujillo",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/distribuyen-calaminas-y-plastico-para-proteccion-ante-lluvias-intensas-en-trujillo-la-libertad-peru-noticia/",
+   "fecha": "2026-11-16T21:04:09Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "005ce6fb73ef",
+   "titulo": "Minem ejecuta evaluación del Reinfo en Pataz en acatamiento de orden judicial",
+   "resumen": "Sector descarta que en ese proceso pretenda favorecer a la gran minería en la zona",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/minem-ejecuta-evaluacion-del-reinfo-en-pataz-en-acatamiento-de-orden-judicial-noticia/",
+   "fecha": "2026-11-16T20:59:25Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pataz",
+     "ubigeo": "130809",
+     "precision": "distrito",
+     "provincia": "Pataz",
+     "departamento": "La Libertad",
+     "lon": -77.59384,
+     "lat": -7.785,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "701b36a31b8f",
+   "titulo": "Temblor en Ica: Sismo de magnitud 4.6 se registró en San Juan de Marcona",
+   "resumen": "El epicentro se ubicó a 107 km al Oeste de San Juan de Marcona, en Nasca, según reportó el IGP",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/temblor-en-ica-sismo-de-magnitud-46-se-registro-en-san-juan-de-marcona-noticia/",
+   "fecha": "2026-11-16T20:46:48Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan",
+     "ubigeo": "110304",
+     "ccpp": "1103040001",
+     "precision": "centro_poblado",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -75.16584,
+     "lat": -15.36193,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Marcona",
+     "ubigeo": "110304",
+     "precision": "distrito",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -75.16584,
+     "lat": -15.36193,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110300",
+     "precision": "provincia",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8c1a6219624d",
+   "titulo": "Papa León XIV se despide del Perú con emotivo mensaje: “Que Dios te bendiga, mi Perú”",
+   "resumen": "El pontífice agradeció las muestras de cariño recibidas durante su visita apostólica y recordó su etapa como obispo de Chiclayo. También destacó la fe, la devoción y la calidez de los peruanos. El papa León XIV culminó su visita apostólica al Perú este lunes 16 de noviembre con un emotivo mensaje…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/papa-leon-xiv-se-despide-del-peru-con-emotivo-mensaje-que-dios-te-bendiga-mi-peru/",
+   "fecha": "2026-11-16T20:45:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e360eca82065",
+   "titulo": "El emotivo mensaje de despedida del Papa León XIV en Las Palmas: “Qué Dios te bendiga mi Perú”",
+   "resumen": "El papa León XIV cerró su visita apostólica al Perú este lunes 16 de noviembre con un mensaje de gratitud y despedida desde la Base Aérea Las Palmas, ubicada en el distrito de Santiago de Surco. Durante su intervención, agradeció a quienes hicieron posible su visita apostólica y cerró su discurso…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/16/el-emotivo-mensaje-de-despedida-del-papa-leon-xiv-en-las-palmas-que-dios-te-bendiga-mi-peru/",
+   "fecha": "2026-11-16T20:43:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Santiago de Surco",
+     "ubigeo": "150140",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.00494,
+     "lat": -12.14509,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "a6788e8914ca",
+   "revisar": true
+  },
+  {
+   "id": "c6ba720e55cf",
+   "titulo": "De regreso al Vaticano: la emotiva despedida de León XIV de su «querida tierra» (VIDEO)",
+   "resumen": "El pontífice se dirigió a la base aérea del Callao para abordar el avión que lo llevaría de regreso al Vaticano.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/de-regreso-al-vaticano-la-emotiva-despedida-de-leon-xiv-de-su-querida-tierra-video/",
+   "fecha": "2026-11-16T20:35:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d0ad47bb54a6",
+   "titulo": "LLUVIAS INTENSAS ACTIVAN QUEBRADA PALO VERDE PROVOCANDO UNA INUNDACIÓN EN EL COLEGIO PÚBLICO SAN AGUSTÍN EN PIURA",
+   "resumen": "RCR, 16 de noviembre 2026.- El profesor Artemio Palacios, director de la “Voz del Alto Piura” de Radio Que Buena en Chulucanas, informó que recientes lluvias intensas activaron la quebrada Palo Verde provocando una inundación en el colegio público San Agustín del distrito de La Matanza, en la…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/lluvias-intensas-activan-quebrada-palo-verde-provocando-una-inundacion-en-el-colegio-publico-san-agustin-en-piura/",
+   "fecha": "2026-11-16T20:33:06Z",
+   "temas": [
+    "desastres",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Agustin",
+     "ubigeo": "200401",
+     "ccpp": "2004010073",
+     "precision": "centro_poblado",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.20255,
+     "lat": -5.13457,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Chulucanas",
+     "ubigeo": "200401",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "La Matanza",
+     "ubigeo": "200404",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.09045,
+     "lat": -5.21367,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8ebf9283e850",
+   "titulo": "Quejas y malestar en la última misa del papa León XIV en Perú (VIDEO)",
+   "resumen": "Despedida del papa terminó empañada por las quejas de los fieles ante los problemas de organización durante la misa celebrada en la Base Aérea Las Palmas, en Lima.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/quejas-y-malestar-en-la-ultima-misa-del-papa-leon-xiv-en-peru-video/",
+   "fecha": "2026-11-16T20:30:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7cb8e5a4ea8c",
+   "titulo": "Cardenal Carlos Castillo al papa León XIV: “Perú es un país clave y tú lo has vuelto más clave todavía”",
+   "resumen": "El arzobispo de Lima destacó el impacto de la visita papal y pidió que su paso por el país impulse una renovación de la Iglesia católica",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/cardenal-carlos-castillo-al-papa-leon-xiv-peru-es-un-pais-clave-y-tu-lo-has-vuelto-mas-clave-todavia/",
+   "fecha": "2026-11-16T20:23:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2bb9376f57d2",
+   "titulo": "Temperatura llegará hasta 33 °C en los valles costeros de Arequipa",
+   "resumen": "El Senamhi alerta sobre ola de calor desde este martes hasta el viernes 20 de noviembre",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/temperatura-llegara-hasta-33-c-en-los-valles-costeros-de-arequipa-noticia/",
+   "fecha": "2026-11-16T20:21:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "99211e2d71eb",
+   "titulo": "Carlos Espá y su balance tras visita del papa León XIV al Perú: \"Ha sido una demostración de fe, de fervor, de devoción\"",
+   "resumen": "Desde el Grupo Aéreo N° 8 de la Fuerza Aérea del Perú (FAP), en el Callao, el canciller destacó el despliegue logístico y el comportamiento ciudadano durante la visita apostólica del sumo pontífice en Lima, Cajamarca, Cusco, Pucallpa y Chiclayo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/gobierno/carlos-espa-y-su-balance-tras-visita-del-papa-leon-xiv-al-peru-ha-sido-una-demostracion-de-fe-de-fervor-de-devocion-noticia-1718058",
+   "fecha": "2026-11-16T20:17:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b3241110e112",
+   "titulo": "El estado del tiempo en Ayacucho para mañana",
+   "resumen": "Conocida tradicionalmente como “Huamanga”, Ayacucho presenta un clima seco con fuertes vientos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/el-estado-del-tiempo-en-ayacucho-para-manana/",
+   "fecha": "2026-11-16T20:16:23Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Huamanga",
+     "ubigeo": "050100",
+     "precision": "provincia",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b89b61ad274e",
+   "titulo": "Primax fortalece su producción local de Urea Automotriz con certificación internacional ISO 22241",
+   "resumen": "La compañía obtuvo la certificación otorgada por AENOR para la fabricación de este producto en su planta de especialidades del Callao, elevando los estándares de la calidad y trazabilidad de una categoría que supera los 6 millones de galones al año en el Perú. Primax obtuvo la certificación…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/actualidad-empresarial/primax-urea-automotriz/",
+   "fecha": "2026-11-16T20:15:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f5751126abb3",
+   "titulo": "Pecoy Copper intercepta 727,25 metros con 0,30% de cobre en Arequipa",
+   "resumen": "Los resultados de diez sondajes en el proyecto Pecoy incluyen mineralización de cobre, oro y molibdeno. La compañía mantiene su meta de perforar aproximadamente 35.000 metros durante 2026. Pecoy Copper reportó los resultados de diez perforaciones diamantinas, identificadas como PEC26-073 a…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/mineria/pecoy-copper-cobre-en-arequipa/",
+   "fecha": "2026-11-16T20:09:57Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "81d9d7c0dad3",
+   "titulo": "Ica sigue temblando: sismos de magnitudes 4,8 y 4,6 remecieron Nasca por cuarta y quinta vez HOY, lunes 16 de noviembre, según IGP",
+   "resumen": "Los sismos de hoy registraron a una profundidad de 27 y 29 km, según informó el Instituto Geofísico del Perú (IGP), y coincidieron con la salida del papa León XIV del Perú.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/16/ica-sigue-temblando-sismos-de-magnitudes-48-y-46-remecieron-nasca-por-cuarta-y-quinta-vez-hoy-lunes-16-de-noviembre-segun-igp-1144432",
+   "fecha": "2026-11-16T20:07:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110300",
+     "precision": "provincia",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "cfda76165e39",
+   "titulo": "¡Casi 15 horas sin agua! Sedapal confirma corte este martes 17 de noviembre en Lima: AQUÍ los distritos afectados",
+   "resumen": "Sedapal anunció nuevos cortes de agua potable para este martes 17 de noviembre en distintos sectores de Lima. Conoce los distritos, zonas afectadas y horarios de restablecimiento.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/16/casi-15-horas-sin-agua-sedapal-confirma-corte-este-martes-17-de-noviembre-en-lima-aqui-los-distritos-afectados-1340224",
+   "fecha": "2026-11-16T20:07:02Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4ee963a4ce25",
+   "titulo": "ONPE activa plan de contingencia para trasladar actas electorales ante lluvias en el norte",
+   "resumen": "Un informe interno identificó 7 oficinas electorales en situación crítica, 5 de ellas ubicadas en el norte del país. La entidad contempla trasladar actas y cédulas de sufragio a Lima, además de activar rutas marítimas si las carreteras quedan bloqueadas.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/onpe-activa-plan-de-contingencia-para-trasladar-actas-electorales-ante-lluvias-en-el-norte-noticia/",
+   "fecha": "2026-11-16T20:03:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9a5cdc6f1828",
+   "titulo": "Arequipa: Colegio Fiscalizado cierra en diciembre y 255 estudiantes deben trasladarse a otras instituciones",
+   "resumen": "Minera Buenaventura ya no financiará el funcionamiento del colegio en la provincia de Castilla",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-colegio-fiscalizado-cierra-en-diciembre-y-255-estudiantes-deben-trasladarse-a-otras-instituciones-noticia/",
+   "fecha": "2026-11-16T19:56:48Z",
+   "temas": [
+    "educacion",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Castilla",
+     "ubigeo": "040400",
+     "precision": "provincia",
+     "provincia": "Castilla",
+     "departamento": "Arequipa",
+     "lon": -72.49215,
+     "lat": -16.07624,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "303c628a120d",
+   "titulo": "Papa León XIV recibe medalla de oro de la Hermandad del Señor de los Milagros",
+   "resumen": "El papa León XIV fue distinguido como hermano mayor universal de las hermandades del Señor de los Milagros y recibió la medalla de oro durante la misa en Las Palmas, al concluir su visita apostólica al Perú.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/cultura/papa-leon-xiv-medalla-hermandad-senor-milagros",
+   "fecha": "2026-11-16T19:50:06Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "100606",
+     "ccpp": "1006060001",
+     "precision": "centro_poblado",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -75.97098,
+     "lat": -9.44287,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7bc555cb7ef9",
+   "titulo": "Tercer temblor en Ica: sismo de magnitud 4,7 remeció Palpa HOY, lunes 16 de noviembre, según IGP",
+   "resumen": "El sismo de hoy registró a 60 kilómetros al suroeste de Lomas y se produjo a una profundidad de 30 km, según informó el Instituto Geofísico del Perú (IGP).",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/16/tercer-temblor-en-ica-sismo-de-magnitud-47-remecio-palpa-hoy-lunes-16-de-noviembre-segun-igp-1581536",
+   "fecha": "2026-11-16T19:47:36Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Palpa",
+     "ubigeo": "110400",
+     "precision": "provincia",
+     "provincia": "Palpa",
+     "departamento": "Ica",
+     "lon": -75.18495,
+     "lat": -14.53385,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lomas",
+     "ubigeo": "040311",
+     "precision": "distrito",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -74.85136,
+     "lat": -15.56971,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "19780170b70b",
+   "titulo": "Papa León XIV recibió su postre favorito en Chiclayo: monjas le regalaron pie de limón",
+   "resumen": "El papa León XIV recibió un pie de limón de las hermanas carmelitas durante su visita a Chiclayo el 13 de noviembre. También entregó la Rosa de Oro a la Virgen de la Paz.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/papa-leon-xiv-recibio-su-postre-favorito-en-chiclayo-monjas-le-regalaron-pie-de-limon-noticia/",
+   "fecha": "2026-11-16T19:46:03Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f17af16dcfb6",
+   "titulo": "Sismo de magnitud 4.7 remeció Ica esta tarde y ya son tres los temblores sentidos hoy en la región",
+   "resumen": "El epicentro del movimiento telúrico se ubicó en el mar, a 97 kilómetros al suroeste de Palpa, reportó el Instituto Geofísico del Perú.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/ica/sismo-de-magnitud-47-remecio-ica-esta-tarde-y-ya-son-tres-los-temblores-sentidos-hoy-en-la-region-noticia-1718060",
+   "fecha": "2026-11-16T19:45:52Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Palpa",
+     "ubigeo": "110400",
+     "precision": "provincia",
+     "provincia": "Palpa",
+     "departamento": "Ica",
+     "lon": -75.18495,
+     "lat": -14.53385,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6717bc0b3e7d",
+   "titulo": "Abandonan residuos hospitalarios frente a la institución educativa primaria Mariano Núñez y ponen en riesgo a escolares en Juliaca",
+   "resumen": "Residuos hospitalarios, jeringas y muestras de sangre fueron hallados frente al colegio Mariano Núñez de Juliaca, generando alarma entre padres y escolares",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/abandonan-residuos-hospitalarios-frente-a-la-institucion-educativa-primaria-mariano-nunez-y-ponen-en-riesgo-a-escolares-en-juliaca/",
+   "fecha": "2026-11-16T19:43:18Z",
+   "temas": [
+    "educacion",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a3a8a828c8d5",
+   "titulo": "Visitó a los más vulnerables: León XIV bendijo a usuarios de Pensión 65 en su visita a casa de acogida del Callao",
+   "resumen": "Durante su visita, el Santo Padre bendijo a los usuarios del programa Pensión 65, destacando la importancia de la dignidad en el cuidado de más de 50 adultos mayores. Fue uno de los últimos encuentros que tuvo antes de dejar el país.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/16/visito-a-los-mas-vulnerables-leon-xiv-bendijo-a-usuarios-de-pension-65-tras-su-visita-a-casa-de-acogida-del-callao-1065344",
+   "fecha": "2026-11-16T19:43:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0020a3d34027",
+   "titulo": "Fieles bailaron con Grupo 5 tras la misa del papa León XIV, pese a quejas por el intenso calor y confusiones con la salida",
+   "resumen": "La agrupación lambayecana cerró su presentación con un mensaje al pontífice antes de que miles de personas dejaran el recinto en Surco",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/16/fieles-bailaron-con-grupo-5-tras-la-misa-del-papa-leon-xiv-pese-a-quejas-por-el-intenso-calor-y-confusiones-con-la-salida/",
+   "fecha": "2026-11-16T19:37:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Surco",
+     "ubigeo": "150732",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.43603,
+     "lat": -11.88246,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e835d5085028",
+   "titulo": "Chincha: sujetos a bordo de motocicleta atacan a balazos contra vivienda y camioneta",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/chincha-sujetos-a-bordo-de-motocicleta-atacan-a-balazos-contra-vivienda-y-camioneta-noticia/",
+   "fecha": "2026-11-16T19:30:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chincha",
+     "ubigeo": "110200",
+     "precision": "provincia",
+     "provincia": "Chincha",
+     "departamento": "Ica",
+     "lon": -76.13251,
+     "lat": -13.4182,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3c6b603dda35",
+   "titulo": "FDM recibió S/ 45 millones de aporte de Quellaveco durante el 2026",
+   "resumen": "Un total de S/ 45 millones recibió durante el 2026 el Fondo de Desarrollo Moquegua (FDM), procedentes de los aportes anuales de Anglo American Quellaveco. La directora ejecutiva de la entidad, Rossmary Silva Acevedo, explicó que corresponde a las autoridades identificar y priorizar los proyectos…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/fdm-recibio-s-45-millones-de-aporte-de-quellaveco-durante-el-2026/",
+   "fecha": "2026-11-16T19:28:38Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Quellaveco",
+     "ubigeo": "180106",
+     "ccpp": "1801060085",
+     "precision": "centro_poblado",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.59697,
+     "lat": -17.11738,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "439815dbd52c",
+   "titulo": "Mercados de Ica anuncian cierre el 18 de noviembre y marcharán por la prevención ante el Fenómeno El Niño",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/ica-mercados-anuncian-cierre-el-18-de-noviembre-y-se-suman-a-marcha-por-prevencion-ante-el-fenomeno-el-nino-noticia/",
+   "fecha": "2026-11-16T19:25:00Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f57d1c89a49d",
+   "titulo": "Gerencia de Educación en Arequipa pide prevención para evitar contagios de sarampión en bailes de promoción",
+   "resumen": "Arequipa registra 574 casos de sarampión y el 42% de contagios son menores de edad",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/gerencia-de-educacion-en-arequipa-pide-prevencion-para-evitar-contagios-de-sarampion-en-bailes-de-promocion-noticia/",
+   "fecha": "2026-11-16T19:14:17Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7a11b9d3d7d1",
+   "titulo": "Describen dos nuevas especies de monos aulladores rojos en la Amazonía | ESTUDIO",
+   "resumen": "Un estudio genético de los monos aulladores ha revelado dos especies previamente desconocidas en el Amazonas, ha identificado una especie potencialmente distinta en el Caribe y ha llevado a los investigadores a reconsiderar cómo se clasifican varias poblaciones. El nuevo estudio examinó las…",
+   "medio": "Mongabay Latam",
+   "medio_id": "mongabay",
+   "url": "https://es.mongabay.com/short-article/2026/11/describe-dos-nuevas-especies-monos-aulladores-amazonicos/",
+   "fecha": "2026-11-16T19:12:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Amazonas",
+     "ubigeo": "010000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Amazonas",
+     "lon": -77.87281,
+     "lat": -6.22955,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bd2ffad28fa8",
+   "titulo": "Maido sigue entre los mejores restaurantes del mundo: el reconocimiento que recibió en 2026 tras convertirse en el número uno de The 50 Best",
+   "resumen": "El restaurante de Mitsuharu Tsumura volvió a figurar en la ceremonia internacional celebrada en Lima. Tras conseguir el primer puesto en 2025, integra el exclusivo grupo Best of the Best, reservado para antiguos ganadores",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/05/maido-sigue-entre-los-mejores-restaurantes-del-mundo-el-reconocimiento-que-recibio-en-2026-tras-convertirse-en-el-numero-uno-de-the-worlds-50-best/",
+   "fecha": "2026-11-16T19:09:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "8063307c557c",
    "titulo": "Papa León XIV en Perú EN VIVO: Santo Padre culmina misa en Las Palmas y se despide del país",
    "resumen": "El papa León XIV concluye hoy, 16 de noviembre, su visita apostólica al Perú tras seis días de actividades en diversas ciudades. La ceremonia de despedida se llevará a cabo en la Base Aérea Las Palmas.",
@@ -27,6 +4082,32 @@
     }
    ],
    "revisar": true
+  },
+  {
+   "id": "d9e95218e2dc",
+   "titulo": "PNP captura a tres de “Los King del Crimen” por extorsionar a empresas de transporte",
+   "resumen": "La PNP detuvo el 15 de noviembre a tres presuntos extorsionadores de Turismo Cavassa y Allinbus en Lima. Exigían S/ 5.000 semanales mediante amenazas por WhatsApp.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/pnp-captura-a-tres-de-los-king-del-crimen-por-extorsionar-a-empresas-de-transporte-noticia/",
+   "fecha": "2026-11-16T18:41:10Z",
+   "temas": [
+    "seguridad",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
   },
   {
    "id": "5b14ad0ae430",
@@ -549,6 +4630,44 @@
      "principal": true
     }
    ]
+  },
+  {
+   "id": "d99c5a03be82",
+   "titulo": "Papa León XIV fue impactado en el rostro por un denario durante su recorrido en Las Palmas",
+   "resumen": "El sumo pontífice recibió el golpe de un denario arrojado desde el público mientras saludaba a los fieles en el papamóvil antes de su última misa en Lima. Pese al incidente, la celebración eucarística de despedida continuó con normalidad.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/papa-leon-xiv-fue-impactado-en-el-ojo-durante-su-recorrido-en-las-palmas-noticia-1718054",
+   "fecha": "2026-11-16T18:00:28Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "150502",
+     "ccpp": "1505020016",
+     "precision": "centro_poblado",
+     "provincia": "Cañete",
+     "departamento": "Lima",
+     "lon": -76.58043,
+     "lat": -12.77613,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
   },
   {
    "id": "52c2a41ca732",
@@ -2767,6 +6886,31 @@
    ]
   },
   {
+   "id": "9f20751321cd",
+   "titulo": "Destinan premio de concurso regional a mejoras de El Farito y otras obras",
+   "resumen": "Los 300 mil soles que Islay-Matarani obtuvo como premio en el concurso regional de danzas realizado en Arequipa serán utilizados para financiar trabajos de mejoramiento del parque El Farito. El dinero proviene del quinto puesto alcanzado por la delegación en el último pasacalle regional donde…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/destinan-premio-de-concurso-regional-a-mejoras-de-el-farito-y-otras-obras/",
+   "fecha": "2026-11-16T16:05:35Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "aa497e445b53",
    "titulo": "Más de 400 mil personas se dedican a la artesanía en Perú y el 76% son mujeres: feria en Lima reunirá a expositores de 25 regiones",
    "resumen": "El Mincetur organiza la Feria Nacional De Nuestras Manos en Miraflores. Las 92 unidades económicas que integran el encuentro abarcan asociaciones, empresas artesanales, una cooperativa y personas naturales",
@@ -3140,6 +7284,31 @@
      "lon": -77.14689,
      "lat": -12.06318,
      "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c1d16a39340b",
+   "titulo": "Mollendo vuelve a celebrar: Amador Núñez conquista bicampeonato panamericano de tenis de mesa",
+   "resumen": "El tenis de mesa mollendino vuelve a celebrar una conquista internacional. Amador Núñez Perea se coronó bicampeón panamericano máster en Caracas, Venezuela, luego de imponerse por 3-0 al limeño Alfonso Escajadillo en una final entre peruanos que le permitió alcanzar su segundo título continental.…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/mollendo-vuelve-a-celebrar-amador-nunez-conquista-bicampeonato-panamericano-de-tenis-de-mesa/",
+   "fecha": "2026-11-16T15:41:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
      "principal": true
     }
    ]
@@ -4366,6 +8535,31 @@
     }
    ],
    "revisar": true
+  },
+  {
+   "id": "3fca4675e821",
+   "titulo": "Perú: El papa León XIV condena los asesinatos de líderes indígenas que defienden sus territorios",
+   "resumen": "La violencia contra los pueblos indígenas y los asesinatos de quienes defienden sus territorios ocuparon un lugar central en el mensaje del papa León XIV durante su encuentro con comunidades amazónicas en Pucallpa, Amazonía de Perú, este 15 de noviembre. El Pontífice recordó que proteger el…",
+   "medio": "Mongabay Latam",
+   "medio_id": "mongabay",
+   "url": "https://es.mongabay.com/2026/11/peru-papa-leon-xiv-condena-asesinatos-lideres-indigenas-defienden-territorios/",
+   "fecha": "2026-11-16T13:45:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
   },
   {
    "id": "753a9a2a5771",
