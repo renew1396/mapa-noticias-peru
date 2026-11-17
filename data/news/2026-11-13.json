@@ -5996,6 +5996,43 @@
    ]
   },
   {
+   "id": "bbec6837d199",
+   "titulo": "La ‘Papamanía’ llegó al Perú: helados, polos, king kones y los curiosos productos inspirados en León XIV que mueven la economía",
+   "resumen": "La designación de Robert Prevost como Papa León XIV no solo fue motivo de júbilo para los peruanos, sino que también abrió una oportunidad para impulsar las ventas de las microempresas, dinamizar la confección de polos y hasta reactivar el consumo del king kong, tradicional dulce de Lambayeque.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/papa-king-kones-y-papaletas-asi-se-mueve-la-economia-peruana-por-la-visita-de-leon-xiv-apuesplan-noticia/",
+   "fecha": "2026-11-13T19:21:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Leon",
+     "ubigeo": "210407",
+     "ccpp": "2104070188",
+     "precision": "centro_poblado",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.18318,
+     "lat": -16.4189,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "9cb3190698c3",
    "titulo": "Fátima Aguilar y Karina Chávez no pudieron contener el llanto al ver al papa León XIV durante sus reportes desde Chiclayo",
    "resumen": "Las periodistas siguieron en vivo el recorrido del papamóvil por las Pampas de Pimentel y compartieron mensajes de fe, esperanza y agradecimiento ante miles de fieles",
@@ -7974,6 +8011,31 @@
      "departamento": "Lambayeque",
      "lon": -79.85062,
      "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d68431f08611",
+   "titulo": "BBVA Perú celebra 75 años de fundación con tradicional Campanazo en la Bolsa de Valores de Lima",
+   "resumen": "BBVA Perú celebró sus 75 años de trayectoria con un campanazo en la Bolsa de Valores de Lima (BVL), filial de nuam. La ceremonia reunió a representantes de ambas instituciones para reconocer la historia del banco y su contribución al desarrollo económico del país.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/bbva-peru-celebra-75-anos-de-fundacion-con-tradicional-campanazo-en-la-bolsa-de-valores-de-lima-l-ultimas-noticia/",
+   "fecha": "2026-11-13T17:27:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
      "confianza": 0.7,
      "principal": true
     }
@@ -11580,6 +11642,31 @@
      "lat": -12.04533,
      "confianza": 0.7,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1ee5a8750043",
+   "titulo": "Las “mafias” de Machu Picchu le están costando dinero de verdad al Perú, según The Economist",
+   "resumen": "La plataforma de venta de entradas para Machu Picchu solía mostrar el sitio completamente reservado con casi seis meses de antelación, aunque los turistas pueden hacer cola para intentar conseguir alguna de las 1000 entradas que se venden diariamente, muchos simplemente han optado por otro…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/las-mafias-de-machu-picchu-le-estan-costando-dinero-de-verdad-al-peru-segun-the-economist-l-ultimas-noticia/",
+   "fecha": "2026-11-13T13:50:30Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Machupicchu",
+     "ubigeo": "081304",
+     "precision": "distrito",
+     "provincia": "Urubamba",
+     "departamento": "Cusco",
+     "lon": -72.52567,
+     "lat": -13.15421,
+     "confianza": 0.85,
+     "principal": true
     }
    ]
   },
