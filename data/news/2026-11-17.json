@@ -2,6 +2,423 @@
  "fecha": "2026-11-17",
  "noticias": [
   {
+   "id": "48c1827cde11",
+   "titulo": "Observatorio de precios de alimentos",
+   "resumen": "En el observatorio de precio de alimentos del diario El Comercio elaborado por EC Data y la sección de economía revisa cuánto cuesta la canasta básica hoy en Lima y los precios de los alimentos que más consumes, con la información del Midagri actualizada cada mañana.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/ecdata/mercado-mayorista-canasta-basica-observatorio-de-precios-de-alimentos-mef-midagri-keiko-fujimori-noticia/",
+   "fecha": "2026-11-18T04:39:42Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6b37086de35c",
+   "titulo": "Jicamarca: chofer de ‘Los Mandarinos’ murió en ataque a balazos por falsos pasajeros",
+   "resumen": "De acuerdo con el gerente de la empresa el crimen ocurrió cuando dos sujetos pidieron bajar en un paradero y antes de dejar el vehículo dispararon contra el conductor. Anunció también que la empresa no brindará servicios este miércoles en protesta.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/policiales/jicamarca-chofer-de-los-mandarinos-murio-en-ataque-a-balazos-por-falsos-pasajeros-noticia-1718310",
+   "fecha": "2026-11-18T04:38:44Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jicamarca",
+     "ubigeo": "150716",
+     "ccpp": "1507160005",
+     "precision": "centro_poblado",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.70401,
+     "lat": -11.73823,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "da1253dd143f",
+   "titulo": "Crecida del río Tumbes: Vivienda activó motobombas para proteger a la ciudad",
+   "resumen": "Ante las intensas precipitaciones que cayeron en la región a consecuencia del fenómeno El Niño, el Ministerio de Vivienda, Construcción y Saneamiento (MVCS) activó 3 motobombas de 8 pulgadas en el sector Parque El Beso, con el objetivo de proteger a la población.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-crecida-del-rio-tumbes-vivienda-activo-motobombas-para-proteger-a-ciudad-1100457.aspx",
+   "fecha": "2026-11-18T04:34:28Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "de108c82a16b",
+   "titulo": "Lima Metropolitana soportó ola de calor nocturna con temperaturas de hasta 6,4 °C por encima de lo normal",
+   "resumen": "Lima Metropolitana soportó una ola de calor nocturna con temperaturas de hasta 6,4 °C por encima de lo normal, infirmó el Servicio Nacional de Meteorología e Hidrología (Senamhi).",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/lima-metropolitana-soporto-ola-de-calor-nocturna-con-temperaturas-de-hasta-64-grados-por-encima-de-lo-normal-informo-el-senamhi-apueslan-ultimas-noticia/",
+   "fecha": "2026-11-18T04:34:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e81bdfc74b0f",
+   "titulo": "Jesús Gálvez, tercer regidor electo por Lima, renunció a Renovación Popular a \"pedido\" de Rafael López Aliaga",
+   "resumen": "En una carta, Jesús Gálvez aclaró que su dimisión se limita de manera exclusiva a su condición de afiliado a dicha agrupación política. \"Mantendré mi condición de regidor electo de Renovación Popular para el periodo municipal 2027-2030\", señaló.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/actualidad/jesus-galvez-tercer-regidor-electo-por-lima-renuncio-a-renovacion-popular-a-pedido-de-rafael-lopez-aliaga-noticia-1718309",
+   "fecha": "2026-11-18T04:30:32Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "80705244b82b",
+   "titulo": "Alias «Yojairo»: absuelven a integrante de «Los Injertos del Cono Norte» por ataques a viviendas",
+   "resumen": "Lo que comenzó como una medida para combatir la delincuencia terminó convirtiéndose en una pesadilla para dos familias del asentamiento humano Santiago Apóstol, en Comas. En 2024, los propietarios de dos viviendas instalaron cámaras de seguridad para registrar los constantes robos en la zona, pero…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/17/alias-yojairo-absuelven-a-integrante-de-los-injertos-del-cono-norte-por-ataques-a-viviendas/",
+   "fecha": "2026-11-18T04:19:56Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Comas",
+     "ubigeo": "150110",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04942,
+     "lat": -11.95716,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "f5e43d5c9ec1",
+   "titulo": "Sedapal cortará el agua hasta por 13 horas en estos distritos de Lima este miércoles 18 de noviembre",
+   "resumen": "Sedapal programó interrupciones del servicio para este miércoles 18 de noviembre debido a trabajos de mantenimiento y limpieza de reservorios. Conoce qué sectores serán afectados y a qué hora volverá el agua.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/17/corte-de-agua-por-13-horas-en-lima-revisa-los-distritos-y-zonas-afectadas-este-18-de-noviembre-488461",
+   "fecha": "2026-11-18T04:16:58Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "be1bca9c8866",
+   "titulo": "Otorgan Medalla de Honor de la Cultura al educador Everardo Zapata, autor de 'Coquito'",
+   "resumen": "El Ministerio de Cultura otorgó la distinción Medalla de Honor de la Cultura al educador arequipeño Everardo Zapata Santillana, autor de “Coquito”, reconocido libro con el que aprendieron a leer y escribir millones de peruanos.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-otorgan-medalla-honor-de-cultura-al-educador-everardo-zapata-autor-coquito-1100456.aspx",
+   "fecha": "2026-11-18T04:16:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santillana",
+     "ubigeo": "050406",
+     "precision": "distrito",
+     "provincia": "Huanta",
+     "departamento": "Ayacucho",
+     "lon": -74.25309,
+     "lat": -12.7664,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "414b2c2837de",
+   "titulo": "Concurso Nacional del Pisco por aniversario de Moquegua será del 19 al 21 de este mes",
+   "resumen": "Productores pisqueros de distintas regiones del país participarán en el XXVII Concurso Nacional del Pisco, que se desarrollará del 19 al 21 de noviembre como parte de las actividades por el 485° aniversario de Moquegua, anunció la gobernadora regional Gilia Gutiérrez Ayala",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-concurso-nacional-del-pisco-aniversario-moquegua-sera-del-19-al-21-este-mes-1100455.aspx",
+   "fecha": "2026-11-18T04:12:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "37cf72cc9d1a",
+   "titulo": "Árbol cae en parque principal de Chiclayo, escenario de la histórica visita del papa León",
+   "resumen": "Un árbol cayó repentinamente esta noche en pleno parque principal de Chiclayo, región Lambayeque, generando preocupación entre los transeúntes y ciudadanos que frecuentan este emblemático espacio público, escenario de las recientes celebraciones por la visita apostólica del papa León XIV.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-arbol-cae-parque-principal-chiclayo-escenario-de-historica-visita-del-papa-leon-1100453.aspx",
+   "fecha": "2026-11-18T03:45:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a385b0545a39",
+   "titulo": "Proveedora de pantallas y sonido en misa de León XIV en Las Palmas señala que dependían de servicios de otra empresa",
+   "resumen": "La empresa PowSang Sonido y Luces se pronunció sobre lo ocurrido en la misa del papa León XIV en la Base Aérea Las Palmas. Señalaron que han preparado un informe técnico sustentado sobre estos hechos, el cual entregarán mañana.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/proveedora-de-pantallas-y-sonido-en-misa-de-leon-xiv-en-las-palmas-senala-que-dependian-de-servicios-de-otra-empresa-noticia-1718307",
+   "fecha": "2026-11-18T03:11:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "460f4f914f4b",
+   "titulo": "El paquete ‘show experience’ del concierto de Chayanne en Lima: qué incluye y cuánto cuesta",
+   "resumen": "La organización anunció beneficios adicionales disponibles para todas las zonas del recinto, desde S/ 400 independientes hasta S/ 1.100 en su modalidad completa. Los cupos son limitados y la venta opera exclusivamente por Ticketmaster.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/18/el-paquete-show-experience-del-concierto-de-chayanne-en-lima-que-incluye-y-cuanto-cuesta/",
+   "fecha": "2026-11-18T03:05:42Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fe97a24ecf3a",
+   "titulo": "Obras a 10 metros del Camino Qhapaq Ñan en Puno generan alerta y obligan a Cultura a descartar posibles daños al patrimonio",
+   "resumen": "La Dirección Desconcentrada de Cultura exhortó a los pobladores a respetar las normas de protección patrimonial",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/18/obras-a-10-metros-del-camino-qhapaq-nan-en-puno-generan-alerta-y-obligan-a-cultura-a-descartar-posibles-danos-al-patrimonio/",
+   "fecha": "2026-11-18T03:05:28Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b29744674895",
+   "titulo": "Mototaxista queda en UCI tras ser arrollado y arrastrado por varias cuadras en SJL: horas antes, su hermano también fue atropellado",
+   "resumen": "La madre de los jóvenes asegura que el mismo conductor atropelló primero al hermano menor y luego embistió al mototaxista, quien permanece en cuidados intensivos con graves lesiones",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/18/mototaxista-queda-en-uci-tras-ser-arrollado-y-arrastrado-por-varias-cuadras-en-sjl-horas-antes-su-hermano-tambien-fue-atropellado/",
+   "fecha": "2026-11-18T03:01:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Juan de Lurigancho",
+     "ubigeo": "150132",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.01003,
+     "lat": -12.02963,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5b7d243bc61c",
+   "titulo": "CIES reunirá a expertos para debatir retos económicos",
+   "resumen": "El crecimiento económico, la productividad, la inversión minera y los desafíos de las políticas públicas serán algunos de los temas que abordarán especialistas nacionales e internacionales durante el XXXVII Seminario Anual de Investigación CIES 2026, que se realizará del 1 al 3 de diciembre en Lima.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cies-reunira-a-expertos-para-debatir-retos-economicos-1100447.aspx",
+   "fecha": "2026-11-18T03:00:15Z",
+   "temas": [
+    "mineria",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2f30f8e40507",
+   "titulo": "Gustavo Gutiérrez Ticse sobre caso López Aliaga: \"La ausencia de una ley genera el conflicto\"",
+   "resumen": "El magistrado del Tribunal Constitucional señaló en RPP que existe \"un problema constitucional\" sobre la posibilidad de que Rafael López Aliaga asuma la alcaldía de Lima, pese a una reciente decisión del Jurado Nacional de Elecciones sobre la denominada \"reelección encubierta\".",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/actualidad/gustavo-gutierrez-ticse-sobre-caso-lopez-aliaga-la-ausencia-de-una-ley-genera-el-conflicto-noticia-1718306",
+   "fecha": "2026-11-18T02:51:30Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "bdc07bf1dba2",
    "titulo": "Una nueva salida para San Juan de Lurigancho: así avanzan los puentes gemelos que cruzarán el río Rímac hacia El Agustino",
    "resumen": "La obra registra un avance superior al 80 % y contempla dos estructuras de 91 metros de longitud, cuya entrega está prevista para finales de 2026 o inicios de 2027",
@@ -81,6 +498,31 @@
      "lat": -12.04533,
      "confianza": 0.9,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b25a684498cb",
+   "titulo": "Trinquetes Políticos: En la página del recuerdo",
+   "resumen": "POR: RONY FLOR COAYLA Cuenta la historia que antiguamente se daban procesos migratorios cuando había siembra y cosecha en el valle de Moquegua y la gente volvía especialmente al altiplano, pero ya en los años 60 se formaron dos pueblos jóvenes que, a mediados (1965), fueron ratificados como tales…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/trinquetes-politicos-en-la-pagina-del-recuerdo-2/",
+   "fecha": "2026-11-18T02:22:07Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
     }
    ]
   },
