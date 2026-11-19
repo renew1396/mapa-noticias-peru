@@ -2,6 +2,644 @@
  "fecha": "2026-11-18",
  "noticias": [
   {
+   "id": "7634ed0362e4",
+   "titulo": "Burneo defiende decisión del JNE y pide objetividad al Congreso ante denuncia constitucional",
+   "resumen": "El presidente del Jurado Nacional de Elecciones (JNE), Roberto Burneo, expresó su confianza en que el Congreso evalúe con objetividad la denuncia constitucional presentada por la bancada de Renovación Popular en su contra, tras la controversia por la entrega de credenciales para la Alcaldía de Lima.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/roberto-burneo-defiende-decision-del-jne-y-pide-objetividad-al-congreso-ante-denuncia-constitucional-noticia/",
+   "fecha": "2026-11-19T04:56:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d92b51574135",
+   "titulo": "Cusco: Incendio forestal de gran magnitud continúa activo en la ruta de ingreso al Valle Sagrado de los Incas",
+   "resumen": "El fuego ya consumió una importante extensión de cobertura vegetal y avanza en la microcuenca de Quesermayo, detrás de Tambomachay.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/cusco/cusco-incendio-forestal-de-gran-magnitud-continua-activo-en-la-ruta-de-ingreso-al-valle-sagrado-de-los-incas-noticia-1718488",
+   "fecha": "2026-11-19T04:51:52Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Urubamba",
+     "ubigeo": "081300",
+     "precision": "provincia",
+     "provincia": "Urubamba",
+     "departamento": "Cusco",
+     "lon": -72.11621,
+     "lat": -13.30555,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Tambomachay",
+     "ubigeo": "080101",
+     "ccpp": "0801010016",
+     "precision": "centro_poblado",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.96593,
+     "lat": -13.48172,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "19866f686082",
+   "titulo": "Línea 1 del Metro: riqueza turística de países andinos deslumbra en muestra fotográfica",
+   "resumen": "Más de 600 mil ciudadanos al día tienen la oportunidad de conocer la riqueza cultural, natural, gastronómica y ancestral de Bolivia, Colombia, Ecuador y el Perú a través de la exposición fotográfica “Caminos Andinos”, que se exhibe en la estación “La Cultura” de la LÍNEA 1 del Metro de Lima, con…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-linea-1-del-metro-riqueza-turistica-paises-andinos-deslumbra-muestra-fotografica-1100615.aspx",
+   "fecha": "2026-11-19T04:50:02Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0d4a11fd2683",
+   "titulo": "Secretario encargado de la visita de León XIV: Arzobispado no participó en contratación de servicios para misa en Las Palmas",
+   "resumen": "El padre Juan Bytton pidió disculpas a los fieles por las fallas técnicas registradas durante el evento y provocaron que no escucharán la homilía del santo padre.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/leon-xiv-secretario-encargado-de-la-visita-del-papa-aclara-que-arzobispado-no-participo-en-la-contratacion-de-los-servicios-para-la-misa-en-las-palmas-noticia-1718487",
+   "fecha": "2026-11-19T04:33:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "08a1590a0b74",
+   "titulo": "Las Palmas: empresa asegura que advirtió fallas de sonido y video",
+   "resumen": "Powsang remitió un informe técnico a la Cancillería y la Contraloría en el que reportó problemas con los grupos electrógenos, falta de personal para operarlos y ausencia de medidas de seguridad. La compañía sostiene que estas situaciones fueron advertidas durante las pruebas previas a la misa del…",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/palmas-empresa-asegura-que-advirtio-fallas-sonido-y-video-n496331",
+   "fecha": "2026-11-19T04:26:38Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "d2663106cb11",
+   "titulo": "Moquegua: Capacitan a mujeres para proteger sus ahorros y evitar fraudes digitales",
+   "resumen": "Un grupo de usuarias del programa Juntos fortaleció sus conocimientos sobre educación financiera durante una capacitación desarrollada en la provincia de Ilo, en Moquegua, con el apoyo de la Superintendencia de Banca, Seguros y AFP (SBS). La actividad permitió que 40 participantes conocieran…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tacna/moquegua-capacitan-a-mujeres-para-proteger-sus-ahorros-y-evitar-fraudes-digitales-noticia/",
+   "fecha": "2026-11-19T03:58:16Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8270d11c5722",
+   "titulo": "Puno: Capturan a presunto implicado en el “robo del siglo” de 120 kilos de oro en Juliaca",
+   "resumen": "La intervención se produjo en la carretera Zepita - Desaguadero, frente al terminal interprovincial Cumi",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/puno/puno-capturan-a-presunto-implicado-en-el-robo-del-siglo-de-120-kilos-de-oro-en-juliaca-noticia/",
+   "fecha": "2026-11-19T03:47:56Z",
+   "temas": [
+    "seguridad",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Zepita",
+     "ubigeo": "210407",
+     "precision": "distrito",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.10323,
+     "lat": -16.49688,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Desaguadero",
+     "ubigeo": "210402",
+     "precision": "distrito",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.03937,
+     "lat": -16.56433,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "22183b7bb26e",
+   "titulo": "Papamóviles serán exhibidos en Lima: lugar y fecha para ver los vehículos que trasladaron a León XIV",
+   "resumen": "La exposición, con acceso gratuito, se llevará a cabo del 20 al 22 de noviembre. Revisa los detalles de la iniciativa y los horarios para visitar la exhibición en dos importantes centros comerciales del país.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/18/papamoviles-seran-exhibidos-en-lima-lugar-y-fecha-para-ver-los-vehiculos-que-trasladaron-a-leon-xiv-314874",
+   "fecha": "2026-11-19T03:42:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "15b87cccdd2e",
+   "titulo": "Miraflores albergará feria artesanal con más de 90 expositores de todo el Perú en Larcomar",
+   "resumen": "Este sábado 21 de noviembre, el Ministerio de Comercio Exterior y Turismo (Mincetur) inaugurará la Feria Artesanal “De Nuestras Manos 2026”, un espacio que reunirá lo mejor de la producción artesanal de las 25 regiones del país, con propuestas tradicionales, innovadoras y de alta calidad.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-miraflores-albergara-feria-artesanal-mas-90-expositores-todo-peru-larcomar-1100610.aspx",
+   "fecha": "2026-11-19T03:32:27Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "150122",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02918,
+     "lat": -12.1218,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "84e055404eb7",
+   "titulo": "Ucayali: Pobladores del distrito de Sepahua toman comisaría y piden el cambio de todo el personal",
+   "resumen": "Según los manifestantes, los policías del distrito estarían involucrados en presuntos cobros indebidos a comerciantes.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/ucayali/ucayali-pobladores-del-distrito-de-sepahua-toman-comisaria-y-piden-el-cambio-de-todo-el-personal-noticia-1718479",
+   "fecha": "2026-11-19T03:24:26Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Sepahua",
+     "ubigeo": "250202",
+     "precision": "distrito",
+     "provincia": "Atalaya",
+     "departamento": "Ucayali",
+     "lon": -73.04543,
+     "lat": -11.13715,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "428bbd9a4728",
+   "titulo": "El “papacóptero” que trasladó a León XIV será exhibido gratis en Lima",
+   "resumen": "El helicóptero militar Mi-17 que trasladó al papa León XIV desde Chiclayo hasta Santa Cruz de Succhabamba, en Cajamarca, durante su visita apostólica al Perú será exhibido al público en la Base Aérea Las Palmas, en Santiago de Surco. La aeronave, conocida como el «Papacóptero», será uno de los…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/18/el-papacoptero-que-traslado-a-leon-xiv-sera-exhibido-gratis-en-lima/",
+   "fecha": "2026-11-19T03:23:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Santiago de Surco",
+     "ubigeo": "150140",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.00494,
+     "lat": -12.14509,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Cruz De Succhabamba",
+     "ubigeo": "061301",
+     "ccpp": "0613010001",
+     "precision": "centro_poblado",
+     "provincia": "Santa Cruz",
+     "departamento": "Cajamarca",
+     "lon": -78.94429,
+     "lat": -6.62573,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "9b3e8ab4f237",
+   "titulo": "Jesús Gálvez renuncia a Renovación Popular, pero continuará como regidor metropolitano",
+   "resumen": "“Se está subestimando la inteligencia de la señora”, dijo Jesús Gálvez sobre posible sucesión en Lima",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/jesus-galvez-renuncia-a-renovacion-popular-pero-continuara-como-regidor-metropolitano-noticia/",
+   "fecha": "2026-11-19T03:21:44Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "647fa218c67a",
+   "titulo": "Meteorólogo prevé olas de calor y temperaturas récord en Lima",
+   "resumen": "Jonathan Cárdenas, gerente de Operaciones de AMBIAND, señaló que el calor se intensificará durante los próximos meses y advirtió que los niños, adultos mayores y mascotas serán los más vulnerables.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/meteorologo-preve-olas-calor-y-temperaturas-record-lima-n496330",
+   "fecha": "2026-11-19T03:18:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bbfe4326a525",
+   "titulo": "¡Hasta 12 horas sin agua! Sedapal confirma corte de servicio este jueves 19 de noviembre en Lima: AQUÍ los distritos afectados",
+   "resumen": "Sedapal anunció cortes programados de agua potable para este jueves 19 de noviembre en sectores de Lima y Huarochirí. Conoce los seis distritos afectados, los horarios y las zonas donde se suspenderá el servicio.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/18/hasta-12-horas-sin-agua-sedapal-confirma-corte-de-servicio-este-jueves-19-de-noviembre-en-lima-aqui-los-distritos-afectados-522162",
+   "fecha": "2026-11-19T03:06:29Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huarochirí",
+     "ubigeo": "150700",
+     "precision": "provincia",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.38615,
+     "lat": -11.84493,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "grupo": "421fb54ddb46"
+  },
+  {
+   "id": "d71f1828716a",
+   "titulo": "Un famoso youtuber español prueba la gastronomía peruana en Andorra: ceviche, lomo saltado y otros platos típicos del Perú",
+   "resumen": "Guillermo Díaz Ibáñez, conocido como Willyrex, publicó un video en el que recorrió algunos de los sabores más representativos del Perú. Durante la experiencia probó platos elaborados con papa, pescado, mariscos y carne, además de bebidas como la chicha morada y el pisco sour",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/19/un-famoso-youtuber-espanol-prueba-la-gastronomia-peruana-en-andorra-ceviche-lomo-saltado-y-otros-platos-tipicos-del-peru/",
+   "fecha": "2026-11-19T02:55:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Andorra",
+     "ubigeo": "120702",
+     "ccpp": "1207020009",
+     "precision": "centro_poblado",
+     "provincia": "Tarma",
+     "departamento": "Junín",
+     "lon": -75.67862,
+     "lat": -11.32626,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0adff7b4ebf1",
+   "titulo": "Senamhi prevé que Lima Este podría superar los 36 grados este verano y alcanzar una sensación térmica de hasta 39 °C",
+   "resumen": "Nelson Quispe, especialista en Meteorología del Senamhi, explicó en RPP que la humedad elevaría la sensación de calor entre 2 y 3 grados por encima de la temperatura registrada por el termómetro. También advirtió sobre la posibilidad de garúas persistentes en Lima durante la temporada de verano.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/senamhi-preve-que-lima-este-podria-superar-los-36-grados-este-verano-y-alcanzar-una-sensacion-termica-de-hasta-39-0c-noticia-1718483",
+   "fecha": "2026-11-19T02:50:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7a90ff276fd9",
+   "titulo": "Cajamarca: presunta estafa piramidal «FAF» desaparece y deja cientos de afectados en Celendín y Cutervo",
+   "resumen": "Los promotores ofrecían ganancias rápidas a cambio de ver videos en línea o de completar tareas básicas dentro de la aplicación.",
+   "medio": "Radio Marañón",
+   "medio_id": "maranon",
+   "url": "https://radiomaranon.org.pe/cajamarca-presunta-estafa-piramidal-faf-desaparece-y-deja-cientos-de-afectados-en-celendin-y-cutervo/",
+   "fecha": "2026-11-19T02:44:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Celendín",
+     "ubigeo": "060300",
+     "precision": "provincia",
+     "provincia": "Celendín",
+     "departamento": "Cajamarca",
+     "lon": -78.14312,
+     "lat": -6.86695,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cutervo",
+     "ubigeo": "060600",
+     "precision": "provincia",
+     "provincia": "Cutervo",
+     "departamento": "Cajamarca",
+     "lon": -78.81809,
+     "lat": -6.37716,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "40296c7252df",
+   "titulo": "Juegos Panamericanos Lima 2027: aprueban S/73 millones para financiar seis obras en recintos deportivos de Lima y Callao",
+   "resumen": "La Villa Panamericana concentra la mayor asignación, con más de S/40 millones, seguida del Estadio Nacional, el Coliseo Eduardo Dibós y otros recintos deportivos que estarán destinados a las competencias de julio y agosto de 2027",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/19/juegos-panamericanos-lima-2027-aprueban-s73-millones-para-financiar-seis-obras-en-recintos-deportivos-de-lima-y-callao/",
+   "fecha": "2026-11-19T02:40:14Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "La Villa",
+     "ubigeo": "150811",
+     "ccpp": "1508110146",
+     "precision": "centro_poblado",
+     "provincia": "Huaura",
+     "departamento": "Lima",
+     "lon": -77.37634,
+     "lat": -11.23341,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
    "id": "82f34d4753cc",
    "titulo": "Tres extranjeros intentaron viajar a España suplantando la identidad de ciudadanos peruanos en el aeropuerto Jorge Chávez",
    "resumen": "Un ciudadano ecuatoriano y una pareja de bolivianos fueron interceptados con documentos auténticos pertenecientes a terceros, decomisados por el personal de la Sala APIs durante el control de salida",
@@ -392,6 +1030,31 @@
      "lon": -68.90128,
      "lat": -14.07903,
      "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7421c9020794",
+   "titulo": "ODPE Ilo revisa infraestructura y accesibilidad de locales",
+   "resumen": "La disponibilidad de ambientes, los servicios básicos, el estado de la infraestructura y las condiciones de acceso para personas con discapacidad forman parte de los aspectos que verifica el personal de la Oficina Descentralizada de Procesos Electorales (ODPE) Ilo como parte de los preparativos…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/odpe-ilo-revisa-infraestructura-y-accesibilidad-de-locales/",
+   "fecha": "2026-11-19T01:38:37Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
      "principal": true
     }
    ]
@@ -8542,6 +9205,31 @@
      "lon": -70.25199,
      "lat": -18.00181,
      "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "da526c0e5ac8",
+   "titulo": "Deán Valdivia inicia proceso de transferencia de gestión municipal",
+   "resumen": "Las cuentas, los bienes y la documentación que dejará la actual administración de la Municipalidad Distrital de Deán Valdivia serán sometidos a revisión como parte de la transferencia de gestión 2026-2027, cuyo proceso comenzó con la instalación de una comisión encargada de esta labor. El equipo…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/dean-valdivia-inicia-proceso-de-transferencia-de-gestion-municipal/",
+   "fecha": "2026-11-18T13:47:14Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Dean Valdivia",
+     "ubigeo": "040703",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -71.82666,
+     "lat": -17.14486,
+     "confianza": 0.9,
      "principal": true
     }
    ]
