@@ -1410,6 +1410,64 @@
    ]
   },
   {
+   "id": "0854eec7f246",
+   "titulo": "Diálogo Multiactor por la Protección de la Amazonía y las personas defensoras ambientales y del territorio",
+   "resumen": "Organizaciones indígenas de Junín, Ucayali, Huánuco y Loreto, con el apoyo técnico de DAR, presentaron ante el Estado, la cooperación internacional, el sector privado, la Iglesia católica y la sociedad civil ocho propuestas para proteger a las personas defensoras frente a amenazas como la minería…",
+   "medio": "DAR",
+   "medio_id": "dar",
+   "url": "https://dar.org.pe/dialogo-multiactor-por-la-proteccion-de-la-amazonia-y-las-personas-defensoras-ambientales-y-del-territorio/",
+   "fecha": "2026-11-09T22:06:39Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "160600",
+     "precision": "provincia",
+     "provincia": "Ucayali",
+     "departamento": "Loreto",
+     "lon": -75.0096,
+     "lat": -7.35055,
+     "confianza": 0.15,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "bc1de007f922",
    "titulo": "OEFA realizó 1,332 supervisiones ambientales e impuso multas por S/ 110.5 millones",
    "resumen": "En el marco de los primeros 100 días de gestión, el Organismo de Evaluación y Fiscalización Ambiental (OEFA) realizó 1,332 acciones de supervisión e impuso multas por S/ 110.5 millones por incumplimiento de obligaciones ambientales.",
