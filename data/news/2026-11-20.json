@@ -2,6 +2,4424 @@
  "fecha": "2026-11-20",
  "noticias": [
   {
+   "id": "72a3bcf637af",
+   "titulo": "Fuerte temblor en Junín generó alarma en la población de Barranca, Huacho y Huaral",
+   "resumen": "El fuerte temblor de magnitud 6.7 registrado esta noche en la región Junín generó la alarma entre los vecinos de las ciudades de Barranca, Huacho y Huaral, al norte de la región Lima, que salió a las calles en busca de lugares seguros y mantenerse a la expectativa ante posibles réplicas.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-fuerte-temblor-junin-genero-alarma-la-poblacion-barranca-huacho-y-huaral-1100899.aspx",
+   "fecha": "2026-11-21T02:26:14Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.59,
+     "principal": true
+    },
+    {
+     "nombre": "Barranca",
+     "ubigeo": "150200",
+     "precision": "provincia",
+     "provincia": "Barranca",
+     "departamento": "Lima",
+     "lon": -77.76506,
+     "lat": -10.75327,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Huacho",
+     "ubigeo": "150801",
+     "precision": "distrito",
+     "provincia": "Huaura",
+     "departamento": "Lima",
+     "lon": -77.61039,
+     "lat": -11.10813,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Huaral",
+     "ubigeo": "150601",
+     "precision": "distrito",
+     "provincia": "Huaral",
+     "departamento": "Lima",
+     "lon": -77.20682,
+     "lat": -11.49537,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "c98761aaaad8",
+   "titulo": "Sismo en Lima: adolescente resultó herido por caída de concreto en Cercado de Lima",
+   "resumen": "La Municipalidad Metropolitana de Lima, a través del personal de prevención de la Gerencia de Gestión del Riesgo de Desastres, brindó primeros auxilios a una adolescente de 17 años que resultó herida en la cabeza tras ser impactada por un objeto que habría caído desde un balcón de la galería…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sismo-lima-adolescente-resulto-herido-caida-concreto-cercado-lima-1100901.aspx",
+   "fecha": "2026-11-21T02:24:36Z",
+   "temas": [
+    "desastres",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b6040eb9807e",
+   "titulo": "Sismo de 6,7 en Junín: Indeci reporta daños en cuatro regiones, afectaciones en un hospital y carreteras bloqueadas por rocas",
+   "resumen": "El movimiento telúrico también provocó interrupciones del servicio eléctrico y desprendimientos de rocas en la Costa Verde. Provías movilizó maquinaria para atender las vías afectadas, mientras continúa la evaluación de daños",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/sismo-de-67-en-junin-indeci-reporta-danos-en-cuatro-regiones-afectaciones-en-un-hospital-y-carreteras-bloqueadas-por-rocas/",
+   "fecha": "2026-11-21T02:23:16Z",
+   "temas": [
+    "desastres",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ed81b14f8c03",
+   "titulo": "Sismo en Junín de 6.7 de magnitud: epicentro y todo lo que se sabe hasta el momento",
+   "resumen": "La noche de este viernes se sintió un intenso movimiento telúrico de 6.7 grados, según el reporte sísmico oficial.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/junin/sismo-en-junin-de-67-de-magnitud-en-vivo-igp-epicentro-y-todo-lo-que-se-sabe-hasta-el-momento-lbposting-noticia/",
+   "fecha": "2026-11-21T02:16:37Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "696cc18a577e",
+   "titulo": "Costa Verde: registran caída de rocas desde los acantilados tras fuerte sismo de 6,7",
+   "resumen": "Un deslizamiento de tierra y rocas se registró en la Costa Verde tras el sismo de magnitud 6,7 con epicentro en Junín. El desprendimiento generó una nube de polvo y obligó a los conductores a evitar uno de los carriles de la vía.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/costa-verde-registran-caida-de-rocas-desde-los-acantilados-tras-fuerte-sismo-de-67-en-junin-ultimas-noticia/",
+   "fecha": "2026-11-21T02:15:43Z",
+   "temas": [
+    "desastres",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b78d2e899af2",
+   "titulo": "Callao: Hogar de Ancianos Virgen de los Desamparados afronta difícil situación económica y pide apoyo",
+   "resumen": "María Vázquez, una de la religiosas de las Hermanitas de los Ancianos Desamparados, señaló que entre las principales urgencias del albergue destaca una deuda acumulada por el consumo de energía eléctrica.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/callao-hogar-de-ancianos-virgen-de-los-desamparados-afronta-dificil-situacion-economica-y-pide-apoyo-noticia-1718911",
+   "fecha": "2026-11-21T02:15:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3d47bf100eb8",
+   "titulo": "Se sintió hasta en Colombia: Temblor de magnitud 6.7 en Junín traspasó la frontera peruana",
+   "resumen": "El movimiento tuvo epicentro a 30 kilómetros al noroeste de Junín y una profundidad de 129 kilómetros. El Instituto Geofísico del Perú explicó que esa característica amplió el radio de percepción",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/temblor-de-magnitud-67-en-peru-se-sintio-en-colombia/",
+   "fecha": "2026-11-21T02:13:35Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "485ea19e1ef2",
+   "titulo": "Pedazo de concreto en galería del Cercado de Lima cae sobre menor de 17 años tras sismo de 6.7 en Junín: fue trasladada al Hospital Dos de Mayo",
+   "resumen": "El incidente tuvo lugar en la galería Tarpuy, donde la menor se encontraba en el sótano. Se informó que personal de la Gerencia de Gestión del Riesgo brindó primeros auxilios inmediatamente.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/bloque-de-concreto-en-galeria-del-cercado-de-lima-cae-sobre-menor-de-17-anos-tras-sismo-de-67-en-junin-fue-trasladada-al-hospital-dos-de-mayo-1107200",
+   "fecha": "2026-11-21T02:13:02Z",
+   "temas": [
+    "salud",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f2db569c340e",
+   "titulo": "Sismo de 6.7 en Junín: Indeci y Gore reportan viviendas afectadas, cortes de luz y bloqueo parcial en vía San Ramón–Tarma",
+   "resumen": "Las autoridades regionales descartaron víctimas mortales tras el movimiento telúrico de este viernes, aunque confirmaron daños en infraestructura educativa, caída de rocas en carreteras y 14 casas afectadas en Ulcumayo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/sismo-en-junin-indeci-y-gore-reportan-viviendas-afectadas-cortes-de-luz-y-bloqueo-parcial-en-via-san-ramontarma-noticia-1718936",
+   "fecha": "2026-11-21T02:07:22Z",
+   "temas": [
+    "desastres",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Ramón",
+     "ubigeo": "120305",
+     "precision": "distrito",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -75.35318,
+     "lat": -11.12048,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Tarma",
+     "ubigeo": "120700",
+     "precision": "provincia",
+     "provincia": "Tarma",
+     "departamento": "Junín",
+     "lon": -75.68802,
+     "lat": -11.41998,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Ulcumayo",
+     "ubigeo": "120504",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.87811,
+     "lat": -10.96747,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "af6b64b53abe",
+   "titulo": "Jimmy Chinchay y Carla Harada reaccionan en vivo al sismo de magnitud 6,7 en Junín: “Está muy fuerte”",
+   "resumen": "El reportero evacuó el hemiciclo del Congreso junto a su equipo, mientras la conductora de Radio Exitosa pidió mantener la calma y buscar zonas seguras.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/jimmy-chinchay-y-carla-harada-reaccionan-en-vivo-al-sismo-de-magnitud-67-en-junin-esta-muy-fuerte/",
+   "fecha": "2026-11-21T02:06:49Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c6eb3b48448f",
+   "titulo": "Temblor en Junín: reportan daños en viviendas, caída de rocas y corte de energía eléctrica",
+   "resumen": "El primer reporte preliminar del fuerte temblor de magnitud 6.7 registrado en Junín da cuenta de algunos daños en viviendas, caída de rocas sobre diversas vías, como la Carretera Central y corte del servicio eléctrico en diversas localidades de Junín, Pasco y Huánuco.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-temblor-junin-reportan-danos-viviendas-caida-rocas-y-corte-energia-electrica-1100896.aspx",
+   "fecha": "2026-11-21T01:58:29Z",
+   "temas": [
+    "desastres",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huanuco",
+     "ubigeo": "120203",
+     "ccpp": "1202030003",
+     "precision": "centro_poblado",
+     "provincia": "Concepción",
+     "departamento": "Junín",
+     "lon": -74.88621,
+     "lat": -11.56402,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "5d62c5bbcd70",
+   "titulo": "Huánuco: derrumbe de piedras bloquea el tránsito en la Carretera Central tras fuerte sismo de magnitud 6.7 en Junín",
+   "resumen": "El COER Huánuco confirmó el incidente y está evaluando la situación, aunque no se ha precisado la cantidad de vehículos afectada ni si hubo heridos tras el derrumbe.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/huanuco-derrumbe-de-piedras-bloquea-el-transito-en-la-carretera-central-tras-fuerte-sismo-de-magnitud-67-358220",
+   "fecha": "2026-11-21T01:57:18Z",
+   "temas": [
+    "infraestructura",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1b5dd1e9c165",
+   "titulo": "Sismo en Junín: COEN monitorea zonas vulnerables junto a autoridades locales y regionales",
+   "resumen": "El Centro de Operaciones de Emergencia Nacional (COEN), en coordinación con autoridades de la región Junín, continúa el monitoreo en zonas vulnerables tras el sismo de magnitud 6.7 que este viernes por la noche sacudió la región central del Perú.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sismo-junin-coen-monitorea-zonas-vulnerables-junto-a-autoridades-locales-y-regionales-1100897.aspx",
+   "fecha": "2026-11-21T01:50:53Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7aef236e2327",
+   "titulo": "Fuerte sismo asusta a peruanos: Temblor de 6.7 en Junín remeció gran parte del país",
+   "resumen": "De acuerdo al Instituto Geofísico del Perú (IGP), hasta el momento no se registran daños en ninguna región",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/fuerte-sismo-asusta-a-peruanos-temblor-de-67-en-junin-remecio-gran-parte-del-pais/",
+   "fecha": "2026-11-21T01:49:25Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "84ed1364e26c",
+   "titulo": "Lambayeque: dejan libres a acusados de integrar red “Los Escorpiones”",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-dejan-libres-a-acusados-de-integrar-red-los-escorpiones-noticia/",
+   "fecha": "2026-11-21T01:48:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6825218c1f36",
+   "titulo": "Escolar de sexto grado fallece tras presentar problemas de salud en Ambo",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/escolar-de-sexto-grado-fallece-tras-presentar-problemas-de-salud-en-ambo-noticia/",
+   "fecha": "2026-11-21T01:45:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ambo",
+     "ubigeo": "100201",
+     "precision": "distrito",
+     "provincia": "Ambo",
+     "departamento": "Huánuco",
+     "lon": -76.20447,
+     "lat": -10.12916,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7bb4796430dd",
+   "titulo": "Reportan caída de piedras en distrito de Independencia tras remezón de sismo 6.7",
+   "resumen": "El sismo de magnitud 6.7 en Junín generó caída de piedras sobre una casa en Payet (Independencia) y reportes en Chaclacayo. Conoce el balance en Lima hoy.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sismo-67-junin-reportan-caida-de-piedras-en-independencia-tras-el-remezon-en-lima-ultimas-noticia/",
+   "fecha": "2026-11-21T01:45:43Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Independencia",
+     "ubigeo": "150112",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05461,
+     "lat": -11.99721,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Chaclacayo",
+     "ubigeo": "150107",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.76886,
+     "lat": -11.97528,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "512b1a053a1f",
+   "titulo": "Sismo en Junín: Pichanaqui se queda a oscuras y universidad presenta daños en La Merced (VIDEO)",
+   "resumen": "El fuerte temblor también se sintió en provincias y distritos de selva central donde la pobalción quedó a oscuras por el corte intempestivo",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huancayo/sismo-en-junin-pichanaqui-se-queda-a-oscuras-por-corte-de-energia-electrica-tras-temblor-video-noticia/",
+   "fecha": "2026-11-21T01:45:18Z",
+   "temas": [
+    "desastres",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chanchamayo",
+     "ubigeo": "120301",
+     "precision": "distrito",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -75.32752,
+     "lat": -11.05667,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Pichanaqui",
+     "ubigeo": "120303",
+     "precision": "distrito",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -74.87286,
+     "lat": -10.9263,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e984738c1ad3",
+   "titulo": "Costa Verde: reportan desprendimiento de rocas en los acantilados tras fuerte sismo de magnitud 6.7 en Junín",
+   "resumen": "Videos muestran la caída de piedras de gran tamaño hacia la pista, generando un peligro para los conductores en la zona afectada.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/costa-verde-reportan-desprendimiento-de-rocas-en-los-acantilados-tras-fuerte-sismo-de-magnitud-67-en-junin-282240",
+   "fecha": "2026-11-21T01:44:11Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bfec60824d30",
+   "titulo": "Sismo Junín: IGP evalúa posibles daños tras el movimiento telúrico",
+   "resumen": "Un sismo de magnitud 6,7 se registró en la región Junín, a 129 kilómetros de profundidad, informó el IGP. Su jefe, Hernando Tavera, explicó que la profundidad del evento atenuó el sacudimiento del suelo y señaló que todavía se recopila información sobre posibles daños.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/junin/sismo-junin-igp-evalua-posibles-danos-tras-el-movimiento-telurico-hernando-tavera-temblor-ultimas-noticia/",
+   "fecha": "2026-11-21T01:42:44Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9d8097d2abd8",
+   "titulo": "Policía captura a dos personas con requisitoria vigente en Huánuco y Panao",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/policia-captura-a-dos-personas-con-requisitoria-vigente-en-huanuco-y-panao-noticia/",
+   "fecha": "2026-11-21T01:41:52Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Panao",
+     "ubigeo": "100801",
+     "precision": "distrito",
+     "provincia": "Pachitea",
+     "departamento": "Huánuco",
+     "lon": -75.9941,
+     "lat": -9.89738,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a3fa0355b80b",
+   "titulo": "Incendio destruye habitación y deja a familia sin sus pertenencias en Juliaca",
+   "resumen": "Una familia perdió sus pertenencias luego de que un incendio destruyera por completo una habitación de su vivienda, ubicada en el anexo de la urbanización Sol de Oro, junto a la cancha deportiva América II, en Juliaca. El siniestro ocurrió ayer, cerca de las 3:00 de la tarde, cuando los…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/20/incendio-destruye-habitacion-y-deja-a-familia-sin-sus-pertenencias-en-juliaca/",
+   "fecha": "2026-11-21T01:34:36Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5e53f91ac5f8",
+   "titulo": "Fuerte sismo de magnitud 6.7 interrumpe un concurso escolar en Chaclacayo: estudiantes y padres pasaron susto",
+   "resumen": "La transmisión en directo captó los instantes en que varias familias buscaron resguardo ordenado tras el fuerte movimiento de magnitud seis coma siete, mientras los organizadores guiaban a todos hacia zonas seguras",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/fuerte-sismo-de-magnitud-67-interrumpe-un-concurso-escolar-en-chaclacayo-estudiantes-y-padres-pasaron-susto/",
+   "fecha": "2026-11-21T01:33:11Z",
+   "temas": [
+    "educacion",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chaclacayo",
+     "ubigeo": "150107",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.76886,
+     "lat": -11.97528,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fd4e0d14c118",
+   "titulo": "Cámaras de seguridad captaron el preciso instante del sismo en Atalaya, región Ucayali [VIDEO]",
+   "resumen": "Las imágenes de videovigilancia muestran cómo el movimiento telúrico comenzó de manera leve y luego sacudió con mayor intensidad una de las cámaras. El temblor tuvo su epicentro en Junín y también fue percibido en Lima y otras regiones.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/sismo-en-ucayali-camaras-de-seguridad-captaron-momento-del-temblor-en-atalaya-video-noticia-1718930",
+   "fecha": "2026-11-21T01:31:11Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Atalaya",
+     "ubigeo": "250200",
+     "precision": "provincia",
+     "provincia": "Atalaya",
+     "departamento": "Ucayali",
+     "lon": -73.75541,
+     "lat": -10.72971,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "727d1c8cf837",
+   "titulo": "Temblor en Junín: IGP explica por qué en Lima el movimiento fue ondulante y largo",
+   "resumen": "El sismo de magnitud 6.7 con epicentro en Junín fue percibido con gran intensidad en Lima y hasta algunas zonas de Colombia. De acuerdo con el jefe del Instituto Geofísico del Perú (IGP), Hernando Tavera, la explicación no está en la magnitud sino en la profundidad del movimiento telúrico.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-temblor-junin-igp-explica-que-lima-movimiento-fue-ondulante-y-largo-1085724.aspx",
+   "fecha": "2026-11-21T01:29:22Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "84d1a14a8237",
+   "titulo": "Fotos y videos de cómo se sintió el sismo 6.7 en diferentes regiones del Perú",
+   "resumen": "El movimiento ocurrió a las 19.09 horas, tuvo su epicentro a 30 kilómetros al noroeste de Junín y fue percibido desde Piura hasta Arequipa.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/fotos-y-videos-de-como-se-sintio-el-sismo-67-en-diferentes-regiones-del-peru/",
+   "fecha": "2026-11-21T01:28:25Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "7adc3bd5f29b",
+   "titulo": "Marina de Guerra descartó alerta de tsunami en el litoral peruano tras fuerte sismo registrado en Junín",
+   "resumen": "El sismo de magnitud 6,7 se sintió también en las regiones de Áncash, La Libertad, Ica, Callao, Huánuco y Pasco.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/marina-de-guerra-descarto-alerta-de-tsunami-en-el-litoral-peruano-tras-fuerte-sismo-registrado-en-junin-noticia-1718929",
+   "fecha": "2026-11-21T01:27:16Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3188432a7675",
+   "titulo": "Sismo en Junín: Al menos 7 casas presentan rajaduras en distrito de Carhuamayo",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huancayo/sismo-en-junin-al-menos-7-casas-presentan-rajaduras-en-carhuamayo-noticia/",
+   "fecha": "2026-11-21T01:25:23Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Carhuamayo",
+     "ubigeo": "120502",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -76.05783,
+     "lat": -10.92273,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a9ce3d7681aa",
+   "titulo": "Arequipa: JNE programa debate entre Jenry Huisa y Alfredo Zegarra para el 29 de noviembre",
+   "resumen": "Los candidatos al Gobierno Regional de Arequipa, Jenry Huisa Calapuja y Alfredo Zegarra Tejada, participarán en el debate electoral programado para el domingo 29 de noviembre, como parte del ciclo de encuentros organizados por el Jurado Nacional de Elecciones (JNE) para la Segunda Elección…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-jne-programa-debate-entre-jenry-huisa-y-alfredo-zegarra-para-el-29-de-noviembre-noticia/",
+   "fecha": "2026-11-21T01:23:25Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Calapuja",
+     "ubigeo": "210703",
+     "precision": "distrito",
+     "provincia": "Lampa",
+     "departamento": "Puno",
+     "lon": -70.22167,
+     "lat": -15.31056,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "bec7f6fdc568",
+   "titulo": "Nelson Castro no se retracta: “No hay palabras lindas para describir realidades feas”",
+   "resumen": "El periodista argentino Nelson Castro volvió a generar polémica tras ratificar sus declaraciones sobre Chiclayo, ciudad que visitó durante la cobertura de la gira del papa León XIV por Perú. En una intervención en Radio Rivadavia, aseguró que no tiene nada que rectificar por haber utilizado el…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/20/nelson-castro-no-se-retracta-no-hay-palabras-lindas-para-describir-realidades-feas/",
+   "fecha": "2026-11-21T01:22:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9827657c7734",
+   "titulo": "Huánuco: sismo de 6.7 grados en Junín sorprendió a fieles en misa",
+   "resumen": "El movimiento telúrico se sintió con fuerza en Huánuco y provocó que varias personas salieran de sus viviendas ante el temor de posibles réplicas.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/peru/huanuco-sismo-67-grados-junin-sorprendio-fieles-misa-n496388",
+   "fecha": "2026-11-21T01:16:44Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "fda39db80bda",
+   "titulo": "Fuerte temblor de magnitud 6.7 en Junín genera temor en la población ante posibles réplicas",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sismo-en-junin-67-magnitud-en-junin-genera-temor-en-la-poblacion-ante-posibles-replicas-ultimas-noticia/",
+   "fecha": "2026-11-21T01:10:53Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bf35d554338d",
+   "titulo": "Indeci sobre sismo de magnitud 6.7: \"Hasta el momento no tenemos reporte de daños en Junín\"",
+   "resumen": "Luis Vásquez, titular de la institución, señaló en RPP que monitorean las incidencias del temblor para movilizar ayuda humanitaria en caso sea necesario.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/sismo-de-magnitud-67-junin-indeci-informa-reporte-de-danos-noticia-1718928",
+   "fecha": "2026-11-21T01:08:58Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1ba406ef1dac",
+   "titulo": "Fuerte sismo de magnitud 6,7 sacudió Junín y se sintió hasta Lima: por qué duró tanto y qué dijo el IGP",
+   "resumen": "Un movimiento de profundidad intermedia movilizó a miles de peruanos en plena noche del viernes. El Instituto Geofísico del Perú explicó cómo la energía se distribuyó por un territorio inusualmente amplio y pidió esperar los reportes de daños.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/fuerte-sismo-de-magnitud-67-sacudio-junin-y-se-sintio-hasta-lima-por-que-duro-tanto-y-que-dijo-el-igp/",
+   "fecha": "2026-11-21T01:08:23Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "0bfb3f75f805",
+   "titulo": "Puno: Trabajadores administrativos de educación protestan por deuda social y homologación",
+   "resumen": "Trabajadores administrativos de Educación de las 13 provincias de Puno acatan paro de 24 horas para exigir pago de deuda social y homologación salarial",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-trabajadores-administrativos-de-educacion-protestan-por-deuda-social-y-homologacion/",
+   "fecha": "2026-11-21T01:08:17Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210100",
+     "precision": "provincia",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ],
+   "grupo": "9fd27c22b8f4"
+  },
+  {
+   "id": "4593dc443ba6",
+   "titulo": "Legisladores denuncian “terruqueo” tras detención de Pedro Mo y Brenda Jah y exigen pruebas a Fiscalía y Policía",
+   "resumen": "A Brenda Jah no le informaron los motivos de su detención y a Pedro Mo un agente le atribuyó pertenecer a la agrupación Túpac Amaru, extinta hace décadas. Silvana Robles pidió explicaciones al ministro Astudillo e Indira Huilca exigió liberarlos.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/20/legisladores-denuncian-terruqueo-tras-detencion-de-pedro-mo-y-brenda-jah-y-exigen-pruebas-a-fiscalia-y-policia-hnews-1246960",
+   "fecha": "2026-11-21T01:06:30Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Túpac Amaru",
+     "ubigeo": "080508",
+     "precision": "distrito",
+     "provincia": "Canas",
+     "departamento": "Cusco",
+     "lon": -71.47599,
+     "lat": -14.16379,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "ab8ea8bdb7a1",
+   "titulo": "¿Por qué no sonó el SISMATE durante el fuerte temblor en Junín y que también se sintió en Lima? Así funciona el sistema de alertas del Perú",
+   "resumen": "El sismo en Junín, percibido también en Lima, generó confusión debido a la falta de alertas en el celular. Otro sistema es el encargado de emitir alertas sísmicas con segundos de anticipación, pero todavía no está en funcionamiento.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/por-que-no-sono-el-sismate-durante-el-fuerte-temblor-en-junin-y-que-tambien-se-sintio-en-lima-asi-funciona-el-sistema-de-alertas-del-peru-1780620",
+   "fecha": "2026-11-21T01:06:15Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "cf5976f15015",
+   "titulo": "Marina de Guerra descarta alerta de tsunami en el litoral peruano tras fuerte sismo de magnitud 6.7 registrado en Junín",
+   "resumen": "La Dirección de Hidrografía y Navegación (DHN) de la Marina de Guerra del Perú informó que el sismo no generó tsunami en el litoral peruano. La profundidad del movimiento fue de 129 kilómetros.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/marina-de-guerra-descarta-alerta-de-tsunami-en-el-litoral-peruano-tras-fuerte-sismo-de-magnitud-67-registrado-en-junin-1245280",
+   "fecha": "2026-11-21T01:05:07Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "7adc3bd5f29b"
+  },
+  {
+   "id": "1bcb07e31421",
+   "titulo": "“Espero que otras personas puedan imitar las cosas buenas que uno hace por servir”: Luis Miguel Zárate, segundo lugar de Peruanos que Suman 2026",
+   "resumen": "Luis Miguel Zárate, segundo lugar de Peruanos que Suman 2026: Es un profesor de Casma que, pese a utilizar una prótesis de pierna, impulsó desde cero la construcción de un gimnasio para las alumnas del colegio República de Chile.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/peruanos-que-suman-2026-luis-miguel-zarate-segundo-lugar-espero-que-otras-personas-puedan-imitar-las-cosas-buenas-que-uno-hace-por-servir-bcp-noticia/",
+   "fecha": "2026-11-21T01:05:00Z",
+   "temas": [
+    "educacion",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Casma",
+     "ubigeo": "020801",
+     "precision": "distrito",
+     "provincia": "Casma",
+     "departamento": "Áncash",
+     "lon": -78.30639,
+     "lat": -9.47584,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a2c054e4c170",
+   "titulo": "Puno: Mineros de La Rinconada y Cerro Lunar paralizarán operaciones este lunes 23",
+   "resumen": "Todas las operaciones mineras de las tres cooperativas que integran la Central de Cooperativas Mineras de Rinconada y Lunar de Oro Ltda. quedarán paralizadas este lunes 23 de noviembre, como parte de la huelga nacional de la pequeña minería y minería artesanal. El presidente de la organización…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/20/puno-mineros-de-la-rinconada-y-cerro-lunar-paralizaran-operaciones-este-lunes-23/",
+   "fecha": "2026-11-21T01:04:05Z",
+   "temas": [
+    "mineria",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ananea",
+     "ubigeo": "211002",
+     "precision": "distrito",
+     "provincia": "San Antonio de Putina",
+     "departamento": "Puno",
+     "lon": -69.53507,
+     "lat": -14.6785,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Central",
+     "ubigeo": "210102",
+     "ccpp": "2101020178",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.75652,
+     "lat": -16.04613,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Rinconada",
+     "ubigeo": "210102",
+     "ccpp": "2101020019",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.73439,
+     "lat": -15.96401,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "96756c6ac864",
+   "titulo": "Minam invoca a la población a mantener la calma tras el sismo de magnitud 6.7 en Junín",
+   "resumen": "El Ministerio del Ambiente (Minam) invocó a la población a mantener la calma, tras el sismo de magnitud 6.7 que sacudió la región Junín (centro del país) y que causó alarma en la ciudad de Lima.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-minam-invoca-a-poblacion-a-mantener-calma-tras-sismo-magnitud-67-junin-1100894.aspx",
+   "fecha": "2026-11-21T01:03:57Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7d674bda314a",
+   "titulo": "Diputada de Juntos por el Perú pide reconocer a los mártires de Huanta de 1969 y desvincular esa protesta de Sendero Luminoso",
+   "resumen": "La legisladora Pilar Sulca presentó un proyecto de ley que declara a Huanta como la Cuna de la Defensa de la Gratuidad de la Educación en el Perú. La iniciativa también propone establecer el 22 de junio como una fecha de homenaje a las víctimas de la represión militar.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/20/diputada-de-juntos-por-el-peru-pide-reconocer-a-los-martires-de-huanta-de-1969-y-desvincular-esa-protesta-de-sendero-luminoso-hnews-1517440",
+   "fecha": "2026-11-21T01:00:08Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huanta",
+     "ubigeo": "050401",
+     "precision": "distrito",
+     "provincia": "Huanta",
+     "departamento": "Ayacucho",
+     "lon": -74.24796,
+     "lat": -12.93942,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "10feca44a643",
+   "titulo": "Rómulo Zamora, ganador de Peruanos que Suman 2026: “Este premio le pertenece al pueblo de Apurímac que apostó por mí”",
+   "resumen": "Peruanos que Suman: Rómulo Zamora, el agricultor y dirigente vecinal de 79 años diseñó un sistema de riego tecnificado que benefició a más de 80 familias en Andahuaylas.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/romulo-zamora-ganador-de-peruanos-que-suman-2026-este-premio-le-pertenece-al-pueblo-de-apurimac-que-aposto-por-mi-bcp-noticia/",
+   "fecha": "2026-11-21T01:00:00Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Andahuaylas",
+     "ubigeo": "030201",
+     "precision": "distrito",
+     "provincia": "Andahuaylas",
+     "departamento": "Apurímac",
+     "lon": -73.38973,
+     "lat": -13.65603,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "b87b96ee74b4",
+   "titulo": "Ripley: talleres gratuitos el 19 y 26 de noviembre en Jockey Plaza y Miraflores",
+   "resumen": "Serperuano indica que los talleres serán de decoración navideña, abiertos al público y sin costo en las tiendas de Jockey Plaza y Miraflores. L’article Ripley: talleres gratuitos el 19 y 26 de noviembre en Jockey Plaza y Miraflores est apparu en premier sur Diario Satélite .",
+   "medio": "Diario Satélite",
+   "medio_id": "satelite",
+   "url": "https://satelite.pe/ripley-talleres-navidad-jockey-miraflores",
+   "fecha": "2026-11-21T00:58:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "100506",
+     "precision": "distrito",
+     "provincia": "Huamalíes",
+     "departamento": "Huánuco",
+     "lon": -76.81871,
+     "lat": -9.49394,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "341654dcc282",
+   "titulo": "Regidor de Junín informa que verifican posibles daños en viviendas y afectaciones a personas tras sismo",
+   "resumen": "El regidor también señaló que se debe revisar si el movimiento tuvo algún efecto en la represa de Upamayo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/junin/sismo-de-magnitud-67-en-junin-verifican-posibles-danos-en-viviendas-y-afectaciones-a-personas-noticia-1718925",
+   "fecha": "2026-11-21T00:56:32Z",
+   "temas": [
+    "politica_local",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f7cd51e759a5",
+   "titulo": "El \"Combo de la Supervivencia\" que Indeci recomienda tener en casa tras el sismo de 6.7 registrado en Junín",
+   "resumen": "No se trata solo de una mochila: hay un segundo componente que cubre los días posteriores al desastre y que la mayoría de familias desconoce. Así funciona el sistema de preparación oficial",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/el-combo-de-la-supervivencia-que-indeci-recomienda-tener-en-casa-tras-el-sismo-de-67-registrado-en-junin/",
+   "fecha": "2026-11-21T00:54:56Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e11f80e67267",
+   "titulo": "Recicladoras de Mollendo podrán volver a trabajar con nuevo vehículo recolector",
+   "resumen": "Las recicladoras formalizadas de Mollendo podrán retomar sus labores con la próxima reanudación del programa de segregación en la fuente, suspendido debido a una avería en el motor del anterior camión. La comercialización de materiales como papel, cartón, plástico y metales constituye una fuente…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/recicladoras-de-mollendo-podran-volver-a-trabajar-con-nuevo-vehiculo-recolector/",
+   "fecha": "2026-11-21T00:52:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4bfdf1951e41",
+   "titulo": "Fuerte temblor sacude Lima este viernes 20 de noviembre: epicentro fue Junín",
+   "resumen": "Fuerte temblor sacude Lima este viernes 20 de noviembre. De acuerdo con el IGP, el epicentro fue en Junín y el sismo tuvo una intensidad de 6.7",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/temblor-hoy-sismo-en-lima-se-sintio-este-viernes-20-de-noviembre-noticia/",
+   "fecha": "2026-11-21T00:51:17Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "95887a81b6dd",
+   "titulo": "Jesús María: inauguran mural para resaltar lazos de amistad entre los países andinos",
+   "resumen": "El Mural de la Integración Andina, obra pictórica impulsada por el Parlamento Andino, fue inaugurado este viernes en el distrito limeño de Jesús María, en una ceremonia cívica con participación de diversas autoridades.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-jesus-maria-inauguran-mural-para-resaltar-lazos-amistad-entre-los-paises-andinos-1100886.aspx",
+   "fecha": "2026-11-21T00:48:45Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jesús María",
+     "ubigeo": "150113",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04327,
+     "lat": -12.07561,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6c99a6cb93bf",
+   "titulo": "Proveedores se deslindan de fallas en pantallas y sonido durante misa del papa León XIV",
+   "resumen": "Los problemas en las pantallas y el sonido durante la misa del papa León XIV en la base aérea Las Palmas continúan generando cuestionamientos. Las empresas involucradas en la instalación técnica y el suministro eléctrico se pronunciaron sobre las fallas registradas durante el evento del 16 de…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/20/proveedores-se-deslindan-de-fallas-en-pantallas-y-sonido-durante-misa-del-papa-leon-xiv/",
+   "fecha": "2026-11-21T00:44:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "273ea995787f",
+   "titulo": "“No fue venganza” Alfredo Ucharico niega venganza tras suspensión de consejero pero admite que votó a favor",
+   "resumen": "Alfredo Ucharico admite que votó por suspender 15 días a Basilio Mendoza, consejero de Chucuito, durante su hospitalización por problemas de salud",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/no-fue-venganza-alfredo-ucharico-niega-venganza-tras-suspension-de-consejero-pero-admite-que-voto-a-favor/",
+   "fecha": "2026-11-21T00:41:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chucuito",
+     "ubigeo": "210106",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.88947,
+     "lat": -15.89477,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8269ad7e63e8",
+   "titulo": "Sismo de magnitud 6.7 en Junín: ¿qué significa la intensidad V y qué efectos puede provocar un movimiento telúrico de este nivel?",
+   "resumen": "El evento registrado a las 19:09 tuvo su epicentro a 30 kilómetros al noroeste de la localidad y se originó a 129 kilómetros bajo la superficie, de acuerdo con el reporte Censis",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/sismo-de-magnitud-67-en-junin-que-significa-la-intensidad-v-y-que-efectos-puede-provocar-un-movimiento-telurico-de-este-nivel/",
+   "fecha": "2026-11-21T00:39:49Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7360a81968bd",
+   "titulo": "TGP realizará venteo de gasoducto en Ayacucho durante tres horas",
+   "resumen": "TGP realizará maniobras de venteo en el gasoducto de Ayacucho este 21 de noviembre. Los trabajos generarán ruido y durarán tres horas.",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/tgp-realizara-venteo-de-gasoducto-en-ayacucho-durante-tres-horas/",
+   "fecha": "2026-11-21T00:36:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a52da58aa4bb",
+   "titulo": "Temblor en Junín: sismo de magnitud 6,7 también remeció Lima, según IGP",
+   "resumen": "El sismo de hoy registró a 30 kilómetros al noroeste de Junín y se produjo a una profundidad de 129 km, según informó el Instituto Geofísico del Perú (IGP).",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/fuerte-sismo-se-sintio-en-lima-sismo-de-magnitud-67-remecio-junin-segun-igp-842740",
+   "fecha": "2026-11-21T00:35:47Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e6915a7e0c88",
+   "titulo": "Capturan a dos jóvenes acusados de asaltar con cuchillo a transeúnte en Arequipa",
+   "resumen": "Dos jóvenes fueron capturados por el personal de Serenazgo de José Luis Bustamante y Rivero luego de que, presuntamente, despojaran de su teléfono celular a un transeúnte de 18 años durante la madrugada de este viernes 20 de noviembre.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/capturan-a-dos-jovenes-acusados-de-asaltar-con-cuchillo-a-transeunte-en-arequipa-noticia/",
+   "fecha": "2026-11-21T00:35:13Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "José Luis Bustamante y Rivero",
+     "ubigeo": "040129",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52403,
+     "lat": -16.42672,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3105d6048756",
+   "titulo": "Chanchamayo y Oxapampa: población salió a las calles tras sismo",
+   "resumen": "El movimiento telúrico generó momentos de temor en ambas localidades. Los ciudadanos evacuaron viviendas y establecimientos, mientras las autoridades iniciaron recorridos para evaluar posibles daños.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/chanchamayo-y-oxapampa-poblacion-salio-calles-sismo-n496387",
+   "fecha": "2026-11-21T00:32:58Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chanchamayo",
+     "ubigeo": "120301",
+     "precision": "distrito",
+     "provincia": "Chanchamayo",
+     "departamento": "Junín",
+     "lon": -75.32752,
+     "lat": -11.05667,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Oxapampa",
+     "ubigeo": "190301",
+     "precision": "distrito",
+     "provincia": "Oxapampa",
+     "departamento": "Pasco",
+     "lon": -75.4046,
+     "lat": -10.5749,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "28774366b66e",
+   "titulo": "Fredy Vilcapaza y alcaldes electos de Azángaro recibirán sus credenciales este 25 de noviembre",
+   "resumen": "JEE de Azángaro entregará credenciales a Fredy Vilcapaza y regidores electos el 25 de noviembre a las 10:00 horas para formalizar sus cargos municipales",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/fredy-vilcapaza-y-alcaldes-electos-de-azangaro-recibiran-sus-credenciales-este-25-de-noviembre/",
+   "fecha": "2026-11-21T00:31:15Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Azángaro",
+     "ubigeo": "210201",
+     "precision": "distrito",
+     "provincia": "Azángaro",
+     "departamento": "Puno",
+     "lon": -70.19543,
+     "lat": -14.90818,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "026ce13669a5",
+   "titulo": "Incautan insumos vencidos desde Julio en panificadora de la UNA Puno y anuncian sanción",
+   "resumen": "Fiscalía y Municipalidad de Puno incautan 35 cajas de pasas y 21 galoneras de saborizantes vencidos en panificadora de la UNA",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/incautan-insumos-vencidos-desde-julio-en-panificadora-de-la-una-puno-y-anuncian-sancion/",
+   "fecha": "2026-11-21T00:25:48Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210100",
+     "precision": "provincia",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3394f9dd452a",
+   "titulo": "FUERTE SISMO SE REGISTRÓ EN JUNÍN HOY, 20 DE NOVIEMBRE",
+   "resumen": "Lima, 20 de noviembre de 2026.- Un sismo de magnitud 6,7 se registró la noche de este viernes 20 de noviembre de 2026 en la región de Junín, Perú, según el reporte del Instituto Geofísico del Perú (IGP). El movimiento telúrico ocurrió a las 19:09:19, hora local, y tuvo una profundidad de 129…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/fuerte-sismo-se-registro-en-junin-hoy-20-de-noviembre/",
+   "fecha": "2026-11-21T00:24:09Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "58c8f4848db0",
+   "titulo": "Sismo de magnitud 6.7 se registró este viernes en Junín y se sintió en diferentes regiones del país, entre ellas Lima",
+   "resumen": "Sismo de magnitud 6.7 se registró este viernes en Junín y se sintió en diferentes regiones del país, entre ellas Lima",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/junin/sismo-en-junin-de-magnitud-67-se-registro-el-viernes-20-de-noviembre-y-se-sintio-en-lima-igp-ultimas-noticia/",
+   "fecha": "2026-11-21T00:23:13Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "373d654db2b6",
+   "titulo": "Lambayeque: denuncian pago irregular del PEOT por S/ 8 millones en Presa Limón",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-denuncian-pago-irregular-del-peot-por-s-8-millones-en-presa-limon-noticia/",
+   "fecha": "2026-11-21T00:17:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9b9dc2274e17",
+   "titulo": "Puno: Hancco defiende a arquitecta del coliseo de Salcedo mientras trabajador herido sigue sin apoyo económico del GORE",
+   "resumen": "Richard Hancco defiende a arquitecta vinculada al colapso del coliseo de Salcedo y sostiene que puede trabajar mientras no se determinen responsabilidades",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-hancco-defiende-a-arquitecta-del-coliseo-de-salcedo-mientras-trabajador-herido-sigue-sin-apoyo-economico-del-gore/",
+   "fecha": "2026-11-21T00:15:45Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e02b25b1052d",
+   "titulo": "Sismo de 6.7 en Junín se sintió con fuerza en Lima",
+   "resumen": "El movimiento telúrico ocurrió a las 7:09 p. m. y tuvo una profundidad de 129 kilómetros, según el IGP.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/sismo-67-junin-se-sintio-fuerza-lima-n496386",
+   "fecha": "2026-11-21T00:15:30Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "fe132c3ef975",
+   "titulo": "Fuerte sismo de magnitud 6.7 en Junín fue percibido en Lima y otras regiones",
+   "resumen": "El sismo, que también se sintió en Lima y otras partes, ocurrió este viernes 20 de noviembre a las 7:09 p. m. y tuvo una profundidad de 129 kilómetros. El epicentro fue localizado a 30 kilómetros al noroeste de Junín.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/fuerte-sismo-se-sintio-esta-noche-en-lima-noticia-1718923",
+   "fecha": "2026-11-21T00:11:06Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "9802e3a55c54",
+   "titulo": "TUMBES ENFRENTA INUNDACIONES POR EL NIÑO COSTERO: RÍOS SE DESBORDAN Y FAMILIAS ABANDONAN SUS VIVIENDAS",
+   "resumen": "RCR, 20 de noviembre 2026.- La región Tumbes está bajo alerta roja. Las lluvias intensas asociadas a El Niño Costero han provocado el desborde de los ríos Tumbes y Zarumilla, inundaciones en zonas rurales y pérdidas en el sector agrícola. En Puerto Perú, distrito de Aguas Verdes, varias familias…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/tumbes-enfrenta-inundaciones-por-el-nino-costero-rios-se-desbordan-y-familias-abandonan-sus-viviendas/",
+   "fecha": "2026-11-21T00:06:47Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Aguas Verdes",
+     "ubigeo": "240302",
+     "precision": "distrito",
+     "provincia": "Zarumilla",
+     "departamento": "Tumbes",
+     "lon": -80.24512,
+     "lat": -3.48177,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Zarumilla",
+     "ubigeo": "240300",
+     "precision": "provincia",
+     "provincia": "Zarumilla",
+     "departamento": "Tumbes",
+     "lon": -80.27556,
+     "lat": -3.50121,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "810802b268cb",
+   "titulo": "Prisión preventiva para tres investigados por extorsionar a panadera en Chiclayo",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/prision-preventiva-para-tres-investigados-por-extorsionar-a-panadera-en-chiclayo-noticia/",
+   "fecha": "2026-11-21T00:03:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "854482379e30",
+   "titulo": "Misa del papa León XIV: Presentan moción para interpelar al canciller Carlos Espá",
+   "resumen": "La propuesta parlamentaria cuestiona contratos por S/ 11 millones y solicita explicaciones sobre los controles técnicos realizados antes de la ceremonia en Las Palmas",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/congreso-misa-del-papa-leon-xiv-presentan-mocion-para-interpelar-al-canciller-carlos-espa-noticia/",
+   "fecha": "2026-11-21T00:02:03Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "a54e3cedcf81",
+   "titulo": "Cae con más de 78 kilos de marihuana en el Terrapuerto de Arequipa",
+   "resumen": "Juan Arrelucea Arroyo (43) fue intervenido por agentes del Área Antidrogas de la Divincri con 78.8 kilos de marihuana. La detención se realizó durante un operativo en el Terrapuerto de Arequipa.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/cae-con-mas-de-78-kilos-de-marihuana-en-el-terrapuerto-de-arequipa-noticia/",
+   "fecha": "2026-11-20T23:51:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5fabf92c6a7b",
+   "titulo": "Alias 'Jolín' llegó al Perú desde Ecuador: cabecilla de 'La Nueva Jauría' fue entregado en Tumbes y será trasladado a Lima",
+   "resumen": "El investigado fue recibido en Tumbes mediante un operativo coordinado entre las autoridades peruanas y ecuatorianas, con apoyo de inteligencia estadounidense.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/alias-jolin-llego-al-peru-desde-ecuador-cabecilla-de-la-nueva-jauria-fue-entregado-en-tumbes-y-sera-trasladado-a-lima-1309420",
+   "fecha": "2026-11-20T23:47:28Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "95d45f6d532c",
+   "titulo": "Astudillo: captura de ‘Jolín’ tomó cuatro meses de inteligencia",
+   "resumen": "El ministro del Interior detalló que la operación involucró a equipos de inteligencia de Perú, la Policía de Ecuador e instituciones de Estados Unidos. El detenido será trasladado a Lima.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/astudillo-captura-jolin-tomo-cuatro-meses-inteligencia-n496385",
+   "fecha": "2026-11-20T23:46:45Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f57fc135fadb",
+   "titulo": "Alias “Jolín”, cabecilla de “La Nueva Jauría”, llega al Perú tras ser entregado por autoridades de Ecuador",
+   "resumen": "Jolín Bazán Valderrama, alias “Jolín”, fue entregado a las autoridades peruanas en Tumbes tras ser capturado en Ecuador. El presunto cabecilla de “La Nueva Jauría” tiene una condena de cadena perpetua por el secuestro y asesinato de un empresario en Trujillo, en 2022.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/policiales/alias-jolin-cabecilla-de-la-nueva-jauria-llega-al-peru-tras-ser-entregado-por-autoridades-de-ecuador-jolin-bazan-valderrama-pnp-ultimas-noticia/",
+   "fecha": "2026-11-20T23:43:25Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "edf850d4752b",
+   "titulo": "San Román: Oroz Bocangel descarta colapso de Huanuyo y garantiza disposición de residuos hasta mayo de 2027",
+   "resumen": "Gerente de Residuos Sólidos de San Román descarta colapso de Huanuyo y asegura que la tercera celda operará hasta mayo de 2027",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/san-roman-oroz-bocangel-descarta-colapso-de-huanuyo-y-garantiza-disposicion-de-residuos-hasta-mayo-de-2027/",
+   "fecha": "2026-11-20T23:42:48Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4ea8443edb35",
+   "titulo": "Camisea: reportan fuga de gas natural en ducto de TGP, ¿qué dijo el Osinergmin?",
+   "resumen": "Este viernes se registró un incidente en el gasoducto de Camisea, en Anco, La Mar (Ayacucho). Desde TGP informan que se realizarán maniobras de venteo del ducto de gas natural por un total de tres horas este sábado 21 de noviembre.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/camisea-reportan-fuga-de-gas-natural-en-ducto-que-dijo-el-osinergmin-noticia/",
+   "fecha": "2026-11-20T23:39:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Camisea",
+     "ubigeo": "080914",
+     "ccpp": "0809140001",
+     "precision": "centro_poblado",
+     "provincia": "La Convención",
+     "departamento": "Cusco",
+     "lon": -72.94626,
+     "lat": -11.72015,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Anco",
+     "ubigeo": "050502",
+     "precision": "distrito",
+     "provincia": "La Mar",
+     "departamento": "Ayacucho",
+     "lon": -73.70702,
+     "lat": -13.06042,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "La Mar",
+     "ubigeo": "050500",
+     "precision": "provincia",
+     "provincia": "La Mar",
+     "departamento": "Ayacucho",
+     "lon": -73.98124,
+     "lat": -13.01278,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0d0c194bbe03",
+   "titulo": "Dirigentes de Juliaca anuncian debate con candidatos regionales para el 24 de noviembre y exigen propuestas para obras abandonadas",
+   "resumen": "Candidatos Jhomar Tonconi y Eduardo Quispe debatirán el 24 de noviembre en Juliaca sobre obras paralizadas y demandas de salud, seguridad e infraestructura",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/dirigentes-de-juliaca-anuncian-debate-con-candidatos-regionales-para-el-24-de-noviembre-y-exigen-propuestas-para-obras-abandonadas/",
+   "fecha": "2026-11-20T23:33:41Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2bddb6fe2c99",
+   "titulo": "Diputados presentan moción de interpelación contra canciller Carlos Espá tras los problemas técnicos sucedidos en la misa en Las Palmas",
+   "resumen": "La iniciativa es impulsada por la diputada de Ahora Nación, Marleny Arminta. El pliegue interpelatorio consta de 48 preguntas.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/congreso/carlos-espa-presentan-mocion-de-interpelacion-contra-canciller-tras-las-irregularidades-en-la-misa-de-las-palmas-noticia-1718910",
+   "fecha": "2026-11-20T23:33:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "35d0f4f85829",
+   "titulo": "Reportan que EMSA Puno solo ejecutó el 57% de sus inversiones y SEDA Juliaca cerca del 10%",
+   "resumen": "Sunass advirtió que Emsapuno registra un 57 % de ejecución de inversiones y Seda Juliaca apenas cerca del 10 %, cifras por debajo de las metas establecidas, situación que podría comprometer la mejora de los servicios de agua potable y alcantarillado Las empresas prestadoras de servicios de…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/reportan-que-emsa-puno-solo-ejecuto-el-57-de-sus-inversiones-y-seda-juliaca-cerca-del-10/",
+   "fecha": "2026-11-20T23:30:44Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7d7cd3f15031",
+   "titulo": "Pachamama Radio propone debate electoral entre Marcelino Tonconi y Eduardo Quispe para discutir el desarrollo de Puno",
+   "resumen": "Pachamama Radio propone un debate entre Marcelino Tronconi y Eduardo Quispe Candia para exponer propuestas sobre educación, salud, agricultura y minería en Puno",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/pachamama-radio-propone-debate-electoral-entre-marcelino-tonconi-y-eduardo-quispe-para-discutir-el-desarrollo-de-puno/",
+   "fecha": "2026-11-20T23:27:36Z",
+   "temas": [
+    "mineria",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "562dd37c05e7",
+   "titulo": "Arequipa: 10 vehículos al depósito por servicio informal durante control nocturno",
+   "resumen": "Diez vehículos que realizaban servicio de transporte informal fueron internados durante una operación de control nocturno realizada por la Municipalidad Provincial de Arequipa en el sector del Puente Grau.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-10-vehiculos-al-deposito-por-servicio-informal-durante-control-nocturno-noticia/",
+   "fecha": "2026-11-20T23:23:55Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040100",
+     "precision": "provincia",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7b212da75ea9",
+   "titulo": "Puno registra 1,454 casos de sarampión y mantiene 40% de brecha de vacunación",
+   "resumen": "Puno concentra 1,454 casos de sarampión y registra apenas un 60 % de cobertura de vacunación, por lo que la Diresa exhortó a completar las dosis para cerrar la brecha del 40 % y evitar que el Perú pierda su certificación como país libre de esta enfermedad Tras la advertencia del director de la…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/puno-registra-1454-casos-de-sarampion-y-mantiene-40-de-brecha-de-vacunacion/",
+   "fecha": "2026-11-20T23:22:11Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e3fea88853f7",
+   "titulo": "Sunat incauta lote de zapatillas de China valorizadas en más de dos millones de soles",
+   "resumen": "La Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) incautó más de 9 mil pares de zapatillas no declaradas de reconocidas marcas que se pretendían ingresar al país por el terminal portuario del Callao para su comercialización.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sunat-incauta-lote-zapatillas-china-valorizadas-mas-dos-millones-soles-1100881.aspx",
+   "fecha": "2026-11-20T23:18:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3d75a4b5ef33",
+   "titulo": "BCRP explica cómo San Carlos logró su propia moneda conmemorativa",
+   "resumen": "El BCRP emitirá una moneda conmemorativa de plata por los 200 años del Glorioso Colegio Nacional San Carlos de Puno, con una edición limitada de 5 mil ejemplares y un valor comercial aproximado de S/ 125 La trayectoria educativa y la importancia histórica del Glorioso Colegio Nacional San Carlos…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/bcrp-explica-como-san-carlos-logro-su-propia-moneda-conmemorativa/",
+   "fecha": "2026-11-20T23:17:44Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Carlos",
+     "ubigeo": "210102",
+     "ccpp": "2101020063",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.83588,
+     "lat": -16.06586,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "82ec1efa1b13",
+   "titulo": "Río Zarumilla se desborda e inunda viviendas en Aguas Verdes",
+   "resumen": "La crecida del río afectó al asentamiento humano Puerto Perú. Las familias evacuadas esperan que el agua descienda para retornar a sus hogares.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/peru/rio-zarumilla-se-desborda-inunda-viviendas-aguas-verdes-n496383",
+   "fecha": "2026-11-20T23:10:22Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Aguas Verdes",
+     "ubigeo": "240302",
+     "precision": "distrito",
+     "provincia": "Zarumilla",
+     "departamento": "Tumbes",
+     "lon": -80.24512,
+     "lat": -3.48177,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Zarumilla",
+     "ubigeo": "240300",
+     "precision": "provincia",
+     "provincia": "Zarumilla",
+     "departamento": "Tumbes",
+     "lon": -80.27556,
+     "lat": -3.50121,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "cc5c5931e76e",
+   "titulo": "Mollendo ya cuenta con nuevo camión para el recojo de materiales reciclables",
+   "resumen": "El programa de segregación en la fuente de Mollendo ya cuenta con un camión de baranda alta, destinado al recojo y traslado de materiales reciclables. Para su adquisición, la comuna provincial de Islay destinó S/ 108 900, provenientes de recursos recaudados por la propia entidad. La compra se…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/mollendo-ya-cuenta-con-nuevo-camion-para-el-recojo-de-materiales-reciclables/",
+   "fecha": "2026-11-20T23:10:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7ccee153912b",
+   "titulo": "Coata: presidente del Comité Electoral de la Comunidad de Lluco denuncia que recibió amenazas de muerte y agresiones",
+   "resumen": "El presidente del Comité Electoral de la Comunidad Campesina Lluco denunció presuntas agresiones físicas, insultos y amenazas de muerte durante una fiesta patronal, y pidió la intervención de las autoridades para garantizar su seguridad y la de su familia Felipe Véliz Ávila, presidente del Comité…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/coata-presidente-del-comite-electoral-de-la-comunidad-de-lluco-denuncia-que-recibio-amenazas-de-muerte-y-agresiones/",
+   "fecha": "2026-11-20T23:09:54Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Coata",
+     "ubigeo": "210107",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.95049,
+     "lat": -15.57131,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "36c22d5a42bd",
+   "titulo": "Southern Perú recibe a 51 pobladores de Tacna en visita guiada a mina Toquepala",
+   "resumen": "La delegación, integrada por representantes de la provincia de Jorge Basadre, miembros del Comité de Monitoreo y Vigilancia Ambiental Participativa y estudiantes universitarios, conoció los procesos productivos y ambientales de la operación minera. Southern Perú recibió la visita de 51 pobladores…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/rse/southern-peru-51-pobladores-tacna-visita-guiada-mina-toquepala/",
+   "fecha": "2026-11-20T23:08:44Z",
+   "temas": [
+    "mineria",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Toquepala",
+     "ubigeo": "230302",
+     "ccpp": "2303020003",
+     "precision": "centro_poblado",
+     "provincia": "Jorge Basadre",
+     "departamento": "Tacna",
+     "lon": -70.63215,
+     "lat": -17.27954,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "293ab38e6d02",
+   "titulo": "Arequipa: Escolares de Chachas emprenden con fibra de alpaca",
+   "resumen": "Estudiantes del Centro Rural de Formación en Alternancia (CRFA) Allin Yachaywasi, de Chachas, participan del Concurso Crea y Emprende 2026 del Ministerio de Educación.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-escolares-de-chachas-emprenden-con-fibra-de-alpaca-noticia/",
+   "fecha": "2026-11-20T23:08:32Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chachas",
+     "ubigeo": "040404",
+     "precision": "distrito",
+     "provincia": "Castilla",
+     "departamento": "Arequipa",
+     "lon": -72.27049,
+     "lat": -15.50133,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "9bf6a55e7642",
+   "titulo": "Juliaca: Huanuyo aún tendría entre cuatro y cinco meses de capacidad, municipalidad garantiza operación hasta fin de año",
+   "resumen": "El botadero de Huanuyo tendría entre cuatro y cinco meses más de capacidad en su tercera celda, mientras que la recuperación del área degradada de Chilla continúa retrasada y su entrega se reprogramaría para el 15 de diciembre Arturo Oroz Bocángel, gerente de Gestión Ambiental y Residuos Sólidos…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/juliaca-huanuyo-aun-tendria-entre-cuatro-y-cinco-meses-de-capacidad-municipalidad-garantiza-operacion-hasta-fin-de-ano/",
+   "fecha": "2026-11-20T23:06:59Z",
+   "temas": [
+    "medio_ambiente",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chilla",
+     "ubigeo": "211101",
+     "ccpp": "2111010032",
+     "precision": "centro_poblado",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.10193,
+     "lat": -15.49041,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8b03878d7a8c",
+   "titulo": "12,5 millones de peruanos viven en pobreza energética pese a tener electricidad en sus hogares",
+   "resumen": "El 38% de peruanos enfrenta pobreza energética. Huancavelica registra la mayor proporción, con 82,7%, según un estudio nacional",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/125-millones-de-peruanos-viven-en-pobreza-energetica-pese-a-tener-electricidad-en-sus-hogares/",
+   "fecha": "2026-11-20T23:06:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huancavelica",
+     "ubigeo": "090101",
+     "precision": "distrito",
+     "provincia": "Huancavelica",
+     "departamento": "Huancavelica",
+     "lon": -74.97132,
+     "lat": -12.78703,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8a2c458bbde1",
+   "titulo": "‘Jolín’ ya está en Perú: cabecilla de ‘La Nueva Jauría’ fue entregado a las autoridades peruanas tras ser capturado en Ecuador",
+   "resumen": "Bazán Valderrama fue recibido en el CEBAF de Tumbes luego de su detención en territorio ecuatoriano. En las próximas horas será trasladado a Lima para quedar a disposición de las autoridades judiciales",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/20/jolin-ya-esta-en-peru-cabecilla-de-la-nueva-jauria-fue-entregado-a-las-autoridades-peruanas-tras-ser-capturado-en-ecuador/",
+   "fecha": "2026-11-20T23:02:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "grupo": "f57fc135fadb",
+   "revisar": true
+  },
+  {
+   "id": "452cdc037617",
+   "titulo": "Dirigentes de Juliaca preparan viaje a Lima para exigir garantías de la IV etapa del proyecto de agua y alcantarillado",
+   "resumen": "Más de 100 dirigentes de Juliaca viajarán a Lima para exigir al Gobierno Central garantías sobre la ejecución de la IV etapa del proyecto integral de agua potable y alcantarillado, además de solicitar información sobre el inicio de las obras y la empresa adjudicada Más de un centenar de dirigentes…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/dirigentes-de-juliaca-preparan-viaje-a-lima-para-exigir-garantias-de-la-iv-etapa-del-proyecto-de-agua-y-alcantarillado/",
+   "fecha": "2026-11-20T23:00:54Z",
+   "temas": [
+    "agua",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c8ad72517b36",
+   "titulo": "Obra de la Urb. Espinal en Juliaca corre riesgo de quedar inconclusa y vecinos temen retrasos hasta la próxima gestión",
+   "resumen": "El presidente de la urbanización, Walter Quispe, denunció que la obra registra menos del 70 % de avance, pese a que su plazo vence el 9 de diciembre, y exigió a la Municipalidad de San Román garantizar su culminación ante las dificultades que enfrentan los vecinos Walter Quispe Mamani, presidente…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/obra-de-la-urb-espinal-en-juliaca-corre-riesgo-de-quedar-inconclusa-y-vecinos-temen-retrasos-hasta-la-proxima-gestion/",
+   "fecha": "2026-11-20T22:55:11Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a91b8b36579c",
+   "titulo": "Alias “Jolín” llegó a Perú desde Ecuador: Será trasladado a Lima bajo estrictas medidas de seguridad",
+   "resumen": "El traslado de Jolín Bazán Valderrama, alias “Jolín”, al territorio peruano está previsto para hoy alrededor de las cinco de la tarde. Así lo informó el primer vicepresidente de la República, Luis Galarreta, quien precisó que el detenido será puesto a disposición de las autoridades.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/alias-jolin-llego-al-peru-desde-ecuador-y-sera-trasladado-a-lima-bajo-estrictas-medidas-de-seguridad-noticia/",
+   "fecha": "2026-11-20T22:48:49Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fac9d6778a1f",
+   "titulo": "Jolín Bazán, cabecilla de la 'Nueva Jauría', ya se encuentra en el Perú tras ser entregado por la Policía ecuatoriana [FOTOS]",
+   "resumen": "Alías 'Jolín', capturado el jueves en Ecuador, deberá cumplir una condena de cadena perpetua por el secuestro agravado del empresario Manuel Rodríguez Cruzado, ocurrido en Trujillo, en junio de 2022.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/jolin-bazan-lider-de-la-nueva-jauria-ya-se-encuentra-en-el-peru-tras-ser-entregado-por-la-policia-ecuatoriana-fotos-noticia-1718902",
+   "fecha": "2026-11-20T22:48:16Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "97b438086203",
+   "titulo": "Defensoría del Pueblo alerta que hospital Jorge Reátegui de EsSalud en Piura no ejecuta plan ante El Niño y carece de pruebas para dengue",
+   "resumen": "A pesar de tener un plan de contingencia 2026-2027, su implementación se ve obstaculizada por falta de presupuesto, lo que impide activar unidades febriles y servicios esenciales.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/defensoria-del-pueblo-alerta-que-hospital-jorge-reategui-de-essalud-en-piura-no-ejecuta-plan-ante-el-nino-y-carece-de-pruebas-para-dengue-774620",
+   "fecha": "2026-11-20T22:48:01Z",
+   "temas": [
+    "salud",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "52459abc15f0",
+   "titulo": "\"No hay camas ni sombra, esperamos al sol\": centros de salud de Trujillo colapsan ante ola de dengue que ya deja 13 muertos en La Libertad",
+   "resumen": "La situación en hospitales como Santa Isabel y Jerusalén evidencia la crisis de salud, con ciudadanos esperando en pasillos y ambientes impropios para la atención médica adecuada.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/no-hay-camas-ni-sombra-esperamos-al-sol-centros-de-salud-de-trujillo-colapsan-ante-ola-de-dengue-que-ya-deja-13-muertos-en-la-libertad-981100",
+   "fecha": "2026-11-20T22:47:17Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Isabel",
+     "ubigeo": "131005",
+     "ccpp": "1310050026",
+     "precision": "centro_poblado",
+     "provincia": "Santiago de Chuco",
+     "departamento": "La Libertad",
+     "lon": -77.93653,
+     "lat": -8.15097,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "94ec2f6baf55",
+   "titulo": "PERÚ ASEGURA MÁS DE US$ 3.6 MILLONES EN DONACIONES JAPONESAS Y CIERRA ALIANZA ESTRATÉGICA POR MINERALES CRÍTICOS",
+   "resumen": "RCR, 20 de noviembre de 2026.- En el marco de la visita oficial de la presidenta Keiko Fujimori a Japón, el Gobierno peruano concretó la firma de nueve instrumentos bilaterales que aseguran recursos financieros directos, transferencia tecnológica y atracción de capitales para sectores clave como…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/peru-asegura-mas-de-us-3-6-millones-en-donaciones-japonesas-y-cierra-alianza-estrategica-por-minerales-criticos/",
+   "fecha": "2026-11-20T22:46:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alianza",
+     "ubigeo": "220504",
+     "ccpp": "2205040003",
+     "precision": "centro_poblado",
+     "provincia": "Lamas",
+     "departamento": "San Martín",
+     "lon": -76.27508,
+     "lat": -6.11706,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "076a2c391ee6",
+   "titulo": "Descenso del lago Titicaca pone en riesgo el abastecimiento de agua potable en la ciudad de Puno",
+   "resumen": "El descenso del lago Titicaca reduce los caudales de las captaciones de agua potable y podría generar restricciones en el abastecimiento de la ciudad de Puno en los próximos cuatro meses, según advirtió EMSA Puno El gerente de EMSA Puno, Luis Aguilar, advirtió sobre la preocupante disminución del…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/descenso-del-lago-titicaca-pone-en-riesgo-el-abastecimiento-de-agua-potable-en-la-ciudad-de-puno/",
+   "fecha": "2026-11-20T22:34:12Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1370fa6f75f7",
+   "titulo": "Ecuador entrega a Jolín Bazán a autoridades peruanas en Tumbes",
+   "resumen": "Jolín Bazán Valderrama fue entregado a la Policía peruana en el Centro Binacional de Atención Fronteriza de Tumbes. El criminal tiene una condena a cadena perpetua por secuestro y asesinato.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/ecuador-entrega-jolin-bazan-autoridades-peruanas-tumbes-n496382",
+   "fecha": "2026-11-20T22:33:36Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "84de1ce3b36c",
+   "titulo": "Tres listas participarán en las elecciones del sindicato de trabajadores administrativos de la UGEL Puno",
+   "resumen": "Tres listas competirán el próximo 26 de noviembre por la renovación de la junta directiva del SITME de la UGEL Puno, en un proceso electoral que contará con la participación de aproximadamente 500 trabajadores administrativos El secretario del Comité Electoral del Sindicato de Trabajadores…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/tres-listas-participaran-en-las-elecciones-del-sindicato-de-trabajadores-administrativos-de-la-ugel-puno/",
+   "fecha": "2026-11-20T22:31:17Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2b0cfeefd95e",
+   "titulo": "MINSA Y OPS FORTALECEN ALIANZA PARA MEJORAR LA ATENCIÓN DE SALUD Y AMPLIAR EL ACCESO A SERVICIOS ESPECIALIZADOS",
+   "resumen": "Fuente: Gob.pe Durante la visita al Perú del director de la OPS, Jarbas Barbosa, se suscribieron acuerdos para fortalecer el primer nivel de atención y mejorar la prevención, el diagnóstico y el tratamiento de enfermedades crónicas. Lima, 20 de noviembre de 2026.- El Ministerio de Salud (Minsa) y…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/minsa-y-ops-fortalecen-alianza-para-mejorar-la-atencion-de-salud-y-ampliar-el-acceso-a-servicios-especializados/",
+   "fecha": "2026-11-20T22:30:44Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alianza",
+     "ubigeo": "220504",
+     "ccpp": "2205040003",
+     "precision": "centro_poblado",
+     "provincia": "Lamas",
+     "departamento": "San Martín",
+     "lon": -76.27508,
+     "lat": -6.11706,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bc4b915f0e8a",
+   "titulo": "El papa León XIV advirtió que el éxodo desde Madre de Dios a Puno impulsa la minería ilegal en la selva",
+   "resumen": "La región Puno enfrenta una creciente preocupación por el avance de la minería ilegal, especialmente en las zonas de la selva puneña, donde esta actividad estaría vinculada a disputas por la posesión de terrenos y al desplazamiento de personas provenientes de Madre de Dios, presuntamente dedicadas…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/20/el-papa-leon-xiv-advirtio-que-el-exodo-desde-madre-de-dios-a-puno-impulsa-la-mineria-ilegal-en-la-selva/",
+   "fecha": "2026-11-20T22:28:34Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Leon",
+     "ubigeo": "210407",
+     "ccpp": "2104070188",
+     "precision": "centro_poblado",
+     "provincia": "Chucuito",
+     "departamento": "Puno",
+     "lon": -69.18318,
+     "lat": -16.4189,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Madre de Dios",
+     "lon": -69.1768,
+     "lat": -12.59367,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ee62ce1481fb",
+   "titulo": "Caja Arequipa premia 18 emprendedores en concurso nacional Orgullo Emprendedor 2026",
+   "resumen": "¡No vas a creer las tres noticias que están moviendo la agenda del país hoy! Velarde recibe título honorífico y lanza una advertencia pública El economista Julio Velarde fue distinguido con un doctorado honoris causa en una ceremonia reciente. Durante su intervención, pronunció una frase…",
+   "medio": "Diario Satélite",
+   "medio_id": "satelite",
+   "url": "https://satelite.pe/caja-arequipa-premia-18-emprendedores-en-concurso-nacional-orgullo-emprendedor-2026",
+   "fecha": "2026-11-20T22:23:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Caja",
+     "ubigeo": "090204",
+     "precision": "distrito",
+     "provincia": "Acobamba",
+     "departamento": "Huancavelica",
+     "lon": -74.46576,
+     "lat": -12.91735,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "337e52fcb737",
+   "titulo": "Arequipa: Absuelven a exalcalde de Cerro Colorado Manuel Vera por enriquecimiento ilícito",
+   "resumen": "El Primer Juzgado Penal Unipersonal especializado en delitos de corrupción de funcionarios de la Corte Superior de Arequipa absolvió al electo alcalde de Arequipa, Manuel Enrique Vera Paredes, de la acusación por enriquecimiento ilícito",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-absuelven-a-exalcalde-de-cerro-colorado-manuel-vera-por-enriquecimiento-ilicito-noticia/",
+   "fecha": "2026-11-20T22:22:36Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040100",
+     "precision": "provincia",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "910af5f5d79a",
+   "titulo": "Muerte en viaje de promoción en Tarapoto: Escolar de 17 años se ahogó en laguna Azul",
+   "resumen": "El adolescente falleció tras ingresar a la famoso lagua del Sauce. Su familia cuestiona la falta de medidas de seguridad, mientras la Fiscalía ya abrió una investigación preliminar",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/20/muerte-en-viaje-de-promocion-en-tarapoto-escolar-de-17-anos-se-ahogo-en-laguna-azul/",
+   "fecha": "2026-11-20T22:19:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tarapoto",
+     "ubigeo": "220901",
+     "precision": "distrito",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.3602,
+     "lat": -6.48943,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Sauce",
+     "ubigeo": "220913",
+     "precision": "distrito",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.21666,
+     "lat": -6.69069,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c73d0722b819",
+   "titulo": "JNE terminó de definir segunda vuelta regionales a casi 3 semanas del balotaje",
+   "resumen": "El presidente del JNE, Roberto Burneo, fiscalizó en el almacén de la Oficina Nacional de Procesos Electorales (ONPE), ubicado en Lurín, el inicio del despliegue del material electoral hacia las regiones para las elecciones del 6 de diciembre.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/20/jne-termino-de-definir-segunda-vuelta-regionales-a-casi-3-semanas-del-balotaje-hnews-1200740",
+   "fecha": "2026-11-20T22:19:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lurín",
+     "ubigeo": "150119",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.87037,
+     "lat": -12.27466,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9174cc7d66bc",
+   "titulo": "Arequipa: Manuel Vera Paredes es absuelto por presunto enriquecimiento ilícito",
+   "resumen": "El Poder Judicial absolvió a Manuel Vera Paredes del delito de enriquecimiento ilícito, en el nuevo juicio oral que afrontaba por un presunto incremento patrimonial injustificado durante su gestión como alcalde de Cerro Colorado, entre 2009 y 2012. Según la acusación fiscal, sus ingresos como…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/20/arequipa-manuel-vera-paredes-es-absuelto-por-presunto-enriquecimiento-ilicito/",
+   "fecha": "2026-11-20T22:16:44Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cerro Colorado",
+     "ubigeo": "040104",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.56088,
+     "lat": -16.37626,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d9bf616b80c0",
+   "titulo": "Sacerdote que creó canción para León XIV en Pucallpa recibe insultos por llamadas: “No tengo miedo”",
+   "resumen": "Segundo Gaviria, sacerdote de Pucallpa, afirmó que recibe ataques verbales a través de llamadas anónimas. Los agravios surgieron, según dijo, a partir de la canción que compuso para recibir al papa León XIV en Pucallpa y que visibiliza los problemas en la Amazonía.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/sacerdote-que-creo-cancion-para-leon-xiv-en-pucallpa-recibe-insultos-por-llamadas-no-tengo-miedo-690380",
+   "fecha": "2026-11-20T22:12:38Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1dc0f886998c",
+   "titulo": "Puno: San Gabán III capacita a su personal para responder ante posibles desastres",
+   "resumen": "La preparación ante posibles emergencias en la Central Hidroeléctrica San Gabán III, ubicada en Sangari, distrito de San Gabán, provincia de Carabaya, es el objetivo de una jornada de capacitación en Gestión del Riesgo de Desastres impulsada por CTG LatAm, con participación de especialistas del…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/20/puno-san-gaban-iii-capacita-a-su-personal-para-responder-ante-posibles-desastres/",
+   "fecha": "2026-11-20T22:05:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Sangari",
+     "ubigeo": "210309",
+     "ccpp": "2103090020",
+     "precision": "centro_poblado",
+     "provincia": "Carabaya",
+     "departamento": "Puno",
+     "lon": -70.43399,
+     "lat": -13.53068,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "San Gabán",
+     "ubigeo": "210309",
+     "precision": "distrito",
+     "provincia": "Carabaya",
+     "departamento": "Puno",
+     "lon": -70.40275,
+     "lat": -13.43822,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Carabaya",
+     "ubigeo": "210300",
+     "precision": "provincia",
+     "provincia": "Carabaya",
+     "departamento": "Puno",
+     "lon": -70.43111,
+     "lat": -14.06854,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e0260ceede2b",
+   "titulo": "Áncash: rescatan cinco loros cabeza roja durante operativo contra el tráfico de fauna silvestre",
+   "resumen": "Las aves fueron encontradas en una jaula pequeña y en condiciones inadecuadas. El operativo permitió recuperarlas y detener al presunto responsable.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/ancash/ancash-rescatan-cinco-loros-cabeza-roja-durante-operativo-contra-el-trafico-de-fauna-silvestre-noticia-1718877",
+   "fecha": "2026-11-20T22:01:30Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "f314e273c76f"
+  },
+  {
+   "id": "f8c2d34a9b6f",
+   "titulo": "Hermes rechaza campaña de cuestionamientos y acusaciones",
+   "resumen": "La empresa Hermes Transportes Blindados S.A. rechazó categóricamente los cuestionamientos y acusaciones en su contra mediante un comunicado emitido en Lima el 20 de noviembre de 2026.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/hermes-rechaza-campana-cuestionamientos-y-acusaciones-n496380",
+   "fecha": "2026-11-20T22:00:50Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3f1f22bd6d61",
+   "titulo": "Paracas: fuerte oleaje inunda playa El Chaco y afecta negocios",
+   "resumen": "El agua de mar ingresó al bulevar El Chaco y afectó embarcaciones, sombrillas y mobiliario de comerciantes. La Capitanía de Puerto dispuso bandera roja y suspendió las actividades marítimas.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/peru/paracas-fuerte-oleaje-inunda-playa-chaco-y-afecta-negocios-n496379",
+   "fecha": "2026-11-20T21:57:24Z",
+   "temas": [
+    "agua",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Paracas",
+     "ubigeo": "110505",
+     "precision": "distrito",
+     "provincia": "Pisco",
+     "departamento": "Ica",
+     "lon": -76.25192,
+     "lat": -13.839,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "781113ac54b5",
+   "titulo": "Impresora de tanque o de cartuchos: qué pasa con la tinta en el calor de Piura",
+   "resumen": "Una impresora de tanque almacena tinta en depósitos recargables, mientras que una de cartuchos utiliza unidades reemplazables. Esa diferencia influye en el costo de mantenimiento, la frecuencia de reposición y la experiencia de uso. Ninguno de los sistemas resulta automáticamente más conveniente…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/tendencias/impresora-de-tanque-o-de-cartuchos-que-pasa-con-la-tinta-en-el-calor-de-piura/",
+   "fecha": "2026-11-20T21:56:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ba8aea80f683",
+   "titulo": "PUNO SE UNE EN TORNO A UN PLAN DE DESARROLLO: 9 OBJETIVOS, 30 MEDIDAS EN POLÍTICAS PÚBLICAS Y 275 HITOS VERIFICABLES AL 2033",
+   "resumen": "Fuente: IIMP El Plan Regional de Competitividad y Productividad, presentado en el Jueves Minero del IIMP, articula a gobiernos locales, Gobierno Regional, Ejecutivo y sector privado, con la minería como aliada del trabajo concertado. Lima, 20 de noviembre de 2026. Puno cuenta con una hoja de ruta…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/puno-se-une-en-torno-a-un-plan-de-desarrollo-9-objetivos-30-medidas-en-politicas-publicas-y-275-hitos-verificables-al-2033/",
+   "fecha": "2026-11-20T21:52:56Z",
+   "temas": [
+    "mineria",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Torno",
+     "ubigeo": "210603",
+     "ccpp": "2106030008",
+     "precision": "centro_poblado",
+     "provincia": "Huancané",
+     "departamento": "Puno",
+     "lon": -69.8248,
+     "lat": -15.01192,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "233a5f82e225",
+   "titulo": "Cusco: Antapaccay impulsa la educación ambiental de más de 1,500 escolares en Espinar",
+   "resumen": "La feria ambiental, realizada junto a la UGEL Espinar, reunió a estudiantes de cerca de 11 instituciones educativas en una jornada de aprendizaje y sensibilización Más de 1,500 estudiantes de primaria y secundaria, provenientes de aproximadamente 11 instituciones educativas de la provincia…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/rse/cusco-antapaccay-educacion-ambiental-escolares-en-espinar/",
+   "fecha": "2026-11-20T21:52:07Z",
+   "temas": [
+    "educacion",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Espinar",
+     "ubigeo": "080800",
+     "precision": "provincia",
+     "provincia": "Espinar",
+     "departamento": "Cusco",
+     "lon": -71.41334,
+     "lat": -14.79298,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "57f03a76fc75",
+   "titulo": "Black Friday moverá más de US$12 millones y tendrá un ticket promedio de S/350 por persona",
+   "resumen": "Las ventas retail formal durante el Black Friday (Viernes Negro), podrían alcanzar los US$ 12 millones, lo que representaría un crecimiento de entre 8% y 10% respecto a los US$11 millones estimados en 2025, según proyecciones del Gremio Retail y Distribución de la Cámara de Comercio de Lima (CCL).",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/black-friday-movera-mas-de-us12-millones-y-tendra-un-ticket-promedio-de-s350-por-persona-l-ultimas-noticia/",
+   "fecha": "2026-11-20T21:50:24Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7c6913e733a2",
+   "titulo": "Alcalde de Carmen Alto cuestiona los S/7.5 millones sin gastar y promete llegar al 80%, pero le quedan seis semanas para lograrlo",
+   "resumen": "El alcalde de Carmen Alto, Ulises Huamán Flores, rechazó que su gestión deje S/7.5 millones en obras sin ejecutar y aseguró desconocer el origen de esa cifra. Sin embargo, el portal de Transparencia Económica del MEF, muestra que la comuna cuenta con un Presupuesto Institucional Modificado (PIM)…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/alcalde-de-carmen-alto-cuestiona-los-s-7-5-millones-sin-gastar-y-promete-llegar-al-80-pero-la-meta-exige-gastar-en-seis-semanas-lo-que-no-se-gasto-en-el-ano/",
+   "fecha": "2026-11-20T21:48:43Z",
+   "temas": [
+    "politica_local",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Carmen Alto",
+     "ubigeo": "050104",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22068,
+     "lat": -13.17958,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5bde5fe4135e",
+   "titulo": "Padres de familia de la institución educativa primaria 20 de Enero rechazan retiro de dos docentes y protestan ante la UGEL San Román",
+   "resumen": "Padres de familia protestaron ante la UGEL San Román contra la racionalización de dos docentes que reduciría de nueve a siete maestros en el colegio",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/padres-de-familia-de-la-institucion-educativa-primaria-20-de-enero-rechazan-retiro-de-dos-docentes-y-protestan-ante-la-ugel-san-roman/",
+   "fecha": "2026-11-20T21:48:37Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "58938f7c14de",
+   "titulo": "MAGISTRADA LUZ PACHECO CONFÍA EN EMITIR FALLO SOBRE EL REINFO ANTES DE FIN DE AÑO ANTE «EXENCIÓN PENAL CONSTANTE» Y CRISIS EN LA AMAZONÍA",
+   "resumen": "RCR, 20 de noviembre de 2026.- La vicepresidenta del Tribunal Constitucional (TC), Luz Pacheco, manifestó su confianza en que el Colegiado emita un fallo antes de fin de año respecto a la demanda de inconstitucionalidad interpuesta por el Colegio de Abogados de Loreto contra la ampliación del…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/magistrada-luz-pacheco-confia-en-emitir-fallo-sobre-el-reinfo-antes-de-fin-de-ano-ante-exencion-penal-constante-y-crisis-en-la-amazonia/",
+   "fecha": "2026-11-20T21:47:25Z",
+   "temas": [
+    "mineria",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bc7d7341c8ca",
+   "titulo": "Las Bambas entrega 70 tanques de agua a la comunidad de Allahui",
+   "resumen": "Cada tanque tiene una capacidad de 1.100 litros y permitirá a las familias almacenar agua para consumo. La comunidad campesina también recibió una picadora tipo molino de martillos para sus actividades agropecuarias. La comunidad campesina de Allahui recibió de Minera Las Bambas 70 tanques de…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/rse/las-bambas-entrega-70-tanques-de-agua-a-la-comunidad-de-allahui/",
+   "fecha": "2026-11-20T21:46:34Z",
+   "temas": [
+    "agua",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Bambas",
+     "ubigeo": "020903",
+     "precision": "distrito",
+     "provincia": "Corongo",
+     "departamento": "Áncash",
+     "lon": -77.99685,
+     "lat": -8.60254,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "47e1ffb1e682",
+   "titulo": "CAF lanzará en Perú programa para fortalecer la seguridad ciudadana: “Casi 40 de las 50 ciudades más violentas están en América Latina”",
+   "resumen": "El presidente del Banco de Desarrollo de América Latina, Sergio Díaz-Granados, anunció que la iniciativa será presentada en Perú y tendrá especial atención en Lima. En entrevista con RPP, también destacó las perspectivas de crecimiento de la economía peruana y señaló que el banco busca incrementar…",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/economia/economia/caf-lanzara-en-peru-programa-para-fortalecer-la-seguridad-ciudadana-casi-40-de-las-50-ciudades-mas-violentas-estan-en-america-latina-noticia-1718870",
+   "fecha": "2026-11-20T21:45:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d908bc4de3b6",
+   "titulo": "Arequipa: Identifican hasta 20 puntos críticos por lluvias en Yura",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-identifican-hasta-20-puntos-criticos-por-lluvias-en-yura-noticia/",
+   "fecha": "2026-11-20T21:43:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yura",
+     "ubigeo": "040128",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.70631,
+     "lat": -16.24687,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "153511e58a1a",
+   "titulo": "Ica: inundaciones podrían dejar sin agua al 70% de la ciudad",
+   "resumen": "Ciudadanos y autoridades expresan su preocupación ante el riesgo de inundaciones por el fenómeno de El Niño. Advierten que el colapso de las galerías filtrantes podría dejar sin agua potable a gran parte de la población.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/peru/ica-inundaciones-podrian-dejar-sin-agua-al-70-ciudad-n496377",
+   "fecha": "2026-11-20T21:38:34Z",
+   "temas": [
+    "agua",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "de022ab8bcdd",
+   "titulo": "Estudiantes de Ingeniería Química exhiben procesos industriales y extracción de aceites esenciales en Huamanga",
+   "resumen": "Estudiantes de la Unsch presentaron prototipos de mezclado industrial y aceites esenciales extraídos de eucalipto, naranja y otras plantas en Huamanga",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/estudiantes-de-ingenieria-quimica-exhiben-procesos-industriales-y-extraccion-de-aceites-esenciales-en-huamanga/",
+   "fecha": "2026-11-20T21:34:08Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huamanga",
+     "ubigeo": "050100",
+     "precision": "provincia",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "93acd7719c7b",
+   "titulo": "Dirigentes cuestionan manejo de fondos en Seda Juliaca y exigen esclarecer pagos por S/ 416 mil",
+   "resumen": "Dirigentes de Juliaca exigen esclarecer S/ 416 mil depositados a 12 personas ajenas a Seda Juliaca; Contraloría observó pagos e identificó a cuatro funcionarios",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/dirigentes-cuestionan-manejo-de-fondos-en-seda-juliaca-y-exigen-esclarecer-pagos-por-s-416-mil/",
+   "fecha": "2026-11-20T21:33:58Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6e96826aef36",
+   "titulo": "Vivir libremente la sexualidad todavía cuesta en una sociedad llena de prejuicios",
+   "resumen": "Cristian Reynoso presentó Cuerpos atados en la Feria del Libro de Puno; la novela expone prejuicios y violencia que enfrentan a personas de la diversidad sexual",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/vivir-libremente-la-sexualidad-todavia-cuesta-en-una-sociedad-llena-de-prejuicios/",
+   "fecha": "2026-11-20T21:27:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f16cd3127b37",
+   "titulo": "La Libertad: Impulsan agenda de seguridad y paz en Virú",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/impulsan-agenda-de-seguridad-y-paz-en-viru-la-libertad-peru-noticia/",
+   "fecha": "2026-11-20T21:23:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Virú",
+     "ubigeo": "131200",
+     "precision": "provincia",
+     "provincia": "Virú",
+     "departamento": "La Libertad",
+     "lon": -78.75273,
+     "lat": -8.41431,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f3f09cf937e1",
+   "titulo": "Chiclayo: condenan a 30 y 25 años de cárcel a dos implicados en crimen de mecánico",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-condenan-a-30-y-25-anos-de-carcel-a-dos-implicados-en-crimen-de-mecanico-noticia/",
+   "fecha": "2026-11-20T21:22:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "621d56b76cca",
+   "titulo": "Escolares de Juliaca resultan heridos tras choque entre bus de Flores y combi",
+   "resumen": "Cuatro escolares de entre 12 y 13 años resultaron heridos tras un accidente de tránsito entre un bus de la empresa de transportes Flores Hermanos y una combi, ocurrido en el kilómetro 141 de la carretera Costanera Sur, en el cruce con el ingreso a la playa Pozo de Lisas, en la provincia de Ilo. […]",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/escolares-de-juliaca-resultan-heridos-tras-choque-entre-bus-de-flores-y-combi/",
+   "fecha": "2026-11-20T21:21:59Z",
+   "temas": [
+    "transporte",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d9cc28da2d48",
+   "titulo": "Microalgas podrían reducir hasta 30% el uso de fertilizantes en cultivos de tomate en Ayacucho",
+   "resumen": "Instituto Víctor Álvarez Huapaya investiga el uso de microalgas para reducir hasta 30% los fertilizantes nitrogenados en cultivos de tomate",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/microalgas-podrian-reducir-hasta-30-el-uso-de-fertilizantes-en-cultivos-de-tomate-en-ayacucho/",
+   "fecha": "2026-11-20T21:21:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dba12d7df533",
+   "titulo": "Tacna: Colegio Manuel Odría ocupa primer lugar nacional en desayunos escolares",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tacna/tacna-colegio-manuel-odria-ocupa-primer-lugar-nacional-en-desayunos-escolares-noticia/",
+   "fecha": "2026-11-20T21:17:10Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d30c44768e6b",
+   "titulo": "Unsch: Medicina Humana enfrenta falta de presupuesto para garantizar su culminación",
+   "resumen": "La construcción de la Escuela de Medicina Humana de la Universidad Nacional de San Cristóbal de Huamanga (Unsch) enfrenta una serie de dificultades presupuestales y contractuales que ponen en riesgo el cumplimiento de sus metas y su culminación dentro del plazo previsto para el 30 de noviembre de…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/unsch-medicina-humana-enfrenta-falta-de-presupuesto-para-garantizar-su-culminacion/",
+   "fecha": "2026-11-20T21:14:12Z",
+   "temas": [
+    "educacion",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Cristóbal",
+     "ubigeo": "050615",
+     "precision": "distrito",
+     "provincia": "Lucanas",
+     "departamento": "Ayacucho",
+     "lon": -74.22223,
+     "lat": -14.74308,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Huamanga",
+     "ubigeo": "050100",
+     "precision": "provincia",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e9c8eb5252d0",
+   "titulo": "Diputada Pilar Sulca propone declarar a Huanta “Cuna de la Defensa de la Gratuidad de la Educación en el Perú”",
+   "resumen": "La diputada ayacuchana Pilar Sulca Castillo presentó el proyecto de ley n.º 882-2026, que busca reconocer oficialmente a la provincia de Huanta como “Cuna de la Defensa de la Gratuidad de la Educación en el Perú”, en homenaje a la histórica lucha protagonizada en junio de 1969. La iniciativa rinde…",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/diputada-pilar-sulca-propone-declarar-a-huanta-cuna-de-la-defensa-de-la-gratuidad-de-la-educacion-en-el-peru/",
+   "fecha": "2026-11-20T21:12:28Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huanta",
+     "ubigeo": "050400",
+     "precision": "provincia",
+     "provincia": "Huanta",
+     "departamento": "Ayacucho",
+     "lon": -74.24796,
+     "lat": -12.93942,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9ef9ef1afaaf",
+   "titulo": "Denuncian a alcalde de Ate por presunta vulneración de neutralidad electoral",
+   "resumen": "El alcalde del distrito limeño de Ate, Franco Vidal Morales, fue denunciado ante el Jurado Electoral Especial (JEE) de Trujillo por una presunta vulneración del principio de neutralidad electoral. La denuncia fue presentada el 12 de noviembre por el ciudadano Mauro Giovani Pumacahua Berrospe…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/20/denuncian-a-alcalde-de-ate-por-presunta-vulneracion-de-neutralidad-electoral/",
+   "fecha": "2026-11-20T21:09:38Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ate",
+     "ubigeo": "150103",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.92126,
+     "lat": -12.02637,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "25cc127b6797",
+   "titulo": "¿Lluvia en Chiclayo?: el pronóstico del clima del viernes 20 de noviembre",
+   "resumen": "Las lluvias en Chiclayo son esporádicas y suelen presentarse entre enero y marzo, a veces asociadas al fenómeno de El Niño",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/20/lluvia-en-chiclayo-el-pronostico-del-clima-del-viernes-20-de-noviembre/",
+   "fecha": "2026-11-20T21:01:15Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7c6a19faf2b7",
+   "titulo": "ODPE Tacna verifica estado de los 123 locales de votación para el 6 de diciembre",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tacna/odpe-tacna-verifica-estado-de-los-123-locales-de-votacion-para-el-6-de-diciembre-noticia/",
+   "fecha": "2026-11-20T21:00:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9fd27c22b8f4",
+   "titulo": "Trabajadores administrativos de educación protestan en Puno",
+   "resumen": "El pago del servicio de comedor, la homologación y el vestuario son los beneficios que exigen los trabajadores administrativos del sector Educación, agrupados en la Fentase Puno. El gremio realiza una protesta este viernes ante la negativa de la Dirección Regional de Educación de firmar un acta de…",
+   "medio": "Los Andes",
+   "medio_id": "losandes",
+   "url": "https://losandes.com.pe/trabajadores-administrativos-de-educacion-protestan-en-puno/",
+   "fecha": "2026-11-20T21:00:07Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "039748281ce1",
+   "titulo": "Firman convenio para cobertura de losa deportiva en Alto Islay",
+   "resumen": "Con la firma del Convenio N.° ACV 003/2026, la Municipalidad Distrital de Islay y la Asociación Cerro Verde pondrán en marcha la elaboración del expediente técnico para la cobertura metálica en la losa deportiva del local social de Alto Islay. El acuerdo fue suscrito por el alcalde distrital Irwin…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/firman-convenio-para-cobertura-de-losa-deportiva-en-alto-islay/",
+   "fecha": "2026-11-20T20:49:45Z",
+   "temas": [
+    "politica_local",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Islay",
+     "ubigeo": "040704",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.09741,
+     "lat": -17.00083,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ea2066464596",
+   "titulo": "JNE decidirá si Alfredo Zegarra asume la gobernación de Arequipa si gana las elecciones",
+   "resumen": "Según un informe de Servir, la sanción administrativa no puede restringir derechos políticos",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/jne-decidira-si-alfredo-zegarra-asume-la-gobernacion-de-arequipa-si-gana-las-elecciones-noticia/",
+   "fecha": "2026-11-20T20:47:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "05e35d2b7ce8",
    "titulo": "Dirigente del transporte culpa a usuarios por congestión y les pide salir 10 minutos antes",
    "resumen": "La representante de Actuar, Patricia Velázquez, insistió en la necesidad de reajustar el pasaje urbano en Arequipa a S/ 1.50. Como argumento, señaló que los propietarios de las unidades enfrentan dificultades para conseguir conductores y asumir el incremento de los costos operativos. Consultada…",
@@ -48,6 +4466,53 @@
      "lat": -8.10012,
      "confianza": 0.6,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "851042e67f95",
+   "titulo": "Ombú centenario de Mollendo podría ser el primer árbol patrimonial de Islay",
+   "resumen": "Un representante del Servicio Nacional Forestal y de Fauna Silvestre (Serfor) Arequipa llegó a Mollendo para inspeccionar un árbol centenario conocido como ombú, ubicado en un predio de la familia Castillo Chávez en la cuarta cuadra de la avenida Mariscal Castilla, luego de que se difundieran…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/ombu-centenario-de-mollendo-podria-ser-el-primer-arbol-patrimonial-de-islay/",
+   "fecha": "2026-11-20T20:30:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.9,
+     "principal": false
     }
    ]
   },
@@ -334,6 +4799,31 @@
      "lat": -13.4182,
      "confianza": 0.85,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ef2ffeb6158b",
+   "titulo": "BRUS RUBIO GANA CONCURSO NACIONAL DE PINTURA DEL BCRP",
+   "resumen": "* Brus Rubio Churay, de la etnia Murui-Bora y originario de Pebas, obtuvo el primer lugar con una obra inspirada en la memoria, la mitología y la resistencia de los pueblos amazónicos. Recibirá S/ 30.000.El artista autodidacta Brus Rubio Churay, integrante de la etnia Murui-Bora y natural de la…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "http://www.proycontra.com.pe/noticias/brus-rubio-gana-concurso-nacional-de-pintura-del-bcrp",
+   "fecha": "2026-11-20T20:00:00Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pebas",
+     "ubigeo": "160402",
+     "precision": "distrito",
+     "provincia": "Mariscal Ramón Castilla",
+     "departamento": "Loreto",
+     "lon": -71.86191,
+     "lat": -3.32034,
+     "confianza": 0.85,
+     "principal": true
     }
    ]
   },
@@ -901,6 +5391,42 @@
    ]
   },
   {
+   "id": "468f8eccdfdc",
+   "titulo": "Rechazan intento de EsSalud de anular fallo sobre unidades de obstetricia en Moquegua e Ilo",
+   "resumen": "La Corte Suprema de Justicia de la República rechazó el recurso de apelación presentado por el Seguro Social de Salud (EsSalud) y confirmó la improcedencia de su demanda de amparo contra las sentencias judiciales que dispusieron cumplir disposiciones de la Ley N.º 27853, Ley del Trabajo de la…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/rechazan-intento-de-essalud-de-anular-fallo-sobre-unidades-de-obstetricia-en-moquegua-e-ilo/",
+   "fecha": "2026-11-20T19:21:47Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "90f97f98f4d2",
    "titulo": "Carmen Alto: S/ 7.5 millones sin gastar, colegio inconcluso, vías y obras de agua que pasará al 2027 (Informe)",
    "resumen": "La Municipalidad Distrital de Carmen Alto registra una ejecución presupuestal de 63.9% a noviembre de 2026, según el portal de Transparencia Económica del Ministerio de Economía y Finanzas (MEF). De los S/20 millones 778 mil 595 de Presupuesto Institucional Modificado (PIM), la entidad devengó…",
@@ -1277,6 +5803,31 @@
      "departamento": "Ica",
      "lon": -76.13251,
      "lat": -13.4182,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fa1417265bbe",
+   "titulo": "Corte Suprema deja sin efecto pago de casi S/ 397 mil reclamado por pescador",
+   "resumen": "La Corte Suprema de Justicia de la República dejó sin efecto una orden de pago por S/ 396.785,58, más intereses legales, costas y costos, que había sido reconocida al pescador Jesús Salvador Arocutipa Ajajahui en un proceso laboral tramitado en la Corte Superior de Justicia de Moquegua. La…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/corte-suprema-deja-sin-efecto-pago-de-casi-s-397-mil-reclamado-por-pescador/",
+   "fecha": "2026-11-20T18:44:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
      "confianza": 0.85,
      "principal": true
     }
