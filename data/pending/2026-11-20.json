@@ -2,6 +2,304 @@
  "fecha": "2026-11-20",
  "noticias": [
   {
+   "id": "5a0de9699b98",
+   "titulo": "Sismo de magnitud 6,7 en Junín se sintió en Huánuco y Lima",
+   "resumen": "Un sismo de magnitud 6,7 con epicentro en Junín se sintió la noche del viernes 20 de noviembre en Lima, Huánuco, Ica, Áncash, La Libertad y el Callao. El IGP reportó una profundidad de 129 kilómetros e intensidad V en la zona del epicentro. Las autoridades no confirmaron víctimas ni daños de…",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/sismo-magnitud-67-junin-huanuco-lima",
+   "fecha": "2026-11-21T04:40:07Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "100105",
+     "ccpp": "1001050049",
+     "precision": "centro_poblado",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.49021,
+     "lat": -10.02787,
+     "confianza": 0.15,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "acd452dda0b8",
+   "titulo": "Protesta en la PUCP: estudiantes liberan puertas del campus tras acordar con las autoridades suspender aumento de pensiones para 2027",
+   "resumen": "Un grupo de estudiantes había bloqueado algunos accesos del campus en rechazo a posibles cambios en el sistema de pensiones para el próximo año y los procesos disciplinarios contra universitarios que participaron en mayo pasado en la toma del Rectorado.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/protesta-en-la-pucp-estudiantes-liberan-puertas-del-campus-tras-acordar-con-las-autoridades-suspender-aumento-de-pensiones-para-2027-noticia-1718943",
+   "fecha": "2026-11-21T04:38:05Z",
+   "temas": [
+    "educacion",
+    "conflicto_social"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "72b251b5ce4c",
+   "titulo": "CEBE Félix y Carolina de Repetti celebra 60 años de servicio con una serenata inédita y avances en su nueva infraestructura",
+   "resumen": "### CEBE Félix y Carolina de Repetti celebra 60 años de servicio con una serenata inédita y avances en su nueva infraestructura El Centro de Educación Básica Especial (CEBE) Félix y Carolina de Repetti inició las celebraciones por sus 60 años de creación con una serenata que reunió a estudiantes…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288711/cebe-felix-y-carolina-de-repetti-celebra-60-anos-de-servicio-con-una-serenata-inedita-y-avances-en-su-nueva-infraestructura/",
+   "fecha": "2026-11-21T04:31:08Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "70070648991d",
+   "titulo": "Congreso aprueba presupuesto público de S/ 266,506 millones para el 2027: ¿en qué se gastará?",
+   "resumen": "El Congreso aprobó la Ley de Presupuesto del Sector Público para el Año Fiscal 2027, que asciende a S/ 266,506 millones y establece los recursos que se destinarán al funcionamiento del Estado, la inversión pública y la atención de las principales demandas del país.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/congreso-aprueba-presupuesto-publico-de-s-266506-millones-para-el-2027-en-que-se-gastara-noticia/",
+   "fecha": "2026-11-21T04:23:01Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "fcdc790e7ae8",
+   "titulo": "Gobierno anuncia paquete de apoyo para pescadores por El Niño 2026-2027",
+   "resumen": "El Consejo de Ministros aprobó un decreto de urgencia con más de S/ 155 millones para proteger los ingresos de pescadores artesanales e industriales frente al fenómeno El Niño 2026-2027, con un bono de S/ 1,500 y apoyo financiero a mypes.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/economia/gobierno-paquete-apoyo-pescadores-nino-2026-2027",
+   "fecha": "2026-11-21T04:20:07Z",
+   "temas": [
+    "economia",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f0bf6cb82240",
+   "titulo": "Día de la Mujer Emprendedora: MIMP impulsa clubes para fortalecer capacidades de jóvenes",
+   "resumen": "Las mujeres emprendedoras construyen sus sueños y movilizan la economía del país. Por ello, el Ministerio de la Mujer y Poblaciones Vulnerables (MIMP), a través del Programa Nacional Warmi Ñan, impulsa 81 clubes “Formándose para la Vida” en 21 regiones del país, que fortalecen las capacidades de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-dia-de-mujer-emprendedora-mimp-impulsa-clubes-para-fortalecer-capacidades-jovenes-1100907.aspx",
+   "fecha": "2026-11-21T04:18:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "66c8346a4426",
+   "titulo": "Congreso aprueba Presupuesto Público 2027 por más de S/266 mil millones",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/congreso-aprueba-presupuesto-publico-2027-por-mas-de-s266-mil-millones-ultimas-noticia/",
+   "fecha": "2026-11-21T04:16:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3842c0d3a352",
+   "titulo": "Luis Galarreta: La promesa del orden se va a cumplir, estamos en el camino correcto",
+   "resumen": "La promesa del orden que hizo el gobierno de la presidenta Keiko Fujimori se va a cumplir; sabemos que esto no se logra de la noche a la mañana, pero estamos en el camino correcto, aseguró esta noche el primer vicepresidente de la república, Luis Galarreta.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-luis-galarreta-promesa-del-orden-se-va-a-cumplir-estamos-el-camino-correcto-1100903.aspx",
+   "fecha": "2026-11-21T03:50:28Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b8c8d6e275de",
+   "titulo": "MTC promueve el uso de la línea gratuita 119 para comunicarse durante emergencias y desastres",
+   "resumen": "El Ministerio de Transportes y Comunicaciones (MTC) viene promoviendo el uso de la línea gratuita 119, un servicio de mensajería de voz que permite a las personas dejar mensajes y comunicarse con sus familiares cuando las llamadas telefónicas y otros servicios de comunicación colapsan debido a una…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288708/mtc-promueve-el-uso-de-la-linea-gratuita-119-para-comunicarse-durante-emergencias-y-desastres/",
+   "fecha": "2026-11-21T03:42:59Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "056443c0532e",
+   "titulo": "Toma de la PUCP: estudiantes liberan puertas del campus tras acuerdo con autoridades que suspende nuevas escalas de pensiones en 2027",
+   "resumen": "El acuerdo entre estudiantes y autoridades permitirá establecer espacios de diálogo institucional y revisar protocolos de seguridad en la PUCP. La casa de estudios señala que continúa la investigación de procesos disciplinarios.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/toma-de-la-pucp-estudiantes-liberan-puertas-del-campus-tras-acuerdo-con-autoridades-que-suspende-nuevas-escalas-de-pensiones-en-2027-564700",
+   "fecha": "2026-11-21T03:37:01Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "227a60809b60",
+   "titulo": "EsSalud consolida labor en favor de los asegurados: más medicinas, cirugías y ambulancias",
+   "resumen": "Más medicamentos disponibles, cirugías para reducir las listas de espera, ambulancias recuperadas y nuevos proyectos de modernización hospitalaria. Estos son algunos de los avances y medidas anunciados por la presidenta ejecutiva del Seguro Social de Salud (EsSalud), Dra. Zulema Tomas Gonzáles…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-essalud-consolida-labor-favor-los-asegurados-mas-medicinas-cirugias-y-ambulancias-1100906.aspx",
+   "fecha": "2026-11-21T03:24:40Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9e6fef5944e9",
+   "titulo": "Diego Carabaño, figura de Sport Huancayo, pondera la importancia del duelo ante Universitario\" Estamos a un partido de la gloria\"",
+   "resumen": "El ‘rojo matador’ cuenta con la primera opción para hacerse con el Torneo Clausura. De ganar, accederían a una llave de semifinales ante los ‘cremas’",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/diego-carabano-figura-de-sport-huancayo-pondera-la-importancia-del-duelo-ante-universitario-estamos-a-un-partido-de-la-gloria/",
+   "fecha": "2026-11-21T03:15:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "73f2e955a722",
+   "titulo": "Congreso aprueba Ley de Presupuesto Público para el Año Fiscal 2027",
+   "resumen": "El pleno del Congreso de la República aprobó esta noche el texto sustitutorio de los dictámenes de las leyes de Presupuesto, de Equilibrio Financiero y de Endeudamiento del Sector Público para el Año Fiscal 2027",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-congreso-aprueba-ley-presupuesto-publico-para-ano-fiscal-2027-1100905.aspx",
+   "fecha": "2026-11-21T03:12:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "01739225cd42",
+   "titulo": "Sismo en Junín provoca desprendimiento de piedras en la Costa Verde en Lima y bloquea la Carretera Central en Huánuco",
+   "resumen": "El movimiento telúrico se localizó a 30 kilómetros al noroeste de la provincia de Junín, con una profundidad de 129 kilómetros.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/sismo-en-junin-provoca-desprendimiento-de-piedras-en-la-costa-verde-en-lima-y-bloquea-la-carretera-central-en-huanuco-noticia-1718937",
+   "fecha": "2026-11-21T02:30:28Z",
+   "temas": [
+    "infraestructura",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120500",
+     "precision": "provincia",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.18,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "14a9ab22b839",
    "titulo": "Asociación feminista reclama políticas públicas para la primera infancia en el 37o aniversario de la Convención de la ONU",
    "resumen": "En el 37º aniversario de la Convención sobre los Derechos del Niño (20 de noviembre de 1989), las portavoces de la asociación PETRA Maternidades Feministas publican una columna de opinión en la que sostienen que la primera infancia, especialmente la franja de 0 a 3 años, sigue siendo la gran…",
@@ -749,6 +1047,65 @@
     "infraestructura"
    ],
    "lugares": []
+  },
+  {
+   "id": "b09211754603",
+   "titulo": "¿Volvimos a los 90? «Libertad para Pedro Mo y Brenda Jah»: protestan en Cusco y Lima tras detención (VIDEO)",
+   "resumen": "La detención de los artistas Pedro Mo y Brendah Jah ha generado indignación entre organizaciones civiles, colectivos culturales y artistas, que salieron a las calles para exigir su inmediata liberación. En Lima, Cusco y Chiclayo se reportaron protestas frente a sedes policiales, donde los…",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/volvimos-a-los-90-libertad-para-pedro-mo-y-brenda-jah-protestan-en-cusco-y-lima-tras-detencion-video/",
+   "fecha": "2026-11-20T23:20:38Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Libertad",
+     "ubigeo": "080910",
+     "ccpp": "0809100045",
+     "precision": "centro_poblado",
+     "provincia": "La Convención",
+     "departamento": "Cusco",
+     "lon": -73.8025,
+     "lat": -12.5111,
+     "confianza": 0.26,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
   },
   {
    "id": "05535458fc04",
@@ -4812,6 +5169,19 @@
    "fecha": "2026-11-20T08:00:00Z",
    "temas": [
     "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "19edf08432d9",
+   "titulo": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
+   "resumen": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en siete años y su publicación coincide con Keiko Fujimori como presidenta. Sobre esta publicación, La República conversó con Raúl Tola.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
+   "fecha": "2026-11-20T08:00:00Z",
+   "temas": [
+    "otros"
    ],
    "lugares": []
   },

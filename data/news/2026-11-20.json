@@ -2,6 +2,818 @@
  "fecha": "2026-11-20",
  "noticias": [
   {
+   "id": "b2b3479f7fab",
+   "titulo": "Áncash: dictan 18 meses de prisión preventiva contra implicado en asesinato de Susy Aponte",
+   "resumen": "Por este caso, Luis Obispo Díaz y Ronald Toro Ardila, señalado como presunto financista del crimen, también cumplen prisión preventiva.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/ancash-dictan-18-meses-de-prision-preventiva-contra-implicado-en-asesinato-de-susy-aponte-noticia-1718946",
+   "fecha": "2026-11-21T04:57:18Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9695b89b498a",
+   "titulo": "MTC restablece el tránsito en sector San Félix de Junín tras caída de rocas por sismo de 6,7",
+   "resumen": "El MTC restableció el tránsito vehicular en el sector San Félix, en Junín, tras retirar las rocas y un árbol que cayeron sobre la vía por el sismo de magnitud 6,7. Los trabajos se realizaron cerca del túnel Pan de Azúcar, a la altura del kilómetro 85.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/junin/mtc-restablece-el-transito-en-sector-san-felix-de-junin-tras-caida-de-rocas-por-sismo-de-67-ultimas-noticia/",
+   "fecha": "2026-11-21T04:44:37Z",
+   "temas": [
+    "transporte",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ae7eb800f9cf",
+   "titulo": "Sismo de 6.7 en Junín: MML informa que adolescente resultó herida por caída de concreto en Cercado de Lima",
+   "resumen": "Sismo de 6.7 en Junín: MML informa que adolescente resultó herida por caída de concreto en Barrios Altos, Cercado de Lima",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/sismo-de-67-en-junin-municipalidad-de-lima-informa-que-adolescente-resulto-herida-por-caida-de-concreto-en-cercado-de-lima-ultimas-noticia/",
+   "fecha": "2026-11-21T04:27:21Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Barrios Altos",
+     "ubigeo": "120601",
+     "ccpp": "1206010068",
+     "precision": "centro_poblado",
+     "provincia": "Satipo",
+     "departamento": "Junín",
+     "lon": -74.56865,
+     "lat": -11.25865,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "grupo": "c98761aaaad8",
+   "revisar": true
+  },
+  {
+   "id": "2364aed43535",
+   "titulo": "Sismo de magnitud 6.7 en Junín: Gobierno monitorea posibles daños materiales",
+   "resumen": "La Presidencia del Consejo de Ministros (PCM) informó que, hasta el momento, no cuenta con un balance confirmado de afectaciones personales tras el sismo de magnitud 6.7 registrado en la región Junín esta noche.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/sismo-de-magnitud-67-en-junin-gobierno-monitorea-posibles-danos-materiales-noticia/",
+   "fecha": "2026-11-21T04:22:58Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d288f9ec55c2",
+   "titulo": "¿Por qué Junín registra fuertes sismos? La falla Altos del Mantaro y la placa de Nazca detrás de los movimientos de 2026",
+   "resumen": "La región registró movimientos de magnitudes 5,4 y 5,0 en julio y agosto, seguidos por uno último de 6,7 el 20 de noviembre. Aunque ocurrieron en el mismo departamento, sus diferentes profundidades revelan que no todos tuvieron el mismo origen",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/por-que-junin-registra-fuertes-sismos-la-falla-altos-del-mantaro-y-la-placa-de-nazca-detras-de-los-movimientos-de-2026/",
+   "fecha": "2026-11-21T04:13:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mantaro",
+     "ubigeo": "120903",
+     "ccpp": "1209030012",
+     "precision": "centro_poblado",
+     "provincia": "Chupaca",
+     "departamento": "Junín",
+     "lon": -75.25573,
+     "lat": -12.1386,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110300",
+     "precision": "provincia",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "04f3d80748af",
+   "titulo": "“Jolín” llega a Lima para cumplir su condena a cadena perpetua",
+   "resumen": "El cabecilla de la organización criminal transnacional “La Nueva Jauría” fue capturado el jueves en Ecuador y entregado a las autoridades peruanas la tarde del viernes",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/policiales/jolin-llega-a-lima-para-cumplir-su-condena-a-cadena-perpetua-noticia/",
+   "fecha": "2026-11-21T04:04:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c6c7308a7ca4",
+   "titulo": "Jolín Bazán Valderrama, cabecilla de 'La Nueva Jauría', llegó a Lima para cumplir su condena de cadena perpetua [VIDEO]",
+   "resumen": "Jolín Bazán Valderrama fue sentenciado a cadena perpetua por el secuestro agravado del empresario Manuel Rodríguez Cruzado, ocurrido en Trujillo, en junio de 2022. Permanecerá en la sede de la Dirincri hasta que el INPE se pronuncie.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/jolin-bazan-valderrama-cabecilla-de-la-nueva-jauria-llego-a-lima-para-cumplir-su-condena-de-cadena-perpetua-video-noticia-1718941",
+   "fecha": "2026-11-21T03:59:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3a64655d2ae8",
+   "titulo": "Tras 13 años de espera, el Minsa entrega el hospital A. Lorena al Gobierno Regional Cusco",
+   "resumen": "El Ministerio de Salud realizó la entrega oficial de la infraestructura y el equipamiento del nuevo nosocomio cusqueño para que entre en funcionamiento en pocos días",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/cusco/tras-13-anos-de-espera-el-minsa-entrega-el-hospital-a-lorena-al-gobierno-regional-cusco-noticia/",
+   "fecha": "2026-11-21T03:56:56Z",
+   "temas": [
+    "salud",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2c93390afec7",
+   "titulo": "Temblor de 6,7 en Junín: reportan daños en viviendas y bloqueo de tramos de la Carretera Central",
+   "resumen": "El sismo de magnitud 6,7 con epicentro en Junín ocasionó daños preliminares en viviendas, cortes de electricidad y caída de rocas en distintas vías. Indeci informó que continúan las evaluaciones en Junín, Pasco, Huánuco y otras zonas donde se sintió el movimiento.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/junin/temblor-de-67-en-junin-reportan-danos-en-viviendas-y-bloqueo-de-tramos-de-la-carretera-central-igp-ultimas-noticia/",
+   "fecha": "2026-11-21T03:50:30Z",
+   "temas": [
+    "desastres",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huanuco",
+     "ubigeo": "120203",
+     "ccpp": "1202030003",
+     "precision": "centro_poblado",
+     "provincia": "Concepción",
+     "departamento": "Junín",
+     "lon": -74.88621,
+     "lat": -11.56402,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "07fbffffe917",
+   "titulo": "Autoridades nacionales y gobernadores electos debatirán en el Cade 2026",
+   "resumen": "Encuentro empresarial se dará este año en el Valle Sagrado de Los Incas, se espera la participación de Keiko Fujimori para la clausura",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/autoridades-nacionales-y-gobernadores-electos-debatiran-en-el-cade-2026-noticia/",
+   "fecha": "2026-11-21T03:49:30Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Urubamba",
+     "ubigeo": "081300",
+     "precision": "provincia",
+     "provincia": "Urubamba",
+     "departamento": "Cusco",
+     "lon": -72.11621,
+     "lat": -13.30555,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "59f3628cbaf8",
+   "titulo": "Cusco: Tras tres días de lucha logran liquidar incendio forestal en abra Ccorao (FOTOS)",
+   "resumen": "Bomberos, Policía, Ejército y brigadistas municipales trabajaron incansablemente desde el miércoles",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/cusco/cusco-tras-tres-dias-de-lucha-logran-liquidar-incendio-forestal-en-abra-ccorao-fotos-noticia/",
+   "fecha": "2026-11-21T03:35:13Z",
+   "temas": [
+    "medio_ambiente",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ccorao",
+     "ubigeo": "080105",
+     "ccpp": "0801050002",
+     "precision": "centro_poblado",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.92269,
+     "lat": -13.47643,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "1310aab0f8f6",
+   "titulo": "¿Por qué el sismo de 6,7 en Junín se sintió en varias regiones del Perú y qué riesgos enfrentan las viviendas?",
+   "resumen": "En entrevista con Infobae Perú, Darwin La Torre, especialista en estructuras de la Universidad de Lima, explica cómo influye la profundidad de un movimiento sísmico y advierte que las edificaciones con daños acumulados podrían ser más vulnerables ante un nuevo temblor",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/por-que-el-sismo-de-67-en-junin-se-sintio-en-varias-regiones-del-peru-y-los-danos-en-viviendas-esto-responde-ingeniero/",
+   "fecha": "2026-11-21T03:27:21Z",
+   "temas": [
+    "desastres",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9e275077ded0",
+   "titulo": "Alcalde provincial de Junín tras sismo de 6.7: \"No se han reportado daños materiales\"",
+   "resumen": "Elio Zevallos sostuvo que no hay heridos tras el sismo de 6.7 que se registró en Junín así como otras regiones del país.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/junin/sismo-en-junin-alcalde-provincial-no-se-han-reportado-danos-materiales-noticia-1718938",
+   "fecha": "2026-11-21T03:18:14Z",
+   "temas": [
+    "desastres",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4fd99c2d4dc5",
+   "titulo": "Rolando Arellano: “Es necesario unirnos para poder crecer todos”",
+   "resumen": "El presidente de CADE Ejecutivos 2026, que volverá a realizarse en Cusco, explicó el sentido del lema “Unidos para avanzar”. También analizó el crecimiento de las regiones, los cambios en el empresariado peruano y las expectativas ante la renovación de autoridades.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/rolando-arellano-necesario-unirnos-poder-crecer-todos-n496390",
+   "fecha": "2026-11-21T03:08:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fbe3ad488b0b",
+   "titulo": "Ana Paula Consorte relata los momentos de terror que vivió durante el fuerte sismo en Junín: “¡Qué desesperación!”",
+   "resumen": "La pareja de Paolo Guerrero contó que el sismo la sorprendió con sus hijos en casa y que salió con dos de ellos en brazos desde el quinto piso.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/ana-paula-consorte-relata-los-momentos-de-terror-que-vivio-durante-el-fuerte-sismo-en-junin-que-desesperacion/",
+   "fecha": "2026-11-21T03:07:23Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dc0efd4b4cc3",
+   "titulo": "Juan Sheput sobre interpelación a Carlos Espá: \"No creo que eso amerite una censura\"",
+   "resumen": "El ministro de Trabajo consideró en RPP que el canciller debe responder las preguntas del Congreso por los inconvenientes registrados durante la misa del papa León XIV en la base aérea Las Palmas. Sin embargo, sostuvo que una eventual interpelación es una oportunidad para dar explicaciones.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/gobierno/juan-sheput-sobre-interpelacion-a-carlos-espa-no-creo-que-eso-amerite-una-censura-noticia-1718939",
+   "fecha": "2026-11-21T03:03:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "28f1e129cac8",
+   "titulo": "Madre de Dios busca atraer inversiones para impulsar negocios sostenibles en la Amazonía",
+   "resumen": "Madre de Dios busca atraer inversiones hacia actividades económicas sostenibles vinculadas al aprovechamiento de los recursos naturales de la Amazonía, mediante un encuentro empresarial que reunirá a inversionistas, fondos de inversión, entidades financieras y empresas nacionales e internacionales…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-madre-dios-busca-atraer-inversiones-para-impulsar-negocios-sostenibles-la-amazonia-1100898.aspx",
+   "fecha": "2026-11-21T03:00:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Madre de Dios",
+     "ubigeo": "170203",
+     "precision": "distrito",
+     "provincia": "Manu",
+     "departamento": "Madre de Dios",
+     "lon": -70.39422,
+     "lat": -12.61849,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2ca4027bf4bc",
+   "titulo": "PCM: Gobierno mantiene monitoreo permanente tras sismo en Junín",
+   "resumen": "El Gobierno, a través del Instituto Nacional de Defensa Civil (INDECI), mantiene el monitoreo permanente de la situación tras el movimiento telúrico de magnitud 6.7 registrado esta noche con epicentro en el departamento de Junín y evalúa los reportes preliminares de posibles daños materiales en…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-pcm-gobierno-mantiene-monitoreo-permanente-tras-sismo-junin-1100904.aspx",
+   "fecha": "2026-11-21T02:57:21Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ],
+   "grupo": "e5b99c03c9c8"
+  },
+  {
+   "id": "300a0b5c11b2",
+   "titulo": "Sismo de 6.7 en Junín: usuarios en redes registraron en vivo el temblor que sacudió el Perú | VIDEOS",
+   "resumen": "Mira cómo vivieron los ciudadanos el fuerte sismo de magnitud 6.7 en Junín a través de videos en X y revisa las pautas clave para evacuar hacia zonas seguras.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sismo-de-67-en-junin-estos-son-los-videos-registrados-por-usuarios-en-redes-sociales-igp-ultimas-noticia/",
+   "fecha": "2026-11-21T02:54:57Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2d04bd48c9be",
+   "titulo": "Estragos tras fuerte sismo de 6.7 en Junín: COEN reporta 34 viviendas afectadas, carreteras bloqueadas, cortes de luz y un herido en Lima",
+   "resumen": "Las emergencias reportadas incluyen deslizamientos, derrumbes en carreteras y una persona herida en el Cercado de Lima por la caída de una piedra.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/20/estragos-tras-fuerte-sismo-de-67-en-junin-reportan-34-viviendas-afectadas-carreteras-bloqueadas-cortes-de-luz-y-un-herido-en-lima-1407860",
+   "fecha": "2026-11-21T02:50:37Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "fe56b76eae0c",
+   "titulo": "El sismo de 6.7 afectó a Huánuco: caída de rocas, bloqueo de la Carretera Central, iglesia y la UDH con daños",
+   "resumen": "Las instalaciones de la universidad local, las sedes municipales y un templo histórico de Ambo sufrieron fisuras por la sacudida sísmica, lo que llevó a peritos técnicos a inspeccionar cada inmueble para descartar riesgos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/el-sismo-de-67-afecto-a-huanuco-caida-de-rocas-bloqueo-de-la-carretera-central-iglesia-y-la-udh-con-danos/",
+   "fecha": "2026-11-21T02:50:29Z",
+   "temas": [
+    "conflicto_social",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ambo",
+     "ubigeo": "100200",
+     "precision": "provincia",
+     "provincia": "Ambo",
+     "departamento": "Huánuco",
+     "lon": -76.20447,
+     "lat": -10.12916,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2fcf36ab066a",
+   "titulo": "Tula Rodríguez, María Pía Copello, Janet Barboza y más famosos reaccionan al sismo de 6.7 en Lima",
+   "resumen": "Figuras del espectáculo peruano compartieron cómo vivieron el movimiento que tuvo epicentro cerca de Junín.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/tula-rodriguez-maria-pia-copello-janet-barboza-y-mas-famosos-reaccionan-al-sismo-de-67-en-lima/",
+   "fecha": "2026-11-21T02:47:32Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e4e37767757b",
+   "titulo": "Sismo en Junín: Jefe del IGP explica por qué se sintió con fuerza en varias regiones",
+   "resumen": "Hernando Tavera señaló que los movimientos de profundidad intermedia generan un amplio radio de percepción y un mayor número de ondas sísmicas",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/sismo-en-junin-jefe-del-igp-explica-por-que-se-sintio-con-fuerza-en-varias-regiones-temblor-hernando-tavera-noticia/",
+   "fecha": "2026-11-21T02:46:48Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "59b40ce45073",
+   "titulo": "Lima arderá en verano 2027: Senamhi estima picos de 36 °C en varios distritos de la capital durante el mes de febrero",
+   "resumen": "El meteorólogo Nelson Quispe advirtió que el Fenómeno El Niño podría elevar las máximas de la capital por encima del récord registrado en 1998",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/21/lima-ardera-en-verano-2027-senamhi-estima-picos-de-36-c-en-varios-distritos-de-la-capital-durante-el-mes-de-febrero/",
+   "fecha": "2026-11-21T02:45:56Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "28b1f509214b",
+   "titulo": "Sismo en Lima con epicentro en Junín se sintió hasta en Colombia, reportó diario El Tiempo",
+   "resumen": "El sismo registrado esta noche, viernes 20 de noviembre, en Junín fue percibido en Bogotá y otras zonas de Colombia, informó el diario colombiano El Tiempo. El medio recogió reportes ciudadanos sobre el movimiento y evacuaciones en algunos edificios de la capital de ese país.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sismo-lima-epicentro-junin-se-sintio-hasta-colombia-reporto-diario-tiempo-1100902.aspx",
+   "fecha": "2026-11-21T02:42:46Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "566d40f41466",
+   "titulo": "Hernando Tavera explica por qué el sismo de Junín se sintió en gran parte del Perú",
+   "resumen": "El sismo de magnitud 6.7 registrado la noche del viernes 20 de noviembre en Junín fue percibido en diferentes regiones del país debido a su profundidad de 129 kilómetros. Así lo explicó Hernando Tavera, jefe del Instituto Geofísico del Perú (IGP), quien precisó que se trató de un movimiento de…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/20/hernando-tavera-explica-por-que-el-sismo-de-junin-se-sintio-en-gran-parte-del-peru/",
+   "fecha": "2026-11-21T02:38:57Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "72a3bcf637af",
    "titulo": "Fuerte temblor en Junín generó alarma en la población de Barranca, Huacho y Huaral",
    "resumen": "El fuerte temblor de magnitud 6.7 registrado esta noche en la región Junín generó la alarma entre los vecinos de las ciudades de Barranca, Huacho y Huaral, al norte de la región Lima, que salió a las calles en busca de lugares seguros y mantenerse a la expectativa ante posibles réplicas.",
@@ -4854,6 +5666,32 @@
    ]
   },
   {
+   "id": "6834e7dfedef",
+   "titulo": "Piden aulas de concreto y rechazan drywall en l I.E.I. Paul Harris",
+   "resumen": "Padres de familia de la Institución Educativa Inicial N.° 337 Paul Harris, ubicada en la Pampa Inalámbrica, realizaron un plantón para exigir la construcción de aulas seguras para sus hijos y cuestionar la propuesta del Gobierno Regional de Moquegua de utilizar drywall en la intervención de dos…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/piden-aulas-de-concreto-y-rechazan-drywall-en-l-i-e-i-paul-harris/",
+   "fecha": "2026-11-20T19:55:34Z",
+   "temas": [
+    "educacion",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "c8c0229df23e",
    "titulo": "Adrián Kuntur apuesta por la fusión folk pop y presenta su primer videoclip grabado",
    "resumen": "El artista Adrián Kuntur apuesta por la fusión de sonidos andinos y música popular contemporánea con el lanzamiento de “Chakasueño”, su primer videoclip como solista, una producción audiovisual grabada en distintos escenarios de Ayacucho. El estreno fue el 17 de noviembre, a través de su canal de…",
@@ -7085,6 +7923,31 @@
      "lon": -70.02806,
      "lat": -15.84026,
      "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fb308619c599",
+   "titulo": "Universidad peruana consolida alianza con la Fundación Real Madrid para formación en deporte, liderazgo y valores",
+   "resumen": "La Universidad César Vallejo dio a conocer los alcances del acuerdo durante un evento en Lima que contó con la participación del exfutbolista argentino Santiago Solari. El actual director de Fútbol del Real Madrid abordó el deporte como espacio de aprendizaje y su relación con la excelencia, la…",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/america/inhouse/2026/11/11/universidad-peruana-consolida-alianza-con-la-fundacion-real-madrid-para-formacion-en-deporte-liderazgo-y-valores/",
+   "fecha": "2026-11-20T17:21:42Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
      "principal": true
     }
    ]
