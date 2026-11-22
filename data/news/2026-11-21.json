@@ -1242,6 +1242,69 @@
    ]
   },
   {
+   "id": "b40b2b01cb61",
+   "titulo": "Agricultores de Asillo – Progreso exigen reconstrucción de infraestructura hidráulica y alertan sobre contaminación del río Ramis",
+   "resumen": "Más de 1,500 usuarios advierten deficiencias en la infraestructura de riego y contaminación del río Ramis, por lo que exigen a las autoridades una inversión cercana al millón de soles para su rehabilitación Más de 1,500 usuarios de la irrigación Asilio-Progreso, considerada una de las más grandes…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/agricultores-de-asillo-progreso-exigen-reconstruccion-de-infraestructura-hidraulica-y-alertan-sobre-contaminacion-del-rio-ramis/",
+   "fecha": "2026-11-21T23:41:51Z",
+   "temas": [
+    "medio_ambiente",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Progreso",
+     "ubigeo": "210204",
+     "ccpp": "2102040002",
+     "precision": "centro_poblado",
+     "provincia": "Azángaro",
+     "departamento": "Puno",
+     "lon": -70.35732,
+     "lat": -14.68737,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Asillo",
+     "ubigeo": "210204",
+     "precision": "distrito",
+     "provincia": "Azángaro",
+     "departamento": "Puno",
+     "lon": -70.35369,
+     "lat": -14.78652,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "609d04421fe5",
+   "titulo": "UGEL San Antonio de Putina evalúa a más de 1,400 estudiantes para conocer su nivel de aprendizaje",
+   "resumen": "Evaluación permitió medir el nivel real de aprendizaje de 1,447 estudiantes de primaria y secundaria de la provincia de San Antonio de Putina, cuyos resultados servirán para implementar mejoras educativas en 2027 Con el lema “Yuyaykunata ruray”, el último jueves, la Unidad de Gestión Educativa…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/ugel-san-antonio-de-putina-evalua-a-mas-de-1400-estudiantes-para-conocer-su-nivel-de-aprendizaje/",
+   "fecha": "2026-11-21T23:38:55Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Antonio de Putina",
+     "ubigeo": "211000",
+     "precision": "provincia",
+     "provincia": "San Antonio de Putina",
+     "departamento": "Puno",
+     "lon": -69.86891,
+     "lat": -14.91403,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "49629e4bb302",
    "titulo": "SMP: cámara de seguridad registra asesinato a balazos de hombre de 29 años en cruce de avenidas Daniel Alcides Carrión y 12 de Octubre",
    "resumen": "Un hombre de 29 años fue asesinado a balazos en San Martín de Porres, cerca del mercado Puente Camote, tras recibir múltiples disparos en plena vía pública.",
@@ -1275,6 +1338,32 @@
      "lat": -10.49143,
      "confianza": 0.9,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7fd5b6f2c739",
+   "titulo": "Mineros artesanales y pequeños mineros de Puno anuncian paro nacional este 23 de noviembre y exigen ampliar el REINFO",
+   "resumen": "Mineros de Puno advierten que miles de trabajadores podrían quedar fuera del proceso de formalización y anuncian movilización nacional este 23 de noviembre Representantes de la pequeña minería y minería artesanal de la región Puno anunciaron su participación en el paro nacional convocado para este…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/mineros-artesanales-y-pequenos-mineros-de-puno-anuncian-paro-nacional-este-23-de-noviembre-y-exigen-ampliar-el-reinfo/",
+   "fecha": "2026-11-21T23:34:42Z",
+   "temas": [
+    "mineria",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": true
     }
    ]
   },
@@ -1378,6 +1467,31 @@
    ]
   },
   {
+   "id": "8fb1757e9bfb",
+   "titulo": "Según el INEI: precios de productos de primera necesidad en Puno registran incremento acumulado de 4.89 %",
+   "resumen": "INEI advierte que la inflación acumulada en Puno llegó al 4.89 % entre enero y noviembre, impulsada por el alza de combustibles y la menor producción agrícola El director departamental del Instituto Nacional de Estadística e Informática (INEI) de Puno, Edgar Velázquez Churata, informó que, los…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/segun-el-inei-precios-de-productos-de-primera-necesidad-en-puno-registran-incremento-acumulado-de-4-89/",
+   "fecha": "2026-11-21T23:30:06Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "63c9981c1a09",
    "titulo": "Keiko Fujimori: “Aspiramos a que el Perú se convierta en un hub logístico de Sudamérica. No solamente para China, sino para toda Asia”",
    "resumen": "Adelantó que, durante la reunión con el presidente chino, analizaron las alianzas que quieren hacer en aduanas inteligentes, para generar rapidez en el comercio entre Shanghái y Chancay.",
@@ -1404,6 +1518,43 @@
    "revisar": true
   },
   {
+   "id": "fde6c5b79752",
+   "titulo": "Ex candidato al Gobierno Regional de Puno, cuestiona preparación de candidatos en segunda vuelta y advierte falta de propuestas para Puno",
+   "resumen": "Walter Monroy cuestiona la falta de propuestas técnicas y equipos sólidos en los candidatos de la segunda vuelta regional y plantea construir un proyecto de desarrollo para Puno al 2030 El ex candidato al Gobierno Regional de Puno por Alianza Venceremos, Walter Monroy Pinto, cuestionó el desempeño…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/ex-candidato-al-gobierno-regional-de-puno-cuestiona-preparacion-de-candidatos-en-segunda-vuelta-y-advierte-falta-de-propuestas-para-puno/",
+   "fecha": "2026-11-21T23:24:32Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alianza",
+     "ubigeo": "210102",
+     "ccpp": "2101020253",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.70909,
+     "lat": -16.12389,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "e6c9173589cf",
    "titulo": "Alerta por dengue: EsSalud advierte un repunte de contagios para diciembre y enero",
    "resumen": "EsSalud advierte que los picos más altos de dengue en Perú ocurrirán en diciembre y enero. Conoce el balance oficial de casos y por qué vigilar el cuarto día.",
@@ -1426,6 +1577,43 @@
      "lat": -11.65636,
      "confianza": 0.7,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bb32464e88c7",
+   "titulo": "Autoridades originarias de Puno anuncian viaje a lima para exigir medidas frente a la escasez hídrica",
+   "resumen": "Autoridades originarias del sur de Puno viajarán a Lima el 13 de enero para exigir al Gobierno la construcción de represas y sistemas de riego ante la creciente escasez hídrica El representante de las autoridades originarias de la zona sur de la región Puno, Leopoldo Quispe, expresó su…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/autoridades-originarias-de-puno-anuncian-viaje-a-lima-para-exigir-medidas-frente-a-la-escasez-hidrica/",
+   "fecha": "2026-11-21T23:21:49Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
     }
    ]
   },
@@ -1561,6 +1749,42 @@
      "lat": -8.36795,
      "confianza": 0.7,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d10d6bf41c29",
+   "titulo": "Destacan que el Instituto Americano de Arte de Puno recibió la visita de representantes de su similar del Cusco",
+   "resumen": "Institutos Americanos de Arte de Puno y Cusco fortalecen sus vínculos históricos mediante un encuentro cultural que promueve la preservación y difusión del patrimonio regional El expresidente del Instituto Americano de Arte de Puno, Efraín Quispe, destacó la visita de dos representantes del…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/destacan-que-el-instituto-americano-de-arte-de-puno-recibio-la-visita-de-representantes-de-su-similar-del-cusco/",
+   "fecha": "2026-11-21T23:06:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": false
     }
    ]
   },

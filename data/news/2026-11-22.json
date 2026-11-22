@@ -2,6 +2,2795 @@
  "fecha": "2026-11-22",
  "noticias": [
   {
+   "id": "45349bdbe9c6",
+   "titulo": "El fósil más raro del mundo es descubierto en Arequipa y nombrado el ‘Scaphokogia huachafo’",
+   "resumen": "Presentan un extraño espécimen de cachalote pigmeo de hace seis millones de años. Su fisonomía es tan indescriptible que ha sido bautizado como ‘Scaphokogia huachafo’.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/eldominical/actualidad/scaphokogia-huachafo-una-ballena-prehistorica-unica-en-el-planeta-hallada-en-arequipa-noticia/",
+   "fecha": "2026-11-22T16:20:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "29e61d625abf",
+   "titulo": "Arequipa registra 21 casos de cáncer de piel y radiación solar alcanza nivel extremo",
+   "resumen": "La Liga contra el Cáncer advierte sobre los efectos de la exposición solar y recomienda identificar cambios en lunares y lesiones en la piel.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/arequipa-registra-21-casos-de-cancer-de-piel-y-radiacion-solar-alcanza-nivel-extremo/",
+   "fecha": "2026-11-22T16:16:20Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "989afcd7c935",
+   "titulo": "Músico murió baleado tras una discusión con su pareja policía en Chorrillos: caso se encuentra en investigación",
+   "resumen": "Los parientes de David Coica cuestionan que conocieron el fallecimiento tres días después y solicitan determinar qué ocurrió durante el incidente con la agente policial",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/musico-murio-baleado-tras-una-discusion-con-su-pareja-policia-en-chorrillos-caso-se-encuentra-en-investigacion/",
+   "fecha": "2026-11-22T16:12:10Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chorrillos",
+     "ubigeo": "150108",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.01647,
+     "lat": -12.1769,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1b83cfe81d1b",
+   "titulo": "Incendios forestales en Ucayali: Minam recuperará 1 000 hectáreas de bosques afectados",
+   "resumen": "Utilizando una innovadora técnica de restauración ecológica que utiliza drones para dispersar semillas de especies nativas, el Ministerio del Ambiente (Minam), a través del Instituto de Investigaciones de la Amazonía Peruana (IIAP), intervino 1 000 hectáreas de bosques afectados por incendios…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-incendios-forestales-ucayali-minam-recuperara-1-000-hectareas-bosques-afectados-1101008.aspx",
+   "fecha": "2026-11-22T16:10:45Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "2e22c95919cf",
+   "titulo": "Pugnas por el Reinfo: estos cuatro diputados de Juntos por el Perú se oponen a la ampliación del registro de minería informal",
+   "resumen": "Los representantes de la región Cajamarca votarían en contra de una fórmula que incluya la ampliación del cuestionado registro. La Comisión de Energía y Minas realizará una audiencia en dicha región.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/pugnas-por-el-reinfo-estos-cuatro-diputados-de-juntos-por-el-peru-se-oponen-a-la-ampliacion-del-registro-de-mineria-informal-congreso-apuesplan-noticia/",
+   "fecha": "2026-11-22T16:10:07Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Minas",
+     "ubigeo": "060412",
+     "ccpp": "0604120010",
+     "precision": "centro_poblado",
+     "provincia": "Chota",
+     "departamento": "Cajamarca",
+     "lon": -79.32892,
+     "lat": -6.28417,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "91fb40a685b3",
+   "titulo": "Incendio cerca de la Plaza de Acho moviliza a 14 unidades de bomberos en el Rímac",
+   "resumen": "Emergencia se registra en un inmueble de la cuadra 5 del jirón Marañón, donde funcionan viviendas y negocios. Bomberos trabajan para controlar las llamas y descartar personas atrapadas.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/22/incendio-cerca-de-la-plaza-de-acho-moviliza-a-13-unidades-de-bomberos-en-el-rimac-2115696",
+   "fecha": "2026-11-22T16:07:59Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rímac",
+     "ubigeo": "150128",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02697,
+     "lat": -12.0422,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "03fedcfa8598",
+   "titulo": "Incendio en el Rímac: bomberos confinan fuego en almacenes cerca de la Plaza de Acho",
+   "resumen": "Bomberos lograron confinar el incendio en almacenes de ropa y productos inflamables cerca de la Plaza de Acho, en el Rímac, según informó Canal N este domingo.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/incendio-en-el-rimac-bomberos-atienden-emergencia-cerca-de-la-plaza-de-acho-noticia/",
+   "fecha": "2026-11-22T16:02:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rímac",
+     "ubigeo": "150128",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02697,
+     "lat": -12.0422,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4d77b7a3b407",
+   "titulo": "Comando Unificado: PNP captura a alias “Rusito” con arma de fuego y droga en el Callao",
+   "resumen": "Como parte de las acciones del Comando Unificado para contrarrestar la criminalidad en el Callao, la Policía Nacional del Perú capturó a Jesús Jeancarlo Camacho Ramos (42), alias “Rusito”, presunto integrante de la banda criminal “Los Malditos de Azapa”. El intervenido tenía en su poder un arma de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-comando-unificado-pnp-captura-a-alias-rusito-arma-fuego-y-droga-el-callao-1101010.aspx",
+   "fecha": "2026-11-22T16:01:55Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f29e46f00966",
+   "titulo": "ANEA región Ica celebra una década de promoción artística y cultural con exposición",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/anea-region-ica-celebra-una-decada-de-promocion-artistica-y-cultural-con-exposicion-noticia/",
+   "fecha": "2026-11-22T16:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7f8dd416a324",
+   "titulo": "Nasca: mujer baleada donde murió su pareja, lucha por su vida en el Hospital Regional de Ica",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/nasca-mujer-baleada-donde-murio-su-pareja-sigue-luchando-por-su-vida-en-el-hospital-regional-de-ica-noticia/",
+   "fecha": "2026-11-22T15:57:08Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Nasca",
+     "ubigeo": "110300",
+     "precision": "provincia",
+     "provincia": "Nasca",
+     "departamento": "Ica",
+     "lon": -74.93734,
+     "lat": -14.82692,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8de82dd708f0",
+   "titulo": "Alto Piura: Detectan sobrevalorización en expediente de presa de Cascapampa",
+   "resumen": "El Órgano de Control Institucional (OCI) del proyecto especial Alto Piura detectó una presunta sobrevaloración por más de 2 millones en una partida del expediente de saldo de obra de la presa Cascapampa. En mayo pasado, el proyecto Alto Piura entregó el proceso de elaboración de expediente de…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/alto-piura-detectan-sobrevalorizacion-en-expediente-de-presa-de-cascapampa/",
+   "fecha": "2026-11-22T15:50:25Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alto Piura",
+     "ubigeo": "220303",
+     "ccpp": "2203030004",
+     "precision": "centro_poblado",
+     "provincia": "El Dorado",
+     "departamento": "San Martín",
+     "lon": -76.89339,
+     "lat": -6.32559,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "406d3500bac6",
+   "titulo": "Diputado exige a Keiko Fujimori cumplir compromisos sobre Los Libertadores y transportistas anuncian paro",
+   "resumen": "El diputado Freshman Buitrón reclamó avances en la vía Los Libertadores, mientras transportistas de Ayacucho evalúan un paro macrorregional",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/diputado-exige-a-keiko-fujimori-cumplir-compromisos-sobre-los-libertadores-y-transportistas-anuncian-paro/",
+   "fecha": "2026-11-22T15:48:50Z",
+   "temas": [
+    "conflicto_social",
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3dce5c416889",
+   "titulo": "Alcalde de Aguas Verdes cuestiona falta de apoyo del Gobierno central tras lluvias: \"Vino la presidenta y ninguna calamina nos entregó\"",
+   "resumen": "César Enrique Chapoñán advirtió que los almacenes municipales están desabastecidos y que el desborde del río Zarumilla ya destruyó más de 3000 hectáreas de cultivo en la provincia, debido al Fenómeno El Niño.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/tumbes/alcalde-de-aguas-verdes-cuestiona-falta-de-apoyo-del-gobierno-central-tras-lluvias-vino-la-presidenta-y-ninguna-calamina-nos-entrego-noticia-1719135",
+   "fecha": "2026-11-22T15:44:16Z",
+   "temas": [
+    "desastres",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Aguas Verdes",
+     "ubigeo": "240302",
+     "precision": "distrito",
+     "provincia": "Zarumilla",
+     "departamento": "Tumbes",
+     "lon": -80.24512,
+     "lat": -3.48177,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Zarumilla",
+     "ubigeo": "240300",
+     "precision": "provincia",
+     "provincia": "Zarumilla",
+     "departamento": "Tumbes",
+     "lon": -80.27556,
+     "lat": -3.50121,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "0fbdc95a5415",
+   "titulo": "Las lluvias e inundaciones en la Arequipa del siglo XVIII y la destrucción que dejaron a su paso",
+   "resumen": "Desde siempre la Ciudad Blanca ha tenido una relación de vulnerabilidad con las lluvias extremas y las inundaciones por su ubicación geográfica y la desordenada expansión urbana",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/las-lluvias-e-inundaciones-en-la-arequipa-del-siglo-xviii-y-la-destruccion-que-dejaron-a-su-paso/",
+   "fecha": "2026-11-22T15:42:08Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3fecb835f73e",
+   "titulo": "Bebé de un año permanece hospitalizada tras sufrir quemaduras en Huascahura",
+   "resumen": "Una bebé de un año permanece hospitalizada en Lima tras caer en una olla con chuño caliente en Huascahura. Su familia solicita apoyo económico",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/bebe-de-un-ano-permanece-hospitalizada-tras-sufrir-quemaduras-en-huascahura/",
+   "fecha": "2026-11-22T15:37:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "692e9e52606a",
+   "titulo": "Puno: mineros de La Rinconada y otras zonas anunciaron movilización para este lunes 23 de noviembre en Juliaca",
+   "resumen": "La movilización busca exigir al Congreso la ampliación del proceso de formalización minera y la aprobación de la Ley MAPE, así como la renuncia del ministro de Energía y Minas, Guillermo Shinno, y de la viceministra Mayra Figueroa.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/puno/puno-mineros-de-la-rinconada-y-otras-zonas-anunciaron-movilizacion-para-este-lunes-23-de-noviembre-en-juliaca-noticia-1719134",
+   "fecha": "2026-11-22T15:37:12Z",
+   "temas": [
+    "mineria",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Ananea",
+     "ubigeo": "211002",
+     "precision": "distrito",
+     "provincia": "San Antonio de Putina",
+     "departamento": "Puno",
+     "lon": -69.53507,
+     "lat": -14.6785,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a09202ac3f77",
+   "titulo": "Emergencia: incendio forestal en el volcán Chachani sigue activo y consume 150 hectáreas en Arequipa",
+   "resumen": "El fuego se mantiene sin control en las faldas del volcán Chachani, en Cayma. Brigadas de Arequipa, Cayma y el Ejército se desplazaron esta mañana para realizar labores de control y extinción.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/22/emergencia-incendio-forestal-en-el-chachani-sigue-activo-y-consume-150-hectareas-en-arequipa-985182",
+   "fecha": "2026-11-22T15:34:47Z",
+   "temas": [
+    "medio_ambiente",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cayma",
+     "ubigeo": "040103",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.54409,
+     "lat": -16.36253,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2cc7adf414cc",
+   "titulo": "Luis Romero sobre Peruanos que Suman: “Es posible generar cambios concretos desde el espacio que cada uno ocupa”",
+   "resumen": "Peruanos que Suman 2026 | Luis Romero | La campaña reconoció en primer lugar a Rómulo Zamora, agricultor de Andahuaylas, y en segundo a Luis Miguel Zárate, docente de Casma. El presidente del directorio del BCP y Credicorp destaca el valor de sus historias y el potencial de sumar nuevos esfuerzos.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/peruanos-que-suman-luis-romero-presidente-del-directorio-del-bcp-y-credicorp-es-posible-generar-cambios-concretos-desde-el-espacio-que-cada-uno-ocupa-noticia/",
+   "fecha": "2026-11-22T15:27:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Andahuaylas",
+     "ubigeo": "030201",
+     "precision": "distrito",
+     "provincia": "Andahuaylas",
+     "departamento": "Apurímac",
+     "lon": -73.38973,
+     "lat": -13.65603,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Casma",
+     "ubigeo": "020801",
+     "precision": "distrito",
+     "provincia": "Casma",
+     "departamento": "Áncash",
+     "lon": -78.30639,
+     "lat": -9.47584,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "278bcb2291fa",
+   "titulo": "Ministerio de Vivienda recupera más de 167 mil m² de terrenos estatales en Piura",
+   "resumen": "El Ministerio de Vivienda, Construcción y Saneamiento (MVCS), a través de la Superintendencia Nacional de Bienes Estatales (SBN), recuperó 13 predios estatales que abarcan más de 167 mil metros cuadrados (16,7 hectáreas) en la provincia de Talara, región Piura, mediante dos operativos destinados a…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/piura/ministerio-de-vivienda-recupera-mas-de-167-mil-m-de-terrenos-estatales-en-piura-noticia/",
+   "fecha": "2026-11-22T15:26:59Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Talara",
+     "ubigeo": "200700",
+     "precision": "provincia",
+     "provincia": "Talara",
+     "departamento": "Piura",
+     "lon": -81.26936,
+     "lat": -4.5795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "12704818d477",
+   "titulo": "Navidad en Lima: exposición gratuita reúne 48 nacimientos artesanales de todo el Perú",
+   "resumen": "La Casa O’Higgins de Lima exhibe 48 nacimientos artesanales de 12 regiones del Perú y un pesebre chileno. Conoce los horarios y cómo visitar la muestra gratis.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/navidad-en-lima-exposicion-gratuita-reune-48-nacimientos-artesanales-de-todo-el-peru-noticia/",
+   "fecha": "2026-11-22T15:23:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "869a90305494",
+   "titulo": "Mensaje del papa León XIV pone en debate la justicia y la reconciliación en un Perú marcado por la violencia",
+   "resumen": "Davinson Correa destaca la presencia de tres comunidades machiguengas y tres ashánincas en el territorio ayacuchano del valle del río Apurímac",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/mensaje-del-papa-leon-xiv-pone-en-debate-la-justicia-y-la-reconciliacion-en-un-peru-marcado-por-la-violencia/",
+   "fecha": "2026-11-22T15:21:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b2e3f31e5ae6",
+   "titulo": "ODPE Tumbes publica cartel de candidatos que disputarán Segunda Elección Regional",
+   "resumen": "La jefa de la ODPE Tumbes, Candelaria Mendoza Ticona, informó que se cumplió con la publicación del cartel de candidatos que participarán en la Segunda Elección Regional 2026 (SER). Asimismo dio a conocer sobre la verificación de los 57 locales de votación, los cuales están propensos a las lluvias…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-odpe-tumbes-publica-cartel-candidatos-disputaran-segunda-eleccion-regional-1101003.aspx",
+   "fecha": "2026-11-22T15:20:28Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fcb5e8c6c953",
+   "titulo": "Miguel Estrada, exministro de Vivienda, Construcción y Saneamiento: “1.4 millones de viviendas de Lima son informales”",
+   "resumen": "Especialista advierte que el 70% de los predios en la capital son autoconstruidos y podrían estar en riesgos. Edificios modernos tampoco están libres de riesgos",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/miguel-estrada-exministro-de-vivienda-construccion-y-saneamiento-14-millones-de-viviendas-de-lima-son-informales-noticia/",
+   "fecha": "2026-11-22T15:18:17Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0b6aaed7a89e",
+   "titulo": "Senamhi advierte lluvias de fuerte a extrema intensidad en Piura hasta el lunes 23 de noviembre",
+   "resumen": "Las lluvias continuarán en diferentes sectores de la región Piura durante los próximos días. El Servicio Nacional de Meteorología e Hidrología del Perú (Senamhi) advirtió que las precipitaciones se presentarán desde el sábado 21 hasta el lunes 23 de noviembre de 2026, con intensidades que podrían…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/senamhi-advierte-lluvias-de-fuerte-a-extrema-intensidad-en-piura-hasta-el-lunes-23-de-noviembre/",
+   "fecha": "2026-11-22T15:10:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8f069b57bb44",
+   "titulo": "Seis comunidades machiguengas y ashánincas habitan el territorio ayacuchano del valle del Apurímac",
+   "resumen": "Davinson Correa destaca la presencia de tres comunidades machiguengas y tres ashánincas en el territorio ayacuchano del valle del río Apurímac.",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/seis-comunidades-machiguengas-y-ashanincas-habitan-el-territorio-ayacuchano-del-valle-del-apurimac/",
+   "fecha": "2026-11-22T15:09:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Apurímac",
+     "ubigeo": "030000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Apurímac",
+     "lon": -72.88598,
+     "lat": -13.62888,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "abc617fb1d20",
+   "titulo": "Piura registra 205 muertes y 8,490 casos de neumonía",
+   "resumen": "La región Piura registra un total de 205 muertes y 8,490 casos de neumonía en lo que va del año 2026, de acuerdo con el último reporte epidemiológico del Centro Nacional de Epidemiología, Prevención y Control de Enfermedades del Ministerio de Salud.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/piura/piura-registra-205-muertes-y-8490-casos-de-neumonia-noticia/",
+   "fecha": "2026-11-22T15:07:21Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2b691f1064ed",
+   "titulo": "Trujillo: Salvavidas rescatan a dos adolescentes en playa de Salaverry",
+   "resumen": "Dos adolescentes de 14 y 15 años fueron rescatados por agentes de la Unidad de Salvataje de la Policía Nacional cuando eran arrastrados por el mar en Salaverry, Trujillo.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/salvavidas-rescatan-a-dos-adolescentes-de-morir-ahogados-en-salaverry-trujillo-peru-noticia/",
+   "fecha": "2026-11-22T15:01:00Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Salaverry",
+     "ubigeo": "130109",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -78.97601,
+     "lat": -8.22431,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2d443387d1bf",
+   "titulo": "Administradora y enfermera mueren en accidente de tránsito en la vía Piura-Paita",
+   "resumen": "Un fatal accidente de tránsito registrado en la carretera Piura–Paita cobró la vida de dos mujeres durante la mañana de ayer sábado. El violento choque entre un tráiler y una miniván dejó también un saldo de cinco personas heridas y dos conductores detenidos, generando gran conmoción entre los…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/piura/administradora-y-enfermera-mueren-en-accidente-de-transito-en-la-via-piura-paita-noticia/",
+   "fecha": "2026-11-22T15:00:18Z",
+   "temas": [
+    "transporte",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Paita",
+     "ubigeo": "200500",
+     "precision": "provincia",
+     "provincia": "Paita",
+     "departamento": "Piura",
+     "lon": -81.09949,
+     "lat": -5.09319,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ccefa6b5dee2",
+   "titulo": "Golpe de calor: ¿qué es, cuáles son sus síntomas y cómo prevenirlo?",
+   "resumen": "A medida que avanzan los días, la temperatura en Lima se eleva y se acerca a los 30 °C o la supera. Ante este panorama, los niños y los adultos mayores son los más vulnerables a sufrir un golpe de calor. ¿Cuáles son las señales de alerta y qué se debe hacer ante esta situación? En esta nota te lo…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-golpe-calor-es-cuales-son-sus-sintomas-y-como-prevenirlo-1100825.aspx",
+   "fecha": "2026-11-22T15:00:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "aacd9cd6cc38",
+   "titulo": "Piura: Entregan 20 barreras de contención a Cocos del Chipe para prevenir inundaciones",
+   "resumen": "Ante el peligro de inundaciones por las intensas precipitaciones pluviales, la Municipalidad Provincial de Piura entregó 20 barreras de contención, en calidad de préstamo, a la Junta Vecinal Comunal (Juveco) de la urbanización Cocos del Chipe, como parte de las acciones de prevención y respuesta…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/piura/piura-entregan-20-barreras-de-contencion-a-cocos-del-chipe-para-prevenir-inundaciones-noticia/",
+   "fecha": "2026-11-22T14:49:14Z",
+   "temas": [
+    "desastres",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200100",
+     "precision": "provincia",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Chipe",
+     "ubigeo": "010205",
+     "ccpp": "0102050014",
+     "precision": "centro_poblado",
+     "provincia": "Bagua",
+     "departamento": "Amazonas",
+     "lon": -78.29003,
+     "lat": -4.79421,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "38962d60220f",
+   "titulo": "Luren Márquez deslumbró con su traje típico inspirado en el Oasis de Ica en el Miss Universo 2026",
+   "resumen": "El sábado 21 de noviembre, la reina peruana desfiló en la competencia de traje típico con un atuendo que cautivó al público y al jurado",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/",
+   "fecha": "2026-11-22T14:47:28Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3338637a9245",
+   "titulo": "Alianza Lima aplasta 5-0 a FC Cajamarca y queda a la espera de la definición del Clausura",
+   "resumen": "Alianza Lima goleó 5-0 a FC Cajamarca en Matute y espera la definición del Clausura para conocer su camino al título nacional 2026",
+   "medio": "Diario Jornada",
+   "medio_id": "jornada",
+   "url": "https://jornada.com.pe/alianza-lima-aplasta-5-0-a-fc-cajamarca-y-queda-a-la-espera-de-la-definicion-del-clausura/",
+   "fecha": "2026-11-22T14:42:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5c662301e0c4",
+   "titulo": "Piura: Pobladores arman puente artesanal en Chulucanas",
+   "resumen": "Con tubos de fierro y tablones de madera cuidadosamente ensamblados, un grupo de pobladores de Chulucanas instaló un puente provisional en medio del cauce del río Yapatera, también conocido como río Chiquito, con el propósito de permitir la circulación segura de vehículos menores y el tránsito…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/piura/piura-pobladores-arman-puente-artesanal-en-chulucanas-noticia/",
+   "fecha": "2026-11-22T14:41:56Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chulucanas",
+     "ubigeo": "200401",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Yapatera",
+     "ubigeo": "200604",
+     "ccpp": "2006040038",
+     "precision": "centro_poblado",
+     "provincia": "Sullana",
+     "departamento": "Piura",
+     "lon": -80.51502,
+     "lat": -4.39509,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e728ff99bf68",
+   "titulo": "Incendio en almacenes de ropa y productos inflamables cerca de la Plaza de Acho, en el Rímac (FOTOS)",
+   "resumen": "Un incendio afecta almacenes de ropa y productos inflamables cerca de la Plaza de Acho, en el Rímac. Bomberos atienden la emergencia reportada este domingo.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/incendio-en-almacenes-de-ropa-y-productos-inflamables-cerca-de-la-plaza-de-acho-en-el-rimac-fotos-noticia/",
+   "fecha": "2026-11-22T14:38:05Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rímac",
+     "ubigeo": "150128",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02697,
+     "lat": -12.0422,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "36581388dd3c",
+   "titulo": "Comando Unificado cumple 44 días con 270 homicidios: asesinatos aumentaron en un 15,9% en el país",
+   "resumen": "En el periodo del 7 de octubre al 19 de noviembre se registraron 270 asesinatos a nivel nacional, 37 más que en los 44 días previos. Lima Metropolitana aumentó 20,3% y el Callao, 35%. En paralelo, octubre cerró con 192 homicidios, la cifra más alta para ese mes desde 2017.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/22/comando-unificado-cumple-44-dias-con-270-homicidios-asesinatos-aumentaron-en-un-159-en-el-pais-783090",
+   "fecha": "2026-11-22T14:37:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.63,
+     "principal": true
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "19453166e102",
+   "titulo": "¡Hasta 13 horas sin agua! Sedapal anuncia corte de agua en Lima este 23 de noviembre: Los distritos afectados",
+   "resumen": "Sedapal ha informado sobre una nueva interrupción del agua potable para el próximo lunes 23 de noviembre. Zonas específicas de Lima no contarán con el servicio hasta las 10:00 p. m. Descubre si tu área está incluida.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/22/corte-de-agua-de-hasta-13-horas-consulta-aqui-los-detalles-del-corte-de-sedapal-en-lima-1850530",
+   "fecha": "2026-11-22T14:33:15Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2e98210c04fb",
+   "titulo": "Retienen al presunto ladrón de celulares en los exteriores de la iglesia Santa Catalina en Juliaca",
+   "resumen": "Un joven de 25 años fue retenido cerca de la iglesia Santa Catalina, en Juliaca, acusado de sustraer celulares durante una misa de bautizo. Sus cómplices huyeron.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/puno/retienen-al-presunto-ladron-de-celulares-en-los-exteriores-de-la-iglesia-santa-catalina-en-juliaca-noticia/",
+   "fecha": "2026-11-22T14:30:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Santa Catalina",
+     "ubigeo": "010520",
+     "precision": "distrito",
+     "provincia": "Luya",
+     "departamento": "Amazonas",
+     "lon": -78.06093,
+     "lat": -6.11363,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3c9af26dd44c",
+   "titulo": "Sucamec neutraliza más de 5 toneladas de explosivos en operación minera de Cusco",
+   "resumen": "Un total de 5683 kilogramos de explosivos industriales y 18 mil metros de cordón detonante inmovilizó el Ministerio del Interior (Mininter), a través de la Superintendencia Nacional de Control de Servicios de Seguridad, Armas, Municiones y Explosivos de Uso Civil (Sucamec), tras detectar graves…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sucamec-neutraliza-mas-5-toneladas-explosivos-operacion-minera-cusco-1101002.aspx",
+   "fecha": "2026-11-22T14:28:26Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "785f30e5e55e",
+   "titulo": "Médicos del Hospital Regional de Pucallpa continuaron una cirugía mientras se registró el sismo de 6,7 en Perú",
+   "resumen": "Las imágenes registraron a al menos cinco profesionales que siguieron con la atención del paciente durante el movimiento telúrico",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/medicos-del-hospital-regional-de-pucallpa-continuaron-una-cirugia-mientras-se-registro-el-sismo-de-67-en-peru/",
+   "fecha": "2026-11-22T14:24:38Z",
+   "temas": [
+    "salud",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "39afefa94c2f",
+   "titulo": "Rímac: 13 unidades de bomberos combaten incendio en inmueble junto a la Plaza de Acho",
+   "resumen": "Un incendio se registra la mañana de este domingo en la cuadra 5 del jirón Marañón, en el Rímac, a pocos metros de la Plaza de Toros de Acho. Al menos 13 unidades de bomberos combaten las llamas y aún no se confirma si hay personas al interior.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/incendio-rimac-jiron-maranon-plaza-acho",
+   "fecha": "2026-11-22T14:20:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rímac",
+     "ubigeo": "150128",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02697,
+     "lat": -12.0422,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "40b2d9b53a2a",
+   "titulo": "¿Quieres adoptar una mascota? Más de 150 perros y gatos buscan hogar en Lima",
+   "resumen": "La Adoptatón 2026 se realizará el 29 de noviembre en el Parque de la Exposición, Lima, con más de 150 mascotas en adopción y servicios veterinarios gratuitos.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/quieres-adoptar-una-mascota-mas-de-150-perros-y-gatos-buscan-hogar-en-lima-noticia/",
+   "fecha": "2026-11-22T14:15:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "19e993a4e213",
+   "titulo": "Advierten riesgo latente por reparación de defensa del río Piura",
+   "resumen": "La reparación de la defensa ribereña de la margen derecha, ubicada detrás de la urb. Quinta Ana María, recién culminaría a fines del mes de diciembre. Esta fue la información que obtuvieron los representantes de la Defensoría del Pueblo, Ministerio Público y Gobierno Regional durante una…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/advierten-riesgo-latente-por-reparacion-de-defensa-del-rio-piura/",
+   "fecha": "2026-11-22T14:02:57Z",
+   "temas": [
+    "conflicto_social",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "00e8e50eab13",
+   "titulo": "Corte de agua en Lima hoy 22 de noviembre: Distritos y horarios afectados",
+   "resumen": "EN VIVO Consulta aquí los distritos de Lima y horarios afectados por el corte de agua programado por el Servicio de Agua Potable y Alcantarillado de Lima (Sedapal) para hoy.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/obras/corte-de-agua-en-lima-hoy-22-de-noviembre-distritos-y-horarios-afectados-noticia-1719120",
+   "fecha": "2026-11-22T14:00:38Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ],
+   "grupo": "240735556a8d"
+  },
+  {
+   "id": "181664cae8d2",
+   "titulo": "La Libertad: Adolescente de 17 años muere tras chocar su motocicleta contra buzón de obra de alcantarillado",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/adolescente-de-17-anos-muere-tras-chocar-su-motocicleta-contra-buzon-de-obra-de-alcantarillado-la-libertad-peru-noticia/",
+   "fecha": "2026-11-22T14:00:00Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1cd7de44a013",
+   "titulo": "Río Tumbes se ubica en el umbral naranja y varios centros poblados podrían afectarse",
+   "resumen": "El río Tumbes registró, a las 06:00 horas de este domingo un caudal de 890.23 m³/s en la estación El Tigre, ubicándose en el umbral naranja, informó el Servicio Nacional de Meteorología e Hidrología (Senamhi).",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-rio-tumbes-se-ubica-el-umbral-naranja-y-varios-centros-poblados-podrian-afectarse-1101001.aspx",
+   "fecha": "2026-11-22T13:58:50Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0d773a349925",
+   "titulo": "Rímac: incendio consume vivienda de material noble cerca de la Plaza de Acho",
+   "resumen": "Según pudo conocer RPP, 14 unidades de bomberos trabajan desde hace más de una hora para controlar las llamas de fuego.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/rimac-incendio-consume-vivienda-de-material-noble-cerca-a-la-plaza-de-acho-noticia-1719117",
+   "fecha": "2026-11-22T13:58:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rímac",
+     "ubigeo": "150128",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02697,
+     "lat": -12.0422,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "319f5da15579",
+   "titulo": "Diputada Jacqueline Tapullima: el caso que compromete a su entorno familiar con videos, armas y presuntos entrenamientos paramilitares",
+   "resumen": "Acusados de liderar entrenamientos paramilitares en la selva. Expediente reservado del Ministerio Público revela audios, pericias policiales y videos en redes sociales que vinculan a Polidoro y David Tapullima con la estructura clandestina del MRTA en San Martín.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/diputada-jacqueline-tapullima-el-caso-que-compromete-a-su-entorno-familiar-con-videos-armas-y-presuntos-entrenamientos-paramilitares-noticia/",
+   "fecha": "2026-11-22T13:47:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín",
+     "ubigeo": "220303",
+     "precision": "distrito",
+     "provincia": "El Dorado",
+     "departamento": "San Martín",
+     "lon": -76.7405,
+     "lat": -6.51441,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "82aa98441bfa",
+   "titulo": "La huella que dejó el papa León XIV en la banda del Conadis, adultos mayores y otros ciudadanos: así recuerdan sus encuentros",
+   "resumen": "Desde el emotivo saludo a los músicos con discapacidad hasta su reencuentro con los residentes de un hogar del Callao, distintas voces reconstruyen los momentos, gestos y recuerdos que marcaron la visita de León XIV al Perú.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/la-huella-que-dejo-el-papa-leon-xiv-en-la-banda-del-conadis-adultos-mayores-y-otros-ciudadanos-asi-recuerdan-sus-encuentros-apuesplan-noticia/",
+   "fecha": "2026-11-22T13:47:24Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f2147d28f92a",
+   "titulo": "Incendio de grandes proporciones al costado de la Plaza de Toros de Acho moviliza 14 unidades de bomberos",
+   "resumen": "El registro de atención incluyó cisternas, escalas, vehículos contra incendios, una ambulancia y equipos de rescate, mientras la intervención continuaba una hora después de haber sido comunicada en el jirón Marañón, en el Rímac",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/rimac-incendio-de-grandes-proporciones-al-costado-de-la-plaza-de-acho-moviliza-mas-de-13-unidades-de-bomberos/",
+   "fecha": "2026-11-22T13:47:16Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rímac",
+     "ubigeo": "150128",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02697,
+     "lat": -12.0422,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d7d2a72d0eeb",
+   "titulo": "Rímac: incendio se registra cerca de la Plaza de Acho",
+   "resumen": "Un fuerte incendio se registra la mañana de este domingo 22 de noviembre en el distrito del Rímac, cerca de la Plaza de Acho. Siete unidades del Cuerpo General de Bomberos Voluntarios fueron desplegadas para atender la emergencia.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/rimac-incendio-se-registra-cerca-de-la-plaza-de-acho-ultimas-noticia/",
+   "fecha": "2026-11-22T13:33:38Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rímac",
+     "ubigeo": "150128",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02697,
+     "lat": -12.0422,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "5ea2dd08a82d",
+   "titulo": "Bomberos atienden incendio en el Rímac cerca de Acho",
+   "resumen": "Un incendio en el Rímac afecta viviendas y negocios de venta de marcos en la cuadra 5 del jirón Marañón, a menos de cinco metros de un muro lateral de la Plaza de Toros de Acho.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/bomberos-atienden-incendio-rimac-cerca-acho-n496397",
+   "fecha": "2026-11-22T13:33:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Rímac",
+     "ubigeo": "150128",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02697,
+     "lat": -12.0422,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6742e08c4fad",
+   "titulo": "Papa León XIV: Zaña aprovecha proyección internacional y prepara fiesta por su aniversario",
+   "resumen": "Con una programación que integra historia, fe, cultura, gastronomía y obras públicas, el distrito de Zaña, en la región Lambayeque, se prepara para celebrar sus 463 años de fundación española, en un aniversario que adquiere especial significado tras la reciente visita del papa León XIV…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-papa-leon-xiv-zana-aprovecha-proyeccion-internacional-y-prepara-fiesta-su-aniversario-1100834.aspx",
+   "fecha": "2026-11-22T13:31:57Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e829367619d1",
+   "titulo": "Arequipa: entre el mito turístico y la realidad, ¿existe realmente el «cementerio de trenes»?",
+   "resumen": "Una infraestructura de décadas que la modernidad ha opacado y prácticamente desaparecido los vestigios de su existencia.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/arequipa-entre-el-mito-turistico-y-la-realidad-existe-realmente-el-cementerio-de-trenes/",
+   "fecha": "2026-11-22T13:24:55Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d8aee6111c41",
+   "titulo": "¿Cómo estará el clima en Piura este 22 de noviembre? Conoce el pronóstico para hoy domingo",
+   "resumen": "Para la noche, la temperatura alcanzará los 29.3 grados, mientras que la probabilidad de precipitación será de 72 %, con una nubosidad del 88%",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/como-estara-el-clima-en-piura-este-22-de-noviembre/",
+   "fecha": "2026-11-22T13:16:11Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "c1a03e8ae2bd",
+   "titulo": "Clima en Arequipa: estas son las temperaturas que predominarán hoy, 22 de noviembre",
+   "resumen": "En cuanto a la lluvia, de acuerdo a las proyecciones meteorológicas, la probabilidad de precipitaciones para esta ciudad será del 25 % durante el día y del 14 % a lo largo de la noche",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/clima-las-temperaturas-que-predominaran-este-22-de-noviembre-en-arequipa/",
+   "fecha": "2026-11-22T13:12:36Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "28af91c1cde5",
+   "titulo": "Camioneta y minivan terminan destruidas tras violento choque en Villa El Salvador",
+   "resumen": "Según pudo conocer RPP, la parte frontal de la minivan quedó destruida, mientras que la parte derecha de la camioneta terminó aplastada tras el accidente.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/villa-el-salvador-choque-entre-camioneta-y-minivan-las-avenidas-jose-carlos-mariategui-y-micaela-bastidas-noticia-1719110",
+   "fecha": "2026-11-22T13:11:34Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Villa",
+     "ubigeo": "210105",
+     "ccpp": "2101050061",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.8168,
+     "lat": -15.70619,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "8d9c27153219",
+   "titulo": "¿Lima con altas temperaturas? Esto anticipa el Senamhi para hoy, domingo 22 de noviembre",
+   "resumen": "El Senamhi prevé temperaturas de hasta 28 ℃, nubosidad durante gran parte del día, ráfagas de viento por la tarde y posible llovizna en sectores de la capital",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/clima-en-peru-el-estado-del-tiempo-para-lima-este-22-de-noviembre/",
+   "fecha": "2026-11-22T13:08:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "97774aa157db",
+   "titulo": "SMP: automóvil se vuelca en la Panamericana Norte y conductor es detenido por presuntamente manejar en estado de ebriedad",
+   "resumen": "El accidente involucró a otros dos vehículos, cuyos daños fueron menores, y generó congestión vehicular en sentido de sur a norte. El conductor fue detenido y trasladado a la comisaría del sector.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/smp-automovil-se-vuelca-en-la-panamericana-norte-y-conductor-es-detenido-noticia-1719114",
+   "fecha": "2026-11-22T13:06:18Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "67d66a1182af",
+   "titulo": "Sismo de 6,7 en Huánuco: conductor murió al caerle rocas sobre su cisterna",
+   "resumen": "Un conductor murió tras el sismo de magnitud 6,7 en Huánuco cuando rocas cayeron sobre su cisterna en el sector de Matichico, Ambo. INDECI reportó 17 viviendas afectadas, 36 inhabitables y daños en la iglesia de Ambo y un centro de salud de Panao.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/sismo-huanuco-conductor-muerto-rocas-ambo",
+   "fecha": "2026-11-22T12:50:07Z",
+   "temas": [
+    "desastres",
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Matichico",
+     "ubigeo": "100201",
+     "ccpp": "1002010041",
+     "precision": "centro_poblado",
+     "provincia": "Ambo",
+     "departamento": "Huánuco",
+     "lon": -76.16958,
+     "lat": -10.18298,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Ambo",
+     "ubigeo": "100200",
+     "precision": "provincia",
+     "provincia": "Ambo",
+     "departamento": "Huánuco",
+     "lon": -76.20447,
+     "lat": -10.12916,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Panao",
+     "ubigeo": "100801",
+     "precision": "distrito",
+     "provincia": "Pachitea",
+     "departamento": "Huánuco",
+     "lon": -75.9941,
+     "lat": -9.89738,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "866126026342",
+   "titulo": "Papa León XIV en Chiclayo: ¿Cómo se movió la economía tras su regreso y al encontrarse con miles de feligreses?",
+   "resumen": "Durante una semana, el retorno del Santo Padre convocó a 737.428 personas y elevó la actividad de transporte, restaurantes, comercios y servicios turísticos en Chiclayo, según cifras regionales",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/papa-leon-xiv-en-chiclayo-como-se-movio-la-economia-tras-su-regreso-y-al-encontrarse-con-sus-miles-de-feligreses/",
+   "fecha": "2026-11-22T12:48:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d36d7ea2d795",
+   "titulo": "Ica: con más de mil ceviches premian triunfo escolar de la I Copa Regional de Colegios",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/ica-mas-de-mil-ceviches-premian-triunfo-escolar-de-la-i-copa-regional-de-colegios-noticia/",
+   "fecha": "2026-11-22T12:47:30Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ica",
+     "ubigeo": "110000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Copa",
+     "ubigeo": "150302",
+     "precision": "distrito",
+     "provincia": "Cajatambo",
+     "departamento": "Lima",
+     "lon": -77.07894,
+     "lat": -10.3865,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "749920a9c518",
+   "titulo": "Fortalecerán técnicas ancestrales a ceramistas del pueblo La Encantada",
+   "resumen": "Utensilios de adornos como jarrones, cántaros o las característicos chilalos o mujeres gruesas, son parte de la cerámica que produce el pueblo de La Encantada, ubicado a escasos 8 Km. de Chulucanas.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/cultura/fortaleceran-tecnicas-ancestrales-a-ceramistas-del-pueblo-la-encantada-noticia/",
+   "fecha": "2026-11-22T12:42:28Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Encantada",
+     "ubigeo": "200401",
+     "ccpp": "2004010027",
+     "precision": "centro_poblado",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.19991,
+     "lat": -5.09304,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Chulucanas",
+     "ubigeo": "200401",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "9f3a64b04bd8",
+   "titulo": "Cáncer de mama: ¿Por qué CENARES ejecutó solo el 50,3% de fondos para combatir la enfermedad oncológica hasta noviembre de 2026?",
+   "resumen": "Un estudio de la organización registró que una de cada cuatro mujeres cambió de estadio entre el diagnóstico y el inicio de su atención, con mayor impacto fuera de Lima",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/cancer-de-mama-por-que-cenares-ejecuto-solo-el-503-de-fondos-para-combatir-la-enfermedad-oncologica-hasta-noviembre-de-2026/",
+   "fecha": "2026-11-22T12:40:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6388ed74e0ca",
+   "titulo": "Dengue avanza y La Libertad se quedó sin vacunas",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/dengue-avanza-y-la-libertad-se-quedo-sin-vacunas-peru-noticia/",
+   "fecha": "2026-11-22T12:39:00Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f0d8b6f8aa06",
+   "titulo": "Dos sismos de magnitud 5.1 y 4.6 se registraron en Pasco y Ucayali este domingo",
+   "resumen": "Dos sismos de magnitud 5.1 y 4.6 se registraron en Pasco y Ucayali este domingo 22 de noviembre de 2026. Conoce los epicentros, horarios y profundidades según el IGP.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/dos-sismos-de-magnitud-51-y-46-se-registraron-en-pasco-y-ucayali-este-domingo-noticia/",
+   "fecha": "2026-11-22T12:37:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e6c6da4b2ce8",
+   "titulo": "Incendio forestal en las faldas del volcán Chachani mantiene en alerta a Arequipa por el avance de las llamas en Cayma",
+   "resumen": "El fuego afecta al menos 150 hectáreas de vegetación y pastos naturales en el sector de Cabrerías. La geografía del lugar dificulta el ingreso de brigadas y equipos especializados para contener la emergencia",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/incendio-forestal-en-las-faldas-del-volcan-chachani-mantiene-en-alerta-a-arequipa-por-el-avance-de-las-llamas-en-cayma/",
+   "fecha": "2026-11-22T12:35:44Z",
+   "temas": [
+    "medio_ambiente",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cayma",
+     "ubigeo": "040103",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.54409,
+     "lat": -16.36253,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ed75cca441fa",
+   "titulo": "Colapsa centro de salud El Milagro en Trujillo por casos de dengue y pacientes son atendidos en el suelo",
+   "resumen": "La saturación por consultas vinculadas al virus llevó a varios pacientes a retornar a sus casas, mientras otros acudían diariamente para controles y seguimiento tras recibir atención médica en la localidad",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/colapsa-centro-de-salud-el-milagro-en-trujillo-por-casos-de-dengue-y-pacientes-son-atendidos-en-el-suelo/",
+   "fecha": "2026-11-22T12:34:53Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "El Milagro",
+     "ubigeo": "130104",
+     "ccpp": "1301040004",
+     "precision": "centro_poblado",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.06665,
+     "lat": -8.02344,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "8b5f3e358cac",
+   "titulo": "Conoce la lujosa casa de Suheyn Cipriani donde confirma es su nido de amor junto a reconocido empresario del medio local",
+   "resumen": "La modelo vive junto al empresario y sus dos hijos en un inmueble con vista al mar, tras dejar su anterior hogar en Chorrillos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/conoce-la-lujosa-casa-de-suheyn-cipriani-donde-confirma-es-su-nido-de-amor-junto-a-reconocido-empresario-del-medio-local/",
+   "fecha": "2026-11-22T12:34:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chorrillos",
+     "ubigeo": "150108",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.01647,
+     "lat": -12.1769,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4a1af88c6ee4",
+   "titulo": "Pisco: avanza el desarrollo en Los Frailes con nuevo parque y campo deportivo",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/pisco-avanza-el-desarrollo-en-los-frailes-con-nuevo-parque-y-campo-deportivo-noticia/",
+   "fecha": "2026-11-22T12:33:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pisco",
+     "ubigeo": "110501",
+     "precision": "distrito",
+     "provincia": "Pisco",
+     "departamento": "Ica",
+     "lon": -76.20156,
+     "lat": -13.70987,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "54462891ad76",
+   "titulo": "Anthony Valdivia Valencia: «La literatura también permite conocer la historia y los problemas de una sociedad»",
+   "resumen": "El escritor y gestor cultural arequipeño reflexiona sobre los desafíos que enfrentan los escritores fuera de Lima y las brechas que persisten en el circuito editorial peruano.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/anthony-valdivia-valencia-la-literatura-tambien-permite-conocer-la-historia-y-los-problemas-de-una-sociedad/",
+   "fecha": "2026-11-22T12:32:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "2becb0d7ae36",
+   "titulo": "Trujillo: ODPE reubica local de votación en Víctor Larco",
+   "resumen": "La Oficina Descentralizada de Procesos Electorales (ODPE) Víctor Larco Herrera dispuso la reubicación de un local de votación para la segunda vuelta que se desarrollará el 6 de diciembre.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/odpe-reubica-local-de-votacion-en-victor-larco-trujillo-la-libertad-noticia/",
+   "fecha": "2026-11-22T12:30:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Víctor Larco Herrera",
+     "ubigeo": "130111",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.04334,
+     "lat": -8.13643,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130100",
+     "precision": "provincia",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "39559def5c22",
+   "titulo": "Temblor hoy en Perú EN VIVO: últimos sismos, epicentro y reporte del IGP del domingo 22 de noviembre de 2026",
+   "resumen": "El temblor se sintió con intensidad IV en Cerro de Pasco y tuvo una profundidad de 132 kilómetros. La actividad reciente incluye los movimientos de magnitudes 6,7 y 5,0 registrados en Junín",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-domingo-22-de-noviembre-de-2026/",
+   "fecha": "2026-11-22T12:29:09Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chaupimarca",
+     "ubigeo": "190101",
+     "precision": "distrito",
+     "provincia": "Pasco",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "grupo": "b3e7a76d11f5",
+   "revisar": true
+  },
+  {
+   "id": "a6f572580020",
+   "titulo": "La gasolina más barata y más cara de Lima este 22 de noviembre",
+   "resumen": "El precio de las gasolinas cambia diariamente en la capital peruana",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/la-gasolina-mas-barata-y-mas-cara-de-lima-este-22-de-noviembre/",
+   "fecha": "2026-11-22T12:16:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "2d049370fa15"
+  },
+  {
+   "id": "131f0f43932f",
+   "titulo": "Yanahuara: obras en torrentera Chullo iniciarían finalmente la próxima semana",
+   "resumen": "La intervención demandará una inversión cercana a los S/ 5 millones y contempla nuevos puentes, reforzamiento de muros y trabajos de protección ante la temporada de lluvias.",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/yanahuara-obras-en-torrentera-chullo-iniciarian-finalmente-la-proxima-semana/",
+   "fecha": "2026-11-22T12:12:24Z",
+   "temas": [
+    "infraestructura",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yanahuara",
+     "ubigeo": "040126",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.53625,
+     "lat": -16.38188,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0c543b643d05",
+   "titulo": "“Red Comparte” visita a las maestras de paja toquilla de Catacaos",
+   "resumen": "Con la finalidad de fortalecer las alternativas económicas en el territorio, representantes de México, Guatemala, El Salvador, Colombia, España, Ecuador, Paraguay y Perú que integran la Red Comparte, realizaron una visita técnica y de acompañamiento al taller artesanal de tejido en paja toquilla…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/cultura/red-comparte-visita-a-las-maestras-de-paja-toquilla-de-catacaos-noticia/",
+   "fecha": "2026-11-22T12:06:44Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Catacaos",
+     "ubigeo": "200105",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.67242,
+     "lat": -5.26727,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "1d2df6cb84a8",
+   "titulo": "Sismo de 6,7 en Perú: conductor murió tras ser alcanzado por rocas en Huánuco",
+   "resumen": "El movimiento telúrico también dejó decenas de casas sin condiciones de habitabilidad, fisuras en una iglesia y bloqueos en dos puntos de la vía nacional",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/sismo-de-67-en-peru-conductor-murio-tras-ser-alcanzado-por-rocas-en-huanuco/",
+   "fecha": "2026-11-22T12:06:12Z",
+   "temas": [
+    "desastres",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "fc608091b663",
+   "titulo": "Comunidades de Aruntaya exigen respuestas al Gobierno Regional por delimitación territorial",
+   "resumen": "Representantes de las comunidades de Aruntaya, Pasto Grande y otros anexos solicitaron respuestas al Gobierno Regional de Moquegua sobre el proceso de delimitación territorial, que continúa pendiente y genera preocupación entre los pobladores. El pedido fue expuesto durante una reunión con la…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/comunidades-de-aruntaya-exigen-respuestas-al-gobierno-regional-por-delimitacion-territorial/",
+   "fecha": "2026-11-22T11:50:20Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Aruntaya",
+     "ubigeo": "180102",
+     "ccpp": "1801020064",
+     "precision": "centro_poblado",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.29952,
+     "lat": -16.60633,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "17ad9ab5682e",
+   "titulo": "Feria astronómica en Cambrune cerró actividades por los 203 años de Carumas",
+   "resumen": "Una feria astronómica realizada en el Observatorio Astronómico del centro poblado de Cambrune marcó el cierre de las actividades por los 203 años de creación política del distrito de Carumas. La actividad contó con la participación del jefe de la Comisión Nacional de Investigación y Desarrollo…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/feria-astronomica-en-cambrune-cerro-actividades-por-los-203-anos-de-carumas/",
+   "fecha": "2026-11-22T11:40:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cambrune",
+     "ubigeo": "180102",
+     "ccpp": "1801020031",
+     "precision": "centro_poblado",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.67818,
+     "lat": -16.82493,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Carumas",
+     "ubigeo": "180102",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.69464,
+     "lat": -16.80913,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2a74aaed6fbd",
+   "titulo": "Buscan reconocimiento de tres danzas ancestrales de Moquegua como Patrimonio Cultural de la Nación",
+   "resumen": "Los procedimientos para obtener el reconocimiento de tres expresiones dancísticas ancestrales de Moquegua como Patrimonio Cultural de la Nación fueron tratados en una reunión de trabajo realizada en el Congreso de la República, con participación de autoridades de Ichuña, Yunga y la comunidad…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/buscan-reconocimiento-de-tres-danzas-ancestrales-de-moquegua-como-patrimonio-cultural-de-la-nacion/",
+   "fecha": "2026-11-22T11:30:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ichuña",
+     "ubigeo": "180204",
+     "precision": "distrito",
+     "provincia": "General Sánchez Cerro",
+     "departamento": "Moquegua",
+     "lon": -70.53556,
+     "lat": -16.14064,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Yunga",
+     "ubigeo": "180211",
+     "precision": "distrito",
+     "provincia": "General Sánchez Cerro",
+     "departamento": "Moquegua",
+     "lon": -70.67784,
+     "lat": -16.19513,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "88555590a87a",
+   "titulo": "Policía realiza entrenamiento de salvamento acuático para la temporada de verano 2027",
+   "resumen": "Quince efectivos policiales de Ilo y Moquegua participan en el Séptimo Curso de Salvamento y Rescate en Medio Acuático, con miras a reforzar la preparación del personal que brindará servicio durante la temporada de verano 2027. Como parte del entrenamiento, los participantes realizaron la primera…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/policia-realiza-entrenamiento-de-salvamento-acuatico-para-la-temporada-de-verano-2027/",
+   "fecha": "2026-11-22T11:30:06Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "59772cf65004",
+   "titulo": "Presentan propuesta de acondicionamiento rural para Santa Cruz de Oyo Oyo en Ichuña",
+   "resumen": "La información preliminar del Esquema de Acondicionamiento Rural del centro poblado Santa Cruz de Oyo Oyo, ubicado en el distrito de Ichuña, fue presentada durante una reunión con participación de autoridades y representantes de diferentes instituciones. En el encuentro participaron la alcaldesa…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/presentan-propuesta-de-acondicionamiento-rural-para-santa-cruz-de-oyo-oyo-en-ichuna/",
+   "fecha": "2026-11-22T11:20:05Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ichuña",
+     "ubigeo": "180204",
+     "precision": "distrito",
+     "provincia": "General Sánchez Cerro",
+     "departamento": "Moquegua",
+     "lon": -70.53556,
+     "lat": -16.14064,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Santa Cruz",
+     "ubigeo": "110505",
+     "ccpp": "1105050019",
+     "precision": "centro_poblado",
+     "provincia": "Pisco",
+     "departamento": "Ica",
+     "lon": -76.14555,
+     "lat": -13.83055,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5b3f5762c4a9",
+   "titulo": "La Libertad: Agricultor muere tras caída de rayo dentro de su casa",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/la-libertad/agricultor-muere-tras-caida-de-rayo-dentro-de-su-casa-la-libertad-peru-noticia/",
+   "fecha": "2026-11-22T11:18:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "199fa5ec014f",
+   "titulo": "Caso “Embarrados de corrupción”: Contraloría abre proceso sancionador por pagos observados en Torata",
+   "resumen": "POR: JULIO FARFÁN VALVERDE La Contraloría General de la República inició un procedimiento administrativo sancionador contra tres personas por las conformidades y pagos de 24 servicios observados en la Municipalidad Distrital de Torata, con un perjuicio económico de S/ 49 087,00 (cuarenta y nueve…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/caso-embarrados-de-corrupcion-contraloria-abre-proceso-sancionador-por-pagos-observados-en-torata/",
+   "fecha": "2026-11-22T11:00:43Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Torata",
+     "ubigeo": "180106",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.84412,
+     "lat": -17.0767,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "da385ae190b3",
+   "titulo": "Realizarán campaña preventiva de diabetes y cáncer en Alto Ensenada",
+   "resumen": "Los vecinos de Deán Valdivia afiliados al Seguro Integral de Salud (SIS) podrán acceder a servicios de prevención y detección de diabetes, cáncer de próstata y de colon durante una jornada que se realizará este jueves 26 de noviembre, desde las 8:00 a. m., en el Puesto de Salud Alto Ensenada. Las…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/realizaran-campana-preventiva-de-diabetes-y-cancer-en-alto-ensenada/",
+   "fecha": "2026-11-22T10:50:25Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Alto Ensenada",
+     "ubigeo": "040703",
+     "ccpp": "0407030005",
+     "precision": "centro_poblado",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -71.84818,
+     "lat": -17.10751,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Dean Valdivia",
+     "ubigeo": "040703",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -71.82666,
+     "lat": -17.14486,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "d1ce6bd82e0d",
+   "titulo": "Adriano Silva destaca entre los máximos anotadores del Nacional de Básquet U15",
+   "resumen": "El joven deportista moqueguano Adriano Silva destacó entre los principales anotadores de la Serie F del Torneo Nacional de Básquet U15 2026, desarrollado del 6 al 8 de noviembre en la ciudad de Moquegua, según la clasificación difundida por la plataforma especializada PeruBasket. Su participación…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/adriano-silva-destaca-entre-los-maximos-anotadores-del-nacional-de-basquet-u15/",
+   "fecha": "2026-11-22T10:40:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "69122510e63f",
+   "titulo": "Clima en Huancayo: cuál será la temperatura máxima y mínima este 22 de noviembre",
+   "resumen": "El estado del tiempo en Perú se ve alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/clima-en-huancayo-cual-sera-la-temperatura-maxima-y-minima-este-22-de-noviembre/",
+   "fecha": "2026-11-22T10:32:16Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huancayo",
+     "ubigeo": "120101",
+     "precision": "distrito",
+     "provincia": "Huancayo",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dc03c283bedc",
+   "titulo": "Predicción del estado del tiempo en Iquitos para este domingo 22 de noviembre",
+   "resumen": "La diversidad climatológica en Perú es tal que se tienen identificados 38 estados del tiempo a lo largo del país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/prediccion-del-estado-del-tiempo-en-iquitos-para-este-domingo-22-de-noviembre/",
+   "fecha": "2026-11-22T10:31:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Iquitos",
+     "ubigeo": "160101",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "aa3fdea292e8",
+   "titulo": "Previsión del clima en Cuzco para antes de salir de casa este 22 de noviembre",
+   "resumen": "El clima en Perú resulta alterado por las condiciones geográficas: sus costas, montañas y selva",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/prevision-del-clima-en-cuzco-para-antes-de-salir-de-casa-este-22-de-noviembre/",
+   "fecha": "2026-11-22T10:31:38Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0a4939e49b1c",
+   "titulo": "Patronato de Bomberos de Islay impulsa mejoras en sus compañías",
+   "resumen": "La Unión Bomberil del Patronato de Bomberos de la Provincia de Islay aprobó la compra de un motor fuera de borda valorizado en US$ 2300 para la Compañía N.° 12 de Mollendo. Por su parte, Tisur contribuirá a poner nuevamente en funcionamiento un motor hidráulico, cuya reparación demandaría…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/patronato-de-bomberos-de-islay-impulsa-mejoras-en-sus-companias/",
+   "fecha": "2026-11-22T10:20:14Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mollendo",
+     "ubigeo": "040701",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "cb0f6753fad2",
+   "titulo": "EPS Ilo y UGEL coordinan abastecimiento de agua en colegios ante El Niño",
+   "resumen": "Ante los posibles efectos del Fenómeno El Niño, la EPS Ilo S. A. y la Unidad de Gestión Educativa Local (UGEL) Ilo sostuvieron una reunión de coordinación con directores de instituciones educativas públicas para fortalecer las medidas preventivas y garantizar el abastecimiento de agua potable en…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/eps-ilo-y-ugel-coordinan-abastecimiento-de-agua-en-colegios-ante-el-nino/",
+   "fecha": "2026-11-22T10:00:20Z",
+   "temas": [
+    "agua",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180301",
+     "precision": "distrito",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9b160b1d909f",
+   "titulo": "Municipalidad de San Antonio realiza sorteo tributario de automóvil cero kilómetros",
+   "resumen": "Hugo Chana resultó ganador del automóvil cero kilómetros, sorteado por la Municipalidad Distrital de San Antonio entre los contribuyentes que cumplieron puntualmente con el pago de sus tributos. El sorteo se realizó como parte de la Campaña Tributaria 2026. La actividad contó con la participación…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/municipalidad-de-san-antonio-realiza-sorteo-tributario-de-automovil-cero-kilometros/",
+   "fecha": "2026-11-22T09:50:37Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Antonio",
+     "ubigeo": "180107",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -71.0247,
+     "lat": -17.32109,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "b27e50e7fdfc",
+   "titulo": "Más de 400 escolares reciben orientación para prevenir la discriminación en Moquegua",
+   "resumen": "Más de 400 estudiantes del primero al quinto año de secundaria de la institución educativa Santa Fortunata participaron en una jornada preventiva sobre discriminación étnico-racial, consumo de sustancias y violencia, organizada por el Comité Provincial de Seguridad Ciudadana (COPROSEC). La…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/mas-de-400-escolares-reciben-orientacion-para-prevenir-la-discriminacion-en-moquegua/",
+   "fecha": "2026-11-22T09:40:01Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dbb8da5a331e",
+   "titulo": "Convocan marcha contra contaminación del río Tambo",
+   "resumen": "Para el próximo jueves 3 de diciembre convocan a una marcha hacia el Gobierno Regional de Arequipa (GRA) con el propósito de exigir medidas frente a la contaminación de las aguas del río Tambo. Los promotores de la protesta denuncian la falta de acciones de las autoridades ante este problema…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/convocan-marcha-contra-contaminacion-del-rio-tambo/",
+   "fecha": "2026-11-22T09:20:52Z",
+   "temas": [
+    "conflicto_social",
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tambo",
+     "ubigeo": "040312",
+     "ccpp": "0403120005",
+     "precision": "centro_poblado",
+     "provincia": "Caravelí",
+     "departamento": "Arequipa",
+     "lon": -73.64824,
+     "lat": -15.45295,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "2937defa45d9",
+   "titulo": "Jóvenes emprendedores de Islay reciben capital semilla",
+   "resumen": "Tres jóvenes emprendedores de la provincia de Islay recibieron capital semilla tras resultar ganadores en la clausura del programa Emprendimiento Juvenil 2026. La iniciativa fue ejecutada por la empresa Samay junto con la Municipalidad Provincial de Islay para fortalecer ideas de negocio en la…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/jovenes-emprendedores-de-islay-reciben-capital-semilla/",
+   "fecha": "2026-11-22T09:10:16Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Islay",
+     "ubigeo": "040700",
+     "precision": "provincia",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.01631,
+     "lat": -17.02929,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "036afa299279",
+   "titulo": "SENAMHI: Pronóstico del clima hoy domingo 22 de noviembre 2026",
+   "resumen": "Consulta el pronóstico del clima hoy en Lima y ciudades del Perú: temperatura actual, sensación térmica, radiación UV, probabilidad de lluvia y reporte oficial del Senamhi actualizado.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/senamhi-pronostico-del-clima-hoy-domingo-22-de-noviembre-2026-noticia-1719107",
+   "fecha": "2026-11-22T09:00:45Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "d88d596e581f"
+  },
+  {
    "id": "afabb9bf9977",
    "titulo": "Temblor en Perú: sismo de magnitud 5.1 con epicentro en Cerro de Pasco",
    "resumen": "El movimiento telúrico ocurrió a las 00:51 del 22 de noviembre, a 25 kilómetros al sureste de Cerro de Pasco. El Instituto Geofísico del Perú informó que tuvo una profundidad de 132 kilómetros y una intensidad IV en la ciudad",
