@@ -2,6 +2,1160 @@
  "fecha": "2026-11-22",
  "noticias": [
   {
+   "id": "60b2e2c674f6",
+   "titulo": "Universitario vs. Sport Huancayo: Fechas confirmadas de las semifinales de la Liga 1",
+   "resumen": "Tras la coronación de Sport Huancayo como ganador del Torneo Clausura se definió que habrá semifinales, instancia que jugarán el propio club huancaíno y Universitario de Deportes, quienes disputarán dos partidos (ida y vuelta) por un lugar en la final de la Liga 1 2026, donde espera Alianza Lima.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-universitario-vs-sport-huancayo-fechas-confirmadas-las-semifinales-de-liga-1-1101048.aspx",
+   "fecha": "2026-11-22T22:27:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "942a941970db",
+   "titulo": "Farid Kahhat advierte sobre protestas violentas: «Alimentan el voto de la extrema derecha» (VIDEO)",
+   "resumen": "Desde Arequipa y en el marco de la última edición del Hay Festival, el internacionalista Farid Kahhat analiza las tensiones políticas, económicas e ideológicas que atraviesan el escenario internacional. ¿Por qué los jóvenes europeos sienten que vivirán peor que sus padres? Kahhat examina la crisis…",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/farid-kahhat-advierte-sobre-protestas-violentas-alimentan-el-voto-de-la-extrema-derecha-video/",
+   "fecha": "2026-11-22T22:26:34Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "baa97a93fd81",
+   "titulo": "Sismo de magnitud 6.7 en Junín provocó daños en Pasco: colapsa torre de iglesia y reportan grietas en viviendas",
+   "resumen": "Un hombre falleció en el límite de San Rafael y Ambo tras ser alcanzado por piedras desprendidas de un cerro mientras conducía un camión de carga",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/sismo-de-magnitud-67-en-junin-provoco-danos-en-pasco-colapsa-torre-de-iglesia-y-reportan-grietas-en-viviendas/",
+   "fecha": "2026-11-22T22:25:59Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.18,
+     "principal": true
+    },
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "San Rafael",
+     "ubigeo": "100207",
+     "precision": "distrito",
+     "provincia": "Ambo",
+     "departamento": "Huánuco",
+     "lon": -76.18209,
+     "lat": -10.33778,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Ambo",
+     "ubigeo": "100200",
+     "precision": "provincia",
+     "provincia": "Ambo",
+     "departamento": "Huánuco",
+     "lon": -76.20447,
+     "lat": -10.12916,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c8d5846600ce",
+   "titulo": "Acciones de Nvidia caen tras la renuncia de su director ejecutivo",
+   "resumen": "¡Tres noticias que están moviendo la agenda nacional en este momento: economía, pensiones y combustibles — y todas pueden afectarte! Un nombramiento y una advertencia: Julio Velarde recibe doctorado honoris causa El economista Julio Velarde fue distinguido con un doctorado honoris causa en una…",
+   "medio": "Diario Satélite",
+   "medio_id": "satelite",
+   "url": "https://satelite.pe/acciones-de-nvidia-caen-tras-la-renuncia-de-su-director-ejecutivo",
+   "fecha": "2026-11-22T22:25:51Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "38340b1144c4",
+   "titulo": "León XIV se despidió del Perú: un recorrido por cuatro décadas de visitas papales",
+   "resumen": "Con la llegada de León XIV al Perú, nuestro país recibe a su tercer pontífice y suma cuatro visitas papales desde 1985. Un análisis de ECData revela cómo han cambiado los recorridos, las convocatorias y los mensajes de los papas a lo largo de cuatro décadas.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/ecdata/leon-xiv-de-juan-pablo-ii-a-leon-xiv-cuatro-visitas-papales-que-marcaron-la-historia-del-peru-chiclayo-papa-peruano-noticia/",
+   "fecha": "2026-11-22T22:18:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3db90d855d80",
+   "titulo": "Segunda vuelta regional: conoce las fechas de los debates en las 15 regiones",
+   "resumen": "El Jurado Nacional de Elecciones (JNE) informó las fechas de los debates en las 15 regiones del país donde habrá segunda vuelta para elegir a su respectivo gobernador y vicegobernadores. Conoce aquí las fechas.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-segunda-vuelta-regional-conoce-las-fechas-los-debates-las-15-regiones-1101030.aspx",
+   "fecha": "2026-11-22T22:13:59Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b88c3b3772af",
+   "titulo": "Keiko Fujimori se reunió con figuras que ayudaron a su padre durante su exilio en Japón",
+   "resumen": "Las reuniones fueron con representantes de The Nippon Foundation, la diputada Yuko Obuchi y el senador Muneo Suzuki. Especialistas en materia política consideraron que la mandataria aprovechó su paso por Japón para saludar al \"albertismo japonés\".",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/22/keiko-fujimori-se-reunio-con-figuras-que-ayudaron-a-su-padre-durante-su-exilio-en-japon-hnews-1506296",
+   "fecha": "2026-11-22T22:12:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "85332017acbc",
+   "titulo": "Renovación Popular evalúa apoyar moción de interpelación contra Carlos Espá por su desempeño en la Cancillería",
+   "resumen": "El diputado Christian Aranda señaló que Espá mantiene un accionar \"más mediático y performista\", lo que ha provocado que, en algunas ocasiones, se caricaturice el rol de la Cancillería.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/22/renovacion-popular-evalua-apoyar-mocion-de-interpelacion-contra-carlos-espa-por-su-desempeno-en-la-cancilleria-hnews-2130678",
+   "fecha": "2026-11-22T22:11:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "151c3eb1bd5e",
+   "titulo": "Renovación Popular evalúa respaldar interpelación al canciller Carlos Espá",
+   "resumen": "El diputado de Renovación Popular, Christian Aranda, señaló que su bancada evalúa respaldar la moción de interpelación contra el canciller Carlos Espá, presentada por la legisladora de Ahora Nación, Marleny Arminta.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/renovacion-popular-evalua-respaldar-interpelacion-al-canciller-carlos-espa-noticia/",
+   "fecha": "2026-11-22T22:03:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "23a14f7f4021",
+   "titulo": "Temblor en Junín: sismo de magnitud 5.0 fue percibido en Lima",
+   "resumen": "Un sismo de magnitud 5.0 se registró en la mañana de hoy lunes 2 de noviembre frente a las costas de la provincia de Huarmey, en la región Áncash, informó el Centro Sismológico Nacional (Censis) del Instituto Geofísico del Perú (IGP).",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/temblor-en-junin-sismo-de-magnitud-50-fue-percibido-en-lima-noticia/",
+   "fecha": "2026-11-22T22:02:32Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Huarmey",
+     "ubigeo": "021100",
+     "precision": "provincia",
+     "provincia": "Huarmey",
+     "departamento": "Áncash",
+     "lon": -78.15177,
+     "lat": -10.06878,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "bf66ded2eaff",
+   "titulo": "Sporting Cristal goleí 4-1 a Cienciano y clasificó a la Copa Sudamericana 2027",
+   "resumen": "Sporting Cristal hizo los deberes este domingo en el Estadio Alberto Gallardo al golear 4-1 a Cienciano, pero no le bastó para coronarse ganador del Torneo Clausura y debe contentarse con su clasificación a la Copa Sudamericana, mismo logro que alcanzaron los cusqueños.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sporting-cristal-golei-41-a-cienciano-y-clasifico-a-copa-sudamericana-2027-1101029.aspx",
+   "fecha": "2026-11-22T22:00:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "28b625063536",
+   "titulo": "Especialista recomienda consumir frutas y verduras para mantener una buena hidratación durante el calor",
+   "resumen": "Jhon Coila aconseja priorizar alimentos ricos en agua, como la sandía, el pepino y el melón, para mantener el organismo hidratado. Ante las altas temperaturas, en el espacio de salud “Vida Saludable” de Radio Onda Azul, Jhon Coila, especialista en alimentación bioenergética, recomendó incrementar…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/especialista-recomienda-consumir-frutas-y-verduras-para-mantener-una-buena-hidratacion-durante-el-calor/",
+   "fecha": "2026-11-22T21:57:13Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "284f1c2c3032",
+   "titulo": "Sport Huancayo goleó 4-1 a Universitario y se corona ganador del Torneo Clausura",
+   "resumen": "Con un juego demoledor, Sport Huancayo hizo respetar su localía al golear 4-1 a Universitario y se proclamó ganador del Torneo Clausura, logro que le permite acceder a las semifinales de la Liga 1 2026, instancia que jugará con el mismo equipo crema por un lugar en la final de la Liga 1 2026.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sport-huancayo-goleo-41-a-universitario-y-se-corona-ganador-del-torneo-clausura-1101028.aspx",
+   "fecha": "2026-11-22T21:51:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0fa3489ebe24",
+   "titulo": "Stephanie Cayo y Alejandro Sanz intercambian románticos mensajes: “Agradezco que la vida nos haya puesto a uno en el camino del otro”",
+   "resumen": "El cantante español agradeció el respaldo constante de la actriz peruana durante su gira internacional con una frase que emocionó a sus seguidores y refuerza la solidez de su relación.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/stephanie-cayo-y-alejandro-sanz-intercambian-romanticos-mensajes-agradezco-que-la-vida-nos-haya-puesto-a-uno-en-el-camino-del-otro/",
+   "fecha": "2026-11-22T21:50:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8b1a162964a8",
+   "titulo": "Sismo de magnitud 5.0 con epicentro en Junín se sintió en Lima y Callao",
+   "resumen": "Un sismo de magnitud 5.0 con epicentro en el departamento de Junín se registró esta tarde y se sintió levemente en las ciudades de Lima y Callao.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-sismo-magnitud-50-epicentro-junin-se-sintio-lima-y-callao-1101046.aspx",
+   "fecha": "2026-11-22T21:46:59Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.26,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "a2f9b66d6636",
+   "titulo": "DNI gratis en 23 regiones del Perú: revisa dónde atenderán, qué trámites podrás realizar y quiénes califican",
+   "resumen": "Las jornadas de documentación itinerante se desarrollarán del 23 al 29 de noviembre en comunidades, centros poblados y sectores urbanos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/dni-gratis-en-23-regiones-del-peru-revisa-donde-atenderan-que-tramites-podras-realizar-y-quienes-califican/",
+   "fecha": "2026-11-22T21:46:16Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "84be35769f8f",
+   "titulo": "“La bola negra”, demasiada vanidad entre tanto escombro",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/eldominical/resenas/la-bola-negra-demasiada-vanidad-entre-tanto-escombro-critica-noticia/",
+   "fecha": "2026-11-22T21:45:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9ac86e383b50",
+   "titulo": "Vínculos seguros y la pertenencia social son claves para el bienestar emocional",
+   "resumen": "El bienestar emocional surge cuando podemos estar con otros sin dejar de estar con nosotros mismos, por lo que es importante construir lazos sólidos en la comunidad.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/vinculos-seguros-y-la-pertenencia-social-son-claves-para-el-bienestar-emocional-noticia-1719130",
+   "fecha": "2026-11-22T21:44:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1353e9d3577d",
+   "titulo": "Inversión en infraestructura concesionada creció 14.4% hasta octubre de 2026",
+   "resumen": "El Ositrán informó que las inversiones superaron los US$1,071 millones durante los primeros diez meses del año. Los sectores de carreteras y aeropuertos registraron los mayores incrementos, con avances de 67.2% y 49.7%, respectivamente.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/economia/inversion-en-infraestructura-concesionada-crecio-144-hasta-octubre-de-2026-noticia/",
+   "fecha": "2026-11-22T21:32:49Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "003cbcde1fc8",
+   "titulo": "JNJ publica cronograma complementario de concursos para nombramiento de jueces",
+   "resumen": "La Junta Nacional de Justicia (JNJ) publicó, en el Boletín Oficial de la Magistratura, el cronograma complementario de los concursos para seleccionar y nombrar jueces y jueces de control de las convocatorias 002, 003, 004 y 005-2026-SN/JNJ.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/jnj-publica-cronograma-complementario-de-concursos-para-nombramiento-de-jueces-noticia/",
+   "fecha": "2026-11-22T21:14:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b502c0d7a892",
+   "titulo": "Claudia Arrieta, escritora arequipeña: “Este cuento es para todas las edades”",
+   "resumen": "La escritora arequipeña Claudia Arrieta, autora del poemario “Tú, mi hoguera”, presenta El secreto de la nube, una historia que transcurre en un reino lejano: en sus costas habita una misteriosa mujer rodeada de leyendas y, en el castillo real, una princesa lucha por su vida. Editado por Voces…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/claudia-arrieta-escritora-arequipena-este-cuento-es-para-todas-las-edades-noticia/",
+   "fecha": "2026-11-22T21:12:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "877ee03669eb",
+   "titulo": "Boris Espezúa recibe homenaje en la Feria Internacional del Libro Puno 2026 por su aporte a la literatura",
+   "resumen": "El poeta puneño fue reconocido por su trayectoria y contribución a la cultura regional. Durante la ceremonia también se presentó la obra “Morar detrás de la lluvia”. En el marco de la tercera edición de la Feria Internacional del Libro Puno 2026, autoridades locales rindieron un emotivo homenaje…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/boris-espezua-recibe-homenaje-en-la-feria-internacional-del-libro-puno-2026-por-su-aporte-a-la-literatura/",
+   "fecha": "2026-11-22T21:07:24Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f1179053a050",
+   "titulo": "Pianistas peruanos logran 10 premios y cuatro primeros puestos en festival internacional en Colombia",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/pianistas-peruanos-logran-10-premios-y-cuatro-primeros-puestos-en-festival-internacional-en-colombia-noticia/",
+   "fecha": "2026-11-22T21:00:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "58ce7089e123",
+   "titulo": "Ejecutivo crea registro de organizaciones criminales con prácticas terroristas y establece penas de hasta 35 años de cárcel",
+   "resumen": "El Poder Ejecutivo promulgó un decreto legislativo que modifica la Ley Contra el Crimen Organizado (Ley N.º 30077) y crea el Registro Nacional de Organizaciones Criminales con Prácticas Terroristas (RENOCTE). La medida busca identificar y combatir a las bandas delictivas que utilizan explosivos o…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/22/ejecutivo-crea-registro-de-organizaciones-criminales-con-practicas-terroristas-y-establece-penas-de-hasta-35-anos-de-carcel/",
+   "fecha": "2026-11-22T20:56:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5e42aebcd5e5",
+   "titulo": "Gobierno autoriza la graduación excepcional de 341 cadetes de la PNP",
+   "resumen": "El Gobierno autorizó, de manera excepcional y por causas de interés nacional, el egreso y graduación de 341 cadetes de la Escuela de Oficiales de la Policía Nacional del Perú, integrantes de la Promoción “Precursores” 2023-2027.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/gobierno-autoriza-la-graduacion-excepcional-de-341-cadetes-de-la-pnp-noticia/",
+   "fecha": "2026-11-22T20:56:42Z",
+   "temas": [
+    "seguridad",
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f2c1c6ad251a",
+   "titulo": "Fintech impulsan inclusión financiera con reducción del tiempo de aprobación de créditos",
+   "resumen": "Las fintech reducen el tiempo de aprobación de créditos de días a minutos e impulsan de esta manera el acceso al financiamiento a miles de peruanos mediante el uso de tecnología avanzada, especialmente en los trabajadores independientes y la micro y pequeña empresa (mype), indicó Capital Pacífico…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-fintech-impulsan-inclusion-financiera-reduccion-del-tiempo-aprobacion-creditos-1101041.aspx",
+   "fecha": "2026-11-22T20:55:13Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "44180ee8eb3e",
+   "titulo": "JNJ publica cronograma para seleccionar y nombrar jueces",
+   "resumen": "La Junta Nacional de Justicia difundió en el Boletín Oficial de la Magistratura las fechas correspondientes a cuatro convocatorias de 2026.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/jnj-publica-cronograma-seleccionar-y-nombrar-jueces-n496401",
+   "fecha": "2026-11-22T20:50:13Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f94b1e02efec",
+   "titulo": "PNP: Gobierno aprueba graduación anticipada de 341 cadetes por razones de seguridad",
+   "resumen": "Los integrantes de la promoción “Precursores” 2023-2027 podrán obtener su despacho policial sin contar previamente con el grado académico de bachiller. La graduación está prevista para el 28 de noviembre de 2026, según la disposición del Gobierno.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/gobierno-autoriza-egreso-excepcional-de-341-cadetes-de-la-escuela-de-oficiales-de-la-pnp-noticia/",
+   "fecha": "2026-11-22T20:39:28Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "566ced5f3086",
+   "titulo": "¿Gastritis o cáncer de estómago? Estas señales de alerta no debes ignorar",
+   "resumen": "El cáncer de estómago registra más de 6 mil casos anuales en Perú. Conoce los síntomas de alerta, riesgos de Helicobacter pylori y cuándo acudir al médico.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/salud/gastritis-o-cancer-de-estomago-estas-senales-de-alerta-no-debes-ignorar-noticia/",
+   "fecha": "2026-11-22T20:36:34Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ee157f6a1e2e",
+   "titulo": "MTPE ofrece más de 18 mil puestos de trabajo en Perú: vacantes disponibles y cómo postular gratis",
+   "resumen": "El sistema emplea IA para vincular el perfil de cada postulante con los anuncios disponibles, según la formación, la experiencia y las habilidades registradas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/mtpe-ofrece-mas-de-18-mil-puestos-de-trabajo-en-peru-vacantes-disponibles-y-como-postular-gratis/",
+   "fecha": "2026-11-22T20:33:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ef11d37c8cc8",
+   "titulo": "Congreso: Más dinero para seguridad ciudadana en el país",
+   "resumen": "La Ley de Presupuesto del Sector Público para el año fiscal 2027 abrió la posibilidad de destinar mayores recursos a la seguridad ciudadana.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/congreso-mas-dinero-para-seguridad-ciudadana-en-el-pais-noticia/",
+   "fecha": "2026-11-22T20:28:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7dfb77f9101c",
+   "titulo": "Cint G, la hija de Tongo, llegó a pesar 48 kilos por las exigencias de su mánager y exnovio: \"Me descompensaba\"",
+   "resumen": "La cantante reveló que una relación marcada por el control sobre su cuerpo afectó profundamente su salud y autoestima. Un año después, convierte esa experiencia en música con un álbum que incluye el legado de su padre.",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/cint-g-la-hija-de-tongo-llego-a-pesar-48-kilos-por-las-exigencias-de-su-manager-y-exnovio-me-descompensaba/",
+   "fecha": "2026-11-22T20:27:27Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "92581b962cf4",
+   "titulo": "Carreteras y aeropuertos impulsan mayor inversión en infraestructura concesionada",
+   "resumen": "Las inversiones valorizadas en las infraestructuras de transporte de uso público concesionadas crecieron 14.4% entre enero y octubre de 2026 y alcanzaron los 1,071 millones 816,285 dólares frente a los 937 millones 274,688 dólares del similar periodo del 2025, destacó el Organismo Supervisor de la…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-carreteras-y-aeropuertos-impulsan-mayor-inversion-infraestructura-concesionada-1101038.aspx",
+   "fecha": "2026-11-22T20:27:27Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "199731f3afc1",
+   "titulo": "Juan Sheput sobre teletrabajo: “No es posible que un ciudadano se enfrente a una pantalla apagada”",
+   "resumen": "Juan Sheput propone cambios al teletrabajo en entidades públicas del Perú para garantizar atención presencial. Ciudadanos pueden enviar aportes hasta el 26 de noviembre.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/juan-sheput-sobre-teletrabajo-no-es-posible-que-un-ciudadano-se-enfrente-a-una-pantalla-apagada-noticia/",
+   "fecha": "2026-11-22T20:18:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a664aba552d3",
+   "titulo": "El Niño no espera: las 4 medidas que debían activarse antes que las quebradas en Perú, ¿se están cumpliendo?",
+   "resumen": "El riesgo no empieza cuando el agua ingresa a una vivienda, sino cuando una ciudad desconoce qué zonas pueden inundarse y cómo responderá ante un corte de vías. Tome nota",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/el-nino-no-espera-las-4-medidas-que-debian-activarse-antes-que-las-quebradas-en-peru-se-estan-cumpliendo/",
+   "fecha": "2026-11-22T20:17:04Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ff225adbc994",
+   "titulo": "Senamhi alerta por fuertes vientos de más de 40 km/h en Lima, Ica y Arequipa hasta el martes 24 de noviembre",
+   "resumen": "El Instituto Nacional de Defensa Civil (INDECI) recomienda a la población adoptar medidas preventivas y contar con un Plan Familiar de Emergencias ante posibles riesgos por condiciones meteorológicas.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/22/senamhi-alerta-por-fuertes-vientos-de-mas-de-40-kmh-en-lima-ica-y-arequipa-hasta-el-martes-24-de-noviembre-439846",
+   "fecha": "2026-11-22T20:10:28Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Ica",
+     "ubigeo": "110101",
+     "precision": "distrito",
+     "provincia": "Ica",
+     "departamento": "Ica",
+     "lon": -75.72929,
+     "lat": -14.06356,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4eb053e4272f",
+   "titulo": "Carlos Alcaraz derrota a Alexander Zverev y conquista su primer Masters ATP",
+   "resumen": "El español Carlos Alcaraz derrotó al alemán Alexander Zverev, número uno mundial, en la final de este domingo en Turín para conquistar su primer Masters ATP, un torneo que se le escapó siempre a su ilustre compatriota Rafa Nadal.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-carlos-alcaraz-derrota-a-alexander-zverev-y-conquista-su-primer-masters-atp-1101032.aspx",
+   "fecha": "2026-11-22T19:58:42Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "af58b5a96281",
+   "titulo": "Korina Rivadeneira rechazó el reclamo de Mario Hart por sus besos de ficción con Nacho Di Marco: “Es una obra de teatro”",
+   "resumen": "La actriz habló tras las declaraciones de su expareja, quien expresó su sorpresa por una escena de besos en una obra de teatro",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/korina-rivadeneira-rechazo-el-reclamo-de-mario-hart-por-sus-besos-de-ficcion-con-nacho-di-marco-es-una-obra-de-teatro/",
+   "fecha": "2026-11-22T19:51:04Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1aa945cb2cd0",
+   "titulo": "Gobierno autoriza egreso excepcional a cadetes de la Escuela de Oficiales de la Policía Nacional del Perú",
+   "resumen": "La medida alcanza a 341 integrantes de la promoción “Precursores” 2023-2027 y busca reforzar el personal policial para combatir con la delincuencia.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/gobierno-autoriza-egreso-excepcional-a-cadetes-de-la-escuela-de-oficiales-de-la-policia-nacional-del-peru-ultimas-noticia/",
+   "fecha": "2026-11-22T19:45:54Z",
+   "temas": [
+    "seguridad",
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8c243fa2e7c2",
+   "titulo": "¿Empiezas en el gimnasio? Estas son las cinco lesiones más comunes y cómo evitarlas",
+   "resumen": "¿Vas a empezar en el gimnasio? Conoce las cinco lesiones musculares y articulares más frecuentes, sus señales de alerta y cómo prevenirlas al entrenar.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/salud/empiezas-en-el-gimnasio-estas-son-las-cinco-lesiones-mas-comunes-y-como-evitarlas-noticia/",
+   "fecha": "2026-11-22T19:41:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "cf11f0675627",
+   "titulo": "Ejecutivo crea registro de organizaciones criminales con prácticas terroristas y fija penas de hasta 35 años de cárcel",
+   "resumen": "La norma incorpora el artículo 317-C al Código Penal para sancionar atentados con explosivos o armas de guerra cometidos con fines de lucro. Además, faculta a la Unidad de Inteligencia Financiera del Perú (UIF-Perú) a congelar de inmediato los activos de los implicados y dispone la emisión de…",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/politica/gobierno/ejecutivo-crea-registro-de-organizaciones-criminales-con-practicas-terroristas-y-fija-penas-de-hasta-35-anos-de-carcel-noticia-1719163",
+   "fecha": "2026-11-22T19:38:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9d0a05f513e1",
+   "titulo": "Incertidumbre en el Estadio Nacional por presentación de la Festividad de la Virgen de la Candelaria 2027",
+   "resumen": "Más de 2 000 personas, entre danzantes y asistentes, esperaban en los exteriores del recinto deportivo para participar en el lanzamiento de la tradicional celebración puneña. Sin embargo, las puertas permanecían cerradas y la organización no había informado si el evento se realizaría.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/cultura/mas-cultura/incertidumbre-en-el-estadio-nacional-por-presentacion-de-la-festividad-de-la-virgen-de-la-candelaria-2027-noticia-1719162",
+   "fecha": "2026-11-22T19:26:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "42b2dd34a78f",
+   "titulo": "Cuestionan pruebas que vinculan a Pedro Mo y Brenda Jah con el MRTA",
+   "resumen": "La operación Centinela 2026 detuvo a Pedro Mo, Brenda Jah y otras tres personas por presunta afiliación terrorista. Las pruebas incluyen videos de personas encapuchadas y una denuncia anónima, lo que genera dudas sobre la identificación de los investigados.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/cuestionan-pruebas-pedro-mo-brenda-jah-mrta",
+   "fecha": "2026-11-22T19:20:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3100aa3c14d9",
+   "titulo": "Perú y Japón firman acuerdo sobre minerales críticos",
+   "resumen": "El memorando de entendimiento, suscrito durante la visita de Estado de Keiko Fujimori a Japón, tendrá una vigencia de tres años y busca fortalecer las cadenas de suministro de minerales críticos y diversificar la capacidad de fundición y refinación de cobre. En el marco de la visita de Estado de…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/mineria/peru-y-japon-firman-acuerdo-sobre-minerales-criticos/",
+   "fecha": "2026-11-22T19:20:03Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0f592acd384b",
+   "titulo": "INPE: Ejército construirá dos nuevos penales con apoyo anunciado de Estados Unidos",
+   "resumen": "Abraham Lescano, presidente del INPE, informó que Defensa construirá dos nuevos penales con apoyo anunciado de EE. UU. ante el hacinamiento de 107 mil internos.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/inpe-ejercito-construira-dos-nuevos-penales-con-apoyo-anunciado-de-estados-unidos-noticia/",
+   "fecha": "2026-11-22T19:16:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "bac39fb58caf",
+   "titulo": "ProInversión impulsa 23 proyectos y una adenda por US$ 9.592 millones para el desarrollo del norte del Perú",
+   "resumen": "La ejecución de la cartera de inversiones impulsará mejores servicios de salud, saneamiento, energía y conectividad. La Agencia de Promoción de la Inversión Privada (ProInversión), adscrita al Ministerio de Economía y Finanzas (MEF), informó que impulsa una cartera de 23 proyectos bajo la…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/economia/proinversion-desarrollo-del-norte-del-peru/",
+   "fecha": "2026-11-22T19:13:40Z",
+   "temas": [
+    "agua",
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e08fc03134d5",
+   "titulo": "Histórico: Perú tendrá sus primeros tres Colegios de Alto Rendimiento construidos y operados por un privado, ¿dónde estarán?",
+   "resumen": "Casi 900 estudiantes altamente calificados por año. Por primera vez, tres COAR serán adjudicados bajo una asociación público-privada, luego de que Grupo Marhnos recibiera S/ 274 millones de Cofide y Santander",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/historico-peru-tendra-sus-primeros-tres-coar-mediante-app-donde-estaran-ubicados-y-cuantos-estudiantes-recibiran/",
+   "fecha": "2026-11-22T19:13:06Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e13cb970ab78",
+   "titulo": "Agro Rural “siembra y cosecha agua” para impulsar productividad de la agricultura familiar",
+   "resumen": "En el Perú, millones de familias viven de la actividad agropecuaria a pequeña escala, y el agua es un factor clave; por ello el Gobierno focaliza su trabajo para incrementar la productividad.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-agro-rural-siembra-y-cosecha-agua-para-impulsar-productividad-de-agricultura-familiar-1101027.aspx",
+   "fecha": "2026-11-22T19:11:02Z",
+   "temas": [
+    "economia",
+    "agua"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "924f4382799f",
+   "titulo": "Si el que tiene el control, pierde el control, todo está perdido: las 4 variables que todo líder debe saber antes de delegar",
+   "resumen": "El error que más se nota en una empresa no siempre es el que más cuesta, y esa diferencia puede definir hasta dónde llega la autonomía de un equipo, según expertos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/si-el-que-tiene-el-control-pierde-el-control-todo-esta-perdido-las-4-variables-que-todo-lider-debe-saber-antes-de-delegar/",
+   "fecha": "2026-11-22T19:05:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5b56f89ddc99",
+   "titulo": "AFP y CTS: proponen liberar hasta S/22.000 y ampliar los retiros hasta 2028 ante El Niño",
+   "resumen": "El retiro de los fondos de las AFP y la libre disponibilidad de la Compensación por Tiempo de Servicios (CTS) vuelven a generar debate en el Congreso. Dos iniciativas legislativas plantean permitir que los trabajadores dispongan de sus ahorros en medio de la preocupación por las consecuencias…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/economia/afp-y-cts-proponen-liberar-hasta-s-22-000-y-ampliar-los-retiros-hasta-2028-ante-el-nino/",
+   "fecha": "2026-11-22T19:00:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "64f9a5e31eeb",
+   "titulo": "Beca 18: conoce dónde ver los resultados del examen nacional de preselección",
+   "resumen": "Más de 50 000 jóvenes de buen rendimiento académico y en condición de vulnerabilidad acudieron este domingo 22 de noviembre a rendir el examen de Beca 18, convocatoria 2027, que se realizó en todo el país, y en el que, por primera vez, se aplicará el puntaje mínimo de aprobación para fortalecer la…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-beca-18-conoce-donde-ver-los-resultados-del-examen-nacional-preseleccion-1101018.aspx",
+   "fecha": "2026-11-22T19:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "851ccd93d205",
+   "titulo": "Carol Reali, Cachaza, presenta públicamente a Asher, su primer hijo con André Bankoff y le dedica emotivo mensaje",
+   "resumen": "La influencer sorprendió al mostrar el rostro de su bebé a pocos días de dar a luz y no dudó en dejarle un extenso post",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/carol-reali-cachaza-presenta-publicamente-a-asher-su-primer-hijo-con-andre-bankoff-y-le-dedica-emotivo-mensaje/",
+   "fecha": "2026-11-22T18:53:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1166ad4af051",
+   "titulo": "Pochettino debuta como entrenador del Manchester United con derrota 4-0 ante Liverpool",
+   "resumen": "El argentino Mauricio Pochettino se estrenó como nuevo entrenador del Manchester United con una dura derrota 4-0 de visita ante el Liverpool este domingo, en la 11ª jornada de la Premier League.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-pochettino-debuta-como-entrenador-del-manchester-united-derrota-40-ante-liverpool-1101025.aspx",
+   "fecha": "2026-11-22T18:48:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c87ba6ea90ce",
+   "titulo": "Miley Cyrus y Maxx Morando se casan en una ceremonia privada en Palm Springs",
+   "resumen": "La cantante y el baterista de la banda Liily celebraron su boda el sábado, rodeados de familiares y amigos. Billy Ray Cyrus estuvo entre los invitados tras reconciliarse con su hija.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/famosos/celebridades/miley-cyrus-y-maxx-morando-se-casan-en-una-ceremonia-privada-en-palm-springs-noticia-1719157",
+   "fecha": "2026-11-22T18:39:45Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "bf9e4e3c4466",
+   "titulo": "“La bola negra”: razones por las que la cinta española podría ganarle el Oscar a “La Odisea”",
+   "resumen": "La película dirigida por Los Javis se llevó la Palma de Oro a la mejor dirección en Cannes y hoy suena fuerte para la temporada de los Oscar. Todo sobre \"La bola negra\".",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/eldominical/actualidad/la-bola-negra-razones-por-las-que-la-cinta-espanola-podria-ganarle-el-oscar-a-la-odisea-noticia/",
+   "fecha": "2026-11-22T18:34:48Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "12b4fd0d9fc6",
+   "titulo": "Cuál es la canción de K-pop más reproducida del momento en iTunes Perú hoy",
+   "resumen": "La agrupación BTS ostenta el liderazgo como principal exponente del K-pop, estableciendo récords mundiales y transformando el modo en que los seguidores impactan en la industria musical",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/cual-es-la-cancion-de-k-pop-mas-reproducida-del-momento-en-itunes-peru-hoy/",
+   "fecha": "2026-11-22T18:31:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ad4e27f72f27",
+   "titulo": "“La bola negra”: de qué trataba el mecanismo de segregación social en España que le da nombre a la película de Los Javis",
+   "resumen": "Antes de ser el título de una obra inacabada de Federico García Lorca, “La bola negra” fue un sistema que los clubes privados usaban para vetar a candidatos. Su historia atraviesa la masonería, los clubes británicos y los casinos de la élite española.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/eldominical/articulos-historicos/la-bola-negra-de-que-trataba-el-mecanismo-de-segregacion-social-en-espana-que-le-da-nombre-a-la-pelicula-de-los-javis-noticia/",
+   "fecha": "2026-11-22T18:28:54Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7d79a153e05b",
+   "titulo": "Santa Lita… Pezo",
+   "resumen": "*Lo ideal era que el coliseo se llene de público. Son los signos de estos tiempos. “La pantojita” nos llenó de emoción y juntos celebramos su vida artística. Ella dice que son diez, otros que desde los cuatro años canta. Lo cierto es que aún antes de nacer Lita ya tenía los genes musicales. Nos…",
+   "medio": "Pro & Contra",
+   "medio_id": "proycontra",
+   "url": "https://proycontra.com.pe/noticias/santa-lita-pezo",
+   "fecha": "2026-11-22T18:25:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1f794e953b3e",
+   "titulo": "¿Comisión por flujo o saldo? Qué deben evaluar los afiliados de las AFP antes de elegir",
+   "resumen": "Más de 1,8 millones de personas tendrán cinco meses para definir cómo se calculará el cobro de su administradora previsional a partir de junio de 2027",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/comision-por-flujo-o-saldo-que-deben-evaluar-los-afiliados-de-las-afp-antes-de-elegir/",
+   "fecha": "2026-11-22T18:16:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "39c4ba0844d6",
+   "titulo": "El intercambio entre Perú y China hasta septiembre prácticamente ha igualado todo lo comerciado en 2025",
+   "resumen": "Se acerca un nuevo récord. Las operaciones comerciales entre ambos países crecieron 30,6% en los primeros nueve meses de 2026 y podrían superar los máximos del año anterior, según la CCL",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/el-intercambio-entre-peru-y-china-hasta-septiembre-practicamente-ha-igualado-todo-lo-comerciado-en-2025/",
+   "fecha": "2026-11-22T18:15:07Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "bd681047fcd6",
+   "titulo": "Más de 18.500 animales murieron en el litoral peruano: calentamiento del mar agrava falta de alimento",
+   "resumen": "Entre enero y octubre se registraron 18.585 muertes de aves y mamíferos marinos. El lobo chusco concentra casi 6 de cada 10 casos. Especialistas advierten que el aumento de la temperatura del mar desplaza a la anchoveta y afecta la alimentación de la fauna.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/22/mas-de-18500-animales-murieron-en-el-litoral-peruano-en-2026-y-el-calentamiento-del-mar-agrava-la-falta-de-alimento-596178",
+   "fecha": "2026-11-22T18:08:58Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "41ec4ea55d1f",
+   "titulo": "Gobierno autoriza graduación excepcional de 341 cadetes PNP",
+   "resumen": "El Gobierno autorizó el egreso y graduación excepcional de 341 cadetes de la Escuela de Oficiales de la Policía Nacional del Perú, pertenecientes a la Promoción “Precursores” 2023-2027, tras culminar el VIII semestre académico el 28 de noviembre de 2026.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/gobierno-autoriza-graduacion-excepcional-341-cadetes-pnp-n496400",
+   "fecha": "2026-11-22T18:00:00Z",
+   "temas": [
+    "seguridad",
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "34439e9030da",
+   "titulo": "Donnie Yaipén descartó rivalidades entre los Yaipén y sus distintas orquestas: “Cada uno ve lo suyo”",
+   "resumen": "El hijo de Javier Yaipén negó conflictos entre las orquestas de la familia y contó cómo mantienen su independencia",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/donnie-yaipen-descarto-rivalidades-entre-los-yaipen-y-sus-distintas-orquestas-cada-uno-ve-lo-suyo/",
+   "fecha": "2026-11-22T17:57:03Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "67beaa7e1690",
+   "titulo": "EsSalud descarta contagio de viruela del mono en hospital Almenara tras muerte de paciente",
+   "resumen": "EsSalud descarta que paciente oncológico fallecido se contagiara de viruela del mono en el hospital Almenara. Especialista explica los resultados de la investigación.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/paciente-con-cancer-muere-tras-contraer-viruela-del-mono-en-hospital-almenara-familia-denuncia-contagio-noticia/",
+   "fecha": "2026-11-22T17:51:57Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "eaaf1fcfb0a4",
+   "titulo": "Mineros artesanales anuncian movilización nacional este 23 de noviembre para exigir ampliación del Reinfo",
+   "resumen": "El presidente de Confemin lamentó que el 31 de diciembre venza el plazo de la formalización y que el Congreso no haya cumplido con la Ley Mape.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/mineros-artesanales-anuncian-movilizacion-nacional-este-23-de-noviembre-para-exigir-ampliacion-del-reinfo-noticia-1719142",
+   "fecha": "2026-11-22T17:39:21Z",
+   "temas": [
+    "mineria",
+    "conflicto_social"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "fcb8a7165e4d",
+   "titulo": "Camila Domínguez habla de su actual relación con Pamela Franco: “Es la mamá de mi hermana, nada más”",
+   "resumen": "La hija mayor de Christian Domínguez sorprendió al evidenciar un distanciamiento con la madre de su hermana, luego de haber compartido mucho tiempo juntas",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/camila-dominguez-habla-de-su-actual-relacion-con-pamela-franco-es-la-mama-de-mi-hermana-nada-mas/",
+   "fecha": "2026-11-22T17:23:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b36b0d84bdb5",
+   "titulo": "BCR: Inversión privada creció 13.6% en tercer trimestre de 2026",
+   "resumen": "La inversión privada creció 13.6% interanual en el tercer trimestre de 2026, con lo que mantuvo tasas expansión de dos dígitos por quinto trimestre consecutivo, informó el Banco Central de Reserva (BCR). Este resultado se explicó principalmente por la inversión no residencial, que aumentó 15.4%…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/economia/bcr-inversion-privada-crecio-13-6-en-tercer-trimestre-de-2026/",
+   "fecha": "2026-11-22T17:22:49Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f17e7a26a207",
+   "titulo": "Prueba de VIH: cuándo hacerla, cuánto tarda en detectar el virus y qué significan los resultados",
+   "resumen": "Conoce cuándo realizarte una prueba de VIH en Perú, cuánto tarda en detectar el virus, qué significan los resultados y dónde acceder a exámenes gratuitos.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/salud/prueba-de-vih-cuando-hacerla-cuanto-tarda-en-detectar-el-virus-y-que-significan-los-resultados-noticia/",
+   "fecha": "2026-11-22T17:16:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2c7e51489e68",
+   "titulo": "El Niño Costero seguiría con intensidad extraordinaria hasta febrero de 2027, advierte el Enfen",
+   "resumen": "El fenómeno de El Niño Costero continuará afectando las condiciones climáticas del Perú durante los próximos meses. La Comisión Multisectorial encargada del Estudio Nacional del Fenómeno El Niño (Enfen) pronosticó que este evento, iniciado en marzo de 2026, mantendría una magnitud extraordinaria…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/nacional/el-nino-costero-seguiria-con-intensidad-extraordinaria-hasta-febrero-de-2027-advierte-el-enfen/",
+   "fecha": "2026-11-22T17:15:13Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "66cbaf71d464",
+   "titulo": "Christian Aranda, diputado de Renovación Popular, sobre Carlos Espá: “Yo sí creo que tiene que haber un cambio”",
+   "resumen": "El diputado Christian Aranda cuestionó el desempeño del canciller Carlos Espá y afirmó que Renovación Popular evalúa su continuidad y una posible interpelación.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/christian-aranda-diputado-de-renovacion-popular-sobre-carlos-espa-yo-si-creo-que-tiene-que-haber-un-cambio-noticia/",
+   "fecha": "2026-11-22T17:11:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6460c497b908",
+   "titulo": "Ministerio del Interior autoriza el egreso anticipado de 341 cadetes de la PNP por crisis de inseguridad ciudadana",
+   "resumen": "El Ministerio del Interior autorizó el egreso y la graduación excepcional de 341 cadetes de la Escuela de Oficiales de la Policía Nacional del Perú (PNP), con el objetivo de incorporarlos anticipadamente a unidades operativas y reforzar la lucha contra la criminalidad en el país. La medida fue…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/22/ministerio-del-interior-autoriza-el-egreso-anticipado-de-341-cadetes-de-la-pnp-por-crisis-de-inseguridad-ciudadana/",
+   "fecha": "2026-11-22T17:00:18Z",
+   "temas": [
+    "seguridad",
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b08c41f8f255",
+   "titulo": "Pronabec revela cuándo salen los resultados de la Beca 18 tras examen de HOY 22 de noviembre: revisa aquí",
+   "resumen": "Más de 59.000 jóvenes participan en el Examen Nacional de Preselección de Beca 18-2027. Pronabec confirmó la fecha de publicación de resultados, los puntajes mínimos y dónde consultar la lista oficial.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/22/resultados-de-examen-beca-18-pronabec-revela-cuando-salen-los-puntajes-de-la-prueba-de-hoy-1217722",
+   "fecha": "2026-11-22T16:55:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5e780ecaf107",
+   "titulo": "¿Menores ventas por El Niño? Las 6 facilidades que ofrece SUNAT si tu negocio fue afectado por un desastre natural",
+   "resumen": "Tributos. Los contribuyentes con domicilio fiscal en zonas de emergencia pueden pedir prórrogas, reconstruir registros contables y disponer de fondos de detracciones, siempre que cumplan los requisitos establecidos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/menores-ventas-por-el-nino-las-6-facilidades-que-ofrece-sunat-si-tu-negocio-fue-afectado-por-un-desastre-natural/",
+   "fecha": "2026-11-22T16:49:42Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "22a2dcc756d5",
+   "titulo": "Congreso aprueba el presupuesto para el año fiscal 2027",
+   "resumen": "Los legisladores del Congreso aprobaron por mayoría el presupuesto para el año fiscal 2027, norma que abarca todos los sectores e instituciones públicas y contó con el saludo del ministro de economía.",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/congreso-aprueba-presupuesto-ano-fiscal-2027-n496399",
+   "fecha": "2026-11-22T16:42:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0a342754703d",
+   "titulo": "Raphael recibe el alta médica y asegura que \"todo está bien\"",
+   "resumen": "El cantante español pasó la noche en observación tras sufrir un malestar que lo obligó a cancelar un concierto en La Coruña. El artista agradeció los mensajes de apoyo de sus seguidores y espera retomar su gira el próximo sábado en Málaga.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/famosos/celebridades/raphael-recibe-el-alta-medica-y-asegura-que-todo-esta-bien-noticia-1719141",
+   "fecha": "2026-11-22T16:38:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b7d9dc610990",
+   "titulo": "Dimas Arrieta y la danza del fuego",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/cultura/dimas-arrieta-y-la-danza-del-fuego-la-libertad-peru-noticia/",
+   "fecha": "2026-11-22T16:30:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
    "id": "4353770d7139",
    "titulo": "Obtén tu DNI gratis en las campañas del Reniec del 23 al 29 de noviembre en 23 regiones",
    "resumen": "El Registro Nacional de Identificación y Estado Civil (Reniec) tiene programadas 266 intervenciones de documentación itinerante en 23 regiones del país durante la semana del lunes 23 al domingo 29 de noviembre. Estas jornadas acercarán los servicios de identificación a comunidades nativas, centros…",
