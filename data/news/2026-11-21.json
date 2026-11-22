@@ -2,6 +2,946 @@
  "fecha": "2026-11-21",
  "noticias": [
   {
+   "id": "c82e85b78864",
+   "titulo": "Lima marchó contra la violencia machista: las imágenes que dejó la movilización de los colectivos feministas",
+   "resumen": "La manifestación, convocada por agrupaciones como la Asamblea 25N, junto con el Centro de la Mujer Peruana Flora Tristán y el Movimiento Manuela Ramos, se realizó en el marco del Día Internacional de la Eliminación de la Violencia contra la Mujer (25N).",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/lima-marcho-contra-la-violencia-machista-las-imagenes-que-dejo-la-movilizacion-de-los-colectivos-feministas-noticia-1719105",
+   "fecha": "2026-11-22T04:58:41Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f7d90a3fb833",
+   "titulo": "Aeropuerto Internacional Jorge Chávez: viajeros ya pueden abordar presentando su DNI digital",
+   "resumen": "Viajeros de vuelos nacionales en el Aeropuerto Jorge Chávez ya pueden pasar el control de embarque con su DNI digital. Conoce sus requisitos y seguridad.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/aeropuerto-jorge-chavez-reniec-viajeros-ya-pueden-abordar-presentando-su-dni-digital-ultimas-noticia/",
+   "fecha": "2026-11-22T04:52:12Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jorge Chávez",
+     "ubigeo": "060305",
+     "precision": "distrito",
+     "provincia": "Celendín",
+     "departamento": "Cajamarca",
+     "lon": -78.0918,
+     "lat": -6.94107,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "15c51f651079",
+   "titulo": "Cercado de Lima: asesinan a balazos a tatuador en el puente Santa Rosa, a pocas cuadras de Palacio de Gobierno",
+   "resumen": "Cristian Chávez Martel de 32 años fue acribillado por sicarios en el puente Santa Rosa, Cercado de Lima. La Policía cerró la av. Tacna y recogió 13 casquillos.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/policiales/cercado-de-lima-asesinan-a-balazos-a-tatuador-motociclista-en-el-puente-santa-rosa-palacio-de-gobierno-ultimas-noticia/",
+   "fecha": "2026-11-22T04:07:27Z",
+   "temas": [
+    "seguridad",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ee5232827cb3",
+   "titulo": "Arequipa: Incendio forestal se extiende en las faldas del volcán Chachani",
+   "resumen": "Un incendio forestal afecta las faldas del volcán Chachani, en Cayma. El Gobierno Regional de Arequipa y el COER coordinan acciones ante difícil acceso.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/arequipa/arequipa-incendio-forestal-se-extiende-a-las-faldas-del-volcan-chachani-coen-indeci-ultimas-noticia/",
+   "fecha": "2026-11-22T04:05:03Z",
+   "temas": [
+    "medio_ambiente",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cayma",
+     "ubigeo": "040103",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.54409,
+     "lat": -16.36253,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "grupo": "2ed716b69231"
+  },
+  {
+   "id": "3517ab3b9223",
+   "titulo": "Inauguran Plaza Perú y develan busto del Almirante Miguel Grau en Mendoza, Argentina",
+   "resumen": "En la ciudad de Mendoza, República Argentina, se llevó a cabo la ceremonia de inauguración de la Plaza Perú y el develamiento de un busto en bronce del Gran Almirante del Perú, Miguel Grau Seminario, en reconocimiento a su destacada trayectoria histórica y a los valores que representa como máximo…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-inauguran-plaza-peru-y-develan-busto-del-almirante-miguel-grau-mendoza-argentina-1100987.aspx",
+   "fecha": "2026-11-22T04:01:52Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Mendoza",
+     "ubigeo": "010601",
+     "ccpp": "0106010001",
+     "precision": "centro_poblado",
+     "provincia": "Rodríguez de Mendoza",
+     "departamento": "Amazonas",
+     "lon": -77.48221,
+     "lat": -6.39541,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d1ae38e5418b",
+   "titulo": "Arequipa: incendio forestal afecta las faldas del volcán Chachani y dificulta ingreso de brigadas",
+   "resumen": "El fuego se registra en el sector de la Asociación Cabrerías, en el distrito de Cayma. El COER Arequipa mantiene el monitoreo de la emergencia, mientras que las condiciones geográficas complican el ingreso del personal encargado de controlar las llamas.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-incendio-forestal-afecta-las-faldas-del-volcan-chachani-y-dificulta-ingreso-de-brigadas-noticia/",
+   "fecha": "2026-11-22T03:38:00Z",
+   "temas": [
+    "medio_ambiente",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cayma",
+     "ubigeo": "040103",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.54409,
+     "lat": -16.36253,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "2ed716b69231",
+   "titulo": "Arequipa: reportan incendio forestal en las faldas del volcán Chachani",
+   "resumen": "El Centro de Operaciones de Emergencia Regional (COER Arequipa) realiza el seguimiento de la situación, aunque las características geográficas de la zona dificultan el ingreso de brigadas y personal especializado.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/arequipa/arequipa-reportan-incendio-forestal-en-las-faldas-del-volcan-chachani-noticia-1719099",
+   "fecha": "2026-11-22T03:23:48Z",
+   "temas": [
+    "medio_ambiente",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "6e1b76a4d953",
+   "titulo": "La Libertad: Sismo de magnitud 3.5 se sintió esta noche en Pacasmayo",
+   "resumen": "El IGP informó que un sismo de magnitud 3,5 se registró este sábado 21 de noviembre a las 9:18 p. m. a 52 km al oeste de San Pedro de Lloc, La Libertad.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/la-libertad/la-libertad-sismo-de-magnitud-35-se-sintio-esta-noche-en-pacasmayo-temblor-igp-ultimas-noticia/",
+   "fecha": "2026-11-22T03:12:38Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Pedro de Lloc",
+     "ubigeo": "130701",
+     "precision": "distrito",
+     "provincia": "Pacasmayo",
+     "departamento": "La Libertad",
+     "lon": -79.51469,
+     "lat": -7.41841,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "130000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Pacasmayo",
+     "ubigeo": "130700",
+     "precision": "provincia",
+     "provincia": "Pacasmayo",
+     "departamento": "La Libertad",
+     "lon": -79.51469,
+     "lat": -7.41841,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8b393c160246",
+   "titulo": "Gobierno destraba la construcción de escuela policial en Arequipa",
+   "resumen": "El Gobierno del Perú, a través del Ministerio del Interior (Mininter), aseguró el financiamiento y las condiciones técnicas necesarias para culminar la construcción de la Escuela de Educación Superior Técnico Profesional (EESTP) PNP Arequipa, infraestructura destinada a fortalecer la formación de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-gobierno-destraba-construccion-escuela-policial-arequipa-1100986.aspx",
+   "fecha": "2026-11-22T03:05:59Z",
+   "temas": [
+    "educacion",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "710eb1aef972",
+   "titulo": "Colectivos feministas marcharon por el centro histórico de Lima para exigir \"justicia y una vida libre de violencias\"",
+   "resumen": "Las mujeres se movilizaron por la capital para denunciar la violencia machista y los intentos de retroceso en materia de derechos.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/colectivos-feministas-marcharon-por-el-centro-historico-de-lima-para-exigir-justicia-y-una-vida-libre-de-violencias-noticia-1719100",
+   "fecha": "2026-11-22T03:00:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "9ff08eade880",
+   "titulo": "Juan Lucumí se alista para dejar ADT y unirse a Melgar de Arequipa: atacante colombiano firmaría por dos años con opción a uno más",
+   "resumen": "En 13 partidos disputados con el conjunto tarmeño, el nacido en Santiago de Cali se despachó con tres goles y dos asistencias en la Liga 1 2026",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/juan-lucumi-se-alista-para-dejar-adt-y-unirse-a-melgar-de-arequipa-atacante-colombiano-firmaria-por-dos-anos-con-opcion-a-uno-mas/",
+   "fecha": "2026-11-22T02:55:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040101",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Santiago",
+     "ubigeo": "080106",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.98314,
+     "lat": -13.5258,
+     "confianza": 0.5,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6b3ca84eeef2",
+   "titulo": "AGUAS ROJIZAS DEL RÍO SANTA OBLIGAN A CERRAR BOCATOMAS DE CHINECAS Y CHAVIMOCHIC",
+   "resumen": "La aparición de aguas turbias con una inusual coloración rojiza en el río Santa obligó este sábado 21 de noviembre al cierre preventivo de las bocatomas La Huaca y La Víbora, del Proyecto Especial Chinecas,...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/21/aguas-rojizas-del-rio-santa-obligan-a-cerrar-bocatomas-de-chinecas-y-chavimochic/",
+   "fecha": "2026-11-22T02:47:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Huaca",
+     "ubigeo": "200505",
+     "precision": "distrito",
+     "provincia": "Paita",
+     "departamento": "Piura",
+     "lon": -80.96133,
+     "lat": -4.91016,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d9d5031e9400",
+   "titulo": "Chankillo y otros 10 sitios de Áncash buscan convertirse en Patrimonio Mundial de Unesco",
+   "resumen": "Encabezados por Chankillo, un total de once sitios arqueológicos de Áncash ingresaron a la Lista Tentativa del Patrimonio Mundial de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (Unesco),...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/21/chankillo-y-otros-10-sitios-de-ancash-buscan-convertirse-en-patrimonio-mundial-de-unesco/",
+   "fecha": "2026-11-22T02:46:16Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "577fa05b7442",
+   "titulo": "ANP Chimbote inicia nueva etapa institucional con Rocío Vásquez Goicochea en la presidencia para el periodo 2026-2029",
+   "resumen": "Con el firme compromiso de defender la libertad de expresión, fortalecer la unidad gremial y promover un periodismo responsable, el viernes 20 de noviembre se realizó la ceremonia de juramentación del nuevo Comité Directivo de...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/21/anp-chimbote-inicia-nueva-etapa-institucional-con-rocio-vasquez-goicochea-en-la-presidencia-para-el-periodo-2026-2029/",
+   "fecha": "2026-11-22T02:44:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chimbote",
+     "ubigeo": "021801",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.60768,
+     "lat": -9.04169,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "06d05d172715",
+   "titulo": "POLICÍA NACIONAL DESARTICULA PELIGROSA BANDA DEDICADA A LA CAPTACIÓN, DROGADICCIÓN Y ABUSO SEXUAL EN NUEVO CHIMBOTE.",
+   "resumen": "En una contundente operación, el personal del Área de Investigación de la Comisaría Buenos Aires logró la captura de cinco presuntos integrantes de una organización dedicada a la privación de la libertad y la violación...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/21/policia-nacional-desarticula-peligrosa-banda-dedicada-a-la-captacion-drogadiccion-y-abuso-sexual-en-nuevo-chimbote/",
+   "fecha": "2026-11-22T02:40:17Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Nuevo Chimbote",
+     "ubigeo": "021809",
+     "precision": "distrito",
+     "provincia": "Santa",
+     "departamento": "Áncash",
+     "lon": -78.53072,
+     "lat": -9.12851,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "3da0b215206d",
+   "titulo": "Estudiantes de Áncash desarrollaron Agroteck 360 para ayudar a los agricultores de Cajay",
+   "resumen": "Con el fin de reducir los riesgos que enfrentan los agricultores del distrito de Cajay, en la provincia de Huari, en Áncash, estudiantes del quinto grado de secundaria desarrollaron una aplicación web denominada Agroteck 360,...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/21/estudiantes-de-ancash-desarrollaron-agroteck-360-para-ayudar-a-los-agricultores-de-cajay/",
+   "fecha": "2026-11-22T02:39:12Z",
+   "temas": [
+    "educacion",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cajay",
+     "ubigeo": "021003",
+     "precision": "distrito",
+     "provincia": "Huari",
+     "departamento": "Áncash",
+     "lon": -77.15754,
+     "lat": -9.32582,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Huari",
+     "ubigeo": "021000",
+     "precision": "provincia",
+     "provincia": "Huari",
+     "departamento": "Áncash",
+     "lon": -77.17077,
+     "lat": -9.34714,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "bb07b3a2871e",
+   "titulo": "JNE INICIARÁ DEBATES ELECTORALES POR SEGUNDA ELECCIÓN REGIONAL 2026, LUNES 30 SERÁ EN ANCASH",
+   "resumen": "Con el objetivo de fomentar una participación ciudadana responsable e informada en la Segunda Elección Regional 2026 (SER 2026), el Jurado Nacional de Elecciones (JNE) ha programado la realización de debates electorales en las 15...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/21/jne-iniciara-debates-electorales-por-segunda-eleccion-regional-2026-lunes-30-sera-en-ancash/",
+   "fecha": "2026-11-22T02:37:43Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a7f03a090bd7",
+   "titulo": "DNI digital ya puede ser utilizado en el aeropuerto Jorge Chávez para vuelos nacionales",
+   "resumen": "Lima Airport Partners permitirá a los pasajeros acreditar su identidad desde el celular en los accesos a la zona de embarque nacional",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/dni-digital-ya-puede-ser-utilizado-en-el-aeropuerto-jorge-chavez-para-vuelos-nacionales/",
+   "fecha": "2026-11-22T01:46:55Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": [
+    {
+     "nombre": "Jorge Chávez",
+     "ubigeo": "060305",
+     "precision": "distrito",
+     "provincia": "Celendín",
+     "departamento": "Cajamarca",
+     "lon": -78.0918,
+     "lat": -6.94107,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "e8696877880f",
+   "titulo": "Arequipa: incendio forestal afecta las faldas del volcán Chachani",
+   "resumen": "Un incendio forestal se registra en el sector de la Asociación Cabrerías, en las faldas del volcán Chachani, distrito de Cayma. Ante la emergencia, el Gobierno Regional de Arequipa coordina acciones con las autoridades locales y las instituciones de primera respuesta para atender el siniestro. A…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/21/arequipa-incendio-forestal-afecta-las-faldas-del-volcan-chachani/",
+   "fecha": "2026-11-22T01:42:17Z",
+   "temas": [
+    "medio_ambiente",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cayma",
+     "ubigeo": "040103",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.54409,
+     "lat": -16.36253,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ],
+   "grupo": "2ed716b69231"
+  },
+  {
+   "id": "78d7b65f8687",
+   "titulo": "Vendía una cola y piel de zorro andino como amuleto para atraer la suerte en Cusco: ahora el Serfor le abrirá proceso sancionador",
+   "resumen": "Agentes de la Policía intervinieron al comerciante cerca del paradero San Miguel, en la avenida La Cultura, distrito de San Sebastián, cuando ofrecía los restos del animal a los transeúntes",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/vendia-una-cola-y-piel-de-zorro-andino-como-amuleto-para-atraer-la-suerte-en-cusco-ahora-el-serfor-le-abrira-proceso-sancionador/",
+   "fecha": "2026-11-22T01:30:00Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Sebastián",
+     "ubigeo": "080105",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.937,
+     "lat": -13.53022,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "San Miguel",
+     "ubigeo": "080806",
+     "ccpp": "0808060031",
+     "precision": "centro_poblado",
+     "provincia": "Espinar",
+     "departamento": "Cusco",
+     "lon": -71.2836,
+     "lat": -14.67402,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4d2c40ffb696",
+   "titulo": "Fiesta en Matute: Alianza Lima golea a FC Cajamarca y queda listo para la final de Liga 1",
+   "resumen": "Alianza Lima superó a FC Cajamarca por un amplio marcador de 5-0 y culminó su participación en el Torneo Clausura, a la espera de conocer a su rival en las finales de la Liga 1. Paolo Guerrero volvió a anotar y Eryc Castillo firmó un doblete.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-fiesta-matute-alianza-lima-golea-a-fc-cajamarca-y-queda-listo-para-final-liga-1-1100980.aspx",
+   "fecha": "2026-11-22T01:17:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ae1a6420a81f",
+   "titulo": "Huánuco: Policía incauta 338 prendas de vestir de presunta procedencia extranjera",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/huanuco-policia-incauta-338-prendas-de-vestir-de-presunta-procedencia-extranjera-noticia/",
+   "fecha": "2026-11-22T01:02:33Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b8c831e804e6",
+   "titulo": "Asesinan de 13 balazos a motociclista en el puente Santa Rosa, a pocas cuadras de Palacio de Gobierno, en el Cercado de Lima",
+   "resumen": "La Policía halló varios casquillos en la escena y cerró temporalmente la avenida Tacna para las investigaciones. Familia denuncia que la víctima recibía amenazas por extorsiones.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/21/asesinan-de-13-balazos-a-motociclista-en-el-puente-santa-rosa-a-pocas-cuadras-de-palacio-de-gobierno-en-el-cercado-de-lima-1067619",
+   "fecha": "2026-11-22T00:58:04Z",
+   "temas": [
+    "seguridad",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ],
+   "grupo": "15c51f651079"
+  },
+  {
+   "id": "a0e59a16e073",
+   "titulo": "Trabajadora de financiera es detenida por presunto hurto de S/ 119 876 en Aucayacu",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/trabajadora-de-financiera-es-detenida-por-presunto-hurto-de-s-119-876-en-aucayacu-noticia/",
+   "fecha": "2026-11-22T00:57:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Aucayacu",
+     "ubigeo": "100604",
+     "ccpp": "1006040001",
+     "precision": "centro_poblado",
+     "provincia": "Leoncio Prado",
+     "departamento": "Huánuco",
+     "lon": -76.11608,
+     "lat": -8.93217,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "96b6812b9df5",
+   "titulo": "Loreto: 14 escolares atendidos por incidencia alimentaria fueron dados de alta",
+   "resumen": "El Programa de Alimentación Escolar informó que los estudiantes de la institución educativa N.° 60235 – Calipso, en San Juan Bautista, ya se encuentran con sus familias. La autoridad sanitaria deberá determinar qué provocó la incidencia.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/loreto-14-escolares-atendidos-por-incidencia-alimentaria-fueron-dados-de-alta-noticia/",
+   "fecha": "2026-11-22T00:54:20Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Calipso",
+     "ubigeo": "160113",
+     "ccpp": "1601130093",
+     "precision": "centro_poblado",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.3477,
+     "lat": -3.87406,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Loreto",
+     "ubigeo": "160000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Loreto",
+     "lon": -73.24414,
+     "lat": -3.74808,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "San Juan Bautista",
+     "ubigeo": "160113",
+     "precision": "distrito",
+     "provincia": "Maynas",
+     "departamento": "Loreto",
+     "lon": -73.28029,
+     "lat": -3.77025,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "7f633e5914e9",
+   "titulo": "Sismo de magnitud 6.7 deja 17 viviendas afectadas y 36 inhabitables en Huánuco",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huanuco/sismo-de-magnitud-67-deja-17-viviendas-afectadas-y-36-inhabitables-en-huanuco-noticia/",
+   "fecha": "2026-11-22T00:51:52Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100101",
+     "precision": "distrito",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b2460b11bd53",
+   "titulo": "Padres de escuelita 20 de Enero rechazan retiro de docentes",
+   "resumen": "Padres de la institución 20 de Enero rechazan el retiro de dos docentes en Juliaca, medida que dejaría siete maestros y afectaría a sus estudiantes",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/padres-de-escuelita-20-de-enero-rechazan-retiro-de-docentes/",
+   "fecha": "2026-11-22T00:46:50Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "cf8dd8611512",
+   "titulo": "Centro de Lima: asesinan a balazos a un hombre de 32 años en el puente Santa Rosa",
+   "resumen": "Según un familiar, la víctima había recibido amenazas de muerte por negarse a pagar cupos.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/centro-de-lima-asesinan-a-balazos-a-un-hombre-de-32-anos-en-el-puente-santa-rosa-noticia/",
+   "fecha": "2026-11-22T00:37:42Z",
+   "temas": [
+    "seguridad",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "cdd5ebbad893",
+   "titulo": "Asesinan a balazos a un hombre cerca de Palacio de Gobierno: ola de crímenes sacude Lima en las últimas 24 horas",
+   "resumen": "El ataque ocurrió en el puente Santa Rosa, en pleno Cercado de Lima. Otros homicidios reportados en San Martín de Porres, San Juan de Lurigancho y el límite de Pueblo Libre con Magdalena del Mar agravan la preocupación por la inseguridad en la capital",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/asesinan-a-balazos-a-un-hombre-cerca-de-palacio-de-gobierno-ola-de-crimenes-sacude-lima-en-las-ultimas-24-horas/",
+   "fecha": "2026-11-22T00:36:03Z",
+   "temas": [
+    "seguridad",
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Santa Rosa",
+     "ubigeo": "150139",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.15696,
+     "lat": -11.78713,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "San Juan de Lurigancho",
+     "ubigeo": "150132",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.01003,
+     "lat": -12.02963,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Pueblo Libre",
+     "ubigeo": "150121",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.06243,
+     "lat": -12.07804,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Magdalena del Mar",
+     "ubigeo": "150120",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.06719,
+     "lat": -12.09162,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "68a48da4084d",
    "titulo": "Sismo de 6,7 grados también afectó a Huánuco: viviendas e iglesias presentan daños",
    "resumen": "",

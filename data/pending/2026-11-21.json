@@ -2,6 +2,442 @@
  "fecha": "2026-11-21",
  "noticias": [
   {
+   "id": "4ef9dfabd9c3",
+   "titulo": "Relatores de la ONU advierten \"dimensiones alarmantes\" en el \"cierre del espacio cívico en Perú\" tras detención de artistas Pedro Mo y Brenda Jah",
+   "resumen": "Las alertas de los relatores internacionales se producen tras la ejecución simultánea de un operativo, que dejó cinco detenidos preliminares, en Urcos (Cusco), San Martín y en el centro de Lima, desplegado por la Dircote y el Ministerio Público. La Fiscalía investiga una presunta vinculación con…",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/relatores-de-la-onu-advierten-dimensiones-alarmantes-en-el-cierre-del-espacio-civico-en-peru-tras-detencion-de-artistas-pedro-mo-y-brenda-jah-noticia-1719102",
+   "fecha": "2026-11-22T04:48:25Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Urcos",
+     "ubigeo": "081201",
+     "precision": "distrito",
+     "provincia": "Quispicanchi",
+     "departamento": "Cusco",
+     "lon": -71.62517,
+     "lat": -13.68791,
+     "confianza": 0.27,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "San Martín",
+     "ubigeo": "220303",
+     "precision": "distrito",
+     "provincia": "El Dorado",
+     "departamento": "San Martín",
+     "lon": -76.7405,
+     "lat": -6.51441,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c62fd42b4dd5",
+   "titulo": "Cinco indicadores de comunicación B2B que las empresas deben dejar atrás en 2027",
+   "resumen": "El ecosistema empresarial global ha experimentado una transformación irreversible en medio de una alta incertidumbre geopolítica, desinformación y el escrutinio ético. En ese contexto, la comunicación corporativa ya no puede medirse con reglas de hace una década. A puertas del 2027, las compañías…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cinco-indicadores-comunicacion-b2b-las-empresas-deben-dejar-atras-2027-1100956.aspx",
+   "fecha": "2026-11-22T04:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3508a321b960",
+   "titulo": "Matan de 13 balazos a un tatuador en el puente Santa Rosa: familia denuncia amenazas por extorsión",
+   "resumen": "Cristian Alexander Chávez Martel, de 32 años, fue interceptado por dos sujetos en motocicleta rumbo a la avenida Tacna. El ataque ocurre en un mes con 192 homicidios en el país",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/matan-de-13-balazos-a-un-tatuador-en-el-puente-santa-rosa-familia-denuncia-amenazas-por-extorsion/",
+   "fecha": "2026-11-22T03:03:28Z",
+   "temas": [
+    "seguridad",
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "15b0287188ca",
+   "titulo": "Amalia Andrade vuelve a su libro sobre el desamor diez años después y reflexiona sobre por qué el dolor sigue siendo el mismo",
+   "resumen": "En entrevista exclusiva con Infobae Perú, la escritora colombiana reflexionó sobre la soledad y la importancia de recuperar la conexión humana, a propósito de la edición por el décimo aniversario de su libro",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/amalia-andrade-vuelve-a-su-libro-sobre-el-desamor-diez-anos-despues-y-reflexiona-sobre-por-que-el-dolor-sigue-siendo-el-mismo/",
+   "fecha": "2026-11-22T03:00:29Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d2c8e530bd97",
+   "titulo": "Cancillería destaca fortalecimiento de la presencia del Perú en Asia-Pacífico durante APEC 2026",
+   "resumen": "La participación de la presidenta Keiko Fujimori en el foro realizado en Shenzhen, China, permitió impulsar reuniones con líderes internacionales y empresarios.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/cancilleria-destaca-fortalecimiento-de-la-presencia-del-peru-en-asia-pacifico-durante-apec-2026-noticia/",
+   "fecha": "2026-11-22T02:56:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "930aea9185ec",
+   "titulo": "Sismo de 6.7 en Junín pone en alerta a 374 zonas críticas: Lima y Áncash concentran el 80 % de los puntos expuestos",
+   "resumen": "El análisis del INGEMMET advierte que en estos sectores podrían reactivarse deslizamientos, derrumbes y caída de rocas. De las zonas identificadas, 247 se encuentran en áreas de peligro alto o muy alto",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/sismo-de-67-en-junin-pone-en-alerta-a-374-zonas-criticas-lima-y-ancash-concentran-el-80-de-los-puntos-expuestos/",
+   "fecha": "2026-11-22T02:55:05Z",
+   "temas": [
+    "desastres",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120501",
+     "precision": "distrito",
+     "provincia": "Junín",
+     "departamento": "Junín",
+     "lon": -75.99844,
+     "lat": -11.16152,
+     "confianza": 0.18,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "92d64a04a2e0",
+   "titulo": "Decreto de Urgencia establece un bono de S/ 1500 para pescadores artesanales intervenciones en desembarcaderos y mecanismos de financiamiento para trabajadores de la pesca industrial.",
+   "resumen": "El Gobierno pone en marcha un paquete extraordinario de medidas económicas y operativas para mitigar los efectos del Fenómeno El Niño 2026-2027 sobre la actividad pesquera nacional. La intervención contempla tres mecanismos: la entrega de...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/21/decreto-de-urgencia-establece-un-bono-de-s-1500-para-pescadores-artesanales-intervenciones-en-desembarcaderos-y-mecanismos-de-financiamiento-para-trabajadores-de-la-pesca-industrial/",
+   "fecha": "2026-11-22T02:45:10Z",
+   "temas": [
+    "economia",
+    "conflicto_social"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ba29a36844c8",
+   "titulo": "Senamhi emite alerta roja por ola de calor extremo que golpeará el país los próximos días",
+   "resumen": "El Servicio Nacional de Meteorología e Hidrología (Senamhi) ha emitido una alerta roja por incremento de la temperatura diurna, “de moderada a extrema intensidad”, en distintas regiones del país. A través de su página web,...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/21/senamhi-emite-alerta-roja-por-ola-de-calor-extremo-que-golpeara-el-pais-los-proximos-dias/",
+   "fecha": "2026-11-22T02:42:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9c9d229351c4",
+   "titulo": "Cancillería: Perú fortaleció su presencia en el Asia Pacífico durante foro APEC 2026",
+   "resumen": "El Perú fortaleció su presencia en el Asia Pacífico durante la participación de la presidenta Keiko Fujimori en el Foro APEC 2026, realizado en Shenzhen, China, manifestó la Cancillería",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cancilleria-peru-fortalecio-su-presencia-el-asia-pacifico-durante-foro-apec-2026-1100983.aspx",
+   "fecha": "2026-11-22T02:37:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "dc9e4e09dbba",
+   "titulo": "ONPE facilita consultas de electores de 15 regiones",
+   "resumen": "Los doce millones de peruanos que regresarán a las urnas para la segunda elección regional pueden consultar, a partir de hoy, en qué local de votación deberán sufragar con el fin de elegir a sus...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/21/onpe-facilita-consultas-de-electores-de-15-regiones/",
+   "fecha": "2026-11-22T02:35:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a53bd8277349",
+   "titulo": "Minsa brinda consejos para prevenir enfermedades respiratorias y diarreicas ante El Niño",
+   "resumen": "Ante los riesgos sanitarios asociados al fenómeno El Niño, el Ministerio de Salud (Minsa) brindó una serie de recomendaciones para prevenir las infecciones respiratorias agudas y las enfermedades diarreicas agudas, que pueden afectar especialmente a los niños y adultos mayores. Medidas sencillas…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-minsa-brinda-consejos-para-prevenir-enfermedades-respiratorias-y-diarreicas-ante-nino-1100985.aspx",
+   "fecha": "2026-11-22T02:25:19Z",
+   "temas": [
+    "salud",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1edfdf85b529",
+   "titulo": "Keiko Fujimori desea aplicar inteligencia artificial en el Estado: “Queremos darle mucha más velocidad y transparencia”",
+   "resumen": "La entrevista de la mandataria peruana con CGTN se realizó durante la cumbre de APEC, celebrada en Shenzhen entre el 17 y el 19 de noviembre, donde expuso sus propuestas para aplicar inteligencia artificial en el Estado peruano",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/keiko-fujimori-desea-aplicar-inteligencia-artificial-en-el-estado-queremos-darle-mucha-mas-velocidad-y-transparencia/",
+   "fecha": "2026-11-22T02:18:18Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c4f189f2148a",
+   "titulo": "Perú registra más de 45 mil flamencos altoandinos en invierno, pero la minería y los incendios amenazan sus hábitats",
+   "resumen": "El Serfor se reunió con representantes de Bolivia, Chile y Argentina para coordinar acciones conjuntas que protejan a estas aves y los humedales altoandinos de la región",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/peru-registra-mas-de-45-mil-flamencos-altoandinos-en-invierno-pero-la-mineria-y-los-incendios-amenazan-sus-habitats/",
+   "fecha": "2026-11-22T02:10:00Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "eeaadeaba3ec",
+   "titulo": "Keiko Fujimori elogia a Xi Jinping, líder del Partido Comunista de China, y destaca su gestión: “Es un líder fuerte”",
+   "resumen": "Keiko Fujimori resaltó la organización disciplinada del partido y el crecimiento sostenible en China bajo el liderazgo de Xi Jinping, pese a que en la campaña electoral de 2021 advirtió sobre una \"confrontación entre el comunismo y una economía libre\".",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/21/keiko-fujimori-elogia-a-xi-jinping-lider-del-partido-comunista-de-china-y-destaca-su-gestion-es-un-lider-fuerte-hnews-1988280",
+   "fecha": "2026-11-22T02:07:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "87fbe70f749c",
+   "titulo": "Dengue en Perú: EsSalud advierte que los contagios alcanzarían su pico más alto en diciembre y enero",
+   "resumen": "El médico epidemiólogo Edwin Neciosup informó que el país registra aproximadamente 113 mil casos y más de 140 fallecidos.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/dengue-en-peru-essalud-advierte-que-los-contagios-alcanzarian-su-pico-mas-alto-en-diciembre-y-enero-noticia/",
+   "fecha": "2026-11-22T02:02:32Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "62b59d79ea6d",
+   "titulo": "Boca Juniors vence 2-0 a Atlético Mineiro y conquista la Copa Sudamericana tras 18 años sin títulos internacionales",
+   "resumen": "Boca Juniors volvió a celebrar a nivel internacional. El conjunto argentino derrotó por 2-0 al Atlético Mineiro de Brasil en la final de la Copa Sudamericana 2026, disputada este sábado en el estadio Metropolitano de Barranquilla, y puso fin a una sequía de 18 años sin conquistar un título…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/21/boca-juniors-vence-2-0-a-atletico-mineiro-y-conquista-la-copa-sudamericana-tras-18-anos-sin-titulos-internacionales/",
+   "fecha": "2026-11-22T02:00:59Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b672079c2528",
+   "titulo": "¿Qué desafíos están pendientes para fortalecer la infraestructura sanitaria del país?",
+   "resumen": "Cada 19 de noviembre se conmemora el Día Mundial del Inodoro, una fecha que recuerda la importancia de contar con servicios de saneamiento adecuados y sistemas que permitan su correcto funcionamiento. En el Perú, este sigue siendo un desafío pendiente. Según el Ministerio de Vivienda, Construcción…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-que-desafios-estan-pendientes-para-fortalecer-infraestructura-sanitaria-del-pais-1100954.aspx",
+   "fecha": "2026-11-22T02:00:00Z",
+   "temas": [
+    "agua",
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2c6b315bd304",
+   "titulo": "Ripley: qué es y cómo funciona el retiro en tienda para compras online",
+   "resumen": "Perú Retail informó que la ampliación se anunció para Cyber Wow; la cobertura local sitúa campañas de Ripley con fechas y condiciones que impulsan el L’article Ripley: qué es y cómo funciona el retiro en tienda para compras online est apparu en premier sur Diario Satélite .",
+   "medio": "Diario Satélite",
+   "medio_id": "satelite",
+   "url": "https://satelite.pe/ripley-retiro-tienda-compras-online",
+   "fecha": "2026-11-22T01:51:32Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1d93a563ed73",
+   "titulo": "PCM: El presupuesto público del 2027 pone en el centro las prioridades del país",
+   "resumen": "La Presidencia del Consejo de Ministros (PCM) saludó la aprobación de la Ley de Presupuesto 2027 y reconoció al Congreso y a su Mesa Directiva por este importante resultado, alcanzado diez días antes del vencimiento del plazo establecido por la Constitución.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-pcm-presupuesto-publico-del-2027-pone-el-centro-las-prioridades-del-pais-1100984.aspx",
+   "fecha": "2026-11-22T01:46:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "36ae8f2049ce",
+   "titulo": "Este lunes vence el plazo para acceder al descuento del 90% en multas de Sutran",
+   "resumen": "Los conductores podrán pagar solo el 10% del valor de las sanciones comprendidas en el régimen excepcional.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/este-lunes-vence-el-plazo-para-acceder-al-descuento-del-90-en-multas-de-sutran-noticia/",
+   "fecha": "2026-11-22T01:45:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "46385139c13c",
+   "titulo": "¡Festejo de campeón! Boca gana la Copa Sudamericana y rompe una larga sequía internacional",
+   "resumen": "Con Barranquilla convertida en una sucursal de La Bombonera en el Caribe, Boca Juniors venció 2-0 a Atlético Mineiro este sábado y ganó la Copa Sudamericana, su primer título internacional en 18 años.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-festejo-campeon-boca-gana-copa-sudamericana-y-rompe-una-larga-sequia-internacional-1100982.aspx",
+   "fecha": "2026-11-22T01:31:29Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e14b48965e0d",
+   "titulo": "Congreso: Cámara de Diputados y Senado desarrollarán sesiones y debatirán proyectos este lunes 23",
+   "resumen": "Las comisiones abordarán temas relacionados con la fiscalización ambiental, la inocuidad de los alimentos, la prevención ante el Fenómeno El Niño y la adhesión del Perú a la OCDE.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/congreso-camara-de-diputados-y-senado-desarrollaran-sesiones-y-debatiran-proyectos-este-lunes-23-noticia/",
+   "fecha": "2026-11-22T01:15:44Z",
+   "temas": [
+    "medio_ambiente",
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6b09686d5873",
+   "titulo": "Multas de tránsito con 90% de descuento vencen este lunes 23 de noviembre: Sutran pide no esperar al último día",
+   "resumen": "La entidad habilitó canales virtuales para revisar deudas y pagar solo el 10% de las sanciones comprendidas en el régimen excepcional",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/multas-de-transito-con-90-de-descuento-vencen-este-lunes-23-de-noviembre-sutran-pide-no-esperar-al-ultimo-dia/",
+   "fecha": "2026-11-22T01:05:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ed499b3d28e2",
+   "titulo": "Lalo Arroyo: la música es un valioso puente de integración entre la costa y el ande",
+   "resumen": "Limeño de nacimiento, hijo de padre ayacuchano y madre cajamarquina, el cantante Lalo Arroyo asegura que, en una sociedad como la peruana –que se caracteriza por su diversidad cultural–, la música es un valioso puente de integración entre la costa y el ande.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-lalo-arroyo-musica-es-un-valioso-puente-integracion-entre-costa-y-ande-1100981.aspx",
+   "fecha": "2026-11-22T01:01:17Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "227ab26cc307",
+   "titulo": "Congreso: conoce la agenda de la Cámara de Diputados y el Senado para este lunes 23",
+   "resumen": "El Congreso de la República bicameral continuará este lunes 23 de noviembre con sus labores legislativas y fiscalizadoras.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-congreso-conoce-agenda-de-camara-diputados-y-senado-para-este-lunes-23-1100933.aspx",
+   "fecha": "2026-11-22T00:47:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e2a54d91e603",
+   "titulo": "Temblor en Perú, hoy 21 de noviembre: magnitud y epicentro del sismo según IGP",
+   "resumen": "Actualización EN VIVO del último sismo en Perú hoy, sábado 21 de noviembre según las últimas actualizaciones del Instituto Geofísico del Perú IGP",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/desastres-naturales/temblor-en-peru-hoy-21-de-noviembre-magnitud-y-epicentro-del-sismo-segun-igp-live-3723",
+   "fecha": "2026-11-22T00:42:58Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "14d6c10c4ec7",
+   "titulo": "S/ 266 mil millones será el presupuesto público para el Año Fiscal 2027",
+   "resumen": "El pleno del Congreso de la República aprobó el texto sustitutorio de los dictámenes de las leyes de Presupuesto, de Equilibrio Financiero y de Endeudamiento del Sector Público para el Año Fiscal 2027, ascendente a S/ 266 506 316 735,00. La iniciativa obtuvo 71 votos a favor, 32 en contra y 12…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/21/s-266-mil-millones-sera-el-presupuesto-publico-para-el-ano-fiscal-2027/",
+   "fecha": "2026-11-22T00:38:30Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
    "id": "efe3991ffc6a",
    "titulo": "Lluvias en regiones del Perú por El Niño EN VIVO HOY: posibles desbordes, inundaciones, huaicos y pronóstico de Senamhi",
    "resumen": "Lluvias en Perú por El Niño EN VIVO HOY Senamhi regiones inundaciones.",
@@ -376,6 +812,19 @@
    "medio_id": "infobae",
    "url": "https://www.infobae.com/peru/2026/11/21/ellas-con-norma-martinez-y-jimena-lindo-llega-a-los-cines-con-un-drama-sobre-cuidado-y-desigualdad/",
    "fecha": "2026-11-21T21:28:40Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c9071a07ee2e",
+   "titulo": "ONP: ¿qué sucede con tus aportes si dejaste de contribuir durante varios años?",
+   "resumen": "Si una persona estuvo afiliada al Sistema Nacional de Pensiones (SNP) y dejó de aportar durante varios años, sus aportes realizados no desaparecen. La Oficina de Normalización Previsional (ONP) informó que puede retomar sus pagos en cualquier momento y continuar acumulando aportes para acceder a…",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/tu-dinero/finanzas-personales/onp-que-sucede-con-tus-aportes-si-dejaste-de-contribuir-durante-varios-anos-noticia/",
+   "fecha": "2026-11-21T21:15:47Z",
    "temas": [
     "otros"
    ],

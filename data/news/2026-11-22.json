@@ -1,0 +1,139 @@
+{
+ "fecha": "2026-11-22",
+ "noticias": [
+  {
+   "id": "afabb9bf9977",
+   "titulo": "Temblor en Perú: sismo de magnitud 5.1 con epicentro en Cerro de Pasco",
+   "resumen": "El movimiento telúrico ocurrió a las 00:51 del 22 de noviembre, a 25 kilómetros al sureste de Cerro de Pasco. El Instituto Geofísico del Perú informó que tuvo una profundidad de 132 kilómetros y una intensidad IV en la ciudad",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/temblor-en-peru-sismo-de-magnitud-51-con-epicentro-en-cerro/",
+   "fecha": "2026-11-22T07:05:24Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chaupimarca",
+     "ubigeo": "190101",
+     "precision": "distrito",
+     "provincia": "Pasco",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "0a81416f11d7",
+   "titulo": "Sismo de magnitud 5.1 con epicentro en Pasco fue percibido en Lima esta madrugada",
+   "resumen": "Sismo de magnitud 5.1 con epicentro en Pasco fue percibido en Lima esta madrugada",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/pasco/temblor-en-pasco-de-magnitud-51-fue-percibido-en-lima-en-la-madrugada-del-domingo-22-de-noviembre-igp-ultimas-noticia/",
+   "fecha": "2026-11-22T06:18:18Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.49,
+     "principal": true
+    },
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "202347cf5017",
+   "titulo": "Un sismo de magnitud 5.1 sacudió Pasco esta madrugada",
+   "resumen": "El foco del sismo se localizó a 25 kilómetros al sureste de Cerro de Pasco, con una profundidad de 132 kilómetros.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/un-sismo-de-magnitud-51-sacudio-pasco-esta-madrugada-noticia-1719106",
+   "fecha": "2026-11-22T06:15:07Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chaupimarca",
+     "ubigeo": "190101",
+     "precision": "distrito",
+     "provincia": "Pasco",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c15d6dbbcad8",
+   "titulo": "Pucallpa, Ucayali, registra un sismo de magnitud 4.6",
+   "resumen": "El movimiento comenzó a las 19:09 hora local",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/22/pucallpa-ucayali-registra-un-sismo-de-magnitud-46/",
+   "fecha": "2026-11-22T05:31:20Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  }
+ ]
+}
