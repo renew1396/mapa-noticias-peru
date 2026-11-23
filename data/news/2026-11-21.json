@@ -7660,6 +7660,32 @@
    ]
   },
   {
+   "id": "f1b4a311dd5b",
+   "titulo": "Ilo: Piden a partidos políticos tramitar garantías con anticipación para cierres de campaña",
+   "resumen": "Subprefecta Giovanna Borda recomendó a Somos Perú y Acción Popular iniciar los trámites con dos semanas de anticipación para evitar que sus actividades coincidan en horarios y recorridos durante la segunda vuelta regional. Las organizaciones políticas Somos Perú y Acción Popular deberán coordinar…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288781/ilo-piden-a-partidos-politicos-tramitar-garantias-con-anticipacion-para-cierres-de-campana/",
+   "fecha": "2026-11-21T11:48:14Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "ec0dea77e75a"
+  },
+  {
    "id": "2cd9ff053cc0",
    "titulo": "Corte de luz de ocho horas afectará a toda la provincia de Islay",
    "resumen": "Los vecinos de toda la provincia de Islay deberán tomar sus previsiones ante la interrupción del suministro eléctrico anunciada para mañana domingo 22 de noviembre, desde las 8:00 a. m. hasta las 4:00 p. m., según informó la Sociedad Eléctrica del Sur Oeste (SEAL). Durante ese periodo, la empresa…",
@@ -7679,6 +7705,31 @@
      "departamento": "Arequipa",
      "lon": -72.01631,
      "lat": -17.02929,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f17240eb06d7",
+   "titulo": "Sindicato de Mujeres de Construcción Civil de Ilo espera convocatoria para elegir nueva directiva",
+   "resumen": "La exsecretaria general Yolanda Machaca informó que el comité electoral deberá aprobar el reglamento y establecer la fecha de votación para renovar la dirigencia sindical. El Sindicato de Mujeres de Construcción Civil y Servicios Múltiples de la provincia de Ilo se encuentra a la espera de la…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288778/sindicato-de-mujeres-de-construccion-civil-de-ilo-espera-convocatoria-para-elegir-nueva-directiva/",
+   "fecha": "2026-11-21T11:43:38Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
      "confianza": 0.85,
      "principal": true
     }
@@ -7745,6 +7796,42 @@
     }
    ],
    "revisar": true
+  },
+  {
+   "id": "0e1970b2b6ec",
+   "titulo": "Ilo: Cuatro años sin levantar observaciones al proyecto de distritalización de la Pampa Inalámbrica",
+   "resumen": "Dirigente Nolberto Pauca cuestiona demora del Gobierno Regional de Moquegua para subsanar observaciones formuladas por la PCM. Solicitan intervención de la gobernadora Gilia Gutiérrez y un taller informativo en Ilo. Han transcurrido cuatro años desde que la Presidencia del Consejo de Ministros…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288774/ilo-cuatro-anos-sin-levantar-observaciones-al-proyecto-de-distritalizacion-de-la-pampa-inalambrica/",
+   "fecha": "2026-11-21T11:34:32Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.85,
+     "principal": false
+    }
+   ]
   },
   {
    "id": "13859b3ca46b",

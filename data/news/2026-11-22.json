@@ -2,6 +2,129 @@
  "fecha": "2026-11-22",
  "noticias": [
   {
+   "id": "0d4cbf9432e3",
+   "titulo": "Unos 21 distritos de tres regiones en emergencia por 60 días debido a daños tras sismos",
+   "resumen": "Según el IGP se han reportado varias réplicas y solo ayer volvieron a suscitarse dos sismo de magnitud 5 en Junín y Pasco.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/huancayo/unos-21-distritos-de-tres-regiones-en-emergencia-por-danos-tras-sismos-noticia/",
+   "fecha": "2026-11-23T04:41:38Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ee42fc5a1ebc",
+   "titulo": "Puno: Criadores de llamas y alpacas alertan la falta de apoyo y el riesgo por escasez de agua ante el Fenómeno El Niño",
+   "resumen": "Criadores de llamas y alpacas de Puno alertan sobre falta de lluvias, capacitación y apoyo ante el riesgo del Fenómeno El Niño",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-criadores-de-llamas-y-alpacas-alertan-la-falta-de-apoyo-y-el-riesgo-por-escasez-de-agua-ante-el-fenomeno-el-nino/",
+   "fecha": "2026-11-23T04:24:17Z",
+   "temas": [
+    "desastres",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7fa704f20f9f",
+   "titulo": "IPD señala falta de permisos y garantías de seguridad para presentación de la Candelaria en Lima",
+   "resumen": "Candelaria 2027: IPD y Municipalidad de Lima atribuyen la suspensión a la falta de permisos y garantías para artistas y asistentes",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/ipd-senala-falta-de-permisos-y-garantias-de-seguridad-para-presentacion-de-la-candelaria-en-lima/",
+   "fecha": "2026-11-23T04:12:27Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "606be742be39",
+   "titulo": "Senador de Renovacion Popular sobre cancelación de la Candelaria en el Estadio Nacional: \"Presentaron muy tardíamente las solicitudes\"",
+   "resumen": "Edgar Mancha dijo que la Federación Regional del Folklore y Cultura de Puno (FRFCP) debió presentar a tiempo la documentación respectiva a la Municipalidad de Lima y el Ministerio del Interior para obtener las garantías, pero no se cumplió.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/candelaria-2027-senador-de-renovacion-popular-senala-a-los-organizadores-por-no-presentar-a-tiempo-los-permisos-para-uso-del-estadio-noticia-1719208",
+   "fecha": "2026-11-23T03:53:20Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "61a0b3adeb38",
    "titulo": "Virgen de la Candelaria: IPD revela que evento en el Estadio Nacional no contaba con personal de seguridad, instalación de sonido ni baños",
    "resumen": "El IPD expresó su disposición para reprogramar la festividad, siempre que se cumplan las exigencias de seguridad y se gestionen las autorizaciones requeridas por las autoridades competentes.",
@@ -6465,6 +6588,69 @@
      "principal": true
     }
    ]
+  },
+  {
+   "id": "0a0858495222",
+   "titulo": "Ilo: Quince policías se preparan para brindar servicio de salvataje en playas durante el verano 2027",
+   "resumen": "Quince efectivos policiales de Ilo y Moquegua vienen siendo capacitados en técnicas de salvamento y rescate acuático, con miras a reforzar la seguridad de los bañistas durante la temporada de verano 2027 en las principales playas de la provincia. Los agentes participan en el Séptimo Curso de…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288787/ilo-quince-policias-se-preparan-para-brindar-servicio-de-salvataje-en-playas-durante-el-verano-2027/",
+   "fecha": "2026-11-22T11:54:38Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8207a16c6e2a",
+   "titulo": "Ilo: Aprueban trabajos preventivos en el río Osmore ante posible incremento del caudal por El Niño",
+   "resumen": "Ante el riesgo de una posible crecida del río Osmore por los efectos del fenómeno El Niño, el Grupo de Trabajo para la Gestión del Riesgo de Desastres de la Municipalidad Provincial de Ilo aprobó la ejecución de trabajos preventivos para reducir posibles afectaciones a la población. La decisión…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288784/ilo-aprueban-trabajos-preventivos-en-el-rio-osmore-ante-posible-incremento-del-caudal-por-el-nino/",
+   "fecha": "2026-11-22T11:51:32Z",
+   "temas": [
+    "desastres",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ],
+   "grupo": "2acee92a1b83"
   },
   {
    "id": "fc608091b663",

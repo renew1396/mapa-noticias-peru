@@ -2,6 +2,119 @@
  "fecha": "2026-11-22",
  "noticias": [
   {
+   "id": "826b2fb0c890",
+   "titulo": "Declaran estado de emergencia en 22 distritos de Huánuco, Junín y Pasco por daños causados por sismos",
+   "resumen": "El Gobierno declaró el estado de emergencia en 22 distritos de las regiones de Huánuco, Junín y Pasco por el impacto de daños a consecuencia de movimientos sísmicos ocurridos el 20 y 21 de noviembre de 2026.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/peru/declaran-estado-de-emergencia-en-22-distritos-de-huanuco-junin-y-pasco-por-danos-causados-por-sismos-noticia/",
+   "fecha": "2026-11-23T04:37:10Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.18,
+     "principal": true
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Pasco",
+     "ubigeo": "190000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Pasco",
+     "lon": -76.25691,
+     "lat": -10.68258,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "e2ff58a9f488",
+   "titulo": "PNP: Taxista organizó traslado de oro ilegal y filtró rutas para millonario robo en la Costa Verde",
+   "resumen": "La Policía Nacional sostiene que José Barba Huamán habría desempeñado un papel clave en la organización del transporte de cargamentos de oro ilegal y en la filtración de información que terminó facilitando el millonario asalto ocurrido en la Costa Verde (San Miguel) en marzo de este año.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/pnp-taxista-organizo-traslado-de-oro-ilegal-y-filtro-rutas-para-millonario-robo-en-la-costa-verde-noticia/",
+   "fecha": "2026-11-23T04:19:04Z",
+   "temas": [
+    "seguridad",
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "59927cc3a6da",
+   "titulo": "Cuatro entidades públicas gastarán más de S/6 millones en tarjetas navideñas de hasta S/3 000 para sus trabajadores, según reportaje",
+   "resumen": "Se trata de la Red Asistencial Sabogal de EsSalud, la Empresa Nacional de Puertos (Enapu), Perupetro y Provías Descentralizado. Estas entidades tramitan, mediante licitaciones públicas, la compra de tarjetas para la adquisición de alimentos, juguetes y vestimenta.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/cuatro-entidades-publicas-gastaran-mas-de-s-6-millones-en-tarjetas-navidenas-de-hasta-s-3-000-para-sus-trabajadores-segun-reportaje-noticia-1719211",
+   "fecha": "2026-11-23T04:12:25Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f0fa52e0a8e3",
+   "titulo": "Revelan que escuela del INPE lleva dos años cerrada por falta de presupuesto",
+   "resumen": "El CENECP no registra clases desde 2024 y sus últimos 450 egresados aún no reciben certificados a nombre de la nación",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/revelan-que-escuela-del-inpe-lleva-dos-anos-cerrada-por-falta-de-presupuesto-carceles-penales-noticia/",
+   "fecha": "2026-11-23T04:10:17Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "dab8805f2d40",
+   "titulo": "Vales para comida, juguetes y ropa: lo que tramitan cuatro entidades del Estado por Navidad",
+   "resumen": "Los vales se usarían para alimentos, juguetes y vestimenta, y serían financiados con recursos públicos. Las entidades los sustentan en el clima laboral y en convenios colectivos.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/vales-para-comida-juguetes-y-ropa-lo-que-tramitan-cuatro-entidades-del-estado-por-navidad-noticia/",
+   "fecha": "2026-11-23T04:05:46Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "25bf46693242",
+   "titulo": "Chantal Toledo pide arresto domiciliario para Alejandro Toledo por su delicado estado de salud",
+   "resumen": "Chantal Toledo, hija del expresidente Alejandro Toledo, pidió que su padre pueda acceder al arresto domiciliario debido a su avanzada edad y al delicado estado de salud que atraviesa. La solicitud, según indicó, responde a una consideración humanitaria, pues el exmandatario tiene casi 82 años y…",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/politica/chantal-toledo-pide-arresto-domiciliario-para-alejandro-toledopor-su-delicado-estado-de-salud-noticia/",
+   "fecha": "2026-11-23T04:03:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
    "id": "8e04e8228039",
    "titulo": "Chats de proveedores revelan que Cancillería conocía de las fallas técnicas hasta dos días antes de la misa del papa León XIV",
    "resumen": "Mensajes indican que, dos días antes del evento, se advirtió sobre el abastecimiento de combustible para los grupos electrógenos, necesarios para el sonido y la imagen.",
