@@ -2,6 +2,455 @@
  "fecha": "2026-11-23",
  "noticias": [
   {
+   "id": "f4de988a305d",
+   "titulo": "Áncash: Ministerio de Cultura dispone la protección provisional del sitio arqueológico Caja Rumi por dos años",
+   "resumen": "El lugar se encontraba afectado por excavaciones clandestinas en la zona. La medida de protección podría ampliarse por dos años más previa evaluación.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/ancash/ancash-ministerio-de-cultura-dispone-la-proteccion-provisional-del-sitio-arqueologico-caja-rumi-por-dos-anos-noticia-1719396",
+   "fecha": "2026-11-24T04:22:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b5826e80d32b",
+   "titulo": "Varón resulta herido tras explosión en Hospital Geriátrico de Arequipa",
+   "resumen": "Un varón identificado como Alex Pilco resultó herido tras la explosión de un balón de oxígeno en la planta de oxígeno del Hospital Geriátrico de Arequipa. El hecho se registró alrededor de las 17:50 horas. Tras el incidente, el herido fue evacuado en una ambulancia al hospital de Yanahuara, donde…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/23/varon-resulta-herido-tras-explosion-en-hospital-geriatrico-de-arequipa/",
+   "fecha": "2026-11-24T04:02:12Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Yanahuara",
+     "ubigeo": "040126",
+     "precision": "distrito",
+     "provincia": "Arequipa",
+     "departamento": "Arequipa",
+     "lon": -71.53625,
+     "lat": -16.38188,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Arequipa",
+     "ubigeo": "040000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Arequipa",
+     "lon": -71.52898,
+     "lat": -16.39334,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "20ccb7af27e7",
+   "titulo": "Presentan imagen de San José Peregrino que bendijo el Papa León XIV para Tacna",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tacna/presentan-imagen-de-san-jose-peregrino-que-bendijo-el-papa-leon-xiv-para-tacna-noticia/",
+   "fecha": "2026-11-24T03:45:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "bf7821633734",
+   "titulo": "Fenómeno El Niño: Senamhi activa alerta roja en Tumbes y Piura por lluvias extremas, fuertes vientos y descargas eléctricas hasta este martes 24",
+   "resumen": "Las autoridades peruanas se mantienen en alerta por intensas lluvias en Tumbes y Piura, según el pronóstico del Senamhi. Se esperan descargas eléctricas y ráfagas de viento.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/23/fenomeno-el-nino-senamhi-activa-alerta-roja-en-tumbes-y-piura-por-lluvias-extremas-fuertes-vientos-y-descargas-electricas-hasta-este-martes-24-709711",
+   "fecha": "2026-11-24T03:39:25Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8f6aa42a1847",
+   "titulo": "San Martín de Porres: Asesinan a balazos a joven de 21 años frente al mercado Unicachi",
+   "resumen": "Dos individuos que se desplazaban en una motocicleta interceptaron al joven y le dispararon siete veces en los exteriores del mercado Unicachi, en San Martín de Porres. Efectivos de la Policía Nacional llegaron al lugar para realizar las diligencias correspondientes.",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/san-martin-de-porres-asesinan-a-balazos-a-joven-de-21-anos-frente-al-mercado-unicachi-noticia/",
+   "fecha": "2026-11-24T03:39:20Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín de Porres",
+     "ubigeo": "150135",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.05763,
+     "lat": -12.03005,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "4adbd0180dbf",
+   "titulo": "Fuertes oleajes dañan postes y veredas en la playa Waikiki de Miraflores (FOTOS)",
+   "resumen": "Los fuertes oleajes registrados en el litoral limeño provocaron daños en la infraestructura de la playa Waikiki, ubicada en el distrito de Miraflores. El impacto del mar afectó postes y tramos de las veredas de la zona. (Fotos: Joel Alonzo @photo.gec)",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lima/fuertes-oleajes-danan-postes-y-veredas-en-la-playa-waikiki-de-miraflores-fotos-noticia/",
+   "fecha": "2026-11-24T03:04:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "150122",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02918,
+     "lat": -12.1218,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "823b56537eff"
+  },
+  {
+   "id": "edb74de4887d",
+   "titulo": "¿Qué medidas se tomarán ante un posible desborde del río Tumbes? Esto respondió el ministro de Defensa",
+   "resumen": "Rafael Belaúnde señaló que el río Tumbes se desborda todos los años cuando llueve por encima de los 2 000 metros cúbicos por segundo.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/que-medidas-se-tomaran-ante-un-posible-desborde-del-rio-tumbes-esto-respondio-el-ministro-de-defensa-noticia-1719391",
+   "fecha": "2026-11-24T02:57:17Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "7792825dde4b",
+   "titulo": "JEE proclama a Verónika Mendoza como gobernadora electa del Cusco para el periodo 2027-2030",
+   "resumen": "La candidata de Alianza Electoral Venceremos obtuvo el 33,269% de los sufragios válidos en el cómputo final de la ONPE, porcentaje que superó el umbral legal y evitó una segunda vuelta",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/24/jee-proclama-a-veronika-mendoza-como-gobernadora-electa-del-cusco-para-el-periodo-2027-2030/",
+   "fecha": "2026-11-24T02:55:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "17d52d159c57",
+   "titulo": "Corte de agua en Lima este 24 de noviembre: cinco distritos tendrán suspensión del servicio de hasta 12 horas y estas son las zonas afectadas",
+   "resumen": "El cronograma de la empresa estatal contempla interrupciones por trabajos de mantenimiento de redes secundarias y desinfección de reservorios",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/24/corte-de-agua-en-lima-este-24-de-noviembre-cinco-distritos-tendran-suspension-del-servicio-de-hasta-12-horas-y-estas-son-las-zonas-afectadas/",
+   "fecha": "2026-11-24T02:54:52Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f444fb4e88c9",
+   "titulo": "Alias “Jolín” señala a “Jorobado Deivi” como posible sucesor al mando de “La Nueva Jauría”",
+   "resumen": "Alias “Jolín”, señalado como cabecilla de la organización criminal “La Nueva Jauría”, habría identificado a “Jorobado Deivi” como posible sucesor dentro de la estructura delictiva. Durante su traslado a Lima y en declaraciones a las autoridades policiales, el detenido mencionó el nombre de este…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/23/alias-jolin-senala-a-jorobado-deivi-como-posible-sucesor-al-mando-de-la-nueva-jauria/",
+   "fecha": "2026-11-24T02:54:39Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b0759527e6f5",
+   "titulo": "Verónika Mendoza es proclamada gobernadora electa del Cusco",
+   "resumen": "El Jurado Electoral Especial (JEE) del Cusco oficializó su elección para el periodo 2027-2030, luego de que la candidata de Alianza Electoral Venceremos alcanzara el 33,269% de los votos válidos. Mendoza recibió su credencial y podrá iniciar el proceso de transferencia de gestión.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/23/veronika-mendoza-es-proclamada-gobernadora-electa-del-cusco-hnews-502665",
+   "fecha": "2026-11-24T02:51:30Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Mendoza",
+     "ubigeo": "010601",
+     "ccpp": "0106010001",
+     "precision": "centro_poblado",
+     "provincia": "Rodríguez de Mendoza",
+     "departamento": "Amazonas",
+     "lon": -77.48221,
+     "lat": -6.39541,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "3d4673a2e335",
+   "titulo": "Chiclayo: asesinan a balazos a hombre con antecedentes policiales tras gresca",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-asesinan-a-balazos-a-hombre-con-antecedentes-policiales-tras-gresca-noticia/",
+   "fecha": "2026-11-24T02:42:42Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140101",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "b87c72f7df1a",
+   "titulo": "El asentamiento prehispánico de Ayacucho que reunió 400 viviendas en la cima de un cerro a casi 3.800 metros de altura",
+   "resumen": "El asentamiento de Pilluchu, ubicado en Vilcashuamán, conserva restos de viviendas, semillas y objetos que permiten reconstruir las estrategias de alimentación de sus antiguos habitantes",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/24/el-asentamiento-prehispanico-de-ayacucho-que-reunio-400-viviendas-en-la-cima-de-un-cerro-a-casi-3800-metros-de-altura/",
+   "fecha": "2026-11-24T02:33:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050101",
+     "precision": "distrito",
+     "provincia": "Huamanga",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "d2172ffacff2",
+   "titulo": "Bodega Santa Elena obtiene medalla Gran Oro en el Concurso Nacional del Pisco 2026",
+   "resumen": "La Bodega Santa Elena, ubicada en el distrito de Pocollay, obtuvo la medalla Gran Oro en el 27.º Concurso Nacional del Pisco Moquegua 2026, gracias a su variedad de pisco mosto verde aromático. El reconocimiento coloca a una producción tacneña entre las cuatro mejores del país, luego de superar…",
+   "medio": "Radio Uno",
+   "medio_id": "radiouno",
+   "url": "https://radiouno.pe/noticias/288890/bodega-santa-elena-obtiene-medalla-gran-oro-en-el-concurso-nacional-del-pisco-2026/",
+   "fecha": "2026-11-24T02:33:39Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Pocollay",
+     "ubigeo": "230108",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.22578,
+     "lat": -17.99654,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "823b56537eff",
+   "titulo": "Miraflores: fuertes oleajes causan daños en postes y veredas en la playa Waikiki",
+   "resumen": "Los fuertes oleajes destruyeron entre 50 y 70 metros de muro de contención en la playa Waikiki.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/actualidad/miraflores-fuertes-oleajes-causan-danos-en-postes-y-veredas-en-la-playa-waikiki-junto-a-la-costa-verde-noticia-1719394",
+   "fecha": "2026-11-24T02:30:45Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "150122",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02918,
+     "lat": -12.1218,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "699421d7a22d",
+   "titulo": "González Posada cuestiona tiktoks del ministro Espá y señala que fue un error encargar Las Palmas a la Cancillería",
+   "resumen": "El excanciller Luis González Posada cuestionó los videos publicados en TikTok por el ministro de Relaciones Exteriores, Carlos Espá. También criticó la decisión de encargar a la Cancillería la organización de la misa del papa León XIV en Las Palmas. En entrevista con «En Contacto», sostuvo que…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/23/gonzalez-posada-cuestiona-tiktoks-del-ministro-espa-y-senala-que-fue-un-error-encargar-las-palmas-a-la-cancilleria/",
+   "fecha": "2026-11-24T02:28:17Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Las Palmas",
+     "ubigeo": "220909",
+     "ccpp": "2209090013",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -76.34648,
+     "lat": -6.53072,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
    "id": "857b7fba03ca",
    "titulo": "RLA dice que el partido Fuerza Popular está \"muerto\" y Héctor Ventura le responde: \"Que se tranquilice\"",
    "resumen": "Ventura resaltó que “un líder político no puede estar adjetivando a partidos políticos que están trabajando por el país”. Esto debido a que las ataques de López Aliaga no solo fueron para Fuerza Popular y Juntos por el Perú, sino también contra Alianza para el Progreso (APP), Podemos Perú y Avanza…",
@@ -979,6 +1428,43 @@
    ]
   },
   {
+   "id": "cda6ca496c88",
+   "titulo": "Atletismo moqueguano consigue siete medallas en Campeonato Nacional Infantil 2026",
+   "resumen": "Siete medallas consiguieron la delegación de la Liga Distrital de Atletismo de Moquegua en el Campeonato Nacional Infantil de Atletismo 2026, realizado en la pista atlética de la Asociación Estadio La Unión (AELU), en Lima. Los deportistas alcanzaron dos preseas de oro, una de plata y cuatro de…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/atletismo-moqueguano-consigue-siete-medallas-en-campeonato-nacional-infantil-2026/",
+   "fecha": "2026-11-23T23:46:27Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
    "id": "eb3f4b0e8fc5",
    "titulo": "JEE de Lima Centro anunciará este miércoles resultados de la elección para la Alcaldía de Lima",
    "resumen": "La convocatoria del órgano electoral a esta audiencia pública se realiza en un contexto de incertidumbre sobre quién estará al frente de la Municipalidad Metropolitana de Lima durante el periodo 2027-2030. Esto, luego de que el JNE determinara que los alcaldes elegidos en 2022 no podrán asumir…",
@@ -1202,6 +1688,31 @@
    ]
   },
   {
+   "id": "cdba438cfc57",
+   "titulo": "San Román: fijan para el 14 de diciembre la entrega de bienes y documentos a las nuevas autoridades municipales",
+   "resumen": "La Municipalidad Provincial de San Román acordó que el 14 de diciembre se entregue el acervo documentario y los bienes municipales a las nuevas autoridades Jaime López, gerente municipal de la Municipalidad Provincial de San Román, informó que la comisión de transferencia de gestión municipal…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/san-roman-fijan-para-el-14-de-diciembre-la-entrega-de-bienes-y-documentos-a-las-nuevas-autoridades-municipales/",
+   "fecha": "2026-11-23T23:14:21Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "f7ba4d30f210",
    "titulo": "Directivos de la Federación de Folklore exigen cuentas a su presidente por fallido lanzamiento de la Candelaria",
    "resumen": "Directivos de Folklore exigen explicaciones a Alexander Quispe por cancelar el lanzamiento de la Candelaria en Lima y anuncian una comisión para determinar responsabilidades",
@@ -1252,6 +1763,78 @@
    ]
   },
   {
+   "id": "1809d9c6af31",
+   "titulo": "Realizarán el XV Concurso de Villancicos y Canciones Navideñas “Cántenle con el corazón 2026” en Juliaca",
+   "resumen": "El certamen “Cántenle con el Corazón 2026” se realizará el 11 de diciembre en el Teatro Municipal de Juliaca y otorgará premios de hasta S/ 1,500 a los tres primeros puestos. Las inscripciones se realizan en la secretaría de la parroquia Santa Catalina La Cofradía del Sagrado Corazón de la…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/realizaran-el-xv-concurso-de-villancicos-y-canciones-navidenas-cantenle-con-el-corazon-2026-en-juliaca/",
+   "fecha": "2026-11-23T23:09:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Santa Catalina",
+     "ubigeo": "010520",
+     "precision": "distrito",
+     "provincia": "Luya",
+     "departamento": "Amazonas",
+     "lon": -78.06093,
+     "lat": -6.11363,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "22091cb5bc3b",
+   "titulo": "Regidor de Juliaca exige respetar ordenanza que garantiza ingreso gratuito de niños a parques y espacios recreativos",
+   "resumen": "La ordenanza beneficiará a menores de hasta 10 años en parques, piscinas y escenarios deportivos municipales; sin embargo, aún está pendiente la aprobación del reglamento que permitirá su aplicación Javier Chura Espirilla, regidor de la Municipalidad Provincial de San Román, pidió que se respete y…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/regidor-de-juliaca-exige-respetar-ordenanza-que-garantiza-ingreso-gratuito-de-ninos-a-parques-y-espacios-recreativos/",
+   "fecha": "2026-11-23T23:06:55Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "d51cb53a602a",
    "titulo": "Ilumina el Mundo 5K, carrera solidaria en San Borja recaudará fondos para familias afectadas por el fenómeno El Niño",
    "resumen": "Unicef canalizará los fondos obtenidos en la jornada deportiva hacia programas de asistencia para los damnificados del fenómeno climático",
@@ -1274,6 +1857,55 @@
      "lat": -12.10709,
      "confianza": 0.7,
      "principal": true
+    }
+   ]
+  },
+  {
+   "id": "69f76670b499",
+   "titulo": "Mineros artesanales marcharon en Juliaca exigiendo ampliación del proceso de formalización y advierten huelga indefinida",
+   "resumen": "Más de 15 mil mineros artesanales de diferentes provincias de Puno se movilizaron pacíficamente en Juliaca para exigir la ampliación de la formalización minera, su inclusión en el proyecto MAPE y un tratamiento diferenciado Wilfredo Valdivia Hancco, presidente de la Central de Cooperativas Mineras…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/mineros-artesanales-marcharon-en-juliaca-exigiendo-ampliacion-del-proceso-de-formalizacion-y-advierten-huelga-indefinida/",
+   "fecha": "2026-11-23T23:02:33Z",
+   "temas": [
+    "mineria",
+    "conflicto_social"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210100",
+     "precision": "provincia",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Central",
+     "ubigeo": "210102",
+     "ccpp": "2101020178",
+     "precision": "centro_poblado",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -69.75652,
+     "lat": -16.04613,
+     "confianza": 0.7,
+     "principal": false
     }
    ]
   },
@@ -2415,6 +3047,32 @@
    "revisar": true
   },
   {
+   "id": "294bf53de7ea",
+   "titulo": "Nuevo alcalde anuncia que agua, saneamiento y recurso hídrico serán prioridades en Antauta",
+   "resumen": "Eusebio Soto Vilca anunció que priorizará proyectos de agua potable, saneamiento básico y mejoramiento de carreteras en Antauta, además de impulsar acciones para enfrentar el déficit hídrico y fortalecer los sectores de educación y salud durante su gestión 2027-2030 Eusebio Soto Vilca recibió…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/nuevo-alcalde-anuncia-que-agua-saneamiento-y-recurso-hidrico-seran-prioridades-en-antauta/",
+   "fecha": "2026-11-23T21:54:40Z",
+   "temas": [
+    "agua",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Antauta",
+     "ubigeo": "210802",
+     "precision": "distrito",
+     "provincia": "Melgar",
+     "departamento": "Puno",
+     "lon": -70.29224,
+     "lat": -14.29975,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "4fa791e3cea2",
    "titulo": "Ola de violencia en Lima y Callao: asesinan a mototaxista con pasajero a bordo y a madre cerca de su casa",
    "resumen": "Dos ataques armados registrados entre la noche del domingo y la madrugada del lunes dejaron dos víctimas mortales en el Callao y Ate. Los crímenes estarían relacionados con amenazas extorsivas y un presunto ajuste de cuentas por tráfico de terrenos.",
@@ -2546,6 +3204,32 @@
    ]
   },
   {
+   "id": "646e459ee091",
+   "titulo": "Umachiri priorizará atención ambiental, saneamiento y educación en la gestión municipal 2027-2030, según el nuevo alcalde distrital",
+   "resumen": "Jaime Vilca, alcalde electo de Umachiri para el periodo 2027-2030, anunció que priorizará la lucha contra la contaminación ambiental, proyectos de saneamiento y educación, además de impulsar una mancomunidad municipal para proteger la cabecera de cuenca La lucha contra la contaminación ambiental y…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/umachiri-priorizara-atencion-ambiental-saneamiento-y-educacion-en-la-gestion-municipal-2027-2030-segun-el-nuevo-alcalde-distrital/",
+   "fecha": "2026-11-23T21:50:05Z",
+   "temas": [
+    "medio_ambiente",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Umachiri",
+     "ubigeo": "210809",
+     "precision": "distrito",
+     "provincia": "Melgar",
+     "departamento": "Puno",
+     "lon": -70.75383,
+     "lat": -14.85384,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "ae5e1ae909e4",
    "titulo": "Alcalde electo Edilberto Parihuana anuncia priorizar agua y centro de salud en Jorge Basadre",
    "resumen": "Tacna.- La revisión de los procesos de contratación, el destrabe de obras inconclusas y la ejecución de proyectos de agua potable y salud serán algunas de las primeras acciones que emprenderá Edilberto Parihuana Mamani al asumir la alcaldía de la provincia de Jorge Basadre. Tras recibir su…",
@@ -2617,6 +3301,31 @@
      "lon": -71.52898,
      "lat": -16.39334,
      "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "63509903d0b4",
+   "titulo": "Contraloría advierte irregularidades en designación de jefe de Asesoría Jurídica de la Dirección Regional de Transportes de Puno",
+   "resumen": "Locador de servicios habría asumido cargos de confianza en el Gobierno Regional de Puno, pese a no mantener vínculo laboral con la entidad, situación que podría generar responsabilidades administrativas y penales para los funcionarios involucrados Un informe de acción de oficio posterior del…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/contraloria-advierte-irregularidades-en-designacion-de-jefe-de-asesoria-juridica-de-la-direccion-regional-de-transportes-de-puno/",
+   "fecha": "2026-11-23T21:44:33Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
      "principal": true
     }
    ]
@@ -3247,6 +3956,42 @@
      "lon": -70.19543,
      "lat": -14.90818,
      "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5b37f3556dbe",
+   "titulo": "Segunda Elección Regional 2026: ODPE Ilo recibe material electoral bajo estrictas medidas de seguridad",
+   "resumen": "La Oficina Descentralizada de Procesos Electorales (ODPE) Ilo recibió el material electoral que será utilizado en la Segunda Elección Regional (SER) 2026, que se realizará el domingo 6 de diciembre, jornada en la que los ciudadanos de la región Áncash acudirán a las urnas para elegir a sus…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/segunda-eleccion-regional-2026-odpe-ilo-recibe-material-electoral-bajo-estrictas-medidas-de-seguridad/",
+   "fecha": "2026-11-23T20:44:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ilo",
+     "ubigeo": "180300",
+     "precision": "provincia",
+     "provincia": "Ilo",
+     "departamento": "Moquegua",
+     "lon": -71.3433,
+     "lat": -17.62507,
+     "confianza": 0.6,
+     "principal": true
+    },
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.85,
      "principal": false
     }
    ]
@@ -4623,6 +5368,31 @@
      "departamento": "Ica",
      "lon": -74.93734,
      "lat": -14.82692,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a8a9610cb706",
+   "titulo": "DRE Moquegua conmemoró 49 años de creación institucional",
+   "resumen": "La Dirección Regional de Educación de Moquegua (DREMO) conmemoró este lunes 23 de noviembre su 49.º aniversario de creación institucional, con una ceremonia que incluyó actividades protocolares y la participación de sus trabajadores. El director de la DREMO, Guido Rospigliosi Galindo, señaló que…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/dre-moquegua-conmemoro-49-anos-de-creacion-institucional/",
+   "fecha": "2026-11-23T19:00:06Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
      "confianza": 0.7,
      "principal": true
     }
