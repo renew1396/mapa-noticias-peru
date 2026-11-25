@@ -9277,6 +9277,43 @@
    ]
   },
   {
+   "id": "3f334b730e98",
+   "titulo": "Lurigancho-Chosica: adulto mayor de 87 años desapareció en Huachipa tras salir de su casa",
+   "resumen": "Rotafono de RPP | Daniel Linares Castro salió de su vivienda en Huachipa, Lurigancho-Chosica a las 11.00 a. m. de este último miércoles 18 y la geolocalización indica que estaba por Ricardo Palma.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/rotafono/servicios-a-la-comunidad/lurigancho-chosica-adulto-mayor-de-87-anos-desaparecio-en-huachipa-tras-salir-de-su-casa-noticia-1718553",
+   "fecha": "2026-11-19T15:01:24Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huachipa",
+     "ubigeo": "100103",
+     "ccpp": "1001030012",
+     "precision": "centro_poblado",
+     "provincia": "Huánuco",
+     "departamento": "Huánuco",
+     "lon": -75.95447,
+     "lat": -9.52403,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Ricardo Palma",
+     "ubigeo": "150714",
+     "precision": "distrito",
+     "provincia": "Huarochirí",
+     "departamento": "Lima",
+     "lon": -76.66497,
+     "lat": -11.92359,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "8decc524d5c5",
    "titulo": "Clima en Cusco hoy, 19 de noviembre: temperatura, lluvias y nubosidad",
    "resumen": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo en Perú",
