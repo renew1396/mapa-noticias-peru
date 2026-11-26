@@ -2,6 +2,486 @@
  "fecha": "2026-11-25",
  "noticias": [
   {
+   "id": "c31b313af3da",
+   "titulo": "Lambayeque supera los 20.000 casos de dengue y reporta 45 muertes",
+   "resumen": "La Geresa Lambayeque confirmó 45 fallecidos y más de 20 000 casos de dengue en la región, con mayor incidencia en Chiclayo, José Leonardo Ortiz y Ferreñafe.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/lambayeque/lambayeque-supera-los-20000-casos-de-dengue-y-reporta-45-muertes-ultimas-noticia/",
+   "fecha": "2026-11-26T04:37:09Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "José Leonardo Ortíz",
+     "ubigeo": "140105",
+     "precision": "distrito",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.83448,
+     "lat": -6.76296,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.85,
+     "principal": false
+    },
+    {
+     "nombre": "Chiclayo",
+     "ubigeo": "140100",
+     "precision": "provincia",
+     "provincia": "Chiclayo",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Ferreñafe",
+     "ubigeo": "140200",
+     "precision": "provincia",
+     "provincia": "Ferreñafe",
+     "departamento": "Lambayeque",
+     "lon": -79.78837,
+     "lat": -6.63894,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "c3b981709e40",
+   "titulo": "Trujillo: Dos policías son detenidos tras muerte de un joven intervenido en comisaría El Alambre",
+   "resumen": "El fallecido, identificado como Eddy Fabricio Zavaleta Álvarez, había sido detenido por presuntamente robar un teléfono celular. El joven murió en la carceleta en circunstancias que aún se investiga.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/la-libertad/trujillo-dos-policias-son-detenidos-tras-muerte-de-un-joven-intervenido-en-comisaria-el-alambre-noticia-1719866",
+   "fecha": "2026-11-26T04:36:59Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f8f948f3c326",
+   "titulo": "Minsa refuerza acciones contra el dengue con vacunación en colegios de Ate",
+   "resumen": "Como parte de las acciones para hacer frente al dengue, el Ministerio de Salud (Minsa), a través de la Diris Lima Este, refuerza la vacunación en instituciones educativas y las intervenciones preventivas en el distrito de Ate, con el objetivo de proteger a la población y reducir el riesgo de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-minsa-refuerza-acciones-contra-dengue-vacunacion-colegios-ate-1101478.aspx",
+   "fecha": "2026-11-26T04:26:08Z",
+   "temas": [
+    "salud",
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ate",
+     "ubigeo": "150103",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -76.92126,
+     "lat": -12.02637,
+     "confianza": 0.9,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "ea75b279e507",
+   "titulo": "Puno: Contraloría advierte hacinamiento y riesgo de colapso en escuela policial",
+   "resumen": "La Contraloría identificó doce situaciones adversas en la Escuela de Educación Superior Técnico Profesional de la Policía Nacional del Perú, ubicada en Salcedo, Puno, que ponen en riesgo la salud, seguridad e integridad física de 404 estudiantes. El Informe N.° 021-2026-OCI/3792-SVC, emitido el 18…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/25/puno-contraloria-advierte-hacinamiento-y-riesgo-de-colapso-en-escuela-policial/",
+   "fecha": "2026-11-26T04:15:38Z",
+   "temas": [
+    "educacion",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "da38b27d9d7c",
+   "titulo": "Regidores exigen reestructuración total de la Federación Regional de Folclore y Cultura de Puno",
+   "resumen": "Tras el lanzamiento fallido de la Festividad Virgen de la Candelaria 2027 en la ciudad de Lima, el Concejo Municipal de la Municipalidad Provincial de Puno (MPP), demandó la reestructuración institucional e impostergable de la Federación Regional de Folclore y Cultura de Puno (Frfcp). En…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/25/regidores-exigen-reestructuracion-total-de-la-federacion-regional-de-folclore-y-cultura-de-puno/",
+   "fecha": "2026-11-26T04:09:59Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210100",
+     "precision": "provincia",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.85,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5a83ea1b3b8c",
+   "titulo": "Más de 50 escolares se desmayaron en desfile por los 485 años de Moquegua",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tacna/mas-de-50-escolares-se-desmayaron-en-desfile-por-los-485-anos-de-moquegua-noticia/",
+   "fecha": "2026-11-26T04:03:34Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": [
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180101",
+     "precision": "distrito",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "a206363c7406",
+   "titulo": "Fredy Vilcapaza recibe credencial y anuncia que pondrá orden en la administración de la municipalidad de Azángaro",
+   "resumen": "El alcalde electo de la provincia de Azángaro, Fredy Vilcapaza Mamani, recibió su credencial oficial de manos del Jurado Electoral Especial (JEE) de Azángaro, en el marco de las Elecciones Regionales y Municipales 2026. Tras este reconocimiento, adelantó que sus principales prioridades serán…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/25/fredy-vilcapaza-recibe-credencial-y-anuncia-que-pondra-orden-en-la-administracion-de-la-municipalidad-de-azangaro/",
+   "fecha": "2026-11-26T04:00:44Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Azángaro",
+     "ubigeo": "210200",
+     "precision": "provincia",
+     "provincia": "Azángaro",
+     "departamento": "Puno",
+     "lon": -70.19543,
+     "lat": -14.90818,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "97b88103cae8",
+   "titulo": "Puno: Más de 1.700 víctimas de violencia recibieron medidas de protección",
+   "resumen": "Más de 1.700 medidas de protección fueron dictadas por los juzgados especializados de Puno y Juliaca durante 2026 para resguardar a mujeres e integrantes del grupo familiar víctimas de violencia. La cifra evidencia la cantidad de casos que llegan al sistema judicial en ambas ciudades. La…",
+   "medio": "Diario Sin Fronteras",
+   "medio_id": "sinfronteras",
+   "url": "https://diariosinfronteras.com.pe/2026/11/25/puno-mas-de-1-700-victimas-de-violencia-recibieron-medidas-de-proteccion/",
+   "fecha": "2026-11-26T03:56:15Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "eaab86c1f998",
+   "titulo": "Balean a corresponsal de TVPerú en Pucallpa mientras cenaba en un restaurante",
+   "resumen": "Marco Pérez, corresponsal de TVPerú en Pucallpa, fue baleado la tarde del miércoles 25 de noviembre mientras se encontraba cenando en un restaurante de la ciudad junto a un equipo de periodistas de la filial del canal.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/ucayali/balean-a-corresponsal-de-tvperu-en-pucallpa-mientras-cenaba-en-un-restaurante-ultimas-noticia/",
+   "fecha": "2026-11-26T03:51:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Marco",
+     "ubigeo": "120415",
+     "precision": "distrito",
+     "provincia": "Jauja",
+     "departamento": "Junín",
+     "lon": -75.5611,
+     "lat": -11.74055,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "805604154d8a",
+   "titulo": "Puno: Intensas lluvias y granizada vuelven a causar inundaciones en Juliaca y San Miguel",
+   "resumen": "El rápido incremento del nivel del agua en estas vías puso nuevamente en evidencia las limitaciones del drenaje pluvial frente a precipitaciones repentinas",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/puno/puno-intensas-lluvias-y-granizada-vuelven-a-causar-inundaciones-en-juliaca-y-san-miguel-noticia/",
+   "fecha": "2026-11-26T03:49:14Z",
+   "temas": [
+    "desastres",
+    "agua"
+   ],
+   "lugares": [
+    {
+     "nombre": "Juliaca",
+     "ubigeo": "211101",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "San Miguel",
+     "ubigeo": "211105",
+     "precision": "distrito",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.12684,
+     "lat": -15.46029,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "f03ca6cf229e",
+   "titulo": "El 44.2% de mujeres en Tacna sufrió algún tipo de violencia por parte de su pareja",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/tacna/el-442-de-mujeres-en-tacna-sufrio-algun-tipo-de-violencia-por-parte-de-su-pareja-noticia/",
+   "fecha": "2026-11-26T03:47:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Tacna",
+     "ubigeo": "230101",
+     "precision": "distrito",
+     "provincia": "Tacna",
+     "departamento": "Tacna",
+     "lon": -70.25199,
+     "lat": -18.00181,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "db459338c89d",
+   "titulo": "Feria del Libro Ricardo Palma 2026: fechas, invitados y actividades gratuitas en el Parque Kennedy de Miraflores",
+   "resumen": "El encuentro literario abrirá sus puertas durante 13 días, con 68 stands de editoriales y librerías, tres auditorios y una agenda que reunirá a autores nacionales e internacionales",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/26/feria-del-libro-ricardo-palma-2026-fechas-invitados-y-actividades-gratuitas-en-el-parque-kennedy-de-miraflores/",
+   "fecha": "2026-11-26T03:05:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "150122",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.02918,
+     "lat": -12.1218,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "e3a2a2159efe",
+   "titulo": "Ucayali: periodista en Pucallpa es herido de bala en el brazo tras ser atacado en un local comercial",
+   "resumen": "El hombre de prensa, Marcio Pérez, cenaba con unos amigos cuando unos sujetos llegaron en una motocicleta y le dispararon.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/ucayali/ucayali-periodista-en-pucallpa-es-herido-de-bala-en-el-brazo-tras-ser-atacado-en-un-local-comercial-noticia-1719862",
+   "fecha": "2026-11-26T03:03:59Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callería",
+     "ubigeo": "250101",
+     "precision": "distrito",
+     "provincia": "Coronel Portillo",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Ucayali",
+     "ubigeo": "250000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ucayali",
+     "lon": -74.5434,
+     "lat": -8.36795,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "98337ea25936",
+   "titulo": "Fuertes oleajes obligan a cerrar el malecón de La Punta: restringen también el tránsito en la Costa Verde",
+   "resumen": "Las olas de mayor tamaño y fuerza impactaron el espigón del distrito chalaco, por lo que las autoridades cerraron el malecón y recomendaron no ingresar al mar mientras se mantenga la alerta",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/26/fuertes-oleajes-obligan-a-cerrar-el-malecon-de-la-punta-restringen-tambien-el-transito-en-la-costa-verde/",
+   "fecha": "2026-11-26T03:01:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "La Punta",
+     "ubigeo": "070105",
+     "precision": "distrito",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.16347,
+     "lat": -12.07288,
+     "confianza": 0.5,
+     "principal": true
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "82807e9f82ea",
+   "titulo": "Consulta en este link el precio de la gasolina más barata y cara en Lima, hoy, 25 de noviembre",
+   "resumen": "Así amanecieron los precios de los carburantes en la capital peruana",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/25/consulta-en-este-link-el-precio-de-la-gasolina-mas-barata-y-cara-en-lima-hoy-25-de-noviembre/",
+   "fecha": "2026-11-26T02:56:02Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ],
+   "grupo": "2d049370fa15"
+  },
+  {
    "id": "2cfd591bc02b",
    "titulo": "PCM brinda asistencia técnica para ordenar los límites de 14 distritos de Lima",
    "resumen": "La Presidencia del Consejo de Ministros (PCM) brindó asistencia técnica a las autoridades de 14 distritos de Lima Centro para la suscripción de 24 actas de acuerdo destinadas al saneamiento de 26,5 kilómetros de límites territoriales, en beneficio de más de 2 millones de personas.",
@@ -62,6 +542,31 @@
     }
    ],
    "revisar": true
+  },
+  {
+   "id": "33dae3dcb529",
+   "titulo": "Ministro de Justicia apunta contra ‘La Jauría’ tras captura de ‘Jolín’ y habla del “inicio del declive” de las bandas criminales",
+   "resumen": "Ernesto Álvarez sostuvo que la detención del presunto cabecilla permitirá identificar mandos, rutas de financiamiento y vínculos que operaban en Trujillo",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/26/ministro-de-justicia-apunta-contra-la-jauria-tras-captura-de-jolin-y-habla-del-inicio-del-declive-de-las-bandas-criminales/",
+   "fecha": "2026-11-26T02:54:30Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Trujillo",
+     "ubigeo": "130101",
+     "precision": "distrito",
+     "provincia": "Trujillo",
+     "departamento": "La Libertad",
+     "lon": -79.03054,
+     "lat": -8.10012,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
   },
   {
    "id": "8e67f9beface",
@@ -927,6 +1432,31 @@
    ]
   },
   {
+   "id": "b04a82624a8c",
+   "titulo": "Puno: Pobladores de Salcedo protestan contra anulación de elecciones y exigen respetar su voto",
+   "resumen": "Pobladores de Salcedo protestan en Puno contra la anulación de elecciones del 1 de noviembre y exigen respetar la victoria de Hugo Quezada",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-pobladores-de-salcedo-protestan-contra-anulacion-de-elecciones-y-exigen-respetar-su-voto/",
+   "fecha": "2026-11-26T01:00:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "96d1cb68a664",
    "titulo": "Tras primer mall en Rímac, Besco alcanza los más de US$ 200 millones en portafolio",
    "resumen": "Javier Salazar, presidente ejecutivo de Besco, en el marco de CADE Ejecutivos 2026, señaló que la compañía prevé cerrar el 2026 con resultados similares a los registrados el año pasado, considerando un periodo en el que la inmobiliaria ha mantenido un buen ritmo comercial",
@@ -985,6 +1515,31 @@
      "lat": -12.04533,
      "confianza": 0.9,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "ccb428dfc4ab",
+   "titulo": "Puno: violencia contra varones sube al 15 % y casos contra mujeres bajan al 85 %",
+   "resumen": "CEM reporta que mujeres representan el 85 % de casos de violencia entre enero y septiembre de 2026; varones concentran el 15 %, incluidos menores",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-violencia-contra-varones-sube-al-15-y-casos-contra-mujeres-bajan-al-85/",
+   "fecha": "2026-11-26T00:55:59Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
     }
    ]
   },
@@ -1143,6 +1698,43 @@
      "departamento": "Callao",
      "lon": -77.14689,
      "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "6368522979bd",
+   "titulo": "Puno: Directivo de la Federación exige explicaciones por fallida presentación de Candelaria en Lima",
+   "resumen": "Freddy Dueñas cuestiona las coordinaciones de la Candelaria en Lima y exige al presidente de la Federación y a Silvia Gálvez explicar los trámites pendientes",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/puno-directivo-de-la-federacion-exige-explicaciones-por-fallida-presentacion-de-candelaria-en-lima/",
+   "fecha": "2026-11-26T00:46:02Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.42,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
      "confianza": 0.7,
      "principal": false
     }
@@ -1478,6 +2070,56 @@
    ]
   },
   {
+   "id": "7e8c5f2fc1d0",
+   "titulo": "Consejo de Vigilancia exige informe económico y administrativo por cancelación del lanzamiento de la Candelaria en Lima y pide asamblea extraordinaria",
+   "resumen": "Consejo de Vigilancia exige a la Federación de Folklore un informe económico en 48 horas y una asamblea extraordinaria en 72 horas por suspensión en Lima",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/consejo-de-vigilancia-exige-informe-economico-y-administrativo-por-cancelacion-del-lanzamiento-de-la-candelaria-en-lima-y-pide-asamblea-extraordinaria/",
+   "fecha": "2026-11-26T00:13:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "326731c49424",
+   "titulo": "Los expulsaron, pero nunca formalizaron su salida: 3 directivos siguen inscritos y anuncian asamblea para reorganizar la FRFCP",
+   "resumen": "Tres directivos de la Federación de Folklore de Puno convocarán a una asamblea tras comprobar que siguen inscritos en Registros Públicos pese a su separación",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/los-expulsaron-pero-nunca-formalizaron-su-salida-3-directivos-siguen-inscritos-y-anuncian-asamblea-para-reorganizar-la-frfcp/",
+   "fecha": "2026-11-26T00:02:52Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "fb6f4e29d5eb",
    "titulo": "Marina de Guerra alerta que oleajes anómalos alcanzarán fuerte intensidad este fin de semana",
    "resumen": "Las olas podrían llegar a medir hasta tres veces su altura habitual en el litoral de Lima y Callao, advirtió la autoridad marítima",
@@ -1662,6 +2304,31 @@
    ]
   },
   {
+   "id": "a7554ff09273",
+   "titulo": "Entre tres y cinco de cada diez mujeres atendidas presentan situaciones de violencia, advierte representante de la Red de Salud San Román",
+   "resumen": "Violencia contra mujeres preocupa en San Román; psicóloga Gladys Quispe advierte que entre tres y cinco de cada diez podrían sufrirla",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/entre-tres-y-cinco-de-cada-diez-mujeres-atendidas-presentan-situaciones-de-violencia-advierte-representante-de-la-red-de-salud-san-roman/",
+   "fecha": "2026-11-25T23:35:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Román",
+     "ubigeo": "211100",
+     "precision": "provincia",
+     "provincia": "San Román",
+     "departamento": "Puno",
+     "lon": -70.13343,
+     "lat": -15.48398,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
    "id": "7e5002c2d73b",
    "titulo": "Trujillo: Oleajes anómalos afectaron 350 metros de la Costanera",
    "resumen": "Este jueves 26 de noviembre comenzarán los trabajos de intervención en la vía Costanera, luego de que oleajes anómalos destruyeran parte de la misma y pusieran en riesgo el desplazamiento de los vehículos que circulan entre los distritos de Huanchaco (Trujillo) y Santiago de Cao (Ascope).",
@@ -1792,6 +2459,32 @@
     }
    ],
    "revisar": true
+  },
+  {
+   "id": "64cd9b4027c4",
+   "titulo": "Entregan tanques de agua en Alto Matarani y Nuevo Matarani",
+   "resumen": "Vecinos de las asociaciones Alto Matarani y Nuevo Matarani, ubicadas en la parte alta del distrito de Islay, recibieron tanques de almacenamiento de agua (Rotoplas) para mejorar la reserva del recurso hídrico en sus viviendas. La distribución fue ejecutada por la Municipalidad Distrital de Islay…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/entregan-tanques-de-agua-en-alto-matarani-y-nuevo-matarani/",
+   "fecha": "2026-11-25T23:12:40Z",
+   "temas": [
+    "agua",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Islay",
+     "ubigeo": "040704",
+     "precision": "distrito",
+     "provincia": "Islay",
+     "departamento": "Arequipa",
+     "lon": -72.09741,
+     "lat": -17.00083,
+     "confianza": 0.85,
+     "principal": true
+    }
+   ]
   },
   {
    "id": "5502199d64fb",
@@ -2352,6 +3045,42 @@
    ]
   },
   {
+   "id": "e95f08ceeef0",
+   "titulo": "Alexander Quispe pone su cargo a disposición tras frustrada presentación de la Candelaria 2027 en Lima",
+   "resumen": "Alexander Quispe puso su cargo a disposición tras frustrarse la presentación de la Candelaria 2027 en Lima; pidió una asamblea para explicar lo ocurrido en Puno",
+   "medio": "Pachamama Radio",
+   "medio_id": "pachamama",
+   "url": "https://pachamamaradio.org/alexander-quispe-pone-su-cargo-a-disposicion-tras-frustrada-presentacion-de-la-candelaria-2027-en-lima/",
+   "fecha": "2026-11-25T22:19:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": true
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "b891e3c3d7a7",
    "titulo": "Poder Judicial evaluará este jueves la apelación contra Pedro Mo, Brenda Jah y los hermanos Tapullima",
    "resumen": "La Quinta Sala Penal de Apelaciones Nacional dio luz verde para revisar los pedidos de apelación presentados por la defensa de los cuatro ciudadanos investigados por presunta afiliación a una organización terrorista. La defensa busca dejar sin efecto la orden de detención preliminar por 15 días…",
@@ -2559,6 +3288,31 @@
      "lat": -7.6231,
      "confianza": 0.85,
      "principal": false
+    }
+   ]
+  },
+  {
+   "id": "4514f78dfac4",
+   "titulo": "Tercera Brigada Blindada conmemoró aniversario de la Batalla de Tarapacá",
+   "resumen": "La 3.ª Brigada Blindada del Ejército del Perú realizó una ceremonia conmemorativa por el 147.º aniversario de la Batalla de Tarapacá y el Día del Arma de Infantería, actividades que se recuerdan cada 27 de noviembre. El acto se desarrolló en las instalaciones del Fuerte Los Ángeles y fue presidido…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/tercera-brigada-blindada-conmemoro-aniversario-de-la-batalla-de-tarapaca/",
+   "fecha": "2026-11-25T22:04:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Arma",
+     "ubigeo": "090402",
+     "precision": "distrito",
+     "provincia": "Castrovirreyna",
+     "departamento": "Huancavelica",
+     "lon": -75.54187,
+     "lat": -13.12629,
+     "confianza": 0.7,
+     "principal": true
     }
    ]
   },
@@ -5082,6 +5836,44 @@
     }
    ],
    "grupo": "47014108229b"
+  },
+  {
+   "id": "8dc3412f3c23",
+   "titulo": "Varón fue encontrado sin vida cerca del COER Moquegua",
+   "resumen": "Un hombre identificado como Yonel Simón Zapata Calizaya (31), natural del centro poblado de Sacuaya, fue encontrado sin vida la mañana de este miércoles 25 de noviembre en la vía pública, en inmediaciones del Centro de Operaciones de Emergencia Regional (COER Moquegua). El cuerpo fue hallado en la…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/varon-fue-encontrado-sin-vida-cerca-del-coer-moquegua/",
+   "fecha": "2026-11-25T18:50:47Z",
+   "temas": [
+    "infraestructura",
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Sacuaya",
+     "ubigeo": "180103",
+     "ccpp": "1801030006",
+     "precision": "centro_poblado",
+     "provincia": "Mariscal Nieto",
+     "departamento": "Moquegua",
+     "lon": -70.71478,
+     "lat": -16.75925,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Moquegua",
+     "ubigeo": "180000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Moquegua",
+     "lon": -70.93332,
+     "lat": -17.19418,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
   },
   {
    "id": "7e3b94ac660f",
