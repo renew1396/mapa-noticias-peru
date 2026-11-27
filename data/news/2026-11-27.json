@@ -1,0 +1,92 @@
+{
+ "fecha": "2026-11-27",
+ "noticias": [
+  {
+   "id": "4c4f7cec70b8",
+   "titulo": "Costa Verde en riesgo: Emape identifica 10 sectores críticos por oleajes y erosión marina y busca declarar la emergencia",
+   "resumen": "El gerente general de la Empresa Municipal de Apoyo a Proyectos Estratégicos (Emape), Edgar Lara, indicó a El Comercio que, además de los sectores de La Pampilla (Miraflores), La Herradura (Chorrillos) y la bajada San Martín (San Isidro), se han identificado siete sectores críticos adicionales…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/costa-verde-en-riesgo-emape-identifica-10-sectores-criticos-por-oleajes-y-erosion-marina-y-busca-declarar-la-emergencia-noticia/",
+   "fecha": "2026-11-27T05:02:00Z",
+   "temas": [
+    "desastres",
+    "economia"
+   ],
+   "lugares": [
+    {
+     "nombre": "Miraflores",
+     "ubigeo": "220907",
+     "ccpp": "2209070009",
+     "precision": "centro_poblado",
+     "provincia": "San Martín",
+     "departamento": "San Martín",
+     "lon": -75.80631,
+     "lat": -6.43474,
+     "confianza": 0.5,
+     "principal": true
+    },
+    {
+     "nombre": "Chorrillos",
+     "ubigeo": "150108",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.01647,
+     "lat": -12.1769,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "San Martín",
+     "ubigeo": "220000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "San Martín",
+     "lon": -76.97427,
+     "lat": -6.03473,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "San Isidro",
+     "ubigeo": "220301",
+     "ccpp": "2203010010",
+     "precision": "centro_poblado",
+     "provincia": "El Dorado",
+     "departamento": "San Martín",
+     "lon": -76.69621,
+     "lat": -6.59854,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ],
+   "revisar": true
+  },
+  {
+   "id": "62428d2f3a87",
+   "titulo": "Piura: lluvias inundan ambientes del hospital Cayetano Heredia y obligan a reubicar a pacientes [VIDEO]",
+   "resumen": "Los pacientes del área de Neumoinfectología fueron reubicados en el auditorio del establecimiento, mientras que aquellos que presentaban un estado de salud más delicado fueron trasladados a UCI.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/piura/piura-lluvias-inundan-ambientes-del-hospital-cayetano-heredia-y-obligan-a-reubicar-a-pacientes-noticia-1720066",
+   "fecha": "2026-11-27T05:00:55Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  }
+ ]
+}

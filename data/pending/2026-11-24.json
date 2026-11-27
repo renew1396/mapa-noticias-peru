@@ -3977,6 +3977,53 @@
    "lugares": []
   },
   {
+   "id": "951df004fc7f",
+   "titulo": "Hospital Perú de EsSalud desplegará brigadas médicas especializadas en Áncash, Cusco y Puno",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/hospital-peru-de-essalud-desplegara-brigadas-medicas-especializadas-en-ancash-cusco-y-puno-noticia/",
+   "fecha": "2026-11-24T12:37:00Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": [
+    {
+     "nombre": "Áncash",
+     "ubigeo": "020000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Áncash",
+     "lon": -77.52929,
+     "lat": -9.52968,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Cusco",
+     "ubigeo": "080101",
+     "precision": "distrito",
+     "provincia": "Cusco",
+     "departamento": "Cusco",
+     "lon": -71.97676,
+     "lat": -13.51928,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Puno",
+     "ubigeo": "210101",
+     "precision": "distrito",
+     "provincia": "Puno",
+     "departamento": "Puno",
+     "lon": -70.02806,
+     "lat": -15.84026,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
    "id": "515637ac6595",
    "titulo": "Familiares de peruanos desaparecidos en Rusia esperan respuestas de la Cancillería",
    "resumen": "A casi dos semanas del regreso del canciller Carlos Espá de Moscú, las familias de los peruanos enlistados en el ejército ruso aseguran que aún no reciben información sobre el paradero de sus parientes.",

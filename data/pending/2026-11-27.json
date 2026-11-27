@@ -1,0 +1,65 @@
+{
+ "fecha": "2026-11-27",
+ "noticias": [
+  {
+   "id": "ebd45cf43ba4",
+   "titulo": "El mar expone la vulnerabilidad de la Costa Verde: ¿qué revelan los daños y qué tan preparada está para resistir nuevos oleajes?",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/sucesos/el-mar-expone-la-vulnerabilidad-de-la-costa-verde-que-revelan-los-danos-y-que-tan-preparada-esta-para-resistir-nuevos-oleajes-noticia/",
+   "fecha": "2026-11-27T05:07:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c321f1d1e0f3",
+   "titulo": "Lambayeque, Piura y Tumbes soportarán lluvias durante la noche y madrugada, advierte el Senamhi",
+   "resumen": "Las regiones Lambayeque, Piura y Tumbes soportarán lluvias durante la noche del jueves 26 y madrugada del viernes 27 de noviembre, advirtió el Servicio Nacional de Meteorología e Hidrología (Senamhi).",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/peru/lambayeque/lambayeque-piura-y-tumbes-soportaran-lluvias-durante-la-noche-y-madrugada-advierte-el-senamhi-fenomeno-el-nino-ultimas-noticia/",
+   "fecha": "2026-11-27T05:00:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  }
+ ]
+}
