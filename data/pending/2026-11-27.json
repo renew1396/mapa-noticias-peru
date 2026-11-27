@@ -2,6 +2,1517 @@
  "fecha": "2026-11-27",
  "noticias": [
   {
+   "id": "048ad3eeb501",
+   "titulo": "PJ revoca detención preliminar contra Brenda Jah y Polidoro Tapullima",
+   "resumen": "La máxima instancia judicial confirmó la detención por 15 días contra el dirigente indígena David Tapullima y contra el artista Pedro Mo.",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/27/pj-revoca-detencion-preliminar-contra-brenda-jah-y-polidoro-tapullima-hnews-684315",
+   "fecha": "2026-11-27T15:20:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9cd5d101098b",
+   "titulo": "Optimizando el harneado en Minería: monitoreo y medios de harneros",
+   "resumen": "En las operaciones de cobre, oro, hierro y litio de las unidades mineras en Sudamérica, el zarandeo ya no es solo una etapa más del proceso. Es el punto donde se define la capacidad real de la planta, la estabilidad del circuito de molienda-clasificación y, sobre todo, la rentabilidad operativa de…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/actualidad-empresarial/harneado-en-mineria/",
+   "fecha": "2026-11-27T15:19:05Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "fb89afc3c727",
+   "titulo": "Temblor en Perú hoy EN VIVO, viernes 27 de noviembre: último sismo, magnitud y epicentro según el IGP",
+   "resumen": "Consulta dónde ocurrió el último temblor este jueves en el Perú, su magnitud, epicentro, profundidad y hora, según el reporte oficial del IGP de este viernes 27 de noviembre.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/27/temblor-en-peru-hoy-en-vivo-viernes-27-de-noviembre-ultimo-sismo-magnitud-y-epicentro-segun-el-igp-918086",
+   "fecha": "2026-11-27T15:17:30Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "82ed03a0473f",
+   "titulo": "Violento asalto en la Costa Verde: sujetos interceptan vehículo y disparan para cometer atraco en plena vía",
+   "resumen": "Varios delincuentes, provistos de armas de largo alcance, cerraron el paso de un vehículo y dispararon contra la unidad para llevarse diversos bolsos y un maletín que habrían contenido joyas, según indicaron las víctimas.",
+   "medio": "La República",
+   "medio_id": "larepublica-sociedad",
+   "url": "https://larepublica.pe/sociedad/2026/11/27/violento-asalto-en-la-costa-verde-sujetos-interceptan-vehiculo-y-disparan-para-cometer-atraco-en-plena-via-1887813",
+   "fecha": "2026-11-27T15:14:16Z",
+   "temas": [
+    "seguridad",
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "dd02f395707f",
+   "titulo": "El 2026 apunta a ser un año récord para las OxI: ¿qué factores impulsan su crecimiento?",
+   "resumen": "La inversión acumulada durante 2026 asciende a S/11.412 millones y la meta es cerrar el año con S/12.000 millones. Las constructoras y las mineras destacan entre las empresas que más participan en este mecanismo.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/el-2026-apunta-a-ser-un-ano-record-para-las-oxi-que-factores-impulsan-su-crecimiento-obras-por-impuestos-proinversion-noticia/",
+   "fecha": "2026-11-27T15:13:42Z",
+   "temas": [
+    "mineria",
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b6ab606a41c9",
+   "titulo": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-para-que-presidenta-asista-el-3-de-diciembre-a-gabinete-binacional-noticia/",
+   "fecha": "2026-11-27T15:10:36Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "03e874779656",
+   "titulo": "Ingemmet identifica 1,560 zonas críticas ante el Fenómeno El Niño 2026-2027",
+   "resumen": "Lima, Piura y Cajamarca concentran la mayor cantidad de zonas críticas expuestas a huaicos, deslizamientos e inundaciones ante la temporada de lluvias. Ante la proximidad de la temporada de lluvias asociada al Fenómeno El Niño (FEN) 2026-2027, el Instituto Geológico, Minero y Metalúrgico…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/economia/ingemmet-zonas-criticas-peligros-geologicos/",
+   "fecha": "2026-11-27T15:10:27Z",
+   "temas": [
+    "desastres",
+    "mineria"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060101",
+     "precision": "distrito",
+     "provincia": "Cajamarca",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5442f6f1142e",
+   "titulo": "El dólar abre a la baja en S/3,46 ante fuerte recuperación del cobre",
+   "resumen": "El precio del dólar inició la jornada de este viernes en S/3,462 en el mercado cambiario peruano, por debajo de los S/3,474 del cierre anterior, con un retroceso de 0,35%.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/el-dolar-abre-a-la-baja-en-s346-ante-fuerte-recuperacion-del-cobre-l-cotizacion-del-dolar-l-dolar-l-ultimas-noticia/",
+   "fecha": "2026-11-27T15:09:55Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a508c0ca7f17",
+   "titulo": "IIMP EXIGE EL CIERRE DEFINITIVO DEL REINFO ESTE 31 DE DICIEMBRE Y URGE AL CONGRESO APROBAR LA LEY MAPE",
+   "resumen": "El presidente del Instituto de Ingenieros de Minas del Perú, Juan Carlos Ortiz, advirtió que el actual esquema de formalización opera como un «ecosistema de criminalidad» que resta recursos al fisco y frena la inversión formal. El gremio cierra filas con el Ejecutivo en la necesidad de contar con…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/iimp-exige-el-cierre-definitivo-del-reinfo-este-31-de-diciembre-y-urge-al-congreso-aprobar-la-ley-mape/",
+   "fecha": "2026-11-27T15:09:06Z",
+   "temas": [
+    "mineria",
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1a1119ba2ce3",
+   "titulo": "¿Una van 100% eléctrica en el Perú? Ford anuncia la llegada de Transit City con hasta 1.085 kg de capacidad",
+   "resumen": "Su mantenimiento es un 40% menor que el de una van diésel y cuenta con garantía de tres años sin límite de kilometraje",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/ruedas-tuercas/automotriz/una-minivan-100-electrica-en-el-peru-ford-anuncia-la-llegada-de-transit-city-con-hasta-1085-kg-de-capacidad-noticia/",
+   "fecha": "2026-11-27T15:05:19Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b171be965c26",
+   "titulo": "Engie: “En términos de recursos y enfoque vamos a tener que apuntar mucho a las líneas de transmisión”",
+   "resumen": "La utility de energía pondrá énfasis en la culminación exitosa de los proyectos de transmisión para “llevar la energía dónde se necesita y cuándo se necesita”, señaló su CEO para el Perú, Myriam Akhoum",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/cade-2026-engie-en-terminos-de-recursos-y-enfoque-vamos-a-tener-que-apuntar-mucho-a-las-lineas-de-transmision-noticia/",
+   "fecha": "2026-11-27T15:04:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7ac534ee215f",
+   "titulo": "La noche dorada 2: horarios, cartelera y cómo ver gratis el evento de ElZeein con shows de Hermanos Yaipén y Bareto",
+   "resumen": "La jornada de boxeo amateur contará con 16 participantes de cuatro países, tendrá alfombra dorada y se podrá ver en directo desde la plataforma Kick",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/la-noche-dorada-2-horarios-cartelera-y-como-ver-gratis-el-evento-de-elzeein-con-shows-de-hermanos-yaipen-y-bareto/",
+   "fecha": "2026-11-27T15:03:50Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e04ec7914403",
+   "titulo": "Inteligencia artificial en las empresas: ¿Basta su implementación para mejorar la productividad?",
+   "resumen": "Según el BCR, un 54% de empresas en el país ya ha adoptado esta tecnología y otro 25% la piensa implementar.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/dia-1/inteligencia-artificial-en-las-empresas-basta-su-implementacion-para-mejorar-la-productividad-ia-noticia/",
+   "fecha": "2026-11-27T15:03:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4c9e66e56439",
+   "titulo": "Black Friday: 93% de los consumidores considera relevante contrastar información antes de comprar",
+   "resumen": "De acuerdo con el Future Consumer Index 2026 de EY el 93% de los consumidores encuestados considera relevante contrastar información antes de comprar y el 95% se describe como selectivo. Esto refuerza una tendencia relevante para Black Friday y Cyber en Perú: el éxito ya no depende únicamente de…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/black-friday-93-de-los-consumidores-considera-relevante-contrastar-informacion-antes-de-comprar-l-ultimas-noticia/",
+   "fecha": "2026-11-27T15:00:48Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "83a58735625e",
+   "titulo": "SE DEBE CREAR UN GEIN INTERNACIONAL EN LA LUCHA CONTRA EL CRIMEN TRANSNACIONAL EN SUDAMÉRICA, PLANTEA EXGEIN JOSÉ LUIS GIL",
+   "resumen": "Afirma que hay más de mil policías encarcelados por formar parte de organizaciones criminales. RCR, 27 de noviembre de 2026.- El exdirector de Inteligencia del Ministerio del Interior, y ex integrante del GEIN, José Luis Gil Becerra, sostiene que la expansión de las organizaciones criminales en…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/se-debe-crear-un-gein-internacional-en-la-lucha-contra-el-crimen-transnacional-en-sudamerica-plantea-exgein-jose-luis-gil/",
+   "fecha": "2026-11-27T14:58:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e707607a744c",
+   "titulo": "Keiko Fujimori y Rodrigo Paz se reúnen en Palacio de Gobierno y lideran VII Gabinete Binacional Perú-Bolivia",
+   "resumen": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-rodrigo-paz-encabezan-encuentro-presidencial-y-gabinete-binacional-peru-bolivia-ultimas-noticia/",
+   "fecha": "2026-11-27T14:53:23Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e201e7585ac8",
+   "titulo": "La devoción del Señor de La Agonía de Pisco llegó hasta el Papa León XIV",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/ica/la-devocion-del-senor-de-la-agonia-de-pisco-llego-hasta-el-papa-leon-xiv-noticia/",
+   "fecha": "2026-11-27T14:52:35Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4054d87724e6",
+   "titulo": "¿Cuál es la cotización del dólar hoy viernes 27 de noviembre del 2026?",
+   "resumen": "El precio del dólar inició bajando frente al sol en la sesión cambiaria de hoy en un contexto de volatilidad de la moneda en el mercado regional.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-cual-es-cotizacion-del-dolar-hoy-viernes-27-noviembre-del-2026-1101670.aspx",
+   "fecha": "2026-11-27T14:49:12Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7e0178c0016f",
+   "titulo": "LOS JUEVES MINEROS CUMPLEN 30 AÑOS Y EN SU EDICIÓN DE ANIVERSARIO ABORDÓ EL TEMA DE LOS MINERALES CRÍTICOS, LA COMPETITIVIDAD Y LA LEGALIDAD",
+   "resumen": "RCR, 27 de noviembre de 2026.- Al celebrarse los 30 años de los Jueves Mineros, espacio de análisis técnico del Instituto de Ingenieros de Minas del Perú (IIMP), el exviceministro de Minas Henry Luna destacó que el Perú cuenta con la mayoría de los minerales críticos y estratégicos demandados por…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/los-jueves-mineros-cumplen-30-anos-y-en-su-edicion-de-aniversario-abordo-el-tema-de-los-minerales-criticos-la-competitividad-y-la-legalidad/",
+   "fecha": "2026-11-27T14:48:27Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "04d40698cb84",
+   "titulo": "Presidenta Keiko Fujimori recibe en Palacio de Gobierno a homólogo de Bolivia, Rodrigo Paz",
+   "resumen": "La presidenta de la república, Keiko Fujimori, recibe en Palacio de Gobierno a su homólogo de Bolivia, Rodrigo Paz, junto a quien liderará el Encuentro Presidencial y VII Gabinete Binacional Perú-Bolivia, un mecanismo de coordinación de alto nivel que permitirá fortalecer la relación bilateral y…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-presidenta-keiko-fujimori-recibe-palacio-gobierno-a-homologo-bolivia-rodrigo-paz-1101667.aspx",
+   "fecha": "2026-11-27T14:46:49Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d1417ac3920c",
+   "titulo": "Bionaturista amplia planta de alimentos y relanza negocio de cosméticos: el exterior como foco",
+   "resumen": "Bionaturista, dedicada a la fabricación y comercialización de alimentos, suplementos alimenticios y cosméticos de origen natural, viene ejecutando diversas acciones con miras a la ampliación de su capacidad productiva y, con ello, responder la demanda a nivel mundial.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/empresas/bionaturista-y-su-plan-para-ampliar-planta-de-alimentos-en-medio-de-relanzamiento-de-linea-cosmetica-noticia/",
+   "fecha": "2026-11-27T14:45:31Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "99a8354054e7",
+   "titulo": "Unión Europea impulsará economía circular con 5 ministerios en Perú: su “agenda verde”",
+   "resumen": "Diversos ministerios del Perú detallaron sus avances en economía circular y resaltaron la importancia de trabajar con el sector privado y la cooperación internacional, como la Unión Europea.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/union-europea-impulsara-economia-circular-con-5-ministerios-en-peru-su-agenda-verde-noticia/",
+   "fecha": "2026-11-27T14:40:54Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "99b4dc5f3c81",
+   "titulo": "BID: el reto del Perú es aprovechar su fortaleza y las oportunidades que le ofrece el mundo",
+   "resumen": "Gestión conversó en exclusiva con Ilan Goldfajn, presidente del Grupo BID, durante CADE Ejecutivos 2026. Todos los detalles de su mirada sobre Perú.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/bid-el-reto-del-peru-es-aprovechar-su-fortaleza-y-las-oportunidades-que-le-ofrece-el-mundo-noticia/",
+   "fecha": "2026-11-27T14:40:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e3a1e4305745",
+   "titulo": "IMP CELEBRA 83 AÑOS APOSTANDO POR EL RECAMBIO GENERACIONAL Y LA LUCHA CONTRA LA MINERÍA ILEGAL",
+   "resumen": "El presidente del gremio, Juan Carlos Ortiz, destacó que casi la mitad de sus 13,000 asociados son universitarios, consolidando al Perú como una excepción mundial en formación de talento minero frente a la caída de vocaciones en otras potencias extractivas. RCR, 27 de noviembre de 2026.- Al…",
+   "medio": "RCR",
+   "medio_id": "rcr",
+   "url": "https://www.rcrperu.com/imp-celebra-83-anos-apostando-por-el-recambio-generacional-y-la-lucha-contra-la-mineria-ilegal/",
+   "fecha": "2026-11-27T14:40:44Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "00ef289f8053",
+   "titulo": "Ricardo Belmont: Cruce de acusaciones de traición y deslealtad remece bancada de Obras",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/ricardo-belmont-cruce-de-acusaciones-de-traicion-y-deslealtad-remece-bancada-de-obras-noticia/",
+   "fecha": "2026-11-27T14:38:27Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4a5a8082b08f",
+   "titulo": "¿Parece nuevo? Cómo saber si un seminuevo es realmente confiable",
+   "resumen": "Toyota Seminuevos Certificados combina un proceso de inspección y certificación con una garantía de hasta 10 años o 200.000 km, lo que ocurra primero. El programa se ofrece a través de la red de concesionarios de la marca a nivel nacional",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/america/inhouse/2026/11/27/parece-nuevo-como-saber-si-un-seminuevo-es-realmente-confiable/",
+   "fecha": "2026-11-27T14:32:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8cf9e05254ee",
+   "titulo": "NASA: así puedes \"adoptar\" un píxel de las primeras imágenes del telescopio Roman",
+   "resumen": "La NASA ha habilitado la iniciativa \"Adopta un píxel\" en su portal oficial dedicado al Telescopio Espacial Nancy Grace Roman, permitiendo que los usuarios reclamen un píxel simbólico de las primeras imágenes que captará el observatorio y participen en este hito de exploración espacial.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-nasa-asi-puedes-adoptar-un-pixel-las-primeras-imagenes-del-telescopio-roman-1101648.aspx",
+   "fecha": "2026-11-27T14:30:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "1b00a779b56a",
+   "titulo": "\"El Reinfo actualmente es un salvoconducto para la ilegalidad\", afirmó extitular del Midis",
+   "resumen": "Paola Bustamante, extitular del Midis, consideró que el Reinfo funciona como un mecanismo para \"mantener una cobertura a la ilegalidad\".",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/el-reinfo-actualmente-es-un-salvoconducto-para-la-ilegalidad-afirmo-extitular-del-midis-noticia-1720105",
+   "fecha": "2026-11-27T14:25:47Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "edd0be343e49",
+   "titulo": "La acusación no acredita la existencia y actividad del MRTA",
+   "resumen": "Grave vacío. En el fallo judicial que dispuso la detención de cuatro personas se les atribuye presunta afiliación terrorista al Movimiento Revolucionario Túpac Amaru Renovado, pero la Dircote ni la Fiscalía aportaron evidencia sobre los supuestos líderes de la nueva agrupación, tampoco un registro…",
+   "medio": "La República",
+   "medio_id": "larepublica-politica",
+   "url": "https://larepublica.pe/politica/2026/11/27/la-acusacion-no-acredita-la-existencia-y-actividad-del-mrta-hnews-1397656",
+   "fecha": "2026-11-27T14:21:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5ac3ab216f68",
+   "titulo": "Perú y Finlandia buscan impulsar la economía circular mediante cooperación bilateral",
+   "resumen": "El Ministerio del Ambiente anunció la implementación de un programa piloto de educación ambiental en cinco regiones del país para promover el aprovechamiento de residuos y su reincorporación a los procesos productivos. Perú y Finlandia fortalecerán sus vínculos de cooperación para impulsar la…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/economia/peru-y-finlandia-economia-circular-mediante-cooperacion-bilateral/",
+   "fecha": "2026-11-27T14:16:48Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3a73520d93f0",
+   "titulo": "Cenepred advierte riesgo de huaicos e inundaciones por lluvias en siete regiones, ¿cuáles?",
+   "resumen": "Las lluvias de moderada a extrema intensidad previstas desde hoy, viernes 27, al domingo 29 de noviembre podrían desencadenar inundaciones, activación de quebradas, huaicos y deslizamientos en el norte y otras regiones del país que pondrían en riesgo muy alto y alto a la población de los…",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/cenepred-advierte-riesgo-de-huaicos-e-inundaciones-por-lluvias-fuertes-en-siete-regiones-cuales-noticia/",
+   "fecha": "2026-11-27T14:12:30Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4b007ed331f8",
+   "titulo": "Amén despedirá 2026 con Marcello Motta: anunció clásicos, rarezas y estrenos para su show de dos horas",
+   "resumen": "La agrupación peruana tocará en la Plaza San Martín con clásicos, canciones menos frecuentes en vivo, estrenos y una presentación extendida prevista para diciembre",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/amen-en-el-centro-de-lima-fecha-entradas-y-repertorio-para-su-cierre-de-ano/",
+   "fecha": "2026-11-27T14:07:30Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ba19fce2c780",
+   "titulo": "piura: Familiares y amigos exigen justicia para trabajador asesinado",
+   "resumen": "En el sepelio, la familia del trabajador de la UNP descartó la hipótesis de la Policía sobre un posible móvil sentimental detrás de este atroz crimen",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/piura/piura-familiares-y-amigos-exigen-justicia-para-trabajador-asesinado-noticia/",
+   "fecha": "2026-11-27T14:04:44Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a3397321b079",
+   "titulo": "Zaca TV despide la temporada 2026 con Grupo 5: cuándo y dónde ver en vivo el último programa de ‘Somos lo que somos’",
+   "resumen": "Giacomo Benavides, Doménico Benavides, Gia Meier, Andrea Noriega y Mafe Sin R compartirán set con la agrupación de cumbia en una edición especial del programa digital",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/zaca-tv-despide-la-temporada-2026-con-grupo-5-cuando-y-donde-ver-en-vivo-el-ultimo-programa-de-somos-lo-que-somos/",
+   "fecha": "2026-11-27T14:02:33Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d420ee54ac68",
+   "titulo": "Mejores casinos online en Perú: ranking, bonos y análisis en 2026",
+   "resumen": "",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/apuestas-deportivas/publirreportaje/ranking-mejores-casinos-en-linea-peru-analisis-noticia-1683018",
+   "fecha": "2026-11-27T14:00:41Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "db2e9720036b",
+   "titulo": "El Peruano participa en décimo Foro de Boletines Oficiales en Argentina",
+   "resumen": "El Diario Oficial El Peruano, el periódico en circulación más antiguo de la región, participa en la décima edición del Foro de Boletines Oficiales de la República Argentina (Fobora), que se realiza en la ciudad de Buenos Aires.",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-el-peruano-participa-decimo-foro-boletines-oficiales-argentina-1101646.aspx",
+   "fecha": "2026-11-27T14:00:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "25cffed24b09",
+   "titulo": "Senadores de Obras se libran de Ricardo Belmont, quien ya no podrá imponer a voceros ni candidatos para Mesa Directiva",
+   "resumen": "Ahora será la bancada por mayoría quien elegirá a sus representantes. Un conflicto similar en la Cámara de Diputados derivó en la salida del vocero",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/senadores-de-obras-se-libran-de-ricardo-belmont-quien-ya-no-podra-imponer-voceros-ni-candidatos-para-mesa-directiva/",
+   "fecha": "2026-11-27T13:53:11Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "80b29ea49dae",
+   "titulo": "ProInversión y Egasa firman convenio para promover inversiones privadas en el sector eléctrico",
+   "resumen": "El acuerdo tendrá una vigencia de tres años y permitirá impulsar proyectos de inversión mediante las modalidades de Asociaciones Público-Privadas (APP) y Proyectos en Activos. La Agencia de Promoción de la Inversión Privada (ProInversión) y la Empresa de Generación Eléctrica Arequipa (Egasa)…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/noticias-energia/proinversion-y-egasa-inversiones-privadas-sector-electrico/",
+   "fecha": "2026-11-27T13:43:38Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8d01471af937",
+   "titulo": "Indecopi recomienda verificar contratos y servicios antes de viajes y fiestas de promoción",
+   "resumen": "El jefe de Indecopi Ilo, abogado Sergio Romero, brindó recomendaciones a los padres de familia y estudiantes que vienen organizando viajes y fiestas de promoción en las instituciones educativas, con el propósito de evitar problemas durante la contratación de estos servicios. Romero recomendó…",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/indecopi-recomienda-verificar-contratos-y-servicios-antes-de-viajes-y-fiestas-de-promocion/",
+   "fecha": "2026-11-27T13:32:43Z",
+   "temas": [
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "283213e4f2d5",
+   "titulo": "Día del Biólogo Peruano: conoce a los expertos más destacados en el Perú y el mundo",
+   "resumen": "La biología es una de las ramas más importantes de las ciencias. Se enfoca en estudiar a los seres vivos en su conjunto y todos los procesos bioquímicos que tienen lugar dentro de sus organismos. Esta disciplina ha sido fundamental para diversos propósitos, entre los que destacan el hallazgo de…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-dia-del-biologo-peruano-conoce-a-los-expertos-mas-destacados-el-peru-y-mundo-904050.aspx",
+   "fecha": "2026-11-27T13:32:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7aa41f12fa0e",
+   "titulo": "Perú impulsa cooperación espacial para vigilancia ambiental y prevención de desastres",
+   "resumen": "El Perú identificó nuevas oportunidades de cooperación internacional para aprovechar la tecnología satelital en la vigilancia ambiental, la gestión de cultivos y la prevención de desastres naturales tras su participación en el VIII Foro Espacial Internacional (ISF 2026), realizado en Roma, Italia…",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-peru-impulsa-cooperacion-espacial-para-vigilancia-ambiental-y-prevencion-desastres-1101658.aspx",
+   "fecha": "2026-11-27T13:27:30Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0f9dd1c4e5cd",
+   "titulo": "Ley MAPE: Comisión de Energía y Minas debatirá propuesta legislativa el 1 de diciembre",
+   "resumen": "La presidenta de la comisión en la Cámara de Diputados, Yenifer Paredes, anunció la fecha del debate en medio de las demandas de los mineros informales por una nueva ampliación del Reinfo. La Comisión de Energía y Minas de la Cámara de Diputados del Congreso debatirá este martes 1 de diciembre la…",
+   "medio": "Rumbo Minero",
+   "medio_id": "rumbominero",
+   "url": "https://www.rumbominero.com/peru/noticias/mineria/ley-mape-comision-energia-minas-debatira-propuesta-diciembre/",
+   "fecha": "2026-11-27T13:25:29Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7faa96ee38c8",
+   "titulo": "Poder Judicial ordena la liberación de Brenda Jah y Polidoro Tapullima",
+   "resumen": "Artista Pedro Mo y David Tapullima siguen en prisión preliminar de 15 días. Fiscalía no pudo probar su afiliación a una organización terrorista",
+   "medio": "El Búho",
+   "medio_id": "elbuho",
+   "url": "https://elbuho.pe/2026/11/poder-judicial-ordena-la-liberacion-de-brenda-jah-y-polidoro-tapullima/",
+   "fecha": "2026-11-27T13:23:26Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "da2a1eb57aff",
+   "titulo": "Carolay Chávez Ávalos, artista visual: “Mis figuras hablan de mis emociones”",
+   "resumen": "Desde niña le gustaba imaginar a los personajes que conocía por las historias clásicas y ahora culmina sus estudios de Maestría en Artes",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/carolay-chavez-avalos-artista-visual-mis-figuras-hablan-de-mis-emociones-noticia/",
+   "fecha": "2026-11-27T13:22:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ea996f8bd1e3",
+   "titulo": "Dólar hoy en Perú: cotización de apertura del 27 de noviembre",
+   "resumen": "La divisa estadounidense ha registrado un retroceso respecto a la jornada anterior",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/dolar-hoy-en-peru-cotizacion-de-apertura-del-27-de-noviembre/",
+   "fecha": "2026-11-27T13:16:10Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4d95730c22ed",
+   "titulo": "CCL propondrá al Congreso una ley que limite el gasto corriente de los gobiernos regionales",
+   "resumen": "",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/raul-barrios-en-cade-206-ccl-propondra-al-congreso-una-ley-que-limite-el-gasto-corriente-de-los-gobiernos-regionales-noticia/",
+   "fecha": "2026-11-27T13:10:46Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "298d89e00e1b",
+   "titulo": "Hugo Ccahuana cuestiona adenda con Cálidda y exige explicaciones al ministro de Energía y Minas",
+   "resumen": "En otro momento, el senador de Juntos por el Perú adelantó que votará en contra del viaje de la presidenta Keiko Fujimori a Colombia y calificó de “mamarracho” el proyecto de ley MAPE",
+   "medio": "Canal N",
+   "medio_id": "canaln",
+   "url": "https://canaln.pe/actualidad/hugo-ccahuana-cuestiona-adenda-calidda-y-exige-explicaciones-al-ministro-energia-y-minas-n496519",
+   "fecha": "2026-11-27T13:08:19Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "814c30eb9e2d",
+   "titulo": "El papa pide ayudar a los jóvenes \"a comunicarse de manera responsable\" en entorno digital",
+   "resumen": "El papa León XIV pidió promover una cultura \"que ayude a los jóvenes a comunicarse de manera responsable\", sobre todo en una época en \"la que el miedo y los prejuicios se amplifican con tanta facilidad, especialmente en los entornos digitales\".",
+   "medio": "Andina",
+   "medio_id": "andina",
+   "url": "https://andina.pe/agencia/noticia-el-papa-pide-ayudar-a-los-jovenes-a-comunicarse-manera-responsable-entorno-digital-1101655.aspx",
+   "fecha": "2026-11-27T13:03:55Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "f11d9e7d680f",
+   "titulo": "Proponen que estacionamiento sea gratuito en centros comerciales y supermercados las primeras tres horas",
+   "resumen": "El periodo gratuito se daría para personas que consuman en los locales, sin un monto mínimo. La medida también plantea que el cobro no se haga por horas, sino que se establezca una tarifa por minutos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/proponen-que-estacionamiento-sea-gratuito-en-centros-comerciales-y-supermercados-las-primeras-tres-horas/",
+   "fecha": "2026-11-27T12:51:20Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "799d7fa90a59",
+   "titulo": "‘Combate: Nueva Generación’ revelará a sus primeros competidores en una edición especial: hora y fecha del programa",
+   "resumen": "El recordado formato vuelve tras ocho años fuera de la pantalla y prepara un evento especial por televisión y plataformas digitales para adelantar su propuesta",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/combate-nueva-generacion-revelara-a-sus-primeros-competidores-en-una-edicion-especial-hora-y-fecha-del-programa/",
+   "fecha": "2026-11-27T12:45:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b4cddd80733c",
+   "titulo": "Claro lidera las inversiones en telecomunicaciones: ¿cómo les fue a Movistar, Entel y Bitel?",
+   "resumen": "",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/empresas/claro-movistar-entel-y-bitel-elevan-sus-ingresos-e-inversiones-en-el-primer-semestre-de-2026-dice-osiptel-noticia/",
+   "fecha": "2026-11-27T12:44:11Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "4bb6b408cebc",
+   "titulo": "Arequipeños reclaman mejoras en salud a viceministra María Cuba",
+   "resumen": "La presencia de la viceministra de salud en el Iren y el hospital solo fue para recorrer sus instalaciones y recoger algunas propuestas de mejora",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/arequipenos-reclaman-mejoras-en-salud-a-viceministra-maria-cuba-noticia/",
+   "fecha": "2026-11-27T12:39:04Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "05db8d127381",
+   "titulo": "Temblor hoy en Perú EN VIVO: últimos sismos, epicentro y reporte del IGP del viernes 27 de noviembre de 2026",
+   "resumen": "El Centro Sismológico Nacional no publicó registros posteriores al miércoles. La información disponible permite revisar epicentros, magnitudes, profundidades e indicaciones de prevención ante una emergencia",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/temblor-hoy-en-peru-en-vivo-ultimos-sismos-epicentro-y-reporte-del-igp-del-viernes-27-de-noviembre-de-2026/",
+   "fecha": "2026-11-27T12:35:11Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3d3388237cf1",
+   "titulo": "Abaco cumple 45 años y apuesta por la transformación digital del sector cooperativo",
+   "resumen": "La Cooperativa de Ahorro y Crédito Abaco cumple 45 años y presenta proyectos de transferencias interbancarias, billetera digital e incorporación de inteligencia artificial.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/publirreportaje/abaco-cumple-45-anos-y-apuesta-por-la-transformacion-digital-del-sector-cooperativo-noticia/",
+   "fecha": "2026-11-27T12:30:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3cae8ab775cd",
+   "titulo": "Cenepred advierte riesgo de huaicos e inundaciones por lluvias en siete regiones",
+   "resumen": "Cenepred advirtió que las lluvias de moderada a extrema intensidad previstas del 27 al 29 de noviembre podrían causar huaicos, deslizamientos e inundaciones en Piura, Tumbes, Cajamarca, Junín, La Libertad, Lambayeque y Lima, con millones de personas en riesgo alto y muy alto.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/sociedad/cenepred-riesgo-huaicos-inundaciones-siete-regiones",
+   "fecha": "2026-11-27T12:20:07Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Cajamarca",
+     "ubigeo": "060000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Cajamarca",
+     "lon": -78.5107,
+     "lat": -7.1546,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Junín",
+     "ubigeo": "120000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Junín",
+     "lon": -75.20877,
+     "lat": -12.07088,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "La Libertad",
+     "ubigeo": "150110",
+     "ccpp": "1501100001",
+     "precision": "centro_poblado",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.04942,
+     "lat": -11.95716,
+     "confianza": 0.5,
+     "principal": false
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lambayeque",
+     "lon": -79.85062,
+     "lat": -6.76685,
+     "confianza": 0.7,
+     "principal": false
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "012de9299170",
+   "titulo": "Alertan sobre presuntas donaciones falsas aprovechándose de la difícil situación de Pablo Chambilla y sus hijos",
+   "resumen": "Jennifer Ramos advirtió que personas estarían difundiendo otro número telefónico para captar aportes económicos. Pidió a la población verificar los datos antes de realizar cualquier donación Jennifer Ramos, quien viene impulsando una campaña solidaria para conseguir ayuda humanitaria y mejorar las…",
+   "medio": "Radio Onda Azul",
+   "medio_id": "ondaazul",
+   "url": "https://radioondaazul.com/sobre-presuntas-donaciones-falsas-aprovechandose-de-la-dificil-situacion-de-pablo-chambilla-y-sus-hijos/",
+   "fecha": "2026-11-27T12:20:03Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "6a19c11bb468",
+   "titulo": "Lluvias intensas causan inundaciones y mantienen en emergencia a Piura y Tumbes",
+   "resumen": "Las fuertes precipitaciones registradas en la costa norte del país han provocado inundaciones en diferentes sectores de Piura y Tumbes, afectando viviendas, calles, vías de acceso y zonas vulnerables. La emergencia también alcanza a otras localidades de Lambayeque. En Sullana, el alcalde Marlem…",
+   "medio": "El Tiempo",
+   "medio_id": "eltiempo",
+   "url": "https://eltiempo.pe/local/lluvias-intensas-causan-inundaciones-y-mantienen-en-emergencia-a-piura-y-tumbes/",
+   "fecha": "2026-11-27T12:18:03Z",
+   "temas": [
+    "desastres",
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.21,
+     "principal": true
+    },
+    {
+     "nombre": "Tumbes",
+     "ubigeo": "240101",
+     "precision": "distrito",
+     "provincia": "Tumbes",
+     "departamento": "Tumbes",
+     "lon": -80.45913,
+     "lat": -3.571,
+     "confianza": 0.6,
+     "principal": false
+    },
+    {
+     "nombre": "Lambayeque",
+     "ubigeo": "140301",
+     "precision": "distrito",
+     "provincia": "Lambayeque",
+     "departamento": "Lambayeque",
+     "lon": -79.89526,
+     "lat": -6.70698,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "6a3b384b11a8",
+   "titulo": "Gobierno de Fujimori firma adenda para extender masificación del gas natural",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/gobierno-de-fujimori-firma-adenda-para-extender-masificacion-del-gas-natural-noticia/",
+   "fecha": "2026-11-27T12:00:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [],
+   "grupo": "006eabf7e7c7"
+  },
+  {
+   "id": "020959723d69",
+   "titulo": "Ley Mape: La presidenta Keiko Fujimori le pide al Congreso aprobar su proyecto",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/politica/ley-mape-la-presidenta-keiko-fujimori-le-pide-al-congreso-aprobar-su-proyecto-noticia/",
+   "fecha": "2026-11-27T12:00:00Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "7a327be08a35",
+   "titulo": "Empresas se preparan ante expectativa de alza de tasas, ¿qué medidas toman?",
+   "resumen": "Gerardo Moreno, gerente de Finanzas y Banca Corporativa del BCP, señala que algunos clientes también contratan coberturas de tasas y esperan que pase el pico para extender los plazos de su deuda.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/tu-dinero/empresas-se-preparan-ante-expectativa-de-alza-de-tasas-que-medidas-toman-noticia/",
+   "fecha": "2026-11-27T11:58:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "fe92de39f68e",
+   "titulo": "¿Maquillaje coreano o colombiano? Las preferencias del consumisor que reconfiguran el mercado de belleza peruano",
+   "resumen": "Mientras las importaciones aumentan y la producción local retrocede, las marcas chinas ganan terreno en maquillaje y el retail desplaza a la venta directa. Copecoh proyecta que el sector podría cerrar el año con un avance de 9%.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/economia/peru/maquillaje-coreano-o-colombiano-las-preferencias-del-consumisor-que-reconfiguran-el-mercado-de-belleza-peruano-copecoh-kiko-milano-sephora-noticia/",
+   "fecha": "2026-11-27T11:43:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a4ab7fcb55c7",
+   "titulo": "DNI Digital gratis en todo el Perú: RENIEC da a conocer los pasos que debes seguir para acceder a este beneficio",
+   "resumen": "Los mayores de edad con documento vigente pueden obtener la credencial mediante las aplicaciones Perú Pass e ID Perú, tras superar controles de autenticación y reconocimiento facial",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/dni-digital-gratis-en-todo-el-peru-reniec-da-a-conocer-los-pasos-que-debes-seguir-para-acceder-a-este-beneficio/",
+   "fecha": "2026-11-27T11:36:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "98b1c3b5ddbe",
+   "titulo": "¿Cuál es el plan del gobierno para extender el gas natural a siete regiones y cuántos millones de personas se beneficiarían?",
+   "resumen": "El acuerdo con Cálidda prevé más de USD 550 millones para extender las redes de distribución hacia 15 ciudades y conectar a más de 300.000 hogares",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/cual-es-el-plan-del-gobierno-para-extender-el-gas-natural-a-siete-regiones-y-cuantos-millones-de-personas-se-beneficiarian/",
+   "fecha": "2026-11-27T11:34:57Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "dcf582fc85b3",
+   "titulo": "Campaña de DNI electrónico gratis para este lunes 30 de noviembre: ¿Dónde y quiénes son los beneficiarios?",
+   "resumen": "La jornada incluirá la toma de fotografía gratuita para facilitar el trámite de identificación de los menores de edad",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/campana-de-dni-electronico-gratis-para-este-lunes-30-de-noviembre-donde-y-quienes-son-los-beneficiarios/",
+   "fecha": "2026-11-27T11:33:53Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9c6b42245b13",
+   "titulo": "Camila Domínguez confiesa por qué expuso a Christian Domínguez en redes sociales",
+   "resumen": "La hija de Melanie Martínez se sinceró en ‘Magaly, el podcast’ sobre el episodio que marcó su relación con el líder de la Gran Orquesta Internacional. Reconoció que buscaba que su padre le prestara más atención y confesó cuánto le dolió lo ocurrido el año pasado",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/camila-dominguez-confiesa-por-que-expuso-a-christian-dominguez-en-redes-sociales/",
+   "fecha": "2026-11-27T11:15:22Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e3227dfc5f5c",
+   "titulo": "Rosángela Espinoza y su inesperada reacción al enterarse que su pareja viajó hace poco con su esposa: “¿Confías en Ricardo?\"",
+   "resumen": "La integrante de Esto es Guerra fue consultada tras las revelaciones de Magaly TV, la firme, programa que difundió un acta matrimonial, un certificado de movimiento migratorio y fotografías del piloto junto a su esposa durante un viaje reciente",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/rosangela-y-su-inesperada-reaccion-al-decirle-que-su-pareja-viajo-hace-poco-con-su-esposa/",
+   "fecha": "2026-11-27T11:15:09Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "801342071b6b",
+   "titulo": "Rosángela Espinoza se pronuncia tras revelarse que su pareja sería casado: “Me dijo que ya estaba separado y no tenía hijos”",
+   "resumen": "La integrante de Esto es Guerra afirmó que el piloto le aseguró haber firmado trámites de divorcio y no tener hijos, versión que difundió tras el informe televisivo sobre su situación familiar",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/rosangela-espinoza-se-pronuncia-tras-revelarse-que-su-pareja-seria-casado-me-dijo-que-ya-estaba-separado-y-no-tenia-hijos/",
+   "fecha": "2026-11-27T11:15:04Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "dd34a4b1dc79",
+   "titulo": "Resultados Kábala del jueves 26 de noviembre: conoce los números ganadores del sorteo y del Chau Chamba",
+   "resumen": "La Kábala celebra tres sorteos a la semana, cada martes, jueves y sábado, después de las 20:30 horas. Revise si se rompió el pozo millonario",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/kabala-del-jueves-26-de-noviembre-ganadores-del-ultimo-sorteo/",
+   "fecha": "2026-11-27T11:15:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ee6dfa3ee0a7",
+   "titulo": "Magaly Medina arremete contra Austin Palao por exponer intimidades de Flavia Laos: “Habla pésimo de él como persona”",
+   "resumen": "La conductora criticó al modelo tras verlo hablar de episodios íntimos de su romance pasado ante otros concursantes de ‘Volverías con tu ex’, y consideró que sus comentarios cruzaron un límite",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/magaly-medina-arremete-contra-austin-palao-por-exponer-intimidades-de-flavia-laos-habla-pesimo-de-el-como-persona/",
+   "fecha": "2026-11-27T11:14:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0e5704202162",
+   "titulo": "Precio del dólar Perú y tipo de cambio hoy 27 de noviembre del 2026",
+   "resumen": "En Perú, el tipo de cambio para hoy viernes 27 de noviembre es de S/3.47 según el Banco Central de Reserva Del Perú.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/economia/economia/precio-del-dolar-peru-y-tipo-de-cambio-hoy-27-de-noviembre-del-2026-noticia-1720086",
+   "fecha": "2026-11-27T11:05:39Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c5188511ada7",
+   "titulo": "Isabel Allende, escritora chilena: “La literatura mira hacia atrás para poder imaginar el futuro” (Entrevista)",
+   "resumen": "En una entrevista en conjunto para medios locales y de Colombia, la escritora reflexiona sobre su más reciente publicación “La hora antes del alba” (Planeta) y responde consultas de Correo sobre su regreso al universo de “La casa de los espíritus”; asimismo, habla de la literatura cómo ejercicio…",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/cultura/literatura-isabel-allende-escritora-chilena-la-literatura-mira-hacia-atras-para-poder-imaginar-el-futuro-entrevista-planeta-la-hora-antes-del-alba-la-casa-de-los-espiritus-ficcion-novela-noticia/",
+   "fecha": "2026-11-27T11:00:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2ce099a42771",
+   "titulo": "Perú pierde arbitraje y CIADI ordena que socia de TGP lleve sus utilidades afuera",
+   "resumen": "",
+   "medio": "Correo",
+   "medio_id": "correo",
+   "url": "https://diariocorreo.pe/economia/peru-pierde-arbitraje-y-ciadi-ordena-que-socia-de-tgp-se-lleve-sus-utilidades-afuera-noticia/",
+   "fecha": "2026-11-27T11:00:01Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "c1b7c83275b2",
+   "titulo": "Fiscalización ambiental: avances y vacíos normativos del Acta de Compromiso ante el OEFA",
+   "resumen": "La falta de parámetros objetivos deja a criterio de la autoridad determinar cuándo procede la solicitud, mientras el rechazo carece de un trámite definido para que los supervisados cuestionen esa decisión",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/fiscalizacion-ambiental-avances-y-vacios-normativos-del-acta-de-compromiso-ante-el-oefa/",
+   "fecha": "2026-11-27T11:00:01Z",
+   "temas": [
+    "medio_ambiente"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "26c5b7519c91",
+   "titulo": "El otro retorno de la inversión",
+   "resumen": "A través de la música se están atendiendo problemas educativos, familiares y sociales que forman parte de las agendas de distintos ministerios y programas públicos",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/el-otro-retorno-de-la-inversion/",
+   "fecha": "2026-11-27T11:00:01Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "a8caa0e05c13",
+   "titulo": "Conductores sin brevete, infracciones impunes y semáforos descoordinados: las tres propuestas de El Comercio para transformar el tránsito",
+   "resumen": "Las propuestas buscan penalizar la conducción sin licencia, incorporar a los ciudadanos en la fiscalización de infracciones de tránsito y establecer una semaforización coordinada. Las iniciativas fueron entregadas a representantes del Parlamento durante el encuentro “La Lima que queremos al 2030”…",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/transporte/conductores-sin-brevete-infracciones-impunes-y-semaforos-descoordinados-las-tres-propuestas-de-el-comercio-para-transformar-el-transito-noticia/",
+   "fecha": "2026-11-27T11:00:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5b09ce5c105a",
+   "titulo": "Mercados e indicadores – Hoy viernes 27 de noviembre",
+   "resumen": "Para tomar las decisiones más acertadas de inversión, manténgase diariamente bien informado sobre el desempeño de las acciones de la plaza bursátil, de la variación de las principales variables del mercado financiero, así como de la evolución de los precios de los commodities. La cotización en el…",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/economia/mercados/mercados-e-indicadores-viernes-27-de-noviembre-2026-noticia/",
+   "fecha": "2026-11-27T10:30:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "996f8a1c81c8",
+   "titulo": "TAPP del BCR: así sería el despliegue inicial del nuevo sistema de pagos",
+   "resumen": "La infraestructura contempla tres roles para las empresas que quieran participar. Con ello, se abren oportunidades para desarrollar nuevos modelos de negocio y ampliar la competencia, señala GMoney.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/tu-dinero/tapp-del-bcr-asi-seria-el-despliegue-inicial-del-nuevo-sistema-de-pagos-noticia/",
+   "fecha": "2026-11-27T10:10:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "42b2ecd9a18d",
+   "titulo": "Dictan siete meses de prisión preventiva por presuntos tocamientos a terramoza",
+   "resumen": "Un pasajero identificado con las iniciales T. L. recibió siete meses de prisión preventiva mientras es investigado por presuntos tocamientos indebidos contra una joven terramoza en un bus",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/dictan-siete-meses-de-prision-preventiva-por-presuntos-tocamientos-a-terramoza",
+   "fecha": "2026-11-27T09:01:39Z",
+   "temas": [
+    "transporte"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "b47c648cc9fc",
+   "titulo": "MTPE anuncia 18 659 vacantes y plantea reglas para descansos laborales",
+   "resumen": "El Ministerio de Trabajo y Promoción del Empleo (MTPE) informó que su plataforma Empleos Perú ofrece 18 659 vacantes laborales, según el balance difundido el 21 de noviembre.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/economia/mtpe-anuncia-18-659-vacantes-y-plantea-reglas-para-descansos-laborales",
+   "fecha": "2026-11-27T09:01:13Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "26e47709d05c",
+   "titulo": "Vecinos de Las Moras reclaman por basura acumulada",
+   "resumen": "Vecinos dicen que el camión no sube hace unos diez días y que la basura se amontona junto a un reservorio de agua potable",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/vecinos-de-las-moras-reclaman-por-basura-acumulada",
+   "fecha": "2026-11-27T09:01:00Z",
+   "temas": [
+    "agua"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5f4d4c44a7cf",
+   "titulo": "Equipo médico del Showing actuó de emergencia y salvó a paciente",
+   "resumen": "Una paciente que presentó una hemorragia obstétrica severa fue intervenida de emergencia en el Hospital Materno Infantil Carlos Showing Ferrari.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/equipo-medico-del-showing-actuo-de-emergencia-y-salvo-a-paciente",
+   "fecha": "2026-11-27T09:00:47Z",
+   "temas": [
+    "desastres",
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d15ee06ab328",
+   "titulo": "Alcalde de Chulqui exige a Mayes retractarse",
+   "resumen": "Wilmer Exaltación dice haber enviado una carta notarial al candidato César Mayes, al que acusa de difamarlo, y convoca a rendir cuentas el 17 de diciembre",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/alcalde-de-chulqui-exige-a-mayes-retractarse",
+   "fecha": "2026-11-27T09:00:44Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "e31d3b0240c1",
+   "titulo": "Alcalde electo confirma a Fidel Montes como gerente municipal",
+   "resumen": "El gobernador regional electo, Rosalí Leandro, promete gerentes huanuqueños y una comisión de transferencia de no más de diez personas, aún sin nombres",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/alcalde-electo-confirma-a-fidel-montes-como-gerente-municipal",
+   "fecha": "2026-11-27T09:00:41Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "63a4a8f4c0b7",
+   "titulo": "Primeros gestores de víctimas los pagarían privados",
+   "resumen": "El protocolo contra la violencia se oficializó el jueves 26 sin ordenanza; el Servicio de Atención Urgente atendió 701 casos de enero a octubre",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/primeros-gestores-de-victimas-los-pagarian-privados",
+   "fecha": "2026-11-27T09:00:34Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "09f6b5bd0070",
+   "titulo": "Liberar la ribera del Higueras tomaría meses",
+   "resumen": "Vivienda da por iniciada la liberación; Walter Bruno, de la plataforma del paro, atribuye a la ALA un plazo de dos a seis meses",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/liberar-la-ribera-del-higueras-tomaria-meses",
+   "fecha": "2026-11-27T09:00:30Z",
+   "temas": [
+    "conflicto_social"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0867e2a371df",
+   "titulo": "Dengue grave: Diresa culpa a la automedicación",
+   "resumen": "La Diresa detalló 2019 casos el miércoles 25 y su director advierte del «efecto engaño»: la fiebre cede y el daño sigue por dentro",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/dengue-grave-diresa-culpa-a-la-automedicacion",
+   "fecha": "2026-11-27T09:00:27Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "ea0547132bac",
+   "titulo": "Piden expediente final para obra de la laguna",
+   "resumen": "Decano del Colegio de Ingenieros, dice que la obra va por diseño y construcción; el alcalde electo Adler Ponce espera que actúe la Contraloría",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/piden-expediente-final-para-obra-de-la-laguna",
+   "fecha": "2026-11-27T09:00:23Z",
+   "temas": [
+    "infraestructura",
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "8cc82f48bdd7",
+   "titulo": "Puente La Muyuna, que debía abrir en agosto, apunta ahora a su quinta fecha",
+   "resumen": "Un ingeniero de la obra apunta a la quincena o el 20 de diciembre, a días de que Pulgar deje el cargo; en mayo, el Gobierno Regional proyectaba agosto",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/puente-la-muyuna-que-debia-abrir-en-agosto-apunta-ahora-a-su-quinta-fecha",
+   "fecha": "2026-11-27T09:00:20Z",
+   "temas": [
+    "infraestructura",
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "2b3398e05a86",
+   "titulo": "Sunass adelanta a diciembre examen de Seda Huánuco",
+   "resumen": "La empresa dejará el régimen del Otass si supera el 85 %, según el acta de la mesa técnica; la Sunass recomendará hasta el 22 de enero",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/regional/sunass-adelanta-a-diciembre-examen-de-seda-huanuco",
+   "fecha": "2026-11-27T09:00:16Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "0f2fa48e47c5",
+   "titulo": "JUEZA ANUNCIA QUE PEDIRÁ NULIDAD DE ELECCIONES EN LA CORTE DEL SANTA",
+   "resumen": "María Apaza cuestionó el desarrollo de la exposición de los planes de gestión de los candidatos a la Presidencia para el periodo 2027-2028. Ausencia de Carlos Maya en la transmisión y problemas para ingresar al...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/27/jueza-anuncia-que-pedira-nulidad-de-elecciones-en-la-corte-del-santa/",
+   "fecha": "2026-11-27T07:14:13Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "21d7a57363da",
+   "titulo": "Familia de joven fallecida por dengue pide apoyo para su sepelio",
+   "resumen": "La familia de Samara Meléndez Navarro, joven de 21 años que falleció tras presentar graves complicaciones a causa del dengue, solicita apoyo económico a la población para cubrir los gastos de su sepelio y brindarle...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/27/familia-de-joven-fallecida-por-dengue-pide-apoyo-para-su-sepelio/",
+   "fecha": "2026-11-27T07:13:28Z",
+   "temas": [
+    "salud"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "d1282b7a0ece",
+   "titulo": "Pescadores en suspensión perfecta por El Niño que pierdan su cobertura de EsSalud pasarán al SIS",
+   "resumen": "Los trabajadores pesqueros que se encuentren en suspensión perfecta de labores ante la paralización de actividades por efectos del Fenómeno El Niño y pierdan su cobertura de EsSalud podrán acceder al Seguro Integral de Salud...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/27/pescadores-en-suspension-perfecta-por-el-nino-que-pierdan-su-cobertura-de-essalud-pasaran-al-sis/",
+   "fecha": "2026-11-27T07:11:42Z",
+   "temas": [
+    "salud",
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "87e45cde438b",
+   "titulo": "Renuevan contrato a trabajadores denunciados por acoso en la Corte del Santa",
+   "resumen": "A pesar de denuncias: Mientras el Primer Juzgado de Familia Transitorio tramita la denuncia por acoso y maltrato psicológico en agravio de una servidora judicial de la Unidad de Flagrancia de la Corte Superior de...",
+   "medio": "Diario de Chimbote",
+   "medio_id": "chimbote",
+   "url": "https://diariodechimbote.com/2026/11/27/renuevan-contrato-a-trabajadores-denunciados-por-acoso-en-la-corte-del-santa/",
+   "fecha": "2026-11-27T07:10:25Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "3cce520daac1",
+   "titulo": "Separata Judicial – Viernes 27 de noviembre de 2026",
+   "resumen": "",
+   "medio": "Prensa Regional",
+   "medio_id": "prensaregional",
+   "url": "https://prensaregional.pe/separata-judicial-viernes-27-de-noviembre-de-2026/",
+   "fecha": "2026-11-27T06:16:56Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9ce82133d126",
+   "titulo": "Resultados del Gana Diario de este jueves 26 de noviembre: todos los números ganadores del último sorteo",
+   "resumen": "Esta lotería peruana realiza un sorteo todos los días a las 20:30 horas. Descubra si se rompió el pozo millonario",
+   "medio": "Infobae Perú",
+   "medio_id": "infobae",
+   "url": "https://www.infobae.com/peru/2026/11/27/resultados-del-gana-diario-de-este-jueves-26-de-noviembre-todos-los-numeros-ganadores-del-ultimo-sorteo/",
+   "fecha": "2026-11-27T05:46:05Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "457f4e670938",
+   "titulo": "Más de 353 mil niños y adolescentes aún sin vacuna contra el virus del papiloma humano",
+   "resumen": "Más de 353 mil niños y adolescentes aún sin vacuna contra el virus del papiloma humano. Menores de edad pueden ser vacunados en colegios en campañas especiales que realiza el Minsa en zonas seleccionadas para inmunizar contra el dengue y VPH.",
+   "medio": "Gestión",
+   "medio_id": "gestion",
+   "url": "https://gestion.pe/peru/mas-de-353-mil-ninos-y-adolescentes-aun-sin-vacuna-contra-el-virus-del-papiloma-humano-noticia/",
+   "fecha": "2026-11-27T05:42:44Z",
+   "temas": [
+    "salud",
+    "educacion"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "beed54a5a458",
+   "titulo": "Congresistas recibirán S/46 900 en diciembre por sueldo, bonos y aguinaldo mientras suben los precios de los alimentos",
+   "resumen": "En medio del encarecimiento de los productos de primera necesidad y una inflación que alcanzó",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/11/27/congresistas-recibiran-s-46-900-en-diciembre-por-sueldo-bonos-y-aguinaldo-mientras-suben-los-precios-de-los-alimentos/",
+   "fecha": "2026-11-27T05:32:00Z",
+   "temas": [
+    "economia"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "692b1d8e3f90",
+   "titulo": "Fujimori pide al Congreso aprobar proyecto de ley para la pequeña minería",
+   "resumen": "La presidenta de la República, Keiko Fujimori, exhortó al Congreso a debatir y aprobar el",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/11/27/fujimori-pide-al-congreso-aprobar-proyecto-de-ley-para-la-pequena-mineria/",
+   "fecha": "2026-11-27T05:31:00Z",
+   "temas": [
+    "mineria"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "493be2e4293d",
+   "titulo": "Canciller acudirá al Congreso para explicar fallas en misa del Papa",
+   "resumen": "El ministro de Relaciones Exteriores, Carlos Espá, confirmó que se presentará el próximo martes 1",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/11/27/canciller-acudira-al-congreso-para-explicar-fallas-en-misa-del-papa/",
+   "fecha": "2026-11-27T05:30:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "955495153707",
+   "titulo": "MININTER destruirá más de 64 toneladas de droga decomisadas en 2026",
+   "resumen": "El Ministerio del Interior (MININTER) alcanzará un total de 64 toneladas y 867 kilos de",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/11/27/mininter-destruira-mas-de-64-toneladas-de-droga-decomisadas-en-2026/",
+   "fecha": "2026-11-27T05:29:00Z",
+   "temas": [
+    "seguridad"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "5586385beae1",
+   "titulo": "Modificarán decreto para agilizar subsidio a mototaxistas de la Amazonía",
+   "resumen": "El Gobierno modificará el Decreto de Urgencia N.° 011-2026 para agilizar la entrega del subsidio",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/11/27/modificaran-decreto-para-agilizar-subsidio-a-mototaxistas-de-la-amazonia/",
+   "fecha": "2026-11-27T05:28:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "cf9cdd223886",
+   "titulo": "El 37,8% del presupuesto para obras quedó sin concretarse",
+   "resumen": "El 37,8 % de las obras convocadas por el Estado en 2025 terminó en procesos",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/11/27/el-378-del-presupuesto-para-obras-quedo-sin-concretarse/",
+   "fecha": "2026-11-27T05:27:00Z",
+   "temas": [
+    "infraestructura"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "20ee2e431303",
+   "titulo": "Exigió S/ 25 mil bajo amenaza de bomba en entidad bancaria",
+   "resumen": "La alerta obligó a evacuar una agencia del BCP y suspender la atención en negocios",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/11/27/exigio-s-25-mil-bajo-amenaza-de-bomba-en-entidad-bancaria/",
+   "fecha": "2026-11-27T05:25:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
+   "id": "9832458a2861",
+   "titulo": "Más de 500 artesanos ocuparán alrededores del estadio Melgar",
+   "resumen": "Productores de distintas regiones del país ofrecerán nacimientos, adornos y artículos para las fiestas de",
+   "medio": "Diario El Pueblo",
+   "medio_id": "elpueblo",
+   "url": "https://diarioelpueblo.com.pe/2026/11/27/mas-de-500-artesanos-ocuparan-alrededores-del-estadio-melgar/",
+   "fecha": "2026-11-27T05:24:00Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": []
+  },
+  {
    "id": "ebd45cf43ba4",
    "titulo": "El mar expone la vulnerabilidad de la Costa Verde: ¿qué revelan los daños y qué tan preparada está para resistir nuevos oleajes?",
    "resumen": "",
