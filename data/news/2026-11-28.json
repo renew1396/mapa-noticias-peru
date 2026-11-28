@@ -1,0 +1,215 @@
+{
+ "fecha": "2026-11-28",
+ "noticias": [
+  {
+   "id": "251c9916aba7",
+   "titulo": "Indeci alerta por posible activación de quebradas en 21 regiones, entre ellas Huánuco",
+   "resumen": "Indeci advirtió sobre la posible activación de quebradas en 21 regiones del país, incluida Huánuco, por lluvias de ligera a extrema intensidad. La alerta roja abarca provincias de 12 departamentos y estará vigente hasta la 1:00 p. m. de este sábado.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/nacional/indeci-alerta-quebradas-21-regiones-huanuco",
+   "fecha": "2026-11-28T06:20:06Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Huánuco",
+     "ubigeo": "100000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Huánuco",
+     "lon": -76.23985,
+     "lat": -9.93008,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "f5cb74de9d9a",
+   "titulo": "Mindef confirma muerte de 8 militares tras caída de helicóptero FAP en el Vraem",
+   "resumen": "El Comando Especial Vraem confirmó la muerte de ocho efectivos militares —cinco de la FAP y tres del Ejército— tras el accidente de un helicóptero MI-17 en el Vraem. El único sobreviviente, el piloto Enzo Espinoza Roque, fue trasladado a Lima. Las causas son materia de investigación.",
+   "medio": "Diario Ahora",
+   "medio_id": "ahora",
+   "url": "https://ahora.com.pe/policiales/vraem-accidente-helicoptero-fap-ocho-militares-fallecidos",
+   "fecha": "2026-11-28T05:10:08Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "Ayacucho",
+     "ubigeo": "050000",
+     "precision": "departamento",
+     "provincia": "",
+     "departamento": "Ayacucho",
+     "lon": -74.22515,
+     "lat": -13.16032,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Lima",
+     "ubigeo": "150100",
+     "precision": "provincia",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.7,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "8b4ce983c723",
+   "titulo": "San Martín vs. Atenea en vivo: ¿a qué hora juegan y dónde ver la fecha 7 de fase 1 de Liga Peruana de Vóley?",
+   "resumen": "San Martín vs. Atenea: sigue la transmisión del encuentro por la fecha 7 de la primera fase de la Liga Peruana de Vóley.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/voley/mas-voley/san-martin-vs-atenea-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-7-fase-1-liga-peruana-de-voley-2026-2027-via-latina-y-youtube-voley-noticia-1720224",
+   "fecha": "2026-11-28T05:05:47Z",
+   "temas": [
+    "otros"
+   ],
+   "lugares": [
+    {
+     "nombre": "San Martín",
+     "ubigeo": "220303",
+     "precision": "distrito",
+     "provincia": "El Dorado",
+     "departamento": "San Martín",
+     "lon": -76.7405,
+     "lat": -6.51441,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "215495eab7ef",
+   "titulo": "Senamhi alerta concentración de lluvias intensas en Catacaos, Chulucanas y ciudad de Piura en las próximas horas",
+   "resumen": "La jefa del Servicio Nacional de Meteorología e Hidrología del Perú (Senamhi), Grinia Ávalos Roldán, dijo que \"estas lluvias van a venir de manera organizada y con presencia de tormentas eléctricas\".",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/peru/actualidad/senamhi-alerta-concentracion-de-lluvias-intensas-en-catacaos-chulucanas-y-ciudad-de-piura-en-las-proximas-horas-noticia-1720228",
+   "fecha": "2026-11-28T05:05:43Z",
+   "temas": [
+    "desastres"
+   ],
+   "lugares": [
+    {
+     "nombre": "Catacaos",
+     "ubigeo": "200105",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.67242,
+     "lat": -5.26727,
+     "confianza": 0.9,
+     "principal": true
+    },
+    {
+     "nombre": "Chulucanas",
+     "ubigeo": "200401",
+     "precision": "distrito",
+     "provincia": "Morropón",
+     "departamento": "Piura",
+     "lon": -80.16034,
+     "lat": -5.09719,
+     "confianza": 0.9,
+     "principal": false
+    },
+    {
+     "nombre": "Piura",
+     "ubigeo": "200101",
+     "precision": "distrito",
+     "provincia": "Piura",
+     "departamento": "Piura",
+     "lon": -80.65779,
+     "lat": -5.1524,
+     "confianza": 0.6,
+     "principal": false
+    }
+   ]
+  },
+  {
+   "id": "5393ec4c4cf1",
+   "titulo": "Municipalidad de Lima presenta demanda competencial contra el JNE para anular resolución que impide a exburgomaestres asumir alcaldía",
+   "resumen": "El municipio sostiene ante el Tribunal Constitucional que el organismo electoral excedió sus atribuciones y modificó las reglas electorales después de los comicios.",
+   "medio": "RPP",
+   "medio_id": "rpp",
+   "url": "https://rpp.pe/lima/judiciales/municipalidad-de-lima-presenta-demanda-competencial-contra-el-jne-para-anular-resolucion-que-impide-a-exburgomaestres-asumir-alcaldia-noticia-1720225",
+   "fecha": "2026-11-28T05:02:30Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ],
+   "grupo": "5e9b03a7bbd4"
+  },
+  {
+   "id": "873ed1e63c37",
+   "titulo": "Rafael López Aliaga: Reggiardo lleva al TC disputa con el JNE por sucesión en la Alcaldía de Lima",
+   "resumen": "El alcalde de Lima, Renzo Reggiardo, presentó una demanda competencial contra el Jurado Nacional de Elecciones (JNE) ante el Tribunal Constitucional (TC), con el objetivo de que se pronuncie sobre el criterio establecido por el organismo electoral en torno a la sucesión en las alcaldías.",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-renzo-reggiardo-lleva-al-tc-disputa-con-el-jne-por-sucesion-en-la-alcaldia-de-lima-apuesplan-noticia/",
+   "fecha": "2026-11-28T05:01:00Z",
+   "temas": [
+    "politica_local"
+   ],
+   "lugares": [
+    {
+     "nombre": "Lima",
+     "ubigeo": "150101",
+     "precision": "distrito",
+     "provincia": "Lima",
+     "departamento": "Lima",
+     "lon": -77.03092,
+     "lat": -12.04533,
+     "confianza": 0.6,
+     "principal": true
+    }
+   ]
+  },
+  {
+   "id": "dd271a9da37a",
+   "titulo": "Vijay Pagrani, el ciudadano indio víctima del asalto en el Callao y sus vínculos millonarios con las joyas y el oro",
+   "resumen": "",
+   "medio": "El Comercio",
+   "medio_id": "elcomercio",
+   "url": "https://elcomercio.pe/lima/vijay-pagrani-el-ciudadano-indio-victima-del-asalto-en-el-callao-y-sus-vinculos-millonarios-con-las-joyas-y-el-oro-noticia/",
+   "fecha": "2026-11-28T05:01:00Z",
+   "temas": [
+    "mineria",
+    "seguridad"
+   ],
+   "lugares": [
+    {
+     "nombre": "Callao",
+     "ubigeo": "070100",
+     "precision": "provincia",
+     "provincia": "Callao",
+     "departamento": "Callao",
+     "lon": -77.14689,
+     "lat": -12.06318,
+     "confianza": 0.7,
+     "principal": true
+    }
+   ]
+  }
+ ]
+}
